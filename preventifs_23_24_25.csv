@@ -1,0 +1,253 @@
+,lieu,mar_diminutif,montant_2023,montant_2024,Montant 2025 HT
+0,Ambroise Paré + Saint-Cloud,AEV,12000,12000,27000
+1,Ambroise Paré + Saint-Cloud,Automate,3400,11000,2700
+2,Ambroise Paré + Saint-Cloud,Bâtiment,10000,11000,130000
+3,Ambroise Paré + Saint-Cloud,ContReg,23000,10000,18000
+4,Ambroise Paré + Saint-Cloud,Divers,77000,180000,-
+5,Ambroise Paré + Saint-Cloud,Détection,81000,62000,56000
+6,Ambroise Paré + Saint-Cloud,Eclairage,0,21000,69000
+7,Ambroise Paré + Saint-Cloud,MEC,28000,29000,40000
+8,Ambroise Paré + Saint-Cloud,PAU/TSE,11000,10000,2700
+9,Ambroise Paré + Saint-Cloud,Pompage,0,8300,11000
+10,Ambroise Paré + Saint-Cloud,Propreté,88000,81000,86000
+11,Ambroise Paré + Saint-Cloud,Vidéo,38000,0,23000
+12,Antony,AEV,3100,7100,9800
+13,Antony,Automate,2700,3500,2100
+14,Antony,Bâtiment,0,5100,25000
+15,Antony,ContReg,6300,40000,7800
+16,Antony,Divers,18000,13000,-
+17,Antony,Détection,6000,25000,25000
+18,Antony,Eclairage,0,1600,19000
+19,Antony,MEC,0,23000,19000
+20,Antony,Onduleur,2400,1600,1800
+21,Antony,PAU/TSE,5600,2100,1100
+22,Antony,Pompage,35000,21000,25000
+23,Antony,Propreté,24000,0,27000
+24,Antony,Ventilation,0,8900,7200
+25,Antony,Vidéo,6500,6100,8900
+26,Bellerive,AEV,5700,5800,13000
+27,Bellerive,Automate,1500,1900,2400
+28,Bellerive,Bâtiment,3000,3200,80000
+29,Bellerive,ContReg,13000,14000,4500
+30,Bellerive,Divers,66000,150000,-
+31,Bellerive,Détection,49000,42000,44000
+32,Bellerive,Eclairage,0,31000,34000
+33,Bellerive,MEC,26000,29000,23000
+34,Bellerive,PAU/TSE,5400,6500,1700
+35,Bellerive,Pompage,42000,8600,15000
+36,Bellerive,Propreté,24000,50000,43000
+37,Bellerive,Vidéo,30000,12000,19000
+38,Bicêtre,AEV,16000,16000,13000
+39,Bicêtre,Automate,3000,2100,1700
+40,Bicêtre,Bâtiment,13000,18000,25000
+41,Bicêtre,ContReg,29000,30000,2600
+42,Bicêtre,Divers,11000,66000,-
+43,Bicêtre,Détection,16000,30000,53000
+44,Bicêtre,Eclairage,14000,3700,53000
+45,Bicêtre,MEC,10000,57000,11000
+46,Bicêtre,Onduleur,3500,23000,1100
+47,Bicêtre,PAU/TSE,6300,5500,1400
+48,Bicêtre,Pompage,40000,18000,7200
+49,Bicêtre,Propreté,30000,35000,35000
+50,Bicêtre,Ventilation,11000,19000,9400
+51,Bicêtre,Vidéo,16000,6600,6500
+52,Bobigny-Lumen-Norton,AEV,15000,16000,30000
+53,Bobigny-Lumen-Norton,Automate,6200,4100,10000
+54,Bobigny-Lumen-Norton,Bâtiment,9600,10000,47000
+55,Bobigny-Lumen-Norton,ContReg,18000,23000,10000
+56,Bobigny-Lumen-Norton,Divers,64000,110000,-
+57,Bobigny-Lumen-Norton,Détection,38000,56000,60000
+58,Bobigny-Lumen-Norton,Eclairage,33000,6600,100000
+59,Bobigny-Lumen-Norton,MEC,25000,150000,48000
+60,Bobigny-Lumen-Norton,Onduleur,0,430,3600
+61,Bobigny-Lumen-Norton,Pompage,1400,2800,5000
+62,Bobigny-Lumen-Norton,Propreté,29000,52000,100000
+63,Bobigny-Lumen-Norton,Ventilation,24000,41000,42000
+64,Bobigny-Lumen-Norton,Vidéo,74000,19000,33000
+65,Boissy,AEV,4000,2000,100000
+66,Boissy,Automate,1800,6700,2800
+67,Boissy,Bâtiment,1000,5200,25000
+68,Boissy,ContReg,9700,10000,3500
+69,Boissy,Divers,21000,21000,-
+70,Boissy,Détection,7200,26000,25000
+71,Boissy,Eclairage,6000,6100,21000
+72,Boissy,MEC,13000,57000,13000
+73,Boissy,Onduleur,690,0,760
+74,Boissy,PAU/TSE,2400,3000,1100
+75,Boissy,Pompage,4100,6100,9900
+76,Boissy,Propreté,20000,31000,35000
+77,Boissy,Ventilation,15000,12000,9100
+78,Boissy,Vidéo,14000,7200,12000
+79,Champigny,AEV,4400,4400,14000
+80,Champigny,Automate,1800,2700,1900
+81,Champigny,Bâtiment,4700,7900,40000
+82,Champigny,ContReg,7100,9600,3100
+83,Champigny,Divers,42000,54000,-
+84,Champigny,Détection,7000,31000,28000
+85,Champigny,Eclairage,0,97000,83000
+86,Champigny,MEC,25000,63000,20000
+87,Champigny,Onduleur,690,1600,1200
+88,Champigny,PAU/TSE,3100,1900,2000
+89,Champigny,Pompage,10000,6600,3400
+90,Champigny,Propreté,48000,53000,51000
+91,Champigny,Ventilation,6100,16000,6700
+92,Champigny,Vidéo,18000,3200,13000
+93,Chennevières,AEV,2400,2400,5600
+94,Chennevières,Automate,350,750,580
+95,Chennevières,Bâtiment,780,840,12000
+96,Chennevières,ContReg,3300,3400,1500
+97,Chennevières,Divers,18000,30000,-
+98,Chennevières,Détection,17000,25000,24000
+99,Chennevières,Eclairage,35000,11000,32000
+100,Chennevières,MEC,5100,7200,6200
+101,Chennevières,PAU/TSE,1800,2300,600
+102,Chennevières,Pompage,0,820,1400
+103,Chennevières,Propreté,13000,14000,30000
+104,Chennevières,Vidéo,11000,0,10000
+105,Fontenay Le Fleury,AEV,0,2200,5800
+106,Fontenay Le Fleury,Automate,0,570,1200
+107,Fontenay Le Fleury,Bâtiment,0,1400,49000
+108,Fontenay Le Fleury,ContReg,0,5000,1400
+109,Fontenay Le Fleury,Divers,17000,49000,-
+110,Fontenay Le Fleury,Détection,0,25000,25000
+111,Fontenay Le Fleury,MEC,0,7700,12000
+112,Fontenay Le Fleury,PAU/TSE,0,3400,880
+113,Fontenay Le Fleury,Propreté,13000,15000,31000
+114,Fresnes,AEV,1400,3400,5000
+115,Fresnes,Bâtiment,0,700,25000
+116,Fresnes,ContReg,0,31000,2200
+117,Fresnes,Divers,17000,17000,-
+118,Fresnes,Détection,0,1900,24000
+119,Fresnes,Eclairage,0,930,47000
+120,Fresnes,MEC,0,18000,11000
+121,Fresnes,PAU/TSE,1400,0,1100
+122,Fresnes,Pompage,0,13000,7100
+123,Fresnes,Ventilation,0,7600,11000
+124,Fresnes,Vidéo,8400,7300,10000
+125,Italie,Divers,0,22000,-
+126,Italie,Détection,900,0,13000
+127,Italie,Eclairage,2200,0,11000
+128,Italie,Onduleur,0,750,550
+129,Italie,Pompage,12000,5800,2000
+130,Italie,Vidéo,3000,0,6500
+131,La Courneuve,AEV,2900,2300,5100
+132,La Courneuve,Automate,380,620,640
+133,La Courneuve,Bâtiment,1000,1100,24000
+134,La Courneuve,ContReg,3300,4200,1200
+135,La Courneuve,Divers,16000,33000,-
+136,La Courneuve,Détection,370,380,830
+137,La Courneuve,Eclairage,7400,910,28000
+138,La Courneuve,MEC,3200,16000,5500
+139,La Courneuve,Propreté,12000,12000,28000
+140,La Courneuve,Vidéo,13000,6600,10000
+141,Landy,AEV,10000,10000,20000
+142,Landy,Automate,6300,11000,4200
+143,Landy,Bâtiment,5700,6100,40000
+144,Landy,ContReg,11000,12000,3200
+145,Landy,Divers,24000,58000,-
+146,Landy,Détection,26000,43000,46000
+147,Landy,Eclairage,3000,4600,80000
+148,Landy,MEC,17000,110000,23000
+149,Landy,Pompage,460,0,5500
+150,Landy,Propreté,43000,45000,43000
+151,Landy,Ventilation,22000,33000,35000
+152,Landy,Vidéo,31000,13000,19000
+153,Nanterre / La Défense,AEV,27000,55000,170000
+154,Nanterre / La Défense,Automate,23000,6500,9100
+155,Nanterre / La Défense,Bâtiment,11000,22000,110000
+156,Nanterre / La Défense,ContReg,160000,160000,170000
+157,Nanterre / La Défense,Divers,260000,280000,-
+158,Nanterre / La Défense,Détection,150000,140000,140000
+159,Nanterre / La Défense,MEC,100000,260000,190000
+160,Nanterre / La Défense,Onduleur,0,22000,12000
+161,Nanterre / La Défense,PAU/TSE,29000,48000,12000
+162,Nanterre / La Défense,Pompage,140000,34000,52000
+163,Nanterre / La Défense,Propreté,140000,270000,220000
+164,Nanterre / La Défense,Ventilation,47000,6600,72000
+165,Nanterre / La Défense,Vidéo,140000,0,72000
+166,Neuilly,AEV,2800,5800,6500
+167,Neuilly,Automate,810,610,640
+168,Neuilly,Bâtiment,0,1100,34000
+169,Neuilly,ContReg,8300,4600,3900
+170,Neuilly,Divers,30000,40000,-
+171,Neuilly,Détection,10000,23000,24000
+172,Neuilly,MEC,9100,20000,12000
+173,Neuilly,PAU/TSE,1700,2000,530
+174,Neuilly,Pompage,1300,2700,1400
+175,Neuilly,Propreté,8000,21000,19000
+176,Neuilly,Ventilation,1700,460,2300
+177,Neuilly,Vidéo,15000,0,10000
+178,Nogent,AEV,5400,5600,17000
+179,Nogent,Automate,7700,7500,7300
+180,Nogent,Bâtiment,18000,15000,40000
+181,Nogent,ContReg,30000,31000,16000
+182,Nogent,Divers,47000,100000,-
+183,Nogent,Détection,30000,51000,47000
+184,Nogent,Eclairage,41000,42000,160000
+185,Nogent,MEC,48000,40000,21000
+186,Nogent,Onduleur,690,1500,1200
+187,Nogent,PAU/TSE,4400,3300,2900
+188,Nogent,Pompage,27000,4800,0
+189,Nogent,Propreté,63000,190000,100000
+190,Nogent,Ventilation,11000,17000,15000
+191,Nogent,Vidéo,39000,12000,21000
+192,Orly,AEV,4500,4600,30000
+193,Orly,Automate,1300,770,630
+194,Orly,Bâtiment,4500,6400,12000
+195,Orly,ContReg,21000,21000,1100
+196,Orly,Divers,0,47000,-
+197,Orly,Détection,5200,9800,13000
+198,Orly,Eclairage,8100,1400,33000
+199,Orly,MEC,4800,30000,12000
+200,Orly,PAU/TSE,2100,1500,790
+201,Orly,Pompage,6900,8700,3800
+202,Orly,Propreté,5200,6000,19000
+203,Orly,Ventilation,970,990,2100
+204,Orly,Vidéo,14000,9900,11000
+205,Sévines,AEV,3100,6300,7100
+206,Sévines,Automate,580,540,760
+207,Sévines,Bâtiment,0,1700,11000
+208,Sévines,ContReg,0,4300,4200
+209,Sévines,Divers,32000,38000,-
+210,Sévines,Détection,15000,24000,25000
+211,Sévines,MEC,4600,9900,6500
+212,Sévines,PAU/TSE,1700,2600,690
+213,Sévines,Pompage,650,1400,1400
+214,Sévines,Propreté,8000,22000,19000
+215,Sévines,Ventilation,660,0,2000
+216,Sévines,Vidéo,13000,0,10000
+217,Taverny,AEV,3300,3400,6000
+218,Taverny,Automate,320,810,2100
+219,Taverny,Bâtiment,1800,2000,25000
+220,Taverny,ContReg,1300,4300,1400
+221,Taverny,Divers,17000,23000,-
+222,Taverny,Détection,6300,17000,24000
+223,Taverny,Eclairage,13000,910,41000
+224,Taverny,MEC,4900,22000,7200
+225,Taverny,Propreté,9200,9600,19000
+226,Taverny,Ventilation,4500,5000,5500
+227,Taverny,Vidéo,8000,3400,6700
+228,Thiais,AEV,11000,5600,17000
+229,Thiais,Automate,1400,6500,2000
+230,Thiais,Bâtiment,8800,12000,55000
+231,Thiais,ContReg,17000,17000,4400
+232,Thiais,Divers,32000,47000,-
+233,Thiais,Détection,20000,55000,52000
+234,Thiais,Eclairage,29000,30000,130000
+235,Thiais,MEC,50000,49000,21000
+236,Thiais,Onduleur,1400,1900,1700
+237,Thiais,PAU/TSE,0,3100,2500
+238,Thiais,Pompage,3600,0,5200
+239,Thiais,Propreté,52000,62000,43000
+240,Thiais,Ventilation,22000,22000,22000
+241,Thiais,Vidéo,28000,14000,20000
+242,Divers,ContReg,-,-,7400
+243,Divers,Automate,-,-,7100
+244,Divers,AEV,-,-,62
+245,Divers,PAU/TSE,-,-,58
+246,Divers,MEC,-,-,47000
+247,Divers,Eclairage,-,-,4000
+248,Divers,Détection,-,-,1400
+249,Divers,Divers,34000,57000,-
+250,Divers,Pompage,25000,0,-
+251,Divers,Ventilation,5000,0,-

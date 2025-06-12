@@ -1,0 +1,1082 @@
+;Unnamed: 0;mar_diminutif;prod_code;prdp_code;montant_ht_2023;montant_ht_2024;prod_designation
+0;0;Bat;B2P001;BATMAI001;48033.05;95676.42;Prestation de maintenance préventive d'une issue de secours
+1;1;Bat;B2P003;BATMAN003;39268.71;27336.12;Prestation de maintenance préventive d une niche de secours
+2;2;Bat;B2P002;BATPLV002;7200.0;9011.87;Plus-value à l entretien d une issue de secours pour entretien préventif d une trappe d issue de secours
+3;3;Bâtiment;MPE001;BATMPE001;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Boissy (sens W)
+4;4;Bâtiment;MPE002;BATMPE002;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Boissy (sens Y)
+5;5;Bâtiment;MPE003;BATMPE003;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Champigny (sens W)
+6;6;Bâtiment;MPE004;BATMPE004;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Champigny (sens Y)
+7;7;Bâtiment;MPE005;BATMPE005;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans les tunnels Moulin et Guy Môquet (tube I)
+8;8;Bâtiment;MPE006;BATMPE006;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans les tunnels Moulin et Guy Môquet (tube E)
+9;9;Bâtiment;MPE007;BATMPE007;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Nogent (sens I)
+10;10;Bâtiment;MPE008;BATMPE008;0.0;0.0;EST - Inspection de maintenance préventive des issues et niches dans le tunnel de Nogent (sens E)
+11;11;Bâtiment;MPN001;BATMPN001;0.0;0.0;NORD - Inspection de maintenance préventive des issues et niches dans les tunnels de Bobigny, Lumen-Norton et La Courneuve (tube I)
+12;12;Bâtiment;MPN002;BATMPN002;0.0;0.0;NORD - Inspection de maintenance préventive des issues et niches dans les tunnels de Bobigny, Lumen-Norton et La Courneuve (tube E)
+13;13;Bâtiment;MPN003;BATMPN003;0.0;0.0;NORD - Inspection de maintenance préventive des issues et niches dans le tunnel de Landy (sens W)
+14;14;Bâtiment;MPN004;BATMPN004;0.0;0.0;NORD - Inspection de maintenance préventive des issues et niches dans le tunnel de Landy (sens Y)
+15;15;Bâtiment;MPN005;BATMPN005;0.0;0.0;NORD - Inspection de maintenance préventive des issues et niches dans le tunnel de Taverny (deux sens)
+16;16;Bâtiment;MPO001;BATMPO001;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans les tunnels Ambroise Paré et Saint-Cloud (sens W)
+17;17;Bâtiment;MPO002;BATMPO002;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans les tunnels Ambroise Paré et Saint-Cloud (sens Y)
+18;18;Bâtiment;MPO003;BATMPO003;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Chennevières (deux sens)
+19;19;Bâtiment;MPO004;BATMPO004;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Fontenay (sens W)
+20;20;Bâtiment;MPO005;BATMPO005;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Fontenay (sens Y)
+21;21;Bâtiment;MPO006;BATMPO006;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Nanterre (tube I)
+22;22;Bâtiment;MPO007;BATMPO007;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Nanterre (tube E)
+23;23;Bâtiment;MPO008;BATMPO008;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Belle-Rive (tube E)
+24;24;Bâtiment;MPO009;BATMPO009;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Belle-Rive (tube I)
+25;25;Bâtiment;MPO010;BATMPO010;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans les tunnels A14-Neuilly (sens W)
+26;26;Bâtiment;MPO011;BATMPO011;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans les tunnels A14-Neuilly (sens Y)
+27;27;Bâtiment;MPO012;BATMPO012;0.0;0.0;OUEST - Inspection de maintenance préventive des issues et niches dans le tunnel de Sévines (deux sens)
+28;28;Bâtiment;MPS001;BATMPS001;0.0;0.0;SUD - Inspection de maintenance préventive des issues et niches dans les tunnels Bicêtre et Italie (sens W)
+29;29;Bâtiment;MPS002;BATMPS002;0.0;0.0;SUD - Inspection de maintenance préventive des issues et niches dans les tunnels Bicêtre et Italie (sens Y)
+30;30;Bâtiment;MPS003;BATMPS003;0.0;0.0;SUD - Inspection de maintenance préventive des issues et niches dans les tunnels d'Antony et Fresnes (tube I)
+31;31;Bâtiment;MPS004;BATMPS004;0.0;0.0;SUD - Inspection de maintenance préventive des issues et niches dans les tunnels d'Antony et Fresnes (tube E)
+32;32;Bâtiment;MPS005;BATMPS005;0.0;0.0;SUD - Inspection de maintenance préventive des issues et niches dans le tunnel d'Orly (deux sens)
+33;33;Bâtiment;VJE001;BATCJE001;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Boissy (sens W)
+34;34;Bâtiment;VJE002;BATCJE002;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Boissy (sens Y)
+35;35;Bâtiment;VJE003;BATCJE003;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Champigny (sens W)
+36;36;Bâtiment;VJE004;BATCJE004;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Champigny (sens Y)
+37;37;Bâtiment;VJE005;BATCJE005;0.0;0.0;EST - Contrôle de jour des issues de secours des tunnels Moulin et Guy Môquet (tube I)
+38;38;Bâtiment;VJE006;BATCJE006;0.0;0.0;EST - Contrôle de jour des issues de secours des tunnels Moulin et Guy Môquet (tube E)
+39;39;Bâtiment;VJE007;BATCJE007;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Nogent (sens I)
+40;40;Bâtiment;VJE008;BATCJE008;0.0;0.0;EST - Contrôle de jour des issues de secours du tunnel de Nogent (sens E)
+41;41;Bâtiment;VJN001;BATCJN001;0.0;0.0;NORD - Contrôle de jour des issues de secours des tunnels de Bobigny, Lumen-Norton et La Courneuve (tube I)
+42;42;Bâtiment;VJN002;BATCJN002;0.0;0.0;NORD - Contrôle de jour des issues de secours des tunnels de Bobigny, Lumen-Norton et La Courneuve (tube E)
+43;43;Bâtiment;VJN003;BATCJN003;0.0;0.0;NORD - Contrôle de jour des issues de secours du tunnel de Landy (sens W)
+44;44;Bâtiment;VJN004;BATCJN004;0.0;0.0;NORD - Contrôle de jour des issues de secours du tunnel de Landy (sens Y)
+45;45;Bâtiment;VJN005;BATCJN005;0.0;0.0;NORD - Contrôle de jour des issues de secours du tunnel de Taverny (deux sens)
+46;46;Bâtiment;VJO001;BATCJN001;0.0;0.0;OUEST - Contrôle de jour des issues de secours des tunnels Ambroise Paré et Saint-Cloud (sens W)
+47;47;Bâtiment;VJO002;BATCJN002;0.0;0.0;OUEST - Contrôle de jour des issues de secours des tunnels Ambroise Paré et Saint-Cloud (sens Y)
+48;48;Bâtiment;VJO003;BATCJN003;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Chennevières (deux sens)
+49;49;Bâtiment;VJO004;BATCJN004;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Fontenay (sens W)
+50;50;Bâtiment;VJO005;BATCJN005;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Fontenay (sens Y)
+51;51;Bâtiment;VJO006;BATCJN006;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Nanterre (tube I)
+52;52;Bâtiment;VJO007;BATCJN007;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Nanterre (tube E)
+53;53;Bâtiment;VJO008;BATCJN008;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Belle-Rive (tube I)
+54;54;Bâtiment;VJO009;BATCJN009;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Belle-Rive (tube E)
+55;55;Bâtiment;VJO010;BATCJN010;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Neuilly (sens W)
+56;56;Bâtiment;VJO011;BATCJN011;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Neuilly (sens Y)
+57;57;Bâtiment;VJO012;BATCJN012;0.0;0.0;OUEST - Contrôle de jour des issues de secours du tunnel de Sévines (deux sens)
+58;58;Bâtiment;VJS001;BATCJS001;0.0;0.0;SUD - Contrôle de jour des issues de secours des tunnels Bicêtre et Italie (sens W)
+59;59;Bâtiment;VJS002;BATCJS002;0.0;0.0;SUD - Contrôle de jour des issues de secours des tunnels Bicêtre et Italie (sens Y)
+60;60;Bâtiment;VJS003;BATCJS003;0.0;0.0;SUD - Contrôle de jour des issues de secours des tunnels d'Antony et Fresnes (tube I)
+61;61;Bâtiment;VJS004;BATCJS004;0.0;0.0;SUD - Contrôle de jour des issues de secours des tunnels d'Antony et Fresnes (tube E)
+62;62;Bâtiment;VJS005;BATCJS005;0.0;0.0;SUD - Contrôle de jour des issues de secours du tunnel d'Orly (deux sens)
+63;63;Bâtiment;VNE001;BATCNE001;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Boissy (sens W)
+64;64;Bâtiment;VNE002;BATCNE002;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Boissy (sens Y)
+65;65;Bâtiment;VNE003;BATCNE003;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Champigny (sens W)
+66;66;Bâtiment;VNE004;BATCNE004;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Champigny (sens Y)
+67;67;Bâtiment;VNE005;BATCNE005;0.0;0.0;EST - Contrôle de nuit des issues et niches des tunnels Moulin et Guy Môquet (tube I)
+68;68;Bâtiment;VNE006;BATCNE006;0.0;0.0;EST - Contrôle de nuit des issues et niches des tunnels Moulin et Guy Môquet (tube E)
+69;69;Bâtiment;VNE007;BATCNE007;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Nogent (sens I)
+70;70;Bâtiment;VNE008;BATCNE008;0.0;0.0;EST - Contrôle de nuit des issues et niches du tunnel de Nogent (sens E)
+71;71;Bâtiment;VNN100;BATCNN001;0.0;0.0;NORD - Contrôle de nuit des issues et niches des tunnels de Bobigny, Lumen-Norton et La Courneuve (tube I)
+72;72;Bâtiment;VNN200;BATCNN002;0.0;0.0;NORD - Contrôle de nuit des issues et niches des tunnels de Bobigny, Lumen-Norton et La Courneuve (tube E)
+73;73;Bâtiment;VNN300;BATCNN003;0.0;0.0;NORD - Contrôle de nuit des issues et niches du tunnel de Landy (sens W)
+74;74;Bâtiment;VNN400;BATCNN004;0.0;0.0;NORD - Contrôle de nuit des issues et niches du tunnel de Landy (sens Y)
+75;75;Bâtiment;VNN500;BATCNN005;0.0;0.0;NORD - Contrôle de nuit des issues et niches du tunnel de Taverny (deux sens)
+76;76;Bâtiment;VNO001;BATCNO001;0.0;0.0;OUEST - Contrôle de nuit des issues et niches des tunnels Ambroise Paré et Saint-Cloud (sens W)
+77;77;Bâtiment;VNO002;BATCNO002;0.0;0.0;OUEST - Contrôle de nuit des issues et niches des tunnels Ambroise Paré et Saint-Cloud (sens Y)
+78;78;Bâtiment;VNO003;BATCNO003;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Chennevières (deux sens)
+79;79;Bâtiment;VNO004;BATCNO004;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Fontenay (sens W)
+80;80;Bâtiment;VNO005;BATCNO005;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Fontenay (sens Y)
+81;81;Bâtiment;VNO006;BATCNO006;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Nanterre (tube I)
+82;82;Bâtiment;VNO007;BATCNO007;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Nanterre (tube E)
+83;83;Bâtiment;VNO008;BATCNO008;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Belle-Rive (tube I)
+84;84;Bâtiment;VNO009;BATCNO009;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Belle-Rive (tube E)
+85;85;Bâtiment;VNO010;BATCNO010;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Neuilly (sens W)
+86;86;Bâtiment;VNO011;BATCNO011;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Neuilly (sens Y)
+87;87;Bâtiment;VNO012;BATCNO012;0.0;0.0;OUEST - Contrôle de nuit des issues et niches du tunnel de Sévines (deux sens)
+88;88;Bâtiment;VNS001;BATCNS001;0.0;0.0;SUD - Contrôle de nuit des issues et niches des tunnels Bicêtre et Italie (sens W)
+89;89;Bâtiment;VNS002;BATCNS002;0.0;0.0;SUD - Contrôle de nuit des issues et niches des tunnels Bicêtre et Italie (sens Y)
+90;90;Bâtiment;VNS003;BATCNS003;0.0;0.0;SUD - Contrôle de nuit des issues et niches des tunnels d'Antony et Fresnes (tube I)
+91;91;Bâtiment;VNS004;BATCNS004;0.0;0.0;SUD - Contrôle de nuit des issues et niches des tunnels d'Antony et Fresnes (tube E)
+92;92;Bâtiment;VNS005;BATCNS005;0.0;0.0;SUD - Contrôle de nuit des issues et niches du tunnel d'Orly (deux sens)
+93;93;Propreté;POI006;BATIIS006;3150.0;4384.8;Inspection de toutes les IS dans les 2 sens de circulation du tunnel A86 Nanterre
+94;94;Propreté;POI007;BATIIS007;3150.0;4384.8;'Inspection de toutes les IS dans les 2 sens de circulation de l''''changeur A14/A86'
+95;95;Propreté;POI008;BATIIS008;5670.0;7892.64;Inspection de toutes les IS dans les 2 sens de circulation du tunnel A14 Grande Arche
+96;96;Propreté;POI009;BATIIS009;5670.0;5919.48;Inspection de toutes les IS dans les 2 sens de circulation du tunnel A14 Défense
+97;97;Propreté;POI010;BATIIS010;1416.0;1971.08;Inspection de toutes les IS dans les 2 sens de circulation du tunnel Neuilly
+98;98;Propreté;POI011;BATIIS011;1416.0;1971.08;Inspection de toutes les IS dans les 2 sens de circulation du tunnel Sévines
+99;99;Propreté;POI016;BATIIS016;0.0;8179.92;Inspection de toutes les IS dans les 2 sens de circulation du tunnel Nogent
+100;100;Propreté;POI017;BATIIS017;0.0;1136.1;Inspection de toutes les IS dans les 2 sens de circulation du tunnel Champigny
+101;101;Propreté;POI018;BATIIS018;0.0;1022.49;Inspection de toutes les IS dans les 2 sens de circulation des tunnels de Thiais
+102;102;Propreté;POI024;BATIIS024;0.0;8956.2;Débroussaillage des abords d une issue,, d un équipement  dynamique  ou tout type de local conformément à l annexe 4 du CCTP.
+103;103;Propreté;POL001;PRPLTB001;12530.0;13081.32;Lavage de nuit  d''un tube (Y ou W) du tunnel Chennevières
+104;104;Propreté;POL002;PRPLTB002;12940.0;13509.36;Lavage de nuit  d''un tube (Y ou W) du tunnel Fontenay le Fleury
+105;105;Propreté;POL003;PRPLTB003;27057.0;38348.8;Lavage de nuit  d''un tube (Y ou W) du tunnel Saint-Cloud
+106;106;Propreté;POL004;PRPLTB004;18038.0;38348.8;Lavage de nuit  d''un tube (Y ou W) du tunnel Ambroise PARE
+107;107;Propreté;POL005;PRPLTB005;18038.0;38348.8;Lavage de nuit  d''un tube (I ou E) du tunnel Belle-Rives
+108;108;Propreté;POL006;PRPLTB006;18038.0;37663.36;Lavage de nuit  d''un tube (I ou E) du tunnel A86 Nanterre y compris échangeur A14/A86
+109;109;Propreté;POL007;PRPLTB007;76326.0;159368.68;Lavage de nuit  d''un tube (Y ou W) du tunnel A14 y compris échangeur Défense
+110;110;Propreté;POL008;PRPLTB008;8044.0;16795.88;Lavage de nuit  d''un tube (Y ou W) du tunnel Neuilly
+111;111;Propreté;POL009;PRPLTB009;8044.0;16795.88;Lavage de nuit  d''un tube (Y ou W) du tunnel Sévines
+112;112;Propreté;POL010;PRPLTB010;8044.0;8397.94;Lavage de nuit  d''un tube (Y ou W) du tunnel Taverny
+113;113;Propreté;POL011;PRPLTB011;36076.0;37663.36;Lavage de nuit  d''un tube (Y ou W) du tunnel LANDY
+114;114;Propreté;POL012;PRPLTB012;21561.0;45019.36;Lavage de nuit  d''un tube (I ou E) des tunnels Bobigny Lumen Norton
+115;115;Propreté;POL013;PRPLTB013;11632.0;12143.8;Lavage de nuit  d''un tube (I ou E) du tunnel La Courneuve
+116;116;Propreté;POL014;PRPLTB014;43122.0;136696.72;Lavage de nuit  d''un tube (Y ou W) du tunnel Nogent
+117;117;Propreté;POL015;PRPLTB015;44203.54;45155.08;Lavage de nuit  d''un tube (Y ou W) du tunnel Champigny
+118;118;Propreté;POL016;PRPLTB016;36869.68;37663.36;Lavage de nuit  d''un tube (I ou E) des tunnels de Thiais
+119;119;Propreté;POL017;PRPLTB017;23918.04;0.0;Lavage de nuit  d''un sens de circulation (1 seul piédroit) des tunnels Antony et Fresnes
+120;120;Propreté;POL018;PRPLTB018;14570.0;15211.08;Lavage de nuit  d''un sens de circulation (1 seul piédroit) du tunnel Bicêtre
+121;121;Propreté;POL019;PRPLTB019;8044.0;8397.94;Lavage de nuit  d''un tube (Y ou W) du tunnel d''Italie
+122;122;Propreté;POL020;PRPLTB020;4022.0;4198.97;Lavage de nuit  d''un sens de circulation (1 seul piédroit) du tunnel d''Orly sens Y
+123;123;Propreté;POL023;PRPLTB023;88607.64;150605.4;Lavage de jour d''Issue de Secours
+124;124;Propreté;POL026;PRPLTB026;31890.0;18040.32;Lavage de jour de tout  type de local (eau + détergent)
+125;125;Propreté;POL030;PRPLTB030;0.0;0.0;Lavage de nuit d’un tube (Y ou W) du tunnel de BOISSY
+126;126;Propreté;POL027;PRPPLV027;1881.0;3948.0;Plus-value au prix POL023 à POL026 pour intervention de nuit
+127;127;ContReg;CRC101;CRGDLA101;0.0;0.0;Vérification réglementaire d’un dispositif de levage inférieur ou égal à 3 tonnes
+128;128;ContReg;CRC102;CRGDLB102;0.0;0.0;Vérification réglementaire d’un dispositif de levage compris entre 3 et 6 tonnes
+129;129;ContReg;CRC103;CRGDLC103;0.0;0.0;Vérification réglementaire d’un dispositif de levage supérieur à 6 tonnes
+130;130;ContReg;CRC106;CRGVPA106;0.0;0.0;Vérification périodique d’un équipement en bord de chaussée (armoire, alimentation d’un équipement trafic ou tunnel, ...)
+131;131;ContReg;CRC107;CRGVPA107;0.0;0.0;Vérification périodique des équipements électriques et métalliques d’un tunnel (contrôles d’équipotentialité)
+132;132;ContReg;CRC114;CRGPLV114;0.0;0.0;Plus-value aux prix du BPU pour une prestation effectuée de nuit
+133;133;ContReg;CRC115;CRGPLV115;0.0;0.0;Surcoût du matériel de protection du coronavirus (masques, gel, & )
+134;134;ContReg;CRE101;CRGVIE101;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine du Port du Tunnel de Nogent
+135;135;ContReg;CRE102;CRGVIE102;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine de la Gare du Tunnel de Nogent
+136;136;ContReg;CRE103;CRGVIE103;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine de la Fourchette de Bry du Tunnel de Champigny
+137;137;ContReg;CRE104;CRGVIE104;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine des Boullereaux du Tunnel de Champigny
+138;138;ContReg;CRE105;CRGVIE105;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste CD60 du Tunnel de Thiais
+139;139;ContReg;CRE106;CRGVIE106;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste PS1 ou PS2 du Tunnel de Thiais
+140;140;ContReg;CRE107;CRGVIE107;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) GMA du tronc commun A4/A86
+141;141;ContReg;CRE108;CRGVIE108;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du PCTT de Champigny-sur-Marne
+142;142;ContReg;CRE109;CRGVIE109;0.0;0.0;Vérification périodique pour l’installation d’un local de type Site Technique Thompson
+143;143;ContReg;CRE110;CRGVIE110;0.0;0.0;Vérification périodique des installations de l’Usine de BOISSY SAINT LEGER ( 2 postes HT + 7 TGBT + locaux techniques)
+144;144;ContReg;CRN101;CRGVIN101;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Routeclair du Tunnel du Landy
+145;145;ContReg;CRN102;CRGVIN102;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Passoudi du Tunnel du Landy
+146;146;ContReg;CRN103;CRGVIN103;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Landy Nord du Tunnel du Landy
+147;147;ContReg;CRN104;CRGVIN104;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Landy Sud du Tunnel du Landy
+148;148;ContReg;CRN105;CRGVIN105;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Diderot Est et Ouest du Tunnel du Landy
+149;149;ContReg;CRN106;CRGVIN106;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Genève du Tunnel de la Courneuve
+150;150;ContReg;CRN107;CRGVIN107;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) Couverture Norton
+151;151;ContReg;CRN108;CRGVIN108;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) Couverture Lumen
+152;152;ContReg;CRN109;CRGVIN109;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Aération du Tunnel de Bobigny
+153;153;ContReg;CRN110;CRGVIN110;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Sous-Poste 1 ou 2 ou 3 ou 4 ou 5 du Tunnel de Bobigny
+154;154;ContReg;CRN111;CRGVIN111;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Préfecture du Tunnel de Bobigny
+155;155;ContReg;CRN112;CRGVIN112;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de la Station 6 Routes du Tunnel de Bobigny
+156;156;ContReg;CRN113;CRGVIN113;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de la Station Repiquet du Tunnel de Bobigny
+157;157;ContReg;CRN114;CRGVIN114;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste du Tunnel de Taverny
+158;158;ContReg;CRN115;CRGVIN115;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) des Bâtiments Shelter et Radio
+159;159;ContReg;CRN116;CRGVIN116;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du PCTT de Saint-Denis
+160;160;ContReg;CRO101;CRGVIO101;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste du Tunnel de Sévines
+161;161;ContReg;CRO102;CRGVIO102;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Neuilly Est ou Neuilly Ouest du Tunnel de Neuilly
+162;162;ContReg;CRO103;CRGVIO103;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine A1 du Tunnel Complexe A14/A86
+163;163;ContReg;CRO104;CRGVIO104;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) de l’Usine A2 ou A3 ou A5 ou A6 ou A7 ou A8 ou A9 ou A11 du Tunnel Complexe A14/A86
+164;164;ContReg;CRO105;CRGVIO105;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste B Nord ou B Sud du Tunnel Complexe A14/A86
+165;165;ContReg;CRO106;CRGVIO106;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste C Nord ou C Sud ou C Annexe ou D Nord ou D Sud du Tunnel Complexe A14/A86
+166;166;ContReg;CRO107;CRGVIO107;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste X Nord ou X Sud du Tunnel Complexe A14/A86
+167;167;ContReg;CRO108;CRGVIO108;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste A86 Nord Anatole France
+168;168;ContReg;CRO109;CRGVIO109;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste A86 Sud Hoche
+169;169;ContReg;CRO110;CRGVIO110;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste B1 ou B3 du Tunnel Complexe A14/A86
+170;170;ContReg;CRO111;CRGVIO111;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Faidherbes du Tunnel Complexe A14/A86
+171;171;ContReg;CRO112;CRGVIO112;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Jules Quentin du Tunnel Complexe A14/A86
+172;172;ContReg;CRO113;CRGVIO113;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Accacia du Tunnel Bellerive
+173;173;ContReg;CRO114;CRGVIO114;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Breguet du Tunnel Bellerive
+174;174;ContReg;CRO115;CRGVIO115;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Stade du Tunnel Bellerive
+175;175;ContReg;CRO116;CRGVIO116;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Ouest du Tunnel Ambroise Paré
+176;176;ContReg;CRO117;CRGVIO117;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Est du Tunnel Ambroise Paré
+177;177;ContReg;CRO118;CRGVIO118;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Pompage point bas du Tunnel Ambroise Paré
+178;178;ContReg;CRO119;CRGVIO119;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Paris du Tunnel Saint-Cloud
+179;179;ContReg;CRO120;CRGVIO120;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Province du Tunnel Saint-Cloud
+180;180;ContReg;CRO121;CRGVIO121;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Tête de puits du Tunnel Saint-Cloud
+181;181;ContReg;CRO122;CRGVIO122;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Adouze du Tunnl Fontenay-le-Fleury
+182;182;ContReg;CRO123;CRGVIO123;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Pontchartrain du Tunnel Chennevières
+183;183;ContReg;CRO124;CRGVIO124;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du PCTT de Nanterre
+184;184;ContReg;CRO125;CRGVIO125;0.0;0.0;Vérification périodique des installations de l’Usine B5 ( 2 postes HT+ 7 TGBT + locaux techniques)
+185;185;ContReg;CRS101;CRGVIS101;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Léon Blum du Tunnel d’Antony
+186;186;ContReg;CRS102;CRGVIS102;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Complexe 1 du Tunnel d’Antony
+187;187;ContReg;CRS103;CRGVIS103;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Complexe 2 du Tunnel d’Antony
+188;188;ContReg;CRS104;CRGVIS104;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Complexe 3 du Tunnel d’Antony
+189;189;ContReg;CRS105;CRGVIS105;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Danièle du Tunnel de Fresnes
+190;190;ContReg;CRS106;CRGVIS106;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Nouvelle Cabine du Tunnel de la Porte d’Orléans A6a
+191;191;ContReg;CRS107;CRGVIS107;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Embouche du Tunnel de Bicêtre A6b
+192;192;ContReg;CRS108;CRGVIS108;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Blanche du Tunnel de Bicêtre A6b
+193;193;ContReg;CRS109;CRGVIS109;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Poste Poterne du Tunnel d’Italie A6b
+194;194;ContReg;CRS110;CRGVIS110;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du Tunnel d’Orly
+195;195;ContReg;CRS111;CRGVIS111;0.0;0.0;Vérification périodique des installations (telles que décrites dans le CCTP et son annexe) du PCTT d’Arcueil
+196;196;ContReg;CRU101;CRGVIU101;0.0;0.0;﻿Vérification périodique pour l’installation d’un Poste de Livraison (PL)
+197;197;ContReg;CRU102;CRGVIU102;0.0;0.0;Vérification périodique pour l’installation d’un Poste d’Interconnexion (PI)
+198;198;ContReg;CRU103;CRGVIU103;0.0;0.0;Vérification périodique pour l’installation d’un Poste de Transformation (TR)
+199;199;ContReg;CRU104;CRGVIU104;0.0;0.0;Vérification périodique pour l’installation du CRICR
+200;200;ContReg;CRU201;CRGVIU201;0.0;0.0;Vérification périodique pour l’installation d’un Site Technique (ST)
+201;201;ContReg;CRU202;CRGVIU202;0.0;0.0;Vérification périodique pour l’installation d’un Local de Concentration (LC)
+202;202;ContReg;CRU203;CRGVIU203;0.0;0.0;Vérification périodique pour l’installation d’un Site de Concentration (SC)
+203;203;Eclairage;ECPB01;ECLNPB001;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel Ambroise Paré
+204;204;Eclairage;ECPB02;ECLNPB002;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Chennevières
+205;205;Eclairage;ECPB03;ECLNPB003;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Fontenay
+206;206;Eclairage;ECPB04;ECLNPB004;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Saint-Cloud
+207;207;Eclairage;ECPB05;ECLNPB005;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Bellerive
+208;208;Eclairage;ECPB10;ECLNEB010;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens tunnel du tunnel Ambroise Paré
+209;209;Eclairage;ECPB12;ECLNEB012;8398.08;0.0;Nettoyage préventif ECLAIRAGE Pour un sens tunnel du tunnel de Chennevières
+210;210;Eclairage;ECPB14;ECLNEB014;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens tunnel du tunnel de Fontenay
+211;211;Eclairage;ECPB16;ECLNEB016;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel Saint-Cloud
+212;212;Eclairage;ECPB20;ECLNEB020;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Bellerive
+213;213;Eclairage;ECPB51;ECLRSB051;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Ambroise Paré
+214;214;Eclairage;ECPB52;ECLRSB052;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Ambroise Paré
+215;215;Eclairage;ECPB53;ECLRSB053;0.0;11629.42;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Ambroise Paré
+216;216;Eclairage;ECPB54;ECLRSB054;12051.3;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Chennevières
+217;217;Eclairage;ECPB55;ECLRSB055;7019.56;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Chennevières
+218;218;Eclairage;ECPB56;ECLRSB056;0.0;11375.24;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Chennevières
+219;219;Eclairage;ECPB57;ECLRSB057;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Fontenay
+220;220;Eclairage;ECPB58;ECLRSB058;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Fontenay
+221;221;Eclairage;ECPB59;ECLRSB059;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Fontenay
+222;222;Eclairage;ECPB60;ECLRSB060;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Saint-Cloud   sens W (2 lisses d'éclairage BASE)
+223;223;Eclairage;ECPB61;ECLRSB061;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Saint-Cloud   sens Y (1 lisse d'éclairage BASE)
+224;224;Eclairage;ECPB62;ECLRSB062;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Saint-Cloud   sens W (2 lisses d'éclairage BASE)
+225;225;Eclairage;ECPB63;ECLRSB063;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Saint-Cloud   sens Y (1 lisse d'éclairage BASE)
+226;226;Eclairage;ECPB64;ECLRSB064;0.0;4448.41;Remplacement systématique des sources ECLAIRAGE RENFORT  Saint-Cloud   sens W
+227;227;Eclairage;ECPB65;ECLRSB065;0.0;5083.9;Remplacement systématique des sources ECLAIRAGE RENFORT  Saint-Cloud   sens Y
+228;228;Eclairage;ECPB66;ECLRSB066;0.0;18302.04;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Bellerive
+229;229;Eclairage;ECPB67;ECLRSB067;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Bellerive
+230;230;Eclairage;ECPB68;ECLRSB068;0.0;12392.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Bellerive
+231;231;Eclairage;ECPE01;ECLNPE001;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Thiais
+232;232;Eclairage;ECPE03;ECLNPE003;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Champigny
+233;233;Eclairage;ECPE04;ECLNPE004;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Nogent
+234;234;Eclairage;ECPE05;ECLNPE005;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Boissy
+235;235;Eclairage;ECPE10;ECLNEE010;29223.84;29895.98;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Thiais
+236;236;Eclairage;ECPE14;ECLNEE014;0.0;1978.18;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Champigny
+237;237;Eclairage;ECPE16;ECLNEE016;40779.84;41717.78;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Nogent
+238;238;Eclairage;ECPE18;ECLNEE018;6009.12;6147.32;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Boissy
+239;239;Eclairage;ECPE50;ECLRSE050;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Thiais
+240;240;Eclairage;ECPE54;ECLRSE054;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Thiais   sens I
+241;241;Eclairage;ECPE56;ECLRSE056;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Thiais   sens I
+242;242;Eclairage;ECPE58;ECLRSE058;0.0;28120.32;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Champigny
+243;243;Eclairage;ECPE60;ECLRSE060;0.0;20589.82;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Champigny
+244;244;Eclairage;ECPE61;ECLRSE061;0.0;18731.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Champigny
+245;245;Eclairage;ECPE62;ECLRSE062;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Nogent
+246;246;Eclairage;ECPE64;ECLRSE064;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Nogent
+247;247;Eclairage;ECPE65;ECLRSE065;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Nogent
+248;248;Eclairage;ECPE66;ECLRSE066;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Boissy
+249;249;Eclairage;ECPE68;ECLRSE068;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Boissy
+250;250;Eclairage;ECPE69;ECLRSE069;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Boissy
+251;251;Eclairage;ECPN01;ECLNPN001;5583.78;5712.18;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Bobigny
+252;252;Eclairage;ECPN02;ECLNPN002;893.4000000000001;913.92;Nettoyage des Plots de jalonnement Pour un sens du tunnel  de Lumen Norton
+253;253;Eclairage;ECPN04;ECLNPN004;893.4000000000001;913.92;Nettoyage des Plots de jalonnement Pour un sens du tunnel de La Courneuve
+254;254;Eclairage;ECPN05;ECLNPN005;2978.0;4569.72;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Landy
+255;255;Eclairage;ECPN06;ECLNPN006;893.4000000000001;913.92;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Taverny
+256;256;Eclairage;ECPN10;ECLNEN010;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Bobigny
+257;257;Eclairage;ECPN12;ECLNEN012;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Lumen Norton
+258;258;Eclairage;ECPN16;ECLNEN016;6469.94;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de La Courneuve
+259;259;Eclairage;ECPN18;ECLNEN018;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Landy
+260;260;Eclairage;ECPN20;ECLNEN020;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Taverny
+261;261;Eclairage;ECPN50;ECLRSN050;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Bobigny
+262;262;Eclairage;ECPN51;ECLRSN051;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Bobigny
+263;263;Eclairage;ECPN52;ECLRSN052;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Bobigny
+264;264;Eclairage;ECPN53;ECLRSN053;25927.92;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Lumen Norton
+265;265;Eclairage;ECPN55;ECLRSN055;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Lumen Norton
+266;266;Eclairage;ECPN57;ECLRSN057;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Lumen Norton
+267;267;Eclairage;ECPN59;ECLRSN059;0.0;0.0;Remplacement systématique des sources Eclairage Viaduc Pour un sens du tunnel de Lumen Norton
+268;268;Eclairage;ECPN61;ECLRSN061;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de La Courneuve
+269;269;Eclairage;ECPN62;ECLRSN062;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de La Courneuve
+270;270;Eclairage;ECPN63;ECLRSN063;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de La Courneuve
+271;271;Eclairage;ECPN64;ECLRSN064;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Landy
+272;272;Eclairage;ECPN65;ECLRSN065;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Landy
+273;273;Eclairage;ECPN66;ECLRSN066;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Landy
+274;274;Eclairage;ECPN67;ECLRSN067;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Taverny
+275;275;Eclairage;ECPN68;ECLRSN068;10104.28;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Taverny
+276;276;Eclairage;ECPN69;ECLRSN069;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Taverny
+277;277;Eclairage;ECPO01;ECLNPO001;0.0;0.0;Nettoyage des Plots de jalonnement La Défense   sens W & Bretelle  B3. B4 et B5
+278;278;Eclairage;ECPO02;ECLNPO002;0.0;0.0;Nettoyage des Plots de jalonnement La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+279;279;Eclairage;ECPO03;ECLNPO003;0.0;0.0;Nettoyage des Plots de jalonnement Nanterre Centre   sens E
+280;280;Eclairage;ECPO04;ECLNPO004;0.0;0.0;Nettoyage des Plots de jalonnement Nanterre Centre   sens I & Bretelles B7 et B8
+281;281;Eclairage;ECPO05;ECLNPO005;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Sévines
+282;282;Eclairage;ECPO06;ECLNPO006;0.0;0.0;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Neuilly
+283;283;Eclairage;ECPO10;ECLNEO010;0.0;0.0;Nettoyage préventif ECLAIRAGE La Défense   sens W & Bretelle  B3. B4 et B5
+284;284;Eclairage;ECPO12;ECLNEO012;0.0;0.0;Nettoyage préventif ECLAIRAGE La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+285;285;Eclairage;ECPO14;ECLNEO014;0.0;0.0;Nettoyage préventif ECLAIRAGE Nanterre Centre   sens E
+286;286;Eclairage;ECPO16;ECLNEO016;0.0;0.0;Nettoyage préventif ECLAIRAGE Nanterre Centre   sens I & Bretelles B7 et B8
+287;287;Eclairage;ECPO18;ECLNEO018;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Sévines
+288;288;Eclairage;ECPO20;ECLNEO020;0.0;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Neuilly
+289;289;Eclairage;ECPO50;ECLRSO050;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS La Défense   sens W & Bretelle  B3. B4 et B5
+290;290;Eclairage;ECPO51;ECLRSO051;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+291;291;Eclairage;ECPO52;ECLRSO052;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR La Défense   sens W & Bretelle  B3. B4 et B5
+292;292;Eclairage;ECPO53;ECLRSO053;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+293;293;Eclairage;ECPO54;ECLRSO054;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  La Défense   sens W & Bretelle  B3. B4 et B5
+294;294;Eclairage;ECPO55;ECLRSO055;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+295;295;Eclairage;ECPO56;ECLRSO056;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Sévines
+296;296;Eclairage;ECPO57;ECLRSO057;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Sévines
+297;297;Eclairage;ECPO58;ECLRSO058;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Sévines
+298;298;Eclairage;ECPO59;ECLRSO059;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Neuilly
+299;299;Eclairage;ECPO60;ECLRSO060;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Neuilly
+300;300;Eclairage;ECPO61;ECLRSO061;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Neuilly
+301;301;Eclairage;ECPS01;ECLNPS001;2267.74;2335.5;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Bicêtre
+302;302;Eclairage;ECPS02;ECLNPS002;0.0;1573.88;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Antony
+303;303;Eclairage;ECPS03;ECLNPS003;1340.24;1380.28;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Orly
+304;304;Eclairage;ECPS04;ECLNPS004;0.0;930.16;Nettoyage des Plots de jalonnement Pour un sens du tunnel de Fresnes
+305;305;Eclairage;ECPS05;ECLNPS005;1360.66;1401.3;Nettoyage des Plots de jalonnement Pour un sens du tunnel  d Italie
+306;306;Eclairage;ECPS10;ECLNES010;9961.92;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel de Bicêtre
+307;307;Eclairage;ECPS12;ECLNES012;0.0;0.0;Nettoyage préventif ECLAIRAGE BASE Pour un sens du tunnel de Antony
+308;308;Eclairage;ECPS14;ECLNES014;6739.2;0.0;Nettoyage préventif ECLAIRAGE BASE Pour un sens du tunnel de Orly
+309;309;Eclairage;ECPS16;ECLNES016;0.0;0.0;Nettoyage préventif ECLAIRAGE BASE Pour un sens du tunnel de Fresnes
+310;310;Eclairage;ECPS18;ECLNES018;2246.4;0.0;Nettoyage préventif ECLAIRAGE Pour un sens du tunnel d Italie
+311;311;Eclairage;ECPS50;ECLRSS050;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Bicêtre
+312;312;Eclairage;ECPS51;ECLRSS051;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Bicêtre
+313;313;Eclairage;ECPS52;ECLRSS052;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Bicêtre
+314;314;Eclairage;ECPS53;ECLRSS053;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Antony
+315;315;Eclairage;ECPS54;ECLRSS054;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Antony
+316;316;Eclairage;ECPS55;ECLRSS055;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Antony
+317;317;Eclairage;ECPS56;ECLRSS056;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Orly
+318;318;Eclairage;ECPS57;ECLRSS057;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Orly
+319;319;Eclairage;ECPS58;ECLRSS058;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Orly
+320;320;Eclairage;ECPS59;ECLRSS059;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel Fresnes
+321;321;Eclairage;ECPS60;ECLRSS060;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel Fresnes
+322;322;Eclairage;ECPS61;ECLRSS061;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel Fresnes
+323;323;Eclairage;ECPS62;ECLRSS062;0.0;0.0;Remplacement systématique des sources ECLAIRAGE NUIT + SECOURS Pour un sens du tunnel de Italie
+324;324;Eclairage;ECPS63;ECLRSS063;0.0;0.0;Remplacement systématique des sources ECLAIRAGE JOUR + EXTERIEUR Pour un sens du tunnel de Italie
+325;325;Eclairage;ECPS64;ECLRSS064;0.0;0.0;Remplacement systématique des sources ECLAIRAGE RENFORT  Pour un sens du tunnel de Italie
+326;326;Eclairage;ECPT01;ECLMNE001;0.0;0.0;Mesure des grandeurs caractéristiques pour un canton
+327;327;AEV;AEFB10;AEVEFB010;1407.4;1439.78;Essais fonctionnels Pour un sens du tunnel de Ambroise Paré
+328;328;AEV;AEFB11;AEVEFB011;647.84;662.74;Essais fonctionnels Pour un sens du tunnel de Chennevières
+329;329;AEV;AEFB12;AEVEFB012;0.0;743.62;Essais fonctionnels Pour un sens du tunnel de Fontenay
+330;330;AEV;AEFB13;AEVEFB013;1464.44;1498.12;Essais fonctionnels Pour un sens du tunnel de Saint-Cloud
+331;331;AEV;AEFB14;AEVEFB014;1435.92;1468.94;Essais fonctionnels Pour un sens du tunnel de Bellerive
+332;332;AEV;AEFE10;AEVEFE010;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Thiais
+333;333;AEV;AEFE12;AEVEFE012;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Champigny
+334;334;AEV;AEFE14;AEVEFE014;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Nogent
+335;335;AEV;AEFE16;AEVEFE016;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Boissy
+336;336;AEV;AEFN10;AEVEFN010;4619.12;4803.88;Essais fonctionnels Pour un sens du tunnel de Bobigny
+337;337;AEV;AEFN11;AEVEFN011;1453.8;1511.96;Essais fonctionnels Pour un sens du tunnel de Lumen Norton
+338;338;AEV;AEFN12;AEVEFN012;1453.8;768.34;Essais fonctionnels Pour un sens du tunnel de La Courneuve
+339;339;AEV;AEFN13;AEVEFN013;3745.48;3895.3;Essais fonctionnels Pour un sens du tunnel de Landy
+340;340;AEV;AEFN14;AEVEFN014;1567.88;1630.6;Essais fonctionnels Pour un sens du tunnel de Taverny
+341;341;AEV;AEFO10;AEVEFO010;1917.59;3923.38;Essais fonctionnels La Défense   sens W & Bretelle  B3, B4 et B5
+342;342;AEV;AEFO11;AEVEFO011;2314.88;4736.24;Essais fonctionnels La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+343;343;AEV;AEFO12;AEVEFO012;649.91;1329.72;Essais fonctionnels Nanterre Centre   sens E
+344;344;AEV;AEFO13;AEVEFO013;1058.21;2165.1;Essais fonctionnels Nanterre Centre   sens I & Bretelles B7 et B8
+345;345;AEV;AEFO14;AEVEFO014;755.42;1545.6;Essais fonctionnels Pour un sens du tunnel de Sévines
+346;346;AEV;AEFO16;AEVEFO016;863.0;1765.68;Essais fonctionnels Pour un sens du tunnel de Neuilly
+347;347;AEV;AEFS10;AEVEFS010;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Bicêtre
+348;348;AEV;AEFS11;AEVEFS011;0.0;0.0;Essais fonctionnels Pour un sens tunnel de Antony
+349;349;AEV;AEFS12;AEVEFS012;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Orly
+350;350;AEV;AEFS13;AEVEFS013;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Fresnes
+351;351;AEV;AEFS14;AEVEFS014;0.0;0.0;Essais fonctionnels Pour un sens du tunnel de Italie
+352;352;AEV;AEPB10;AEVMPB010;4118.06;4212.78;Maintenance préventive AEV Pour un sens du tunnel de Ambroise Paré
+353;353;AEV;AEPB11;AEVMPB011;1722.76;1762.38;Maintenance préventive AEV Pour un sens du tunnel de Chennevières
+354;354;AEV;AEPB12;AEVMPB012;0.0;1485.0;Maintenance préventive AEV Pour un sens du tunnel de Fontenay
+355;355;AEV;AEPB13;AEVMPB013;4857.74;4969.46;Maintenance préventive AEV Pour un sens du tunnel de Saint-Cloud
+356;356;AEV;AEPB14;AEVMPB014;4274.98;4373.3;Maintenance préventive AEV Pour un sens du tunnel de Bellerive
+357;357;AEV;AEPE20;AEVMPE020;11157.54;5642.2;Maintenance préventive AEV Pour un sens du tunnel de Thiais
+358;358;AEV;AEPE22;AEVMPE022;4445.34;4445.34;Maintenance préventive AEV Pour un sens du tunnel de Champigny
+359;359;AEV;AEPE24;AEVMPE024;5428.82;5553.68;Maintenance préventive AEV Pour un sens du tunnel de Nogent
+360;360;AEV;AEPE26;AEVMPE026;4033.62;2039.74;Maintenance préventive AEV Pour un sens du tunnel de Boissy
+361;361;AEV;AEPN20;AEVMPN020;7893.46;8075.0;Maintenance préventive AEV Pour un sens du tunnel de Bobigny
+362;362;AEV;AEPN21;AEVMPN021;1481.56;1515.64;Maintenance préventive AEV Pour un sens du tunnel de Lumen Norton
+363;363;AEV;AEPN22;AEVMPN022;1481.56;1515.64;Maintenance préventive AEV Pour un sens du tunnel de La Courneuve
+364;364;AEV;AEPN23;AEVMPN023;6383.08;6529.9;Maintenance préventive AEV Pour un sens du tunnel de Landy
+365;365;AEV;AEPN24;AEVMPN024;1737.72;1777.68;Maintenance préventive AEV Pour un sens du tunnel de Taverny
+366;366;AEV;AEPO10;AEVMPO010;7010.72;14343.94;Maintenance préventive AEV La Défense   sens W & Bretelle  B3, B4 et B5
+367;367;AEV;AEPO11;AEVMPO011;8798.61;18001.96;Maintenance préventive AEV La Défense   sens Y Echangeur Nanterre   sens E  &  Bretelle B1
+368;368;AEV;AEPO12;AEVMPO012;1859.42;3804.38;Maintenance préventive AEV Nanterre Centre   sens E
+369;369;AEV;AEPO13;AEVMPO013;3326.0;6805.0;Maintenance préventive AEV Nanterre Centre   sens I & Bretelles B7 et B8
+370;370;AEV;AEPO14;AEVMPO014;2335.48;4778.4;Maintenance préventive AEV Pour un sens du tunnel de Sévines
+371;371;AEV;AEPO16;AEVMPO016;1951.2;3992.16;Maintenance préventive AEV Pour un sens du tunnel de Neuilly
+372;372;AEV;AEPS20;AEVMPS020;11672.1;12020.8;Maintenance préventive AEV Pour un sens du tunnel de Bicêtre
+373;373;AEV;AEPS21;AEVMPS021;3133.92;6476.16;Maintenance préventive AEV Pour un sens tunnel de  Antony
+374;374;AEV;AEPS22;AEVMPS022;4467.22;4600.68;Maintenance préventive AEV Pour un sens du tunnel de Orly
+375;375;AEV;AEPS23;AEVMPS023;1369.28;2829.6;Maintenance préventive AEV Pour un sens du tunnel de Fresnes
+376;376;AEV;AEPS24;AEVMPS024;4295.0;4423.32;Maintenance préventive AEV Pour un sens du tunnel de Italie
+377;377;AEV;AEV08;AEVPLV008;0.0;1192.2;Plus value à la maintenance AEV pour la maintenance annuelle  de vérification de nuit des prises pompier pour un coffret pompier
+378;378;Automates23;AUDI01;AUTPLV001;1109.75;16154.79;Plus Value aux prix de la présente liste pour exécution de prestations de nuit entre 22h et 06h
+379;379;Automates;AU D 01;AUTPLV001;7779.1;0.0;Plus Value aux prix de la présente liste pour exécution de prestations de nuit entre 22h et 06h
+380;380;Automates23;AUDI01;AUTPLV001;1109.75;16154.79;Plus Value aux prix de la présente liste pour exécution de prestations de nuit entre 22h et 06h
+381;381;Automates23;AUPR01;AUTPAB001;0.0;276.47;Entretien préventif du tunnel NEUILLY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+382;382;Automates23;AUPR02;AUTPAR002;0.0;666.16;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de NEUILLY conformément à la fiche n°4 du CCTP
+383;383;Automates23;AUPR03;AUTPAB003;0.0;903.0;Entretien préventif du tunnel LA DEFENSE ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+384;384;Automates23;AUPR04;AUTPAR004;0.0;3537.49;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de LA DEFENSE conformément à la fiche n°4 du CCTP
+385;385;Automates23;AUPR05;AUTPAB005;0.0;356.89;Entretien préventif du tunnel NANTERRE CENTRE ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+386;386;Automates23;AUPR06;AUTPAR006;0.0;767.18;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de NANTERRE CENTRE conformément à la fiche n°4 du CCTP
+387;387;Automates23;AUPR07;AUTPAB007;0.0;343.81;Entretien préventif de l ECHANGEUR de  NANTERRE/LA DEFENSE, automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+388;388;Automates23;AUPR08;AUTPAR008;0.0;640.66;Entretien préventif de l ensemble des armoires MESD (PST, DFP) de l ECHANGEUR de NANTERRE/LA DEFENSE, conformément à la fiche n°4 du CCTP
+389;389;Automates23;AUPR09;AUTPAB009;0.0;303.27;Entretien préventif du tunnel SEVINES ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+390;390;Automates23;AUPR10;AUTPAR010;0.0;237.75;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de SEVINES, conformément à la fiche n°4 du CCTP
+391;391;Automates23;AUPR11;AUTPAB011;0.0;296.74;Entretien préventif du tunnel AMBROISE PARE ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+392;392;Automates23;AUPR12;AUTPAR012;0.0;871.33;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de AMBROISE PARE, conformément à la fiche n°4 du CCTP
+393;393;Automates23;AUPR13;AUTPAB013;0.0;456.27;Entretien préventif du tunnel BELLE-RIVES ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+394;394;Automates23;AUPR14;AUTPAR014;0.0;953.13;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de BELLE-RIVES, conformément à la fiche n°4 du CCTP
+395;395;Automates23;AUPR15;AUTPAB015;0.0;343.81;Entretien préventif du tunnel CHENNEVIERES ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP
+396;396;Automates23;AUPR16;AUTPAR016;0.0;211.79;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de CHENNEVIERES, conformément à la fiche n°4 du CCTP
+397;397;Automates23;AUPR17;AUTPAB017;0.0;296.74;Entretien préventif du tunnel de FONTENAY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD des locaux du tunnel conformément à la fiche n°3 du CCTP
+398;398;Automates23;AUPR18;AUTPAR018;0.0;658.12;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de FONTENAY, conformément à la fiche n°4 du CCTP
+399;399;Automates23;AUPR19;AUTPAB019;0.0;337.28;Entretien préventif du tunnel SAINT-CLOUD ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+400;400;Automates23;AUPR20;AUTPAR020;0.0;849.04;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de SAINT-CLOUD, conformément à la fiche n°4 du CCTP
+401;401;Automates23;AUPR21;AUTPAB021;0.0;296.74;Entretien préventif du tunnel ANTONY-FRESNES ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+402;402;Automates23;AUPR22;AUTPAR022;0.0;1527.88;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de ANTONY-FRESNES, conformément à la fiche n°4 du CCTP
+403;403;Automates23;AUPR23;AUTPAB023;320.28;320.28;Entretien préventif du tunnel BICETRE-ITALIE ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+404;404;Automates23;AUPR24;AUTPAR024;1731.08;1731.08;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de BICETRE-ITALIE, conformément à la fiche n°4 du CCTP
+405;405;Automates23;AUPR25;AUTPAB025;273.2;273.2;Entretien préventif du tunnel d ORLY ,automate principal (5) et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+406;406;Automates23;AUPR26;AUTPAR026;501.19;501.19;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de ORLY, conformément à la fiche n°4 du CCTP
+407;407;Automates23;AUPR27;AUTPAB027;0.0;593.48;Entretien préventif du tunnel BOISSY ,automates principaux (2) et baies MESD.(26) et automates métiers (3). Ce prix comprend l entretien de l ensemble maître-esclave (automate principale)  situé dans des locaux différents ,et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+408;408;Automates23;AUPR28;AUTPAR028;0.0;2131.62;Entretien préventif de l ensemble des armoires MESD (PST, DFP et variateur) du tunnel de BOISSY, conformément à la fiche n°4 du CCTP
+409;409;Automates23;AUPR29;AUTPAB029;0.0;687.62;Entretien préventif du tunnel CHAMPIGNY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+410;410;Automates23;AUPR30;AUTPAR030;0.0;2131.62;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de CHAMPIGNY, conformément à la fiche n°4 du CCTP
+411;411;Automates23;AUPR31;AUTPAB031;0.0;734.7;Entretien préventif du tunnel THIAIS ,automates principaux et baies MESD (46). Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+412;412;Automates23;AUPR32;AUTPAR032;0.0;2683.86;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de THIAIS, conformément à la fiche n°4 du CCTP
+413;413;Automates23;AUPR33;AUTPAB033;1416.02;2832.04;Entretien préventif du tunnel NOGENT ,automates principaux (2) et baies MESD.(26) et automates métiers (3). Ce prix comprend l entretien de l ensemble maître-esclave (automate principale) et automate métier situé dans des locaux différents ,et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+414;414;Automates23;AUPR34;AUTPAR034;1233.06;2466.12;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de NOGENT, conformément à la fiche n°4 du CCTP
+415;415;Automates23;AUPR35;AUTPAB035;0.0;1358.58;Entretien préventif du tunnel BOBIGNY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+416;416;Automates23;AUPR36;AUTPAR036;0.0;1531.48;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de BOBIGNY, conformément à la fiche n°4 du CCTP
+417;417;Automates23;AUPR37;AUTPAB037;0.0;503.35;Entretien préventif du tunnel LUMEN-NORTON ,automate principal (5) et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+418;418;Automates23;AUPR38;AUTPAR038;0.0;688.98;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de LUMEN-NORTON, conformément à la fiche n°4 du CCTP
+419;419;Automates23;AUPR39;AUTPAB039;0.0;343.81;Entretien préventif du tunnel LANDY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+420;420;Automates23;AUPR40;AUTPAR040;0.0;2031.8;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de LANDY, conformément à la fiche n°4 du CCTP
+421;421;Automates23;AUPR41;AUTPAB041;0.0;296.74;Entretien préventif du tunnel LA-COURNEUVE ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+422;422;Automates23;AUPR42;AUTPAR042;0.0;320.72;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de LA-COURNEUVE, conformément à la fiche n°4 du CCTP
+423;423;Automates23;AUPR43;AUTPAB041;0.0;273.2;Entretien préventif du tunnel TAVERNY ,automates principaux et baies MESD. Ce prix comprend l entretien de l ensemble maître-esclave situé dans 2 locaux différents  et de l ensemble des baies MESD du tunnel conformément à la fiche n°3 du CCTP 3
+424;424;Automates23;AUPR44;AUTPAR044;0.0;418.41;Entretien préventif de l ensemble des armoires MESD (PST, DFP) du tunnel de TAVERNY, conformément à la fiche n°4 du CCTP
+425;425;Automates23;AUPR45;AUTPLV044;0.0;120.22;Plus-value pour un entretien préventif d une baie ou armoire supplémentaire  en local
+426;426;Automates23;AUPR46;AUTPLV046;0.0;9011.7;Plus-value pour un entretien préventif d une armoire supplémentaire  en tunnel
+427;427;Automates23;AUPR47;AUTPAM047;0.0;0.0;Entretien préventif d'un automate METIER conformément à la fiche n°5 du CCTP
+428;428;Automates23;AUPR48;AUTPAR048;0.0;0.0;Entretien préventif d'une baie MESD METIER conformément à la fiche n°4 du CCTP
+429;429;Automates23;AUPR49;AUTDPB049;1471.6;3792.2;Dépollution d'une baie
+430;430;Automates;AU P 04;AUTDPB049;12550.0;0.0;Dépollution d'une baie
+431;431;Automates;AU P 01;AUTEPA001;2691.0;0.0;Entretien préventif d'un automate principal. Ce prix comprend l entretien de l ensemble maître / esclave situé dans 2 locaux différents conformément à la fiche n°3 du CCTP
+432;432;Automates;AU P 02;AUTEPS002;972.0;0.0;Entretien préventif d'un automate Poste de Livraison Sirius conformément à la fiche n°3 du CCTP
+433;433;Automates;AU P 03;AUTEPB003;32802.0;0.0;Entretien préventif d'une baie MESD conformément à la fiche n°4 du CCTP
+434;434;RAU/TSE23;RAU-EC12;RTSPLV012;0.0;631.12;Plus value au prix de la présente liste (RAU EC) pour exécution de prestation de nuit entre 22h et 06h
+435;435;RAU/TSE;RAD01;RTSPLV012;5164.21;0.0;Plus Value aux prix de la présente liste pour exécution de prestations de nuit entre 22h et 06h
+436;436;RAU/TSE23;RAU-PE01;RTSPPE001;0.0;2010.3;Maintenance préventive de l ensemble des PAU du tunnel de Boissy
+437;437;RAU/TSE23;RAU-PE02;RTSPPE002;0.0;0.0;Maintenance préventive de l ensemble des PAU du tunnel de Champigny
+438;438;RAU/TSE23;RAU-PE03;RTSPPE003;0.0;0.0;Maintenance préventive de l ensemble des PAU du tunnel de Nogent
+439;439;RAU/TSE23;RAU-PE04;RTSPPE004;0.0;0.0;Maintenance préventive de l ensemble des PAU des tunnels de Thiais
+440;440;RAU/TSE23;RAU-PG01;RTSPPG001;970.08;970.08;Maintenance préventive d un Poste d Appel d Urgence (PAU) analogique
+441;441;RAU/TSE23;RAU-PG02;RTSPPG002;0.0;0.0;Maintenance préventive d un Poste d Appel d Urgence (PAU) IP
+442;442;RAU/TSE23;RAU-PN01;RTSPPN001;0.0;1340.21;Maintenance préventive de l ensemble des PAU du tunnel du Landy
+443;443;RAU/TSE23;RAU-PN02;RTSPPN002;0.0;446.74;Maintenance préventive de l ensemble des PAU du tunnel de Taverny
+444;444;RAU/TSE23;RAU-PN03;RTSPPN003;0.0;2512.89;Maintenance préventive de l ensemble des PAU des tunnels de Bobigny   Lumen   Norton
+445;445;RAU/TSE23;RAU-PN04;RTSPPN004;0.0;323.37;Maintenance préventive de l ensemble des PAU du tunnel de la Courneuve
+446;446;RAU/TSE23;RAU-PO01;RTSPPO001;0.0;23282.76;Maintenance préventive de l ensemble des PAU du tunnel d A14 / La Défense
+447;447;RAU/TSE23;RAU-PO02;RTSPPO002;0.0;5820.68;Maintenance préventive de l ensemble des PAU du tunnel du complexe A14/186 (Bretelles B1/B3/B4/B5/B8)
+448;448;RAU/TSE23;RAU-PO03;RTSPPO003;0.0;4527.2;Maintenance préventive de l ensemble des PAU du tunnel d A86 Nanterre
+449;449;RAU/TSE23;RAU-PO04;RTSPPO004;0.0;1340.2;Maintenance préventive de l ensemble des PAU du tunnel de Neuilly
+450;450;RAU/TSE23;RAU-PO05;RTSPPO005;0.0;1940.24;Maintenance préventive de l ensemble des PAU du tunnel de Sévines
+451;451;RAU/TSE23;RAU-PO06;RTSPPO006;0.0;1940.24;Maintenance préventive de l ensemble des PAU du tunnel de Chennevières
+452;452;RAU/TSE23;RAU-PO07;RTSPPO007;0.0;2680.4;Maintenance préventive de l ensemble des PAU du tunnel de Fontenay
+453;453;RAU/TSE23;RAU-PO08;RTSPPO008;0.0;3880.44;Maintenance préventive de l ensemble des PAU du tunnel de Belle-Rive
+454;454;RAU/TSE23;RAU-PO09;RTSPPO009;0.0;3127.16;Maintenance préventive de l ensemble des PAU du tunnel d Ambroise Paré
+455;455;RAU/TSE23;RAU-PO10;RTSPPO010;0.0;3797.24;Maintenance préventive de l ensemble des PAU du tunnel de Saint-Cloud
+456;456;RAU/TSE23;RAU-PS01;RTSPPS001;0.0;1689.62;Maintenance préventive de l ensemble des PAU des tunnels d Antony   Fresnes
+457;457;RAU/TSE23;RAU-PS02;RTSPPS002;2113.6;4322.31;Maintenance préventive de l ensemble des PAU des tunnels de Bicêtre   Italie
+458;458;RAU/TSE23;RAU-PS03;RTSPPS003;670.1;1370.35;Maintenance préventive de l ensemble des PAU du tunnel d Orly
+459;459;RAU/TSE23;SIP-PG04;RTSPSG004;0.0;7854.39;Maintenance préventive de jour du système SI Phonie
+462;462;RAU/TSE;RAP03;RTSPSG004;11392.5;0.0;Maintenance préventive de jour du système SI PHONIE en PCTT
+463;463;RAU/TSE23;TSE-PE01;RTSPTE001;344.37;1033.11;Maintenance préventive de l ensemble des TSE du tunnel de Boissy
+464;464;RAU/TSE23;TSE-PE02;RTSPTE002;0.0;1894.08;Maintenance préventive de l ensemble des TSE du tunnel de Champigny
+465;465;RAU/TSE23;TSE-PE03;RTSPTE003;817.89;3271.56;Maintenance préventive de l ensemble des TSE du tunnel de Nogent
+466;466;RAU/TSE23;TSE-PE04;RTSPTE004;0.0;1807.96;Maintenance préventive de l ensemble des TSE des tunnels de Thiais
+467;467;RAU/TSE23;TSE-PN01;RTSPTN001;0.0;860.93;Maintenance préventive de l ensemble des TSE du tunnel du Landy
+468;468;RAU/TSE23;TSE-PN02;RTSPTN002;0.0;172.19;Maintenance préventive de l ensemble des TSE du tunnel de Taverny
+469;469;RAU/TSE23;TSE-PN03;RTSPTN003;0.0;1205.3;Maintenance préventive de l ensemble des TSE des tunnels de Bobigny   Lumen   Norton
+470;470;RAU/TSE23;TSE-PN04;RTSPTN004;0.0;129.14;Maintenance préventive de l ensemble des TSE du tunnel de la Courneuve
+471;471;RAU/TSE23;TSE-PO01;RTSPTO001;0.0;7920.56;Maintenance préventive de l ensemble des TSE du tunnel d A14 / La Défense
+472;472;RAU/TSE23;TSE-PO02;RTSPTO002;0.0;2927.2;Maintenance préventive de l ensemble des TSE du tunnel du complexe A14/186 (Bretelles B1/B3/B4/B5/B8)
+473;473;RAU/TSE23;TSE-PO03;RTSPTO003;0.0;2066.24;Maintenance préventive de l ensemble des TSE du tunnel d A86 Nanterre
+474;474;RAU/TSE23;TSE-PO04;RTSPTO004;0.0;688.76;Maintenance préventive de l ensemble des TSE du tunnel de Neuilly
+475;475;RAU/TSE23;TSE-PO05;RTSPTO005;0.0;688.76;Maintenance préventive de l ensemble des TSE du tunnel des Sévines
+476;476;RAU/TSE23;TSE-PO06;RTSPTO006;0.0;344.36;Maintenance préventive de l ensemble des TSE du tunnel de Chennevières
+477;477;RAU/TSE23;TSE-PO07;RTSPTO007;0.0;688.76;Maintenance préventive de l ensemble des TSE du tunnel de Fontenay
+478;478;RAU/TSE23;TSE-PO08;RTSPTO008;0.0;2582.8;Maintenance préventive de l ensemble des TSE du tunnel de Belle-Rive
+479;479;RAU/TSE23;TSE-PO09;RTSPTO009;0.0;1205.32;Maintenance préventive de l ensemble des TSE du tunnel d Ambroise Paré
+480;480;RAU/TSE23;TSE-PO10;RTSPTO010;0.0;2238.44;Maintenance préventive de l ensemble des TSE du tunnel de Saint-Cloud
+481;481;RAU/TSE23;TSE-PS01;RTSPTS001;0.0;430.47;Maintenance préventive de l ensemble des TSE des tunnels d Antony   Fresnes
+482;482;RAU/TSE23;TSE-PS02;RTSPTS002;559.61;1144.4;Maintenance préventive de l ensemble des TSE des tunnels de Bicêtre   Italie
+483;483;RAU/TSE23;TSE-PS03;RTSPTS003;86.09;176.05;Maintenance préventive de l ensemble des TSE du tunnel d Orly
+484;484;RAU/TSE;RAP01;RTSPJP001;49965.55;0.0;Maintenance préventive de jour d un Poste d Appel d Urgence
+485;485;RAU/TSE;RAP02;RTSPJT002;22401.75;0.0;Maintenance préventive de jour d un Téléphone de Sécurité
+486;486;Detection3;DEP001;DETPCA001;0.0;22272.0;Préventif d un tube (Y ou W) du tunnel de Chennevières de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+487;487;Detection2;DEP001;DETPCA001;12943.44;0.0;Preventif d'un tube (Y ou W) du tunnel de Chennevieres de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+488;488;Detection3;DEP002;DETPCA002;0.0;22320.0;Préventif d un tube (Y ou W) du tunnel de Fontenay le Fleury de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+489;489;Detection2;DEP002;DETPCA002;0.0;0.0;Preventif d'un tube (Y ou W) du tunnel de Fontenay le Fleury de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+490;490;Detection3;DEP003;DETPCA003;0.0;25408.0;Préventif d un tube (Y ou W) du tunnel de Saint-Cloud de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+491;491;Detection2;DEP003;DETPCA003;39940.0;0.0;Preventif d'un tube (Y ou W) du tunnel de Saint Cloud de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+492;492;Detection3;DEP004;DETPCA004;0.0;24136.0;Préventif d un tube (Y ou W) du tunnel d Ambroise Paré de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+493;493;Detection2;DEP004;DETPCA004;20427.36;0.0;Preventif d'un tube (Y ou W) du tunnel d'Ambroise PARE de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+494;494;Detection3;DEP005;DETPCA005;0.0;40256.0;Préventif d un tube (E ou I) du tunnel de Belle-Rive de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+495;495;Detection2;DEP005;DETPCA005;41097.12;0.0;Preventif d'un tube (E ou I) du tunnel de BELLERIVE de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+496;496;Detection3;DEP006;DETPCA006;0.0;70584.0;Préventif d un tube (Y ou W) du tunnel A14 de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+497;497;Detection2;DEP006;DETPCA006;59169.66;0.0;Preventif d'un tube (Y ou W) du tunnel A14 de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+498;498;Detection3;DEP007;DETPCA007;0.0;15532.0;Préventif des bretelles B1, B2, B3, B4, B5, B7 et B8 de l Échangeur A14/A86 de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres).
+499;499;Detection2;DEP007;DETPCA007;10267.29;0.0;Preventif des bretelles B1, B3/B4, B7/B8 de l'Echangeur A14/A86 de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+500;500;Detection3;DEP008;DETPCA008;0.0;23688.0;Préventif d un tube (E ou I) du tunnel A86 Nanterre de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+501;501;Detection2;DEP008;DETPCA008;12398.28;0.0;Preventif d'un tube (E ou I) du tunnel A86 Nanterre de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+502;502;Detection3;DEP009;DETPCA009;0.0;21360.0;Préventif d un tube (Y ou W) du tunnel de Neuilly de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+503;503;Detection2;DEP009;DETPCA009;8314.68;0.0;Preventif d'un tube (Y ou W) du tunnel de Neuilly sur seine de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+504;504;Detection3;DEP010;DETPCA010;0.0;22872.0;Préventif d un tube (Y ou W) du tunnel des Sévines de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+505;505;Detection2;DEP010;DETPCA010;13862.16;0.0;Preventif d'un tube (Y ou W) du tunnel de Sevines de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+506;506;Detection3;DEP011;DETPCA011;0.0;16338.0;Préventif d un tube (Y ou W) du tunnel de Taverny de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+507;507;Detection2;DEP011;DETPCA011;5631.8;0.0;Preventif d'un tube (Y ou W) du tunnel de Taverny de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+508;508;Detection3;DEP012;DETPCA012;0.0;40864.0;Préventif d un tube (Y ou W) du tunnel du Landy de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+509;509;Detection2;DEP012;DETPCA012;24123.6;0.0;Preventif d'un tube (Y ou W) du tunnel du Landy de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+510;510;Detection3;DEP013;DETPCA013;0.0;52120.0;Préventif d un tube (E ou I) des tunnels de Lumen-Norton-Bobigny de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+511;511;Detection2;DEP013;DETPCA013;34715.16;0.0;Preventif d'un tube (E ou I) du tunnel de Lumen / Bobigny de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+512;512;Detection3;DEP014;DETPCA014;0.0;41312.0;Préventif d un tube (E ou I) du tunnel de Nogent de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+513;513;Detection2;DEP014;DETPCA014;20839.5;0.0;Preventif d'un tube (E ou I) du tunnel de Nogent de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+514;514;Detection3;DEP015;DETPCA015;0.0;24400.0;Préventif d un tube (Y ou W) du tunnel de Champigny de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+515;515;Detection2;DEP015;DETPCA015;4445.56;0.0;Preventif d'un tube (Y ou W) du tunnel de Champigny de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+516;516;Detection3;DEP016;DETPCA016;0.0;47312.0;Préventif d un tube (E ou I) des tunnels de Thiais - Môquet et Moulin -  de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+517;517;Detection2;DEP016;DETPCA016;9927.96;0.0;Preventif d'un tube (E ou I) des tunnels de THIAIS (Mocquet et Moulin)  de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+518;518;Detection3;DEP017;??? Erreur;0.0;23120.0;Préventif d un tube (Y ou W) du tunnel de Boissy de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+519;519;Detection2;DEP017;??? Erreur;4077.76;0.0;Preventif des 2 sens de circulation des tunnels d'Antony et Fresnes de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+520;520;Detection3;DEP018;??? Erreur;0.0;15993.0;Préventif des 2 sens de circulation des tunnels d Antony et Fresnes de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+521;521;Detection2;DEP018;??? Erreur;10232.36;0.0;Preventif d'un tube (Y ou W) du tunnel de Bicetre de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+522;522;Detection3;DEP019;??? Erreur;0.0;18009.0;Préventif des 2 sens de circulation du tunnel de Bicêtre de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+523;523;Detection2;DEP019;??? Erreur;3120.8;0.0;Preventif du tunnel d'Italie de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+524;524;Detection3;DEP020;??? Erreur;0.0;8229.0;Préventif sens Y du tunnel d Italie de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+525;525;Detection2;DEP020;??? Erreur;3812.5;0.0;Preventif des opacimetres d'un tube (Y ou W) du tunnel de Orly de tous les capteurs atmospheriques (opacimetres, CO, NO, NO2, smokecheck, anemometres)
+526;526;Detection3;DEP021;DETPLV021;0.0;8295.0;Préventif sens W du tunnel de Orly de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+527;527;Detection3;DEP027;DETPLV027;0.0;6049.0;Préventif d'un luminancemètre Honeneywell Le LUT9 ou équivalent lors d une campagne de préventive d ouvrage précité.
+528;528;Detection3;DEP100;DETPDI100;0.0;6289.0;Préventif centrale incendie 4 zones
+529;529;Detection2;DEP100;DETPDI100;5030.4;0.0;Preventif centrale incendie 4 zones
+530;530;Detection3;DEP101;DETPDI101;0.0;23940.0;Préventif centrale incendie 8 zones
+531;531;Detection2;DEP101;DETPDI101;20876.46;0.0;Preventif centrale incendie 8 zones
+532;532;Detection3;DEP102;DETPDI102;0.0;18848.0;Préventif centrale incendie 16 zones
+533;533;Detection2;DEP102;DETPDI102;7553.36;0.0;Preventif centrale incendie 16 zones
+534;534;Detection3;DEP103;DETPDI103;0.0;5920.0;Préventif centrale incendie 20 zones
+535;535;Detection3;DEP200;DETPXA200;0.0;34656.0;Contrôle réglementaire d'un extincteur à poudre polyvalente de 6kg
+536;536;Detection2;DEP200;DETPXA200;24575.4;0.0;Controle reglementaire  d'un extincteur a poudre polyvalente de 6kg
+537;537;Detection3;DEP201;DETPXB201;0.0;2060.0;Contrôle réglementaire d'un extincteur à poudre polyvalente de 9kg
+538;538;Detection2;DEP201;DETPXB201;1307.11;0.0;Controle reglementaire  d'un extincteur a poudre polyvalente de 9kg
+539;539;Detection3;DEP202;DETPXC202;0.0;35.0;Contrôle réglementaire d'un extincteur à poudre polyvalente de 50kg.
+540;540;Detection2;DEP202;DETPXC202;32.66;0.0;Controle reglementaire  d'un extincteur a poudre polyvalente de 50kg
+541;541;Detection3;DEP203;DETPXD203;0.0;1350.0;Contrôle réglementaire d'un extincteur à eau pulvérisée 6 litres
+542;542;Detection2;DEP203;DETPXD203;1234.6399999999999;0.0;Controle reglementaire d'un extincteur a eau pulverisee 6 litres
+543;543;Detection3;DEP204;DETPXE205;0.0;440.0;Contrôle réglementaire d'un extincteur à eau pulvérisée 9 litres
+544;544;Detection2;DEP204;DETPXE204;1366.44;0.0;Controle reglementaire Controle reglementaire d'un extincteur CO2 de 2kg
+545;545;Detection3;DEP205;DETPXF204;0.0;3100.0;Contrôle réglementaire d'un extincteur CO² de 2kg.
+547;547;Detection3;DEP206;DETPXG206;0.0;6495.0;Contrôle réglementaire d'un extincteur CO² de 5kg.
+548;548;Detection2;DEP206;DETPXG206;5099.6;0.0;Controle reglementaire Controle reglementaire d'un extincteur CO2 de 5kg
+549;549;Detection3;DED108;DETPLV108;0.0;7493.43;Plus-value à la liste des prix du curatif et du préventif extincteur pour exécution de nuit
+550;550;Detection2;DED104;DETPLV104;26846.32;0.0;Plus Value aux prix de la presente liste pour execution de nuit
+551;551;Detection2;DEP104;DETPDI104;2817.22;0.0;Preventif centrale incendie 20 zones
+552;552;Detection2;DEP028;DETPLV028;3510.2;0.0;Plus value du prix DEP016, Préventif d un tube (E ou I) des tunnels de THIAIS (Mocquet et Moulin)  de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+553;553;Detection2;DEP029;DETPCA029;4917.64;0.0;Préventif d un tube (Y ou W) du tunnel de Boissy de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)
+554;554;Detection2;DEP022;DETPLV022;0.0;0.0;Plus ou moins value pour ajout ou retrait d'un CO ou d'un NO lors d'une campagne de preventive d'ouvrage precite.
+555;555;Detection2;DEP023;DETPLV023;915.18;0.0;Plus ou moins value pour ajout ou retrait d'un NO2 lors d'une campagne de preventive d'ouvrage precite.
+556;556;Detection2;DEP025;DETPLV025;101.44;0.0;Plus ou moins value pour ajout ou retrait d'un anemometre lors d'une campagne de preventive d'ouvrage precite.
+557;557;Detection2;DEP026;DETPLV026;3746.94;0.0;Preventif d'un luminancemetre Honeneywell Le LUT9 ou equivalent lors d'une campagne de preventive d'ouvrage precite.
+558;558;Onduleur2;ONP001;ONDPOA001;0.0;7904.26;Maintenance preventive d'un onduleur inferieur ou egale a 60 KVA
+559;559;Onduleur;ONP001;ONDPOA001;4939.52;0.0;Maintenance preventive d'un onduleur inferieur ou egale a 60 KVA
+560;560;Onduleur2;ONP002;ONDPOB002;0.0;5745.15;Maintenance preventive d'un onduleur superieur a 60 KVA et inferieur ou egale a 160 kVA
+561;561;Onduleur;ONP002;ONDPOB002;10945.28;0.0;Maintenance preventive d'un onduleur superieur a 60 KVA et inferieur ou egale a 160 kVA
+562;562;Onduleur2;ONP003;ONDPOC003;0.0;5950.08;Maintenance preventive d'un onduleur superieur a 160 kVA
+563;563;Onduleur;ONP003;ONDPOC003;7203.0;0.0;Maintenance preventive d'un onduleur superieur a 160 kVA
+564;564;Onduleur2;ONP004;ONDMPA004;0.0;0.0;Maintenance preventive d'un atelier d energie / chargeur batteries
+565;565;Onduleur;ONP004;ONDMPA004;686.0;0.0;Maintenance preventive d'un atelier d'energie / chargeur batteries
+566;566;Onduleur2;ONP005;ONDPLV005;0.0;21957.9;Plus-value a la maintenance preventive pour depollution
+567;567;Onduleur;ONP005;ONDPLV005;17710.0;0.0;Plus-value a la maintenance preventive pour depollution
+568;568;Onduleur2;ONP006;ONDPLV006;0.0;0.0;Plus-value pour remplacement des ventilateurs et filtres AC ou DC pour un onduleur d une puissance inferieur ou egale a 60 KVA
+569;569;Onduleur2;ONP007;ONDPLV007;0.0;575.5;Plus-value pour remplacement des ventilateurs et filtres AC ou DC pour un onduleur superieur a 60 KVA et inferieur ou egale a 160 kVA
+570;570;Onduleur2;ONP008;ONDPLV008;0.0;0.0;Plus-value pour remplacement des ventilateurs et filtres AC ou DC pour un onduleur d une puissance superieur a 160 kVA
+571;571;Onduleur2;OND004;ONDPLV004;0.0;425.9;Plus Value aux prix de la presente liste pour execution de nuit
+572;572;Onduleur;OND004;ONDPLV004;1224.96;0.0;Plus Value aux prix de la presente liste pour execution de nuit
+573;573;Ventilation3;VPB200;VENPEB200;0.0;0.0;Tunnel de Chennevieres
+574;574;Ventilation3;VPB201;VENPEB201;0.0;0.0;Tunnel de Fontenay le Fleury
+575;575;Ventilation3;VPB202;VENPEB202;0.0;0.0;Tunnel de Saint Cloud
+576;576;Ventilation2;VEP03;VENPEB202;8548.51;0.0;Preventif du tunnel de Saint Cloud
+577;577;Ventilation3;VPB203;VENPEB203;0.0;0.0;Tunnel d Ambroise Pare
+578;578;Ventilation2;VEP04;VENPEB203;7382.33;0.0;Preventif du tunnel d'Ambroise PARE
+579;579;Ventilation3;VPE200;VENPEE200;0.0;9960.98;Tunnel de Nogent
+580;580;Ventilation2;VEP12;VENPEE200;8284.39;0.0;Preventif du tunnel de Nogent
+581;581;Ventilation3;VPE201;VENPEE201;0.0;5385.86;Tunnel de Champigny
+582;582;Ventilation2;VEP13;VENPEE201;4789.54;0.0;Preventif du tunnel de Champigny
+583;583;Ventilation3;VPE202;VENPEE202;0.0;9995.2;Tunnel Guy Mocquet
+584;584;Ventilation2;VE PN 11;VENPEE202;10102.35;0.0;Préventif du tunnel Guy Mocquet après modernisation
+585;585;Ventilation3;VPE203;VENPEE203;0.0;9995.2;Tunnel Voie du Moulin
+586;586;Ventilation2;VE PN 12;VENPEE203;9298.03;0.0;Préventif du tunnel Voie du Moulin après modernisation
+587;587;Ventilation3;VPE204;VENPEE204;0.0;8121.1;Tunnel de Boissy
+588;588;Ventilation2;VE PN 13;VENPEE204;13646.0;0.0;Préventif du tunnel de Boissy
+589;589;Ventilation3;VPN200;VENPEN200;0.0;30759.84;Tunnel du Landy
+590;590;Ventilation2;VEP10;VENPEN200;18287.64;0.0;Preventif du tunnel du Landy
+591;591;Ventilation3;VPN201;VENPEN201;0.0;38076.92;Tunnels de Bobigny / Lumen/ Norton
+592;592;Ventilation2;VEP11;VENPEN201;21117.71;0.0;Preventif des tunnels de Bobigny / Lumen / Norton
+593;593;Ventilation3;VPN202;VENPEN202;0.0;4997.6;Tunnel de Taverny
+594;594;Ventilation2;VEP09;VENPEN202;4520.36;0.0;Preventif du tunnel de Taverny
+595;595;Ventilation3;VPO200;VENPEO200;0.0;0.0;Tunnel  de Bellerive
+596;596;Ventilation2;VEP05;VENPEO200;9177.73;0.0;Preventif du tunnel de BELLERIVE
+597;597;Ventilation3;VPO201;VENPEO201;0.0;0.0;Complexe de Nanterre La Defense
+598;598;Ventilation2;VEP06;VENPEO201;45116.78;0.0;Preventif du complexe de Nanterre La Defense
+599;599;Ventilation3;VPO202;VENPEO202;0.0;0.0;Tunnel  de Neuilly
+600;600;Ventilation2;VEP07;VENPEO202;1260.73;0.0;Preventif du tunnel de Neuilly
+601;601;Ventilation3;VPO203;VENPEO203;0.0;0.0;Tunnel  de Sevines
+602;602;Ventilation2;VEP08;VENPEO203;664.62;0.0;Preventif du tunnel de Sevines
+603;603;Ventilation3;VPS200;VENPES200;0.0;5318.04;Tunnel d Antony
+604;604;Ventilation3;VPS201;VENPES201;0.0;7343.96;Tunnel de Fresnes
+605;605;Ventilation3;VPS202;VENPES202;0.0;17773.08;Tunnel de Bicetre
+606;606;Ventilation2;VEP18;VENPES202;10826.52;0.0;Preventif du tunnel de Bicetre
+607;607;Ventilation3;VPT300;VENPQA300;0.0;33538.05;Ventilateur de locaux technique ou un surpresseur d Issue de Secours
+608;608;Ventilation2;VEP19;VENPQA300;23920.92;0.0;Preventif d'un ventilateur de locaux technique ou un surpresseur d'Issue de Secours
+609;609;Ventilation3;VPT301;VENPQB301;0.0;7052.040000000001;Registre en gaine de ventilation 
+610;610;Ventilation2;VEP20;VENPQB301;1192.24;0.0;Preventif des registres en gaine de ventilation
+611;611;Ventilation3;VPT302;VENPQC302;0.0;0.0;Gaine de ventilation en tunnel pour une longueur de gaine de 150 metres
+612;612;Ventilation3;VPT303;VENPQD303;0.0;8233.38;Analyse spectrale sur site d un ventilateur ou accelerateur
+613;613;Ventilation2;VED05;VENPQD303;1312.41;0.0;Analyse spectrale d'un ventilateur
+614;614;Ventilation3;VPT304;VENPQE304;0.0;0.0;Variateur de puissance inferieur ou egal a 15 Kw
+615;615;Ventilation3;VPT305;VENPQF305;0.0;0.0;Variateur de puissance superieur a 15 Kw
+616;616;Ventilation3;VDT104;VENSEX104;0.0;3064.5;Sollicitation d un expert sur les materiels de ventilation (moteur, variation) pour 1 journee
+617;617;Vidéo 2;VI MP 100;VIDDAI100;0.0;0.0;Tunnel de Champigny (A4) sens Province/Paris (34 caméras)
+618;618;Vidéo;VI P 100;VIDDAI100;3587.21;0.0;Tunnel de Champigny (A4) sens Province/Paris (34 cam?ras)
+619;619;Vidéo 2;VI MP 101;VIDDAI101;0.0;0.0;Tunnel de Champigny (A4) sens Paris/Province (33 caméras)
+620;620;Vidéo;VI P 101;VIDDAI101;3481.71;0.0;Tunnel de Champigny (A4) sens Paris/Province (33 cam?ras)
+621;621;Vidéo 2;VI MP 102;VIDDAI102;0.0;3200.8;Tunnel de Thiais (A86) sens intérieur (47 caméras)
+622;622;Vidéo;VI P 102;VIDDAI102;4958.79;0.0;Tunnel de Thiais (A86) sens int?rieur (47 cam?ras)
+623;623;Vidéo 2;VI MP 103;VIDDAI103;0.0;4055.9;Tunnel de Thiais (A86) sens extérieur (56 caméras)
+624;624;Vidéo;VI P 103;VIDDAI103;5908.34;0.0;Tunnel de Thiais (A86) sens ext?rieur (56 cam?ras)
+625;625;Vidéo 2;VI MP 104;VIDDAI104;0.0;0.0;Tunnel de Nogent-sur-marne (A86) sens intérieur (50 caméras)
+626;626;Vidéo;VI P 104;VIDDAI104;5275.31;0.0;Tunnel de Nogent-sur-marne (A86) sens int?rieur (50 cam?ras)
+627;627;Vidéo 2;VI MP 105;VIDDAI105;0.0;0.0;Tunnel de Nogent-sur-marne (A86) sens extérieur (60 caméras)
+628;628;Vidéo;VI P 105;VIDDAI105;6013.86;0.0;Tunnel de Nogent-sur-marne (A86) sens ext?rieur (57 cam?ras)
+629;629;Vidéo 2;VI MP 106;VIDDAI106;0.0;0.0;Tunnel du Landy (A1) sens Province/Paris (45 caméras)
+630;630;Vidéo;VI P 106;VIDDAI106;4747.78;0.0;Tunnel du Landy (A1) sens Province/Paris (45 cam?ras)
+631;631;Vidéo 2;VI MP 107;VIDDAI107;0.0;0.0;Tunnel du Landy (A1) sens Paris/Province (45 caméras)
+632;632;Vidéo;VI P 107;VIDDAI107;4747.78;0.0;Tunnel du Landy (A1) sens Paris/Province (45 cam?ras)
+633;633;Vidéo 2;VI MP 108;VIDDAI108;0.0;0.0;Tunnel de Bobigny (A86) sens intérieur (69 caméras)
+634;634;Vidéo;VI P 108;VIDDAI108;7279.93;0.0;Tunnel de Bobigny (A86) sens int?rieur (69 cam?ras)
+635;635;Vidéo 2;VI MP 109;VIDDAI109;0.0;0.0;Tunnel de Bobigny (A86) sens extérieur (68 caméras)
+636;636;Vidéo;VI P 109;VIDDAI109;7174.42;0.0;Tunnel de Bobigny (A86) sens ext?rieur (68 cam?ras)
+637;637;Vidéo 2;VI MP 110;VIDDAI110;0.0;0.0;Tunnel de Lumen et Norton (A86) sens intérieur (27 caméras)
+638;638;Vidéo;VI P 110;VIDDAI110;11394.68;0.0;Tunnel de Lumen et Norton (A86) sens int?rieur (27 cam?ras)
+639;639;Vidéo 2;VI MP 111;VIDDAI111;0.0;0.0;Tunnel de Lumen et Norton (A86) sens extérieur (34 caméras)
+640;640;Vidéo;VI P 111;VIDDAI111;14348.84;0.0;Tunnel de Lumen et Norton (A86) sens ext?rieur (34 cam?ras)
+641;641;Vidéo 2;VI MP 112;VIDDAI112;0.0;0.0;Tunnel de La Courneuve (A86) sens intérieur (18 caméras)
+642;642;Vidéo;VI P 112;VIDDAI112;1899.11;0.0;Tunnel de La Courneuve (A86) sens int?rieur (18 cam?ras)
+643;643;Vidéo 2;VI MP 113;VIDDAI113;0.0;0.0;Tunnel de La Courneuve (A86) sens extérieur (20 caméras)
+644;644;Vidéo;VI P 113;VIDDAI113;2110.13;0.0;Tunnel de La Courneuve (A86) sens ext?rieur (20 cam?ras)
+645;645;Vidéo 2;VI MP 114;VIDDAI114;0.0;0.0;Tunnel de Taverny (A115) sens Province/Paris (12 caméras)
+646;646;Vidéo;VI P 114;VIDDAI114;1266.07;0.0;Tunnel de Taverny (A115) sens Province/Paris (12 cam?ras)
+647;647;Vidéo 2;VI MP 115;VIDDAI115;0.0;0.0;Tunnel de Taverny (A115) sens Paris/Province (11 caméras)
+648;648;Vidéo;VI P 115;VIDDAI115;1160.57;0.0;Tunnel de Taverny (A115) sens Paris/Province (11 cam?ras)
+649;649;Vidéo 2;VI MP 116;VIDDAI116;0.0;0.0;Tunnel de Neuilly (N13) sens Province/Paris (21 caméras)
+650;650;Vidéo;VI P 116;VIDDAI116;2215.63;0.0;Tunnel de Neuilly (N13) sens Province/Paris (21 cam?ras)
+651;651;Vidéo 2;VI MP 117;VIDDAI117;0.0;0.0;Tunnel de Neuilly (N13) sens Paris/Province (21 caméras)
+652;652;Vidéo;VI P 117;VIDDAI117;2215.63;0.0;Tunnel de Neuilly (N13) sens Paris/Province (21 cam?ras)
+653;653;Vidéo 2;VI MP 118;VIDDAI118;0.0;0.0;Echangeur A14/A86 bretelles B3/B4 (43 caméras)
+654;654;Vidéo;VI P 118;VIDDAI118;4536.76;0.0;Echangeur A14/A86 bretelles B3/B4 (43 cam?ras)
+655;655;Vidéo 2;VI MP 119;VIDDAI119;0.0;0.0;Echangeur A14/A86 bretelle B1  (17 caméras)
+656;656;Vidéo;VI P 119;VIDDAI119;1793.6;0.0;Echangeur A14/A86 bretelle B1  (17 cam?ras)
+657;657;Vidéo 2;VI MP 120;VIDDAI120;0.0;0.0;Tunnel Nanterre centre (A86) sens intérieur (38 caméras)
+658;658;Vidéo;VI P 120;VIDDAI120;4009.23;0.0;Tunnel Nanterre centre (A86) sens int?rieur (38 cam?ras)
+659;659;Vidéo 2;VI MP 121;VIDDAI121;0.0;0.0;Tunnel Nanterre centre (A86) sens extérieur (35 caméras)
+660;660;Vidéo;VI P 121;VIDDAI121;3692.72;0.0;Tunnel Nanterre centre (A86) sens ext?rieur (35 cam?ras)
+661;661;Vidéo 2;VI MP 122;VIDDAI122;0.0;0.0;Tunnel de la défense (A14) sens Province/Paris (106 caméras)
+662;662;Vidéo;VI P 122;VIDDAI122;11183.65;0.0;Tunnel de la d?fense (A14) sens Province/Paris (106 cam?ras)
+663;663;Vidéo 2;VI MP 123;VIDDAI123;0.0;0.0;Tunnel de la défense (A14) sens Paris/Province (127 caméras)
+664;664;Vidéo;VI P 123;VIDDAI123;13399.28;0.0;Tunnel de la d?fense (A14) sens Paris/Province (127 cam?ras)
+665;665;Vidéo 2;VI MP 124;VIDDAI124;0.0;3200.8;Tunnel de Belle-rive (A86) sens intérieur (46 caméras)
+666;666;Vidéo;VI P 124;VIDDAI124;4853.29;0.0;Tunnel de Belle-rive (A86) sens int?rieur (46 cam?ras)
+667;667;Vidéo 2;VI MP 125;VIDDAI125;0.0;3200.8;Tunnel de Belle-rive (A86) sens extérieur (40 caméras)
+668;668;Vidéo;VI P 125;VIDDAI125;4220.25;0.0;Tunnel de Belle-rive (A86) sens ext?rieur (40 cam?ras)
+669;669;Vidéo 2;VI MP 126;VIDDAI126;0.0;0.0;Tunnel de Saint-Cloud (A13) sens intérieur (29 caméras)
+670;670;Vidéo;VI P 126;VIDDAI126;3059.68;0.0;Tunnel de Saint-Cloud (A13) sens int?rieur (29 cam?ras)
+671;671;Vidéo 2;VI MP 127;VIDDAI127;0.0;0.0;Tunnel de Saint-Cloud (A13) sens extérieur (25 caméras)
+672;672;Vidéo;VI P 127;VIDDAI127;2637.65;0.0;Tunnel de Saint-Cloud (A13) sens ext?rieur (25 cam?ras)
+673;673;Vidéo 2;VI MP 128;VIDDAI128;0.0;0.0;Tunnel d Ambroise Paré (A13) sens intérieur (30 caméras)
+674;674;Vidéo;VI P 128;VIDDAI128;3165.18;0.0;Tunnel d'Ambroise Par? (A13) sens int?rieur (30 cam?ras)
+675;675;Vidéo 2;VI MP 129;VIDDAI129;0.0;0.0;Tunnel d Ambroise Paré (A13) sens extérieur (25 caméras)
+676;676;Vidéo;VI P 129;VIDDAI129;2637.65;0.0;Tunnel d'Ambroise Par? (A13) sens ext?rieur (25 cam?ras)
+677;677;Vidéo 2;VI MP 130;VIDDAI130;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Province/Paris (17 caméras)
+678;678;Vidéo;VI P 130;VIDDAI130;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Province/Paris (17 cam?ras)
+679;679;Vidéo 2;VI MP 131;VIDDAI131;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Paris/Province (25 caméras)
+680;680;Vidéo;VI P 131;VIDDAI131;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Paris/Province (25 cam?ras)
+681;681;Vidéo 2;VI MP 132;VIDDAI132;0.0;0.0;Tunnel de Sévines (N315) sens Paris/Province (19 caméras)
+682;682;Vidéo;VI P 132;VIDDAI132;2004.62;0.0;Tunnel de S?vines (N315) sens Paris/Province (19 cam?ras)
+683;683;Vidéo 2;VI MP 133;VIDDAI133;0.0;0.0;Tunnel de Sévines (N315) sens Province/Paris (19 caméras)
+684;684;Vidéo;VI P 133;VIDDAI133;2004.62;0.0;Tunnel de S?vines (N315) sens Province/Paris (19 cam?ras)
+685;685;Vidéo 2;VI MP 134;VIDDAI134;0.0;0.0;Tunnel de Chennevières (N12) sens Paris/Province (11 caméras)
+686;686;Vidéo;VI P 134;VIDDAI134;1160.57;0.0;Tunnel de Chennevi?res (N12) sens Paris/Province (11 cam?ras)
+687;687;Vidéo 2;VI MP 135;VIDDAI135;0.0;0.0;Tunnel de Chennevières (N12) sens Province/Paris (21 caméras)
+688;688;Vidéo;VI P 135;VIDDAI135;2215.63;0.0;Tunnel de Chennevi?res (N12) sens Province/Paris (21 cam?ras)
+689;689;Vidéo 2;VI MP 136;VIDDAI136;0.0;1539.2;Tunnel d Antony (A86) sens intérieur (15 caméras)
+690;690;Vidéo;VI P 136;VIDDAI136;1582.59;0.0;Tunnel d' Antony (A86) sens int?rieur (15 cam?ras)
+691;691;Vidéo 2;VI MP 137;VIDDAI137;0.0;1539.2;Tunnel d Antony (A86) sens extérieur (19 caméras)
+692;692;Vidéo;VI P 137;VIDDAI137;2004.62;0.0;Tunnel d' Antony (A86) sens ext?rieur (19 cam?ras)
+693;693;Vidéo 2;VI MP 138;VIDDAI138;0.0;1539.2;Tunnel de Fresnes (A86) sens intérieur (17 caméras)
+694;694;Vidéo;VI P 138;VIDDAI138;1793.6;0.0;Tunnel de Fresnes (A86) sens int?rieur (17 cam?ras)
+695;695;Vidéo 2;VI MP 139;VIDDAI139;0.0;2880.8;Tunnel de Fresnes (A86) sens extérieur (28 caméras)
+696;696;Vidéo;VI P 139;VIDDAI139;2954.17;0.0;Tunnel de Fresnes (A86) sens ext?rieur (28 cam?ras)
+697;697;Vidéo 2;VI MP 140;VIDDAI140;0.0;3200.8;Tunnel de Bicêtre et Italie (A6b) sens Paris/Province (40 caméras)
+698;698;Vidéo;VI P 140;VIDDAI140;8862.51;0.0;Tunnel d'Italie (A6b) sens Paris/Province (28 cam?ras)
+699;699;Vidéo 2;VI MP 141;VIDDAI141;0.0;3200.8;Tunnel de Bicêtre et Italie (A6b) sens Province/Paris (38 caméras)
+700;700;Vidéo;VI P 141;VIDDAI141;8862.51;0.0;Tunnel d'Italie (A6b) sens Province/Paris (28 cam?ras)
+701;701;Vidéo 2;VI MP 142;VIDDAI142;0.0;6401.6;Tunnel d Orly (N7) sens  Paris/Province (25 caméras)
+702;702;Vidéo;VI P 142;VIDDAI142;7912.95;0.0;Tunnel d'Orly (N7) sens  Paris/Province (25 cam?ras)
+703;703;Vidéo 2;VI MP 143;VIDDAI143;0.0;3420.4;Tunnel d Orly (N7) sens Province/Paris (18 caméras)
+704;704;Vidéo;VI P 143;VIDDAI143;5697.33;0.0;Tunnel d'Orly (N7) sens Province/Paris (18 cam?ras)
+705;705;Vidéo 2;VI MP 300;VIDCAM300;0.0;1624.7;Tunnel de Champigny (A4) sens Province/Paris (34 caméras)
+706;706;Vidéo;VI P 200;VIDCAM300;5376.42;0.0;Tunnel de Champigny (A4) sens Province/Paris (34 cam?ras)
+707;707;Vidéo 2;VI MP 301;VIDCAM301;0.0;1624.7;Tunnel de Champigny (A4) sens Paris/Province (33 caméras)
+708;708;Vidéo;VI P 201;VIDCAM301;5218.28;0.0;Tunnel de Champigny (A4) sens Paris/Province (33 cam?ras)
+709;709;Vidéo 2;VI MP 302;VIDCAM302;0.0;3040.8;Tunnel de Thiais (A86) sens intérieur (47 caméras)
+710;710;Vidéo;VI P 202;VIDCAM302;7432.1;0.0;Tunnel de Thiais (A86) sens int?rieur (47 cam?ras)
+711;711;Vidéo 2;VI MP 303;VIDCAM303;0.0;3040.8;Tunnel de Thiais (A86) sens extérieur (56 caméras)
+712;712;Vidéo;VI P 203;VIDCAM303;8855.26;0.0;Tunnel de Thiais (A86) sens ext?rieur (56 cam?ras)
+713;713;Vidéo 2;VI MP 304;VIDCAM304;0.0;6081.6;Tunnel de Nogent-sur-marne (A86) sens intérieur (50 caméras)
+714;714;Vidéo;VI P 204;VIDCAM304;11859.75;0.0;Tunnel de Nogent-sur-marne (A86) sens int?rieur (50 cam?ras)
+715;715;Vidéo 2;VI MP 305;VIDCAM305;0.0;6081.6;Tunnel de Nogent-sur-marne (A86) sens extérieur (57 caméras)
+716;716;Vidéo;VI P 205;VIDCAM305;13520.1;0.0;Tunnel de Nogent-sur-marne (A86) sens ext?rieur (57 cam?ras)
+717;717;Vidéo 2;VI MP 306;VIDCAM306;0.0;6081.6;Tunnel du Landy (A1) sens Province/Paris (45 caméras)
+718;718;Vidéo;VI P 206;VIDCAM306;10673.76;0.0;Tunnel du Landy (A1) sens Province/Paris (45 cam?ras)
+719;719;Vidéo 2;VI MP 307;VIDCAM307;0.0;6081.6;Tunnel du Landy (A1) sens Paris/Province (44 caméras)
+720;720;Vidéo;VI P 207;VIDCAM307;10673.76;0.0;Tunnel du Landy (A1) sens Paris/Province (44 cam?ras)
+721;721;Vidéo 2;VI MP 308;VIDCAM308;0.0;6081.6;Tunnel de Bobigny (A86) sens intérieur (68 caméras)
+722;722;Vidéo;VI P 208;VIDCAM308;16366.44;0.0;Tunnel de Bobigny (A86) sens int?rieur (68 cam?ras)
+723;723;Vidéo 2;VI MP 309;VIDCAM309;0.0;6081.6;Tunnel de Bobigny (A86) sens extérieur (68 caméras)
+724;724;Vidéo;VI P 209;VIDCAM309;16129.23;0.0;Tunnel de Bobigny (A86) sens ext?rieur (68 cam?ras)
+725;725;Vidéo 2;VI MP 310;VIDCAM310;0.0;3249.4;le Tunnel de Lumen et Norton (A86) sens intérieur (20 caméras)
+726;726;Vidéo 2;VI MP 311;VIDCAM311;0.0;3249.4;le Tunnel de Lumen et Norton (A86) sens extérieur (27 caméras)
+727;727;Vidéo 2;VI MP 312;VIDCAM312;0.0;3249.4;Tunnel de La Courneuve (A86) sens intérieur (18 caméras)
+728;728;Vidéo;VI P 212;VIDCAM312;4269.51;0.0;Tunnel de La Courneuve (A86) sens int?rieur (18 cam?ras)
+729;729;Vidéo 2;VI MP 313;VIDCAM313;0.0;3249.4;Tunnel de La Courneuve (A86) sens extérieur (20 caméras)
+730;730;Vidéo;VI P 213;VIDCAM313;4743.9;0.0;Tunnel de La Courneuve (A86) sens ext?rieur (20 cam?ras)
+731;731;Vidéo 2;VI MP 314;VIDCAM314;0.0;1624.8;Tunnel de Taverny (A115) sens Province/Paris (12 caméras)
+732;732;Vidéo;VI P 214;VIDCAM314;2846.34;0.0;Tunnel de Taverny (A115) sens Province/Paris (12 cam?ras)
+733;733;Vidéo 2;VI MP 315;VIDCAM315;0.0;1624.8;Tunnel de Taverny (A115) sens Paris/Province (11 caméras)
+734;734;Vidéo;VI P 215;VIDCAM315;2609.13;0.0;Tunnel de Taverny (A115) sens Paris/Province (11 cam?ras)
+735;735;Vidéo 2;VI MP 316;VIDCAM316;0.0;0.0;Tunnel de Neuilly (N13) sens Province/Paris (21 caméras)
+736;736;Vidéo;VI P 216;VIDCAM316;4981.08;0.0;Tunnel de Neuilly (N13) sens Province/Paris (21 cam?ras)
+737;737;Vidéo 2;VI MP 317;VIDCAM317;0.0;0.0;Tunnel de Neuilly (N13) sens Paris/Province (21 caméras)
+738;738;Vidéo;VI P 217;VIDCAM317;4981.08;0.0;Tunnel de Neuilly (N13) sens Paris/Province (21 cam?ras)
+739;739;Vidéo 2;VI MP 318;VIDCAM318;0.0;0.0;Echangeur A14/A86 bretelles B3/B4 (43 caméras)
+740;740;Vidéo;VI P 218;VIDCAM318;10199.37;0.0;Echangeur A14/A86 bretelles B3/B4 (43 cam?ras)
+741;741;Vidéo 2;VI MP 319;VIDCAM319;0.0;0.0;Echangeur A14/A86 bretelle B1  (17 caméras)
+742;742;Vidéo;VI P 219;VIDCAM319;4032.33;0.0;Echangeur A14/A86 bretelle B1  (17 cam?ras)
+743;743;Vidéo 2;VI MP 320;VIDCAM320;0.0;0.0;Tunnel Nanterre centre (A86) sens intérieur (38 caméras)
+744;744;Vidéo;VI P 220;VIDCAM320;9013.41;0.0;Tunnel Nanterre centre (A86) sens int?rieur (38 cam?ras)
+745;745;Vidéo 2;VI MP 321;VIDCAM321;0.0;0.0;Tunnel Nanterre centre (A86) sens extérieur (35 caméras)
+746;746;Vidéo;VI P 221;VIDCAM321;8301.81;0.0;Tunnel Nanterre centre (A86) sens ext?rieur (35 cam?ras)
+747;747;Vidéo 2;VI MP 322;VIDCAM322;0.0;0.0;Tunnel de  la défense (A14) sens Province/Paris (106 caméras)
+748;748;Vidéo;VI P 222;VIDCAM322;25142.64;0.0;Tunnel de  la d?fense (A14) sens Province/Paris (106 cam?ras)
+749;749;Vidéo 2;VI MP 323;VIDCAM323;0.0;0.0;Tunnel de la défense (A14) sens Paris/Province (127 caméras)
+750;750;Vidéo;VI P 223;VIDCAM323;30123.75;0.0;Tunnel de la d?fense (A14) sens Paris/Province (127 cam?ras)
+751;751;Vidéo 2;VI MP 324;VIDCAM324;0.0;3040.8;Tunnel de Belle-rive (A86) sens intérieur (46 caméras)
+752;752;Vidéo;VI P 224;VIDCAM324;10910.94;0.0;Tunnel de Belle-rive (A86) sens int?rieur (46 cam?ras)
+753;753;Vidéo 2;VI MP 325;VIDCAM325;0.0;3040.8;Tunnel de Belle-rive (A86) sens extérieur (40 caméras)
+754;754;Vidéo;VI P 225;VIDCAM325;9487.8;0.0;Tunnel de Belle-rive (A86) sens ext?rieur (40 cam?ras)
+755;755;Vidéo 2;VI MP 326;VIDCAM326;0.0;0.0;Tunnel de Saint-Cloud (A13) sens intérieur (29 caméras)
+756;756;Vidéo;VI P 226;VIDCAM326;6878.67;0.0;Tunnel de Saint-Cloud (A13) sens int?rieur (29 cam?ras)
+757;757;Vidéo 2;VI MP 327;VIDCAM327;0.0;0.0;Tunnel de Saint-Cloud (A13) sens extérieur (25 caméras)
+758;758;Vidéo;VI P 227;VIDCAM327;5929.86;0.0;Tunnel de Saint-Cloud (A13) sens ext?rieur (25 cam?ras)
+759;759;Vidéo 2;VI MP 328;VIDCAM328;0.0;0.0;Tunnel d Ambroise Paré (A13) sens intérieur (30 caméras)
+760;760;Vidéo;VI P 228;VIDCAM328;7115.85;0.0;Tunnel d'Ambroise Par? (A13) sens int?rieur (30 cam?ras)
+761;761;Vidéo 2;VI MP 329;VIDCAM329;0.0;0.0;Tunnel d Ambroise Paré (A13) sens extérieur (25 caméras)
+762;762;Vidéo;VI P 229;VIDCAM329;5929.86;0.0;Tunnel d'Ambroise Par? (A13) sens ext?rieur (25 cam?ras)
+763;763;Vidéo 2;VI MP 330;VIDCAM330;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Province/Paris (17 caméras)
+764;764;Vidéo 2;VI MP 331;VIDCAM331;0.0;0.0;Tunnel de Fontenay le fleury (A12) sens Paris/Province (25 caméras)
+765;765;Vidéo 2;VI MP 332;VIDCAM332;0.0;0.0;Tunnel de Sévines (N315) sens Paris/Province (19 caméras)
+766;766;Vidéo;VI P 232;VIDCAM332;4506.72;0.0;Tunnel de S?vines (N315) sens Paris/Province (19 cam?ras)
+767;767;Vidéo 2;VI MP 333;VIDCAM333;0.0;0.0;Tunnel de Sévines (N315) sens Province/Paris (19 caméras)
+768;768;Vidéo;VI P 233;VIDCAM333;4506.72;0.0;Tunnel de S?vines (N315) sens Province/Paris (19 cam?ras)
+769;769;Vidéo 2;VI MP 334;VIDCAM334;0.0;0.0;Tunnel de Chennevières (N12) sens intérieur (11 caméras)
+770;770;Vidéo;VI P 234;VIDCAM334;2609.13;0.0;Tunnel de Chennevi?res (N12) sens int?rieur (11 cam?ras)
+771;771;Vidéo 2;VI MP 335;VIDCAM335;0.0;0.0;Tunnel de Chennevières (N12) sens extérieur (21 caméras)
+772;772;Vidéo;VI P 235;VIDCAM335;4981.08;0.0;Tunnel de Chennevi?res (N12) sens ext?rieur (21 cam?ras)
+773;773;Vidéo 2;VI MP 336;VIDCAM336;0.0;1218.5;Tunnel d Antony (A86) sens intérieur (15 caméras)
+774;774;Vidéo;VI P 236;VIDCAM336;1185.97;0.0;Tunnel d' Antony (A86) sens int?rieur (16 cam?ras)
+775;775;Vidéo 2;VI MP 337;VIDCAM337;0.0;1624.7;Tunnel d Antony (A86) sens extérieur (19 caméras)
+776;776;Vidéo;VI P 237;VIDCAM337;1502.24;0.0;Tunnel d' Antony (A86) sens ext?rieur (19 cam?ras)
+777;777;Vidéo 2;VI MP 338;VIDCAM338;0.0;1218.5;Tunnel de Fresnes (A86) sens intérieur (17 caméras)
+778;778;Vidéo;VI P 238;VIDCAM338;1344.11;0.0;Tunnel de Fresnes (A86) sens int?rieur (17 cam?ras)
+779;779;Vidéo 2;VI MP 339;VIDCAM339;0.0;1624.7;Tunnel de Fresnes (A86) sens extérieur (28 caméras)
+780;780;Vidéo;VI P 239;VIDCAM339;2213.82;0.0;Tunnel de Fresnes (A86) sens ext?rieur (28 cam?ras)
+781;781;Vidéo 2;VI MP 340;VIDCAM340;0.0;0.0;Tunnel de Bicêtre et Italie (A6b) sens Paris/Province (40 caméras)
+782;782;Vidéo 2;VI MP 341;VIDCAM341;0.0;0.0;Tunnel de Bicêtre et Italie (A6b) sens Province/Paris (38 caméras)
+783;783;Vidéo 2;VI MP 342;VIDCAM342;0.0;0.0;Tunnel d Orly (N7) sens  Paris/Province (25 caméras)
+784;784;Vidéo 2;VI MP 343;VIDCAM343;0.0;0.0;Tunnel d Orly (N7) sens Province/Paris (18 caméras)
+785;785;Vidéo 2;VI MP 344;VIDCAM344;0.0;1624.7;Tunnel de Boissy (N19) sens Province/Paris (14 caméras)
+786;786;Vidéo;VI P 245;VIDCAM344;3320.73;0.0;Tunnel de Boissy (N19) sens Province/Paris (14 cam?ras)
+787;787;Vidéo 2;VI MP 345;VIDCAM345;0.0;3040.8;Tunnel de Boissy (N19) sens Paris/Province (25 caméras)
+788;788;Vidéo;VI P 246;VIDCAM345;5929.86;0.0;Tunnel de Boissy (N19) sens Paris/Province (25 cam?ras)
+789;789;Vidéo 2;VI MP 346;VIDCAM346;0.0;0.0;Echangeur A14/A86 - Bretelle B5 (11 caméras)
+790;790;Vidéo;VI P 247;VIDCAM346;2609.13;0.0;Echangeur A14/A86 ? Bretelle B5 (11 cam?ras)
+791;791;Vidéo 2;VI MP 347;VIDCAM347;0.0;0.0;Couverture Trinity (8 caméras)
+792;792;Vidéo;VI P 248;VIDCAM347;1897.56;0.0;Couverture Trinity (8 cam?ras)
+793;793;Vidéo 2;VI MP 400;VIDPCI400;0.0;0.0;le Tunnel de Champigny (A4)  (11 caméras)
+794;794;Vidéo;VI P 400;VIDPCI400;350.86;0.0;le Tunnel de Champigny (A4)  (13 cam?ras)
+795;795;Vidéo 2;VI MP 401;VIDPCI401;0.0;327.1;le Tunnel de Thiais (A86)  (42 caméras)
+796;796;Vidéo;VI P 401;VIDPCI401;593.77;0.0;le Tunnel de Thiais (A86)  (22 cam?ras)
+797;797;Vidéo 2;VI MP 402;VIDPCI402;0.0;327.1;le Tunnel de Nogent-sur-marne (A86)  (19 caméras)
+798;798;Vidéo;VI P 402;VIDPCI402;1025.6;0.0;le Tunnel de Nogent-sur-marne (A86)  (19 cam?ras)
+799;799;Vidéo 2;VI MP 403;VIDPCI403;0.0;594.8;le Tunnel du Landy (A1)  (20 caméras)
+800;800;Vidéo;VI P 403;VIDPCI403;539.78;0.0;le Tunnel du Landy (A1)  (20 cam?ras)
+801;801;Vidéo 2;VI MP 404;VIDPCI404;0.0;505.6;le Tunnel de Bobigny-Drancy (A86) (25 caméras)
+802;802;Vidéo;VI P 404;VIDPCI404;1376.46;0.0;le Tunnel de Bobigny-Drancy (A86) (17 cam?ras)
+803;803;Vidéo 2;VI MP 405;VIDPCI405;0.0;119.0;le Tunnel de Lumen et Norton (A86) sens intérieur (4 caméras)
+804;804;Vidéo;VI P 405;VIDPCI405;107.95;0.0;le Tunnel de Lumen et Norton (A86) sens int?rieur (4 cam?ras)
+805;805;Vidéo 2;VI MP 406;VIDPCI406;0.0;89.2;le Tunnel de La Courneuve (A86) (4 caméras)
+806;806;Vidéo;VI P 406;VIDPCI406;80.97;0.0;le Tunnel de La Courneuve (A86) (3 cam?ras)
+807;807;Vidéo 2;VI MP 407;VIDPCI407;0.0;119.0;le Tunnel de Taverny (A115) (4 caméras)
+808;808;Vidéo;VI P 407;VIDPCI407;107.95;0.0;le Tunnel de Taverny (A115) (4 cam?ras)
+809;809;Vidéo 2;VI MP 408;VIDPCI408;0.0;0.0;le Tunnel de Neuilly (A13) (4 caméras)
+810;810;Vidéo;VI P 408;VIDPCI408;215.9;0.0;le Tunnel de Neuilly (A13) (4 cam?ras)
+811;811;Vidéo 2;VI MP 409;VIDPCI409;0.0;0.0;Tunnel de Nanterre échangeur la défense (A14/A86)  (11 caméras)
+812;812;Vidéo;VI P 409;VIDPCI409;593.76;0.0;Tunnel de Nanterre ?changeur la d?fense (A14/A86)  (11 cam?ras)
+813;813;Vidéo 2;VI MP 410;VIDPCI410;0.0;0.0;Tunnel Nanterre centre (A86)  (12 caméras)
+814;814;Vidéo;VI P 410;VIDPCI410;647.74;0.0;Tunnel Nanterre centre (A86)  (12 cam?ras)
+815;815;Vidéo 2;VI MP 411;VIDPCI411;0.0;0.0;Tunnel de  la défense (A14)  (46 caméras)
+816;816;Vidéo;VI P 411;VIDPCI411;2483.02;0.0;Tunnel de  la d?fense (A14)  (46 cam?ras)
+817;817;Vidéo 2;VI MP 412;VIDPCI412;0.0;0.0;le Tunnel de Belle-rive (A86) (15 caméras)
+818;818;Vidéo;VI P 412;VIDPCI412;809.66;0.0;le Tunnel de Belle-rive (A86) (15 cam?ras)
+819;819;Vidéo 2;VI MP 413;VIDPCI413;0.0;0.0;le Tunnel de Saint-Cloud (A13) (13 caméras)
+820;820;Vidéo;VI P 413;VIDPCI413;701.72;0.0;le Tunnel de Saint-Cloud (A13) (13 cam?ras)
+821;821;Vidéo 2;VI MP 414;VIDPCI414;0.0;0.0;le Tunnel de Ambroise Paré (A13) (8 caméras)
+822;822;Vidéo;VI P 414;VIDPCI414;431.82;0.0;le Tunnel de Ambroise Par? (A13) (8 cam?ras)
+823;823;Vidéo 2;VI MP 415;VIDPCI415;0.0;0.0;le Tunnel de Fontenay le fleury (A12) (2 caméras)
+824;824;Vidéo 2;VI MP 416;VIDPCI416;0.0;0.0;le Tunnel de Sévines (N315) (4 caméras)
+825;825;Vidéo;VI P 416;VIDPCI416;215.9;0.0;le Tunnel de S?vines (N315) (4 cam?ras)
+826;826;Vidéo 2;VI MP 417;VIDPCI417;0.0;0.0;le Tunnel de Chennevières (N12) (3 caméras)
+827;827;Vidéo;VI P 417;VIDPCI417;161.94;0.0;le Tunnel de Chennevi?res (N12) (3 cam?ras)
+828;828;Vidéo 2;VI MP 418;VIDPCI418;0.0;133.8;le Tunnel d Antony (A86) (9 caméras)
+829;829;Vidéo;VI P 418;VIDPCI418;242.91;0.0;le Tunnel d' Antony (A86) (9 cam?ras)
+830;830;Vidéo 2;VI MP 419;VIDPCI419;0.0;29.7;le Tunnel de Fresnes (A86) (2 caméras)
+831;831;Vidéo;VI P 419;VIDPCI419;53.98;0.0;le Tunnel de Fresnes (A86) (2 cam?ras)
+832;832;Vidéo 2;VI MP 420;VIDPCI420;0.0;193.3;Tunnel de Bicêtre et Italie (A6b) (13 caméras)
+833;833;Vidéo;VI P 420;VIDPCI420;809.67;0.0;le Tunnel d' Italie (A6b) (10 cam?ras)
+834;834;Vidéo 2;VI MP 421;VIDPCI421;0.0;29.7;Le Tunnel d Orly (N7)  (2 caméras)
+835;835;Vidéo;VI P 421;VIDPCI421;161.94;0.0;Le Tunnel d'Orly (N7)  (2 cam?ras)
+836;836;Vidéo 2;VI MP 422;VIDPCI422;0.0;119.0;Tunnel de Boissy (8 caméras)
+837;837;Vidéo;VI P 700;VIDPCI422;236.22;0.0;Tunnel de Boissy (8 cam?ras)
+838;838;Vidéo 2;VI MP 423;VIDPCI423;0.0;0.0;Echangeur A14/A86   Bretelle B5 (2 caméras)
+839;839;Vidéo 2;VI MP 500;VIDPSR500;0.0;0.0;Maintenance préventive d une caméra Sirius
+840;840;Vidéo;VI P 500;VIDPSR500;0.0;0.0;Maintenance pr?ventive d'une cam?ra dite de type SIRIUS 
+841;841;Vidéo 2;VI MP 501;VIDPLV501;0.0;0.0;plus-value aux prix VI MP 500 pour exécution de nuit entre 22h et 6h
+842;842;Vidéo 2;VI MP 600;VIDPIP600;0.0;800.0;Maintenance préventive d une caméra IP de vidéosurveillance en local technique
+843;843;Vidéo;VI P 800;VIDPIP600;0.0;0.0;Maintenance pr?ventive d?une cam?ra IP non DAI
+844;844;Vidéo;VI P 244;VIDPLV244;655.8299999999999;0.0;Plus-value ou moins-value aux prix pr?c?dents pour une cam?ra DAI en tunnel suppl?mentaire ou manquante
+845;845;Vidéo;VI C 317;VIDPLV317;0.0;0.0;plus-value aux prix VI C 300 ? VI C 317 pour ex?cution de nuit entre 22h et 6h
+846;846;Vidéo;VI P 422;VIDPLV422;93.69;0.0;Plus-value ou moins-value aux prix pr?c?dents pour une cam?ra issue de secours suppl?mentaire ou manquante
+847;847;Pompage 2;INP101;POMIND101;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie LANDY (26 poteaux)
+848;848;Pompage;INP101;POMIND101;2878.66;0.0;Entretien et contrôle debit pression des poteaux incendie LANDY (26 poteaux)
+849;849;Pompage 2;INP102;POMIND102;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie LA COURNEUVE (4 poteaux)
+850;850;Pompage;INP102;POMIND102;575.94;0.0;Entretien et contrôle debit pression des poteaux incendie LA COURNEUVE (4 poteaux)
+851;851;Pompage 2;INP103;POMIND103;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie LUMEN-NORTON (11 poteaux)
+852;852;Pompage;INP103;POMIND103;1424.85;0.0;Entretien et contrôle debit pression des poteaux incendie LUMEN-NORTON (11 poteaux)
+853;853;Pompage 2;INP104;POMIND104;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie TAVERNY (8 poteaux)
+854;854;Pompage;INP104;POMIND104;1093.97;0.0;Entretien et contrôle debit pression des poteaux incendie TAVERNY (8 poteaux)
+855;855;Pompage 2;INP105;POMIND105;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie BOBIGNY (24 poteaux)
+856;856;Pompage;INP105;POMIND105;2734.93;0.0;Entretien et contrôle debit pression des poteaux incendie BOBIGNY (24 poteaux)
+857;857;Pompage 2;INP201;POMIND201;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie GUY MOQUET (6 poteaux)
+858;858;Pompage;INP201;POMIND201;1020.56;0.0;Entretien et contrôle debit pression des poteaux incendie GUY MOQUET (6 poteaux)
+859;859;Pompage 2;INP202;POMIND202;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie NOGENT (24 poteaux)
+860;860;Pompage;INP202;POMIND202;2734.93;0.0;Entretien et contrôle debit pression des poteaux incendie NOGENT (24 poteaux)
+861;861;Pompage 2;INP203;POMIND203;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie CHAMPIGNY (5 poteaux)
+862;862;Pompage;INP203;POMIND203;868.56;0.0;Entretien et contrôle debit pression des poteaux incendie CHAMPIGNY (5 poteaux)
+863;863;Pompage 2;INP204;POMIND204;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie MOULIN (6 poteaux)
+864;864;Pompage;INP204;POMIND204;1020.56;0.0;Entretien et contrôle debit pression des poteaux incendie MOULIN (6 poteaux)
+865;865;Pompage 2;INP205;POMIND205;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie BOISSY (5 poteaux)
+866;866;Pompage 2;INP301;POMIND206;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie BELLE RIVE (12 poteaux)
+867;867;Pompage;INP301;POMIND206;1183.93;0.0;Entretien et contrôle debit pression des poteaux incendie BELLE RIVE (12 poteaux)
+868;868;Pompage 2;INP302;POMIND207;0.0;8921.0;Entretien et contrôle débit pression des poteaux incendie LA DEFENSE (69 poteaux)
+869;869;Pompage;INP302;POMIND207;5957.91;0.0;Entretien et contrôle debit pression des poteaux incendie LA DEFENSE (69 poteaux)
+870;870;Pompage 2;INP303;POMIND208;0.0;0.0;Entretien et contrôle débit pression des poteaux incendie JONCHERE (3 poteaux)
+871;871;Pompage 2;INP304;POMIND209;0.0;1441.0;Entretien et contrôle débit pression des poteaux incendie CHENNEVIERES (6 poteaux)
+872;872;Pompage;INP304;POMIND209;518.03;0.0;Entretien et contrôle debit pression des poteaux incendie CHENNEVIERES (6 poteaux)
+873;873;Pompage 2;INP305;POMIND210;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie ECHANGEUR NANTERRE (14 poteaux)
+874;874;Pompage;INP305;POMIND210;1688.52;0.0;Entretien et contrôle debit pression des poteaux incendie ECHANGEUR NANTERRE (14 poteaux)
+875;875;Pompage 2;INP306;POMIND211;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie FONTENAY (4 poteaux)
+876;876;Pompage 2;INP307;POMIND212;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie NANTERRE CENTRE (12 poteaux)
+877;877;Pompage;INP307;POMIND212;1446.57;0.0;Entretien et contrôle debit pression des poteaux incendie NANTERRE CENTRE (12 poteaux)
+878;878;Pompage 2;INP308;POMIND213;0.0;2745.0;Entretien et contrôle débit pression des poteaux incendie NEUILLY (6 poteaux)
+879;879;Pompage;INP309;POMIND213;1036.07;0.0;Entretien et contrôle debit pression des poteaux incendie NEUILLY (6 poteaux)
+880;880;Pompage 2;INP309;POMIND214;0.0;1441.0;Entretien et contrôle débit pression des poteaux incendie SEVINES (6 poteaux)
+881;881;Pompage;INP310;POMIND214;518.03;0.0;Entretien et contrôle debit pression des poteaux incendie SEVINES (6 poteaux)
+882;882;Pompage 2;INP310;POMIND215;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie SAINT-CLOUD (11 poteaux)
+883;883;Pompage;INP311;POMIND215;1326.62;0.0;Entretien et contrôle debit pression des poteaux incendie SAINT-CLOUD (11 poteaux)
+884;884;Pompage 2;INP311;POMIND216;0.0;3088.0;Entretien et contrôle débit pression des poteaux incendie AMBROISE PARE (18 poteaux)
+885;885;Pompage;INP312;POMIND216;2170.37;0.0;Entretien et contrôle debit pression des poteaux incendie AMBROISE PARE (18 poteaux)
+886;886;Pompage 2;INP401;POMIND401;0.0;1441.0;Entretien et contrôle débit pression des poteaux incendie ANTONY (10 poteaux)
+887;887;Pompage 2;INP402;POMIND402;0.0;1441.0;Entretien et contrôle débit pression des poteaux incendie FRESNES (9 poteaux)
+888;888;Pompage 2;INP403;POMIND403;0.0;1922.0;Entretien et contrôle débit pression des poteaux incendie ORLY (15 poteaux)
+889;889;Pompage;INP403;POMIND403;1224.98;0.0;Entretien et contrôle debit pression des poteaux incendie ORLY (15 poteaux)
+890;890;Pompage 2;INP404;POMIND404;0.0;961.0;Entretien et contrôle débit pression des poteaux incendie ITALIE (6 poteaux maximum)
+891;891;Pompage 2;INP405;POMIND405;0.0;2402.0;Entretien et contrôle débit pression des poteaux incendie BICETRE (22 poteaux maximum)
+892;892;Pompage 2;POE600;POMERA600;0.0;9882.0;Entretien d une pompe puisard (entretien de la pompe, du puisard, des vannes, des clapets& )
+893;893;;;POMERB;0.0;0.0;
+894;894;Pompage 2;INP500;POMERC500;0.0;4944.0;Entretien d'un surpresseur
+895;895;Pompage;INP600;POMERC500;2156.91;0.0;Entretien d'un surpresseur
+896;896;Pompage 2;INP600;POMERD600;0.0;14832.0;Entretien d'un disconnecteur
+897;897;Pompage;INP700;POMERD600;4715.04;0.0;Entretien d'un disconnecteur
+898;898;Pompage 2;INP700;POMERE700;0.0;10712.0;Entretien d une colonne sèche
+899;899;Pompage;INP800;POMERE700;24152.239999999998;0.0;Entretien d'une colonne seche
+900;900;Pompage 2;INP800;POMERF800;0.0;0.0;Entretien d une colonne humide
+901;901;Pompage 2;POE101;POMESP101;0.0;0.0;Entretien de la station de pompage LANDY
+902;902;Pompage;POE101;POMESP101;1383.48;0.0;Entretien de la station de pompage LANDY
+903;903;Pompage 2;POE102;POMESP102;0.0;0.0;Entretien de la station de pompage REPIQUET
+904;904;Pompage;POE102;POMESP102;1383.48;0.0;Entretien de la station de pompage REPIQUET
+905;905;Pompage 2;POE103;POMESP103;0.0;0.0;Entretien de la station de pompage AERATION
+906;906;Pompage;POE103;POMESP103;1383.48;0.0;Entretien de la station de pompage AERATION
+907;907;Pompage 2;POE104;POMESP104;0.0;0.0;Entretien de la station de pompage PREFECTURE
+908;908;Pompage;POE104;POMESP104;1383.48;0.0;Entretien de la station de pompage PREFECTURE
+909;909;Pompage 2;POE105;POMESP105;0.0;0.0;Entretien de toutes les stations de pompage de l'UER d'Eragny
+910;910;Pompage 2;POE106;POMESP106;0.0;0.0;Entretien de toutes les stations de pompage de l'UER de Saint-Denis
+911;911;Pompage 2;POE201;POMESP201;0.0;0.0;Entretien de la station de pompage « Usine du Port »
+912;912;Pompage;POE201;POMESP201;1384.53;0.0;Entretien de la station de pompage  Usine du Port 
+913;913;Pompage 2;POE202;POMESP202;0.0;2995.0;Entretien de la station de pompage du pont de Nogent
+914;914;Pompage 2;POE203;POMESP203;0.0;0.0;Entretien de la station de pompage de l'UER de Maison-Alfort
+915;915;Pompage 2;POE204;POMESP204;0.0;0.0;Entretien de la station de pompage de l'UER d Alfortville
+916;916;Pompage 2;POE205;POMESP205;0.0;0.0;Entretien du débourbeur de l'UER d Alfortville
+917;917;Pompage 2;POE206;POMESP206;0.0;0.0;Entretien de la station de pompage de l'UER de Villecresnes
+918;918;Pompage 2;POE207;POMESP207;0.0;0.0;Entretien de la station de pompage de l'UER de Boissy-Saint-Léger
+919;919;Pompage;POE207;POMESP207;1418.24;0.0;Entretien de la station de pompage de Boissy-Saint-Leger
+920;920;Pompage 2;POE208;POMESP208;0.0;3004.0;Entretien de la station de pompage de Boissy-Saint-Léger (tunnel)
+921;921;Pompage 2;POE301;POMESP301;0.0;0.0;Entretien de la station de pompage Grésillons
+922;922;Pompage 2;POE302;POMESP302;0.0;0.0;Entretien de la station de pompage PVC
+923;923;Pompage 2;POE303;POMESP303;0.0;0.0;Entretien de la station de pompage Caboeuf
+924;924;Pompage 2;POE304;POMESP304;0.0;0.0;Entretien de la station de pompage Pierre Timbaud
+925;925;Pompage;POE304;POMESP304;1091.9;0.0;Entretien de la station de pompage Pierre Timbaud
+926;926;Pompage 2;POE305;POMESP305;0.0;0.0;Entretien de la station de pompage A86/RD909
+927;927;Pompage 2;POE306;POMESP306;0.0;0.0;Entretien de la station de pompage A15/A86
+928;928;Pompage 2;POE307;POMESP307;0.0;0.0;Entretien de la station de pompage A14/A86 nord
+929;929;Pompage;POE307;POMESP307;984.37;0.0;Entretien de la station de pompage A14/A86 nord
+930;930;Pompage 2;POE308;POMESP308;0.0;0.0;Entretien de la station de pompage A14/A86 sud
+931;931;Pompage;POE308;POMESP308;1204.61;0.0;Entretien de la station de pompage A14/A86 sud
+932;932;Pompage 2;POE309;POMESP309;0.0;0.0;Entretien de la station de pompage A14/A86 R
+933;933;Pompage;POE309;POMESP309;924.4;0.0;Entretien de la station de pompage A14/A86 R
+934;934;Pompage 2;POE310;POMESP310;0.0;0.0;Entretien de la station de pompage A14/A86 B1
+935;935;Pompage;POE310;POMESP310;925.43;0.0;Entretien de la station de pompage A14/A86 B1
+936;936;Pompage 2;POE311;POMESP311;0.0;0.0;Entretien de la station de pompage CES EP CES EU
+937;937;Pompage;POE311;POMESP311;701.05;0.0;Entretien de la station de pompage CES EP CES EU
+938;938;Pompage 2;POE312;POMESP312;0.0;0.0;Entretien de la station de pompage A14 S
+939;939;Pompage;POE312;POMESP312;399.12;0.0;Entretien de la station de pompage A14 S
+940;940;Pompage 2;POE313;POMESP313;0.0;0.0;Entretien de la station de pompage 02M-04M
+941;941;Pompage;POE313;POMESP313;1425.89;0.0;Entretien de la station de pompage 02M-04M
+942;942;Pompage 2;POE314;POMESP314;0.0;0.0;Entretien de la station de pompage Neuilly est
+943;943;Pompage;POE314;POMESP314;931.63;0.0;Entretien de la station de pompage Neuilly est
+944;944;Pompage 2;POE315;POMESP315;0.0;0.0;Entretien de la station de pompage Neuilly ouest
+945;945;Pompage;POE315;POMESP315;931.63;0.0;Entretien de la station de pompage Neuilly ouest
+946;946;Pompage 2;POE316;POMESP316;0.0;0.0;Entretien de la station de pompage Jules Quentin
+947;947;Pompage;POE316;POMESP316;1631.65;0.0;Entretien de la station de pompage Jules Quentin
+948;948;Pompage 2;POE317;POMESP317;0.0;0.0;Entretien de la station de pompage Renan
+949;949;Pompage 2;POE318;POMESP318;0.0;0.0;Entretien de la station de pompage National
+950;950;Pompage 2;POE319;POMESP319;0.0;0.0;Entretien de la station de pompage SP1 tunnel BELLERIVE
+951;951;Pompage;POE319;POMESP319;925.43;0.0;Entretien de la station de pompage SP1 tunnel BELLERIVE
+952;952;Pompage 2;POE320;POMESP320;0.0;0.0;Entretien de la station de pompage SP2 tunnel BELLERIVE
+953;953;Pompage;POE320;POMESP320;925.43;0.0;Entretien de la station de pompage SP2 tunnel BELLERIVE
+954;954;Pompage 2;POE321;POMESP321;0.0;0.0;Entretien de la station de pompage SP3 tunnel BELLERIVE
+955;955;Pompage;POE321;POMESP321;857.19;0.0;Entretien de la station de pompage SP3 tunnel BELLERIVE
+956;956;Pompage 2;POE322;POMESP322;0.0;0.0;Entretien de la station de pompage point bas tunnel Ambroise PARE
+957;957;Pompage;POE322;POMESP322;1555.14;0.0;Entretien de la station de pompage point bas tunnel Ambroise PARE
+958;958;Pompage 2;POE323;POMESP323;0.0;0.0;Entretien de la station de pompage usine est tunnel Ambroise PARE
+959;959;Pompage;POE323;POMESP323;922.33;0.0;Entretien de la station de pompage usine est tunnel Ambroise PARE
+960;960;Pompage 2;POE324;POMESP324;0.0;0.0;Entretien du bassin de St Cloud
+961;961;Pompage;POE324;POMESP324;701.05;0.0;Entretien du bassin de St Cloud
+962;962;Pompage 2;POE325;POMESP325;0.0;0.0;Entretien de la station de pompage Pontchartrain
+963;963;Pompage;POE325;POMESP325;1032.97;0.0;Entretien de la station de pompage Pontchartrain
+964;964;Pompage 2;POE401;POMESP401;0.0;6863.0;Entretien de la station de pompage Antony
+965;965;Pompage;POE401;POMESP401;5786.26;0.0;Entretien de la station de pompage Antony
+966;966;Pompage 2;POE402;POMESP402;0.0;2265.0;Entretien de la station de pompage Fresnes
+967;967;Pompage 2;POE403;POMESP403;0.0;824.0;Entretien de la station de pompage Bicêtre   Poste Embouche
+968;968;Pompage;POE403;POMESP403;231.7;0.0;Entretien de la station de pompage Bicetre Poste Embouche
+969;969;Pompage 2;POE404;POMESP404;0.0;824.0;Entretien de la station de pompage Bicêtre   Poste Blanche
+970;970;Pompage;POE404;POMESP404;231.7;0.0;Entretien de la station de pompage Bicetre Poste Blanche
+971;971;Pompage 2;POE405;POMESP405;0.0;0.0;Entretien de la station de relevage PCTT Arcueil
+972;972;Pompage 2;POE406;POMESP406;0.0;0.0;Entretien du bassin A6/RN104
+973;973;Pompage 2;POE407;POMESP407;0.0;0.0;Entretien du bassin D1
+974;974;Pompage 2;POE408;POMESP408;0.0;0.0;Entretien du bassin D2
+975;975;Pompage 2;POE409;POMESP409;0.0;0.0;Entretien du bassin D3
+976;976;Pompage 2;POE410;POMESP410;0.0;0.0;Entretien du bassin D4
+977;977;Pompage 2;POE411;POMESP411;0.0;0.0;Entretien du bassin Grigny Ouest
+978;978;Pompage 2;POE412;POMESP412;0.0;0.0;Entretien du bassin Grigny Est
+979;979;Pompage 2;POE413;POMESP413;0.0;0.0;Entretien du bassin A6 Savigny
+980;980;Pompage 2;POE414;POMESP414;0.0;0.0;Entretien du bassin A86/RN186
+981;981;Pompage 2;POE415;POMESP415;0.0;0.0;Entretien de la STEP UER Chevilly
+982;982;Pompage 2;POE416;POMESP416;0.0;0.0;Entretien PR RN6
+983;983;Pompage 2;POE500;POMESP500;0.0;0.0;Entretien d'appareil de levage
+984;984;Pompage;POE500;POMESP500;1395.9;0.0;Entretien d'appareil de levage
+985;985;Pompage 2;POE600;POMEPO600;0.0;9882.0;Entretien d une pompe puisard (entretien de la pompe, du puisard, des vannes, des clapets& )
+986;986;Pompage;POE600;POMEPO600;879.65;0.0;Entretien d'une pompe puisard (entretien de la pompe du puisard des vannes des clapets)
+987;987;Pompage 2;POE701;POMESP701;0.0;0.0;Curage baches (pompage retention)
+988;988;Pompage;POE701;POMESP701;141169.15;0.0;Curage baches (pompage retention)
+989;989;Pompage 2;POP 201;POMVSP201;0.0;0.0;Visite de la station de pompage  Usine du Port 
+990;990;Pompage 2;POP101;POMVSP101;0.0;0.0;Visite de la station de pompage LANDY
+991;991;Pompage;POP101;POMVSP101;922.32;0.0;Visite de la station de pompage LANDY
+992;992;Pompage 2;POP102;POMVSP102;0.0;0.0;Visite de la station de pompage REPIQUET
+993;993;Pompage;POP102;POMVSP102;922.32;0.0;Visite de la station de pompage REPIQUET
+994;994;Pompage 2;POP103;POMVSP103;0.0;0.0;Visite de la station de pompage AERATION
+995;995;Pompage;POP103;POMVSP103;922.32;0.0;Visite de la station de pompage AERATION
+996;996;Pompage 2;POP104;POMVSP104;0.0;0.0;Visite de la station de pompage PREFECTURE
+997;997;Pompage;POP104;POMVSP104;922.32;0.0;Visite de la station de pompage PREFECTURE
+998;998;Pompage 2;POP105;POMVSP105;0.0;0.0;Visite de toutes les stations de pompage de l'UER d'Eragny
+999;999;Pompage 2;POP106;POMVSP106;0.0;0.0;Visite de toutes les stations de pompage de l'UER de Saint-Denis
+1000;1000;Pompage 2;POP201;POMVSP201;0.0;0.0;Visite de la station de pompage « Usine du Port »
+1001;1001;Pompage 2;POP202;POMVSP202;0.0;0.0;Visite de la station de pompage du pont de Nogent
+1002;1002;Pompage 2;POP203;POMVSP203;0.0;0.0;Visite de la station de pompage de l'UER de Maison-Alfort
+1003;1003;Pompage 2;POP204;POMVSP204;0.0;0.0;Visite de la station de pompage de l'UER d Alfortville
+1004;1004;Pompage 2;POP205;POMVSP205;0.0;0.0;Visite du débourbeur de l'UER d Alfortville
+1005;1005;Pompage 2;POP206;POMVSP206;0.0;0.0;Visite de la station de pompage de l'UER de Villecresnes
+1006;1006;Pompage 2;POP207;POMVSP207;0.0;0.0;Visite de la station de pompage de l'UER de Boissy-Saint-Léger
+1007;1007;Pompage 2;POP208;POMVSP208;0.0;0.0;Visite de la station de pompage de Boissy-Saint-Léger (tunnel)
+1008;1008;Pompage 2;POP301;POMVSP301;0.0;0.0;Visite station de pompage Grésillons
+1009;1009;Pompage 2;POP302;POMVSP302;0.0;0.0;Visite station de pompage PVC
+1010;1010;Pompage 2;POP303;POMVSP303;0.0;0.0;Visite station de pompage Caboeuf
+1011;1011;Pompage 2;POP304;POMVSP304;0.0;824.0;Visite station de pompage Pierre Timbaud
+1012;1012;Pompage;POP304;POMVSP304;651.42;0.0;Visite station de pompage Pierre Timbaud
+1013;1013;Pompage 2;POP305;POMVSP305;0.0;0.0;Visite station de pompage A86/RD909
+1014;1014;Pompage 2;POP306;POMVSP306;0.0;0.0;Visite station de pompage A15/A86
+1015;1015;Pompage 2;POP307;POMVSP307;0.0;824.0;Visite station de pompage A14/A86 nord
+1016;1016;Pompage;POP307;POMVSP307;551.12;0.0;Visite station de pompage A14/A86 nord
+1017;1017;Pompage 2;POP308;POMVSP308;0.0;824.0;Visite station de pompage A14/A86 sud
+1018;1018;Pompage;POP308;POMVSP308;701.05;0.0;Visite station de pompage A14/A86 sud
+1019;1019;Pompage 2;POP309;POMVSP309;0.0;824.0;Visite station de pompage A14/A86 R
+1020;1020;Pompage;POP309;POMVSP309;672.1;0.0;Visite station de pompage A14/A86 R
+1021;1021;Pompage 2;POP310;POMVSP310;0.0;824.0;Visite station de pompage A14/A86 B1
+1022;1022;Pompage;POP310;POMVSP310;517.0;0.0;Visite station de pompage A14/A86 B1
+1023;1023;Pompage 2;POP311;POMVSP311;0.0;412.0;Visite station de pompage CES EP CES EU
+1024;1024;Pompage;POP311;POMVSP311;625.57;0.0;Visite station de pompage CES EP CES EU
+1025;1025;Pompage 2;POP312;POMVSP312;0.0;412.0;Visite station de pompage A14 S
+1026;1026;Pompage;POP312;POMVSP312;324.68;0.0;Visite station de pompage A14 S
+1027;1027;Pompage 2;POP313;POMVSP313;0.0;824.0;Visite station de pompage 02M-04M
+1028;1028;Pompage;POP313;POMVSP313;750.68;0.0;Visite station de pompage 02M-04M
+1029;1029;Pompage 2;POP314;POMVSP314;0.0;549.0;Visite station de pompage Neuilly est
+1030;1030;Pompage;POP314;POMVSP314;438.42;0.0;Visite station de pompage Neuilly est
+1031;1031;Pompage 2;POP315;POMVSP315;0.0;549.0;Visite station de pompage Neuilly ouest
+1032;1032;Pompage;POP315;POMVSP315;438.42;0.0;Visite station de pompage Neuilly ouest
+1033;1033;Pompage 2;POP316;POMVSP316;0.0;1098.0;Visite station de pompage Jules Quentin
+1034;1034;Pompage;POP316;POMVSP316;961.62;0.0;Visite station de pompage Jules Quentin
+1035;1035;Pompage 2;POP317;POMVSP317;0.0;0.0;Visite station de pompage Renan
+1036;1036;Pompage 2;POP318;POMVSP318;0.0;0.0;Visite station de pompage National
+1037;1037;Pompage 2;POP319;POMVSP319;0.0;0.0;Visite station de pompage SP1 tunnel BELLERIVE
+1038;1038;Pompage 2;POP320;POMVSP320;0.0;0.0;Visite station de pompage SP2 tunnel BELLERIVE
+1039;1039;Pompage 2;POP321;POMVSP321;0.0;0.0;Visite station de pompage SP3 tunnel BELLERIVE
+1040;1040;Pompage 2;POP322;POMVSP322;0.0;0.0;Visite station de pompage point bas tunnel Ambroise PARE
+1041;1041;Pompage 2;POP323;POMVSP323;0.0;0.0;Visite station de pompage usine est tunnel Ambroise PARE
+1042;1042;Pompage 2;POP324;POMVSP324;0.0;0.0;Visite bassin de St Cloud
+1043;1043;Pompage 2;POP325;POMVSP325;0.0;0.0;Visite station de pompage Pontchartrain
+1044;1044;Pompage 2;POP401;POMVSP401;0.0;0.0;Visite station de pompage Antony
+1045;1045;Pompage 2;POP402;POMVSP402;0.0;0.0;Visite station de pompage Fresnes
+1046;1046;Pompage 2;POP403;POMVSP403;0.0;0.0;Visite station de pompage Bicêtre   Poste Blanche
+1047;1047;Pompage 2;POP404;POMVSP404;0.0;0.0;Visite station de pompage Bicêtre   Poste Embouche
+1048;1048;Pompage 2;POP405;POMVSP405;0.0;0.0;Visite station de relevage PCTT Arcueil
+1049;1049;Pompage 2;POP406;POMVSP406;0.0;0.0;Visite bassin A6/RN104
+1050;1050;Pompage 2;POP407;POMVSP407;0.0;0.0;Visite bassin D1
+1051;1051;Pompage 2;POP408;POMVSP408;0.0;0.0;Visite bassin D2
+1052;1052;Pompage 2;POP409;POMVSP409;0.0;0.0;Visite bassin D3
+1053;1053;Pompage 2;POP410;POMVSP410;0.0;0.0;Visite bassin D4
+1054;1054;Pompage 2;POP411;POMVSP411;0.0;0.0;Visite bassin Grigny Ouest
+1055;1055;Pompage 2;POP412;POMVSP412;0.0;0.0;Visite bassin Grigny Est
+1056;1056;Pompage 2;POP413;POMVSP413;0.0;0.0;Visite bassin A6 Savigny
+1057;1057;Pompage 2;POP414;POMVSP414;0.0;0.0;Visite bassin A86/RN186
+1058;1058;Pompage 2;POP415;POMVSP415;0.0;0.0;Visite STEP UER Chevilly
+1059;1059;Pompage 2;POP416;POMVSP416;0.0;0.0;Visite PR RN6
+1060;1060;Pompage 2;POC011;POMCRG011;0.0;2058.0;Contrôle réglementaire/ étalonnage du détecteur muligaz portatif
+1061;1061;Pompage;POC011;POMCRG011;1677.33;0.0;Contrôle reglementaire/ etalonnage du detecteur muligaz portatif
+1062;1062;Pompage 2;POD003;POMANL003;0.0;2024.0;Plus-value au prix POE701 pour curage manuel
+1063;1063;Pompage;POD003;POMANL003;4059.48;0.0;Analyse et contrôle de la qualite des eaux des ouvrages en tous points: MES DCO DB05pH NTK Ptot hydrocarbures totaux Indice phenol AOX Fer+aluminium zincetainplomb Chrome total cuivre nickel cadmium + somme des metaux.
+1064;1064;Pompage 2;POD002;POMMDS002;0.0;14333.07;Curage bâches (pompage, rétention)
+1065;1065;Pompage 2;POD008;POMCCE008;0.0;5328.0;Contrôle d une centrale de détection gaz par un organisme agréé.
+1066;1066;Pompage;POD005;POMCCE008;2163.12;0.0;Contrôle d'une centrale de detection gaz par un organisme agree.
+1067;1067;Pompage 2;POD009;POMPLV009;0.0;1602.0;Plus-value aux prix de 101 à 416 des séries POP et POE pour la mise à disposition d un camion grue destiné à la visite ou l entretien du matériel
+1068;1068;Pompage;POD006;POMPLV009;2289.96;0.0;Plus-value aux prix de 101 a 416 des series POP et POE pour la mise a disposition d'un camion grue destine a la visite ou l'entretien du materiel
+1069;1069;Pompage 2;POD010;POMDCH010;0.0;11867.79;Déchets de type boues et sable
+1070;1070;Pompage;POD501;POMDCH010;20384.760000000002;0.0;Dechets de type boues et sable
+1071;1071;Pompage 2;POD011;POMDCH010;0.0;2786.04;Déchets de type boues hydrocarburées
+1072;1072;Pompage;POD502;POMDCH010;19832.4;0.0;Dechets de type boues hydrocarburees
+1073;1073;Pompage 2;POA104;POMPLV104;0.0;5676.0;Plus-value travaux de nuit
+1074;1074;Pompage;IND502;POMPLV104;23530.91;0.0;Plus-value travaux de nuit
+1075;1075;Pompage;INP001;POMIND001;430.16;0.0;Entretien et contrôle debit pression d'un poteau incendie
+1076;1076;Pompage;POC701;POMDPP701;736.21;0.0;Depose ou pose de tout type de pompe de relevage provisoire de puissance inferieur a 10KW compris
+1077;1077;Pompage;POC707;POMTRP707;372.24;0.0;Transport d'une pompe dans le but de faire une expertise (aller ou retour)
+1078;1078;Pompage;POE702;POMPLV702;13298.75;0.0;Plus-value au prix POE701 pour curage manuel
+1079;1079;Pompage;IND400;POMOPT400;3064.76;0.0;Optimisation de nos systemes et equipements
+1080;1080;Pompage;IND203;POMGEL203;339.16;0.0;Mise a disposition d'un Groupe Electrogene de 11 a 30 KVA. La journee
+1081;1081;Pompage;POC706;POMEXP706;248.16;0.0;Expertise d'une pompe
+1082;1082;Pompage;IND205;POMGEL205;122.01;0.0;Amenee et retrait d'un Groupe Electrogene
+1083;1083;Pompage;IND301;POMREP301;6888.570000000001;0.0;Recherche et reparation simple de defaut (soit 3h de travail de 2 techniciens specialises)

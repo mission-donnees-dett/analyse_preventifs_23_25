@@ -1,0 +1,1828 @@
+,Unnamed: 0,mar_diminutif,prod_code,prod_id,com_bud_annee,lieu,unite,typeP,com_prod_quantite,com_prod_montant_ht,quantite_constate
+0,0,AEV,AEPB11,248147,2023,Chennevières,PCTT Ouest,Preventif,2.0,1722.76,2.0
+1,1,AEV,AEPB11,248147,2024,Chennevières,PCTT Ouest,Preventif,2.0,1762.38,2.0
+2,21,AEV,AEFN11,248159,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,1453.8,4.0
+3,22,AEV,AEFN11,248159,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,1511.96,4.0
+4,23,AEV,AEPN22,248161,2023,La Courneuve,PCTT Nord,Preventif,2.0,1481.56,2.0
+5,24,AEV,AEPN22,248161,2024,La Courneuve,PCTT Nord,Preventif,2.0,1515.64,2.0
+6,30,AEV,AEPN23,248171,2023,Landy,PCTT Nord,Preventif,2.0,6383.08,2.0
+7,31,AEV,AEPN23,248171,2024,Landy,PCTT Nord,Preventif,2.0,6529.9,2.0
+8,57,AEV,AEPO16,248177,2023,Neuilly,PCTT Ouest,Preventif,2.0,1951.2,2.0
+9,58,AEV,AEPO16,248177,2024,Neuilly,PCTT Ouest,Preventif,4.0,3992.16,2.0
+10,126,AEV,AEPE22,248195,2023,Champigny,PCTT Est,Preventif,2.0,4445.34,2.0
+11,127,AEV,AEPE22,248195,2024,Champigny,PCTT Est,Preventif,2.0,4445.34,2.0
+12,128,AEV,AEPS23,248199,2023,Fresnes,PCTT Sud,Preventif,2.0,1369.28,2.0
+13,129,AEV,AEPS23,248199,2024,Fresnes,PCTT Sud,Preventif,4.0,2829.6,4.0
+14,143,AEV,AEFO11,248205,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,2314.88,1.0
+15,144,AEV,AEFO11,248205,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,4736.24,1.0
+16,179,AEV,AEPB12,248219,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,1485.0,1.0
+17,195,AEV,AEPS21,248231,2023,Antony,PCTT Sud,Preventif,2.0,3133.92,2.0
+18,196,AEV,AEPS21,248231,2024,Antony,PCTT Sud,Preventif,4.0,6476.16,4.0
+19,197,AEV,AEPO11,248233,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,8798.61,1.0
+20,198,AEV,AEPO11,248233,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,18001.96,1.0
+21,199,AEV,AEFB10,248235,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,1407.4,2.0
+22,200,AEV,AEFB10,248235,2024,Ambroise PARE,PCTT Ouest,Preventif,2.0,1439.78,2.0
+23,201,AEV,AEPS24,248237,2023,Bicêtre,PCTT Sud,Preventif,6.0,4295.0,6.0
+24,202,AEV,AEPS24,248237,2024,Bicêtre,PCTT Sud,Preventif,6.0,4423.32,6.0
+25,204,AEV,AEPE24,248241,2023,Nogent,PCTT Est,Preventif,2.0,5428.82,2.0
+26,205,AEV,AEPE24,248241,2024,Nogent,PCTT Est,Preventif,2.0,5553.68,1.71
+27,206,AEV,AEPN20,248243,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,7893.46,2.0
+28,207,AEV,AEPN20,248243,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,8075.0,2.0
+29,208,AEV,AEFO12,248245,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,649.91,1.0
+30,209,AEV,AEFO12,248245,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,1329.72,1.0
+31,214,AEV,AEPE26,248257,2023,Boissy-Saint-Léger,PCTT Est,Preventif,4.0,4033.62,4.0
+32,215,AEV,AEPE26,248257,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,2039.74,2.0
+33,221,AEV,AEFB14,248265,2023,Bellerive,PCTT Ouest,Preventif,2.0,1435.92,2.0
+34,222,AEV,AEFB14,248265,2024,Bellerive,PCTT Ouest,Preventif,2.0,1468.94,2.0
+35,228,AEV,AEFO10,248275,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1917.59,0.0
+36,229,AEV,AEFO10,248275,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,3923.38,2.0
+37,230,AEV,AEPS20,248279,2023,Bicêtre,PCTT Sud,Preventif,6.0,11672.1,6.0
+38,231,AEV,AEPS20,248279,2024,Bicêtre,PCTT Sud,Preventif,6.0,12020.8,6.0
+39,232,AEV,AEPN21,248281,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,1481.56,2.0
+40,233,AEV,AEPN21,248281,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,1515.64,2.0
+41,243,AEV,AEFB11,248289,2023,Chennevières,PCTT Ouest,Preventif,2.0,647.84,2.0
+42,244,AEV,AEFB11,248289,2024,Chennevières,PCTT Ouest,Preventif,2.0,662.74,0.0
+43,267,AEV,AEFO13,248297,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1058.21,1.0
+44,268,AEV,AEFO13,248297,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,2165.1,1.0
+45,269,AEV,AEPN24,248301,2023,Taverny,PCTT Nord,Preventif,2.0,1737.72,2.0
+46,270,AEV,AEPN24,248301,2024,Taverny,PCTT Nord,Preventif,2.0,1777.68,2.0
+47,271,AEV,AEFO14,248303,2023,Sévines,PCTT Ouest,Preventif,2.0,755.42,2.0
+48,272,AEV,AEFO14,248303,2024,Sévines,PCTT Ouest,Preventif,4.0,1545.6,2.0
+49,273,AEV,AEPB10,248305,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,4118.06,2.0
+50,274,AEV,AEPB10,248305,2024,Ambroise PARE,PCTT Ouest,Preventif,2.0,4212.78,2.0
+51,275,AEV,AEFB13,248307,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,1464.44,2.0
+52,276,AEV,AEFB13,248307,2024,Saint Cloud,PCTT Ouest,Preventif,2.0,1498.12,2.0
+53,277,AEV,AEFN12,248311,2023,La Courneuve,PCTT Nord,Preventif,4.0,1453.8,4.0
+54,278,AEV,AEFN12,248311,2024,La Courneuve,PCTT Nord,Preventif,2.0,768.34,2.0
+55,279,AEV,AEPO13,248313,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,3326.0,1.0
+56,280,AEV,AEPO13,248313,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,6805.0,1.0
+57,281,AEV,AEFB12,248315,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,743.62,2.0
+58,282,AEV,AEFO16,248319,2023,Neuilly,PCTT Ouest,Preventif,2.0,863.0,0.0
+59,283,AEV,AEFO16,248319,2024,Neuilly,PCTT Ouest,Preventif,4.0,1765.68,2.0
+60,284,AEV,AEPS22,248323,2023,Orly,PCTT Sud,Preventif,6.0,4467.22,6.0
+61,285,AEV,AEPS22,248323,2024,Orly,PCTT Sud,Preventif,6.0,4600.68,6.0
+62,286,AEV,AEFN10,248325,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,4619.12,4.0
+63,287,AEV,AEFN10,248325,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,4803.88,4.0
+64,288,AEV,AEPO10,248327,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,7010.72,1.0
+65,289,AEV,AEPO10,248327,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,14343.94,2.0
+66,290,AEV,AEPE20,248329,2023,Thiais,PCTT Est,Preventif,4.0,11157.54,4.0
+67,291,AEV,AEPE20,248329,2024,Thiais,PCTT Est,Preventif,2.0,5642.2,2.0
+68,292,AEV,AEPB14,248331,2023,Bellerive,PCTT Ouest,Preventif,2.0,4274.98,2.0
+69,293,AEV,AEPB14,248331,2024,Bellerive,PCTT Ouest,Preventif,2.0,4373.3,2.0
+70,295,AEV,AEPO12,248337,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1859.42,1.0
+71,296,AEV,AEPO12,248337,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,3804.38,1.0
+72,297,AEV,AEPO14,248341,2023,Sévines,PCTT Ouest,Preventif,2.0,2335.48,2.0
+73,298,AEV,AEPO14,248341,2024,Sévines,PCTT Ouest,Preventif,4.0,4778.4,2.0
+74,299,AEV,AEFN13,248343,2023,Landy,PCTT Nord,Preventif,4.0,3745.48,4.0
+75,300,AEV,AEFN13,248343,2024,Landy,PCTT Nord,Preventif,4.0,3895.3,4.0
+76,303,AEV,AEPB13,248347,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,4857.74,2.0
+77,304,AEV,AEPB13,248347,2024,Saint Cloud,PCTT Ouest,Preventif,2.0,4969.46,2.0
+78,311,AEV,AEFN14,248355,2023,Taverny,PCTT Nord,Preventif,4.0,1567.88,4.0
+79,312,AEV,AEFN14,248355,2024,Taverny,PCTT Nord,Preventif,4.0,1630.6,4.0
+80,325,AEV,AEV08,315034,2024,Antony,PCTT Sud,Preventif,10.0,596.1,10.0
+81,326,AEV,AEV08,315034,2024,Fresnes,PCTT Sud,Preventif,10.0,596.1,10.0
+91,400,Automates,AU P 03,130062,2023,Antony,PCTT Sud,Preventif,22.0,1452.0,22.0
+92,401,Automates,AU P 03,130062,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,91.0,6006.0,91.0
+93,402,Automates,AU P 03,130062,2023,Boissy-Saint-Léger,PCTT Est,Preventif,26.0,1716.0,26.0
+94,403,Automates,AU P 03,130062,2023,Champigny,PCTT Est,Preventif,22.0,1452.0,22.0
+95,404,Automates,AU P 03,130062,2023,La Courneuve,PCTT Nord,Preventif,4.0,264.0,4.0
+96,405,Automates,AU P 03,130062,2023,Landy,PCTT Nord,Preventif,93.0,6138.0,93.0
+97,406,Automates,AU P 03,130062,2023,Nanterre / La Défense,PCTT Ouest,Preventif,166.0,10956.0,166.0
+98,407,Automates,AU P 03,130062,2023,Neuilly,PCTT Ouest,Preventif,7.0,462.0,7.0
+99,408,Automates,AU P 03,130062,2023,Nogent,PCTT Est,Preventif,32.0,2112.0,32.0
+100,409,Automates,AU P 03,130062,2023,Saint Cloud,PCTT Ouest,Preventif,10.0,660.0,10.0
+101,410,Automates,AU P 03,130062,2023,Sévines,PCTT Ouest,Preventif,5.0,330.0,5.0
+102,411,Automates,AU P 03,130062,2023,Taverny,PCTT Nord,Preventif,3.0,198.0,3.0
+103,412,Automates,AU P 03,130062,2023,Thiais,PCTT Est,Preventif,16.0,1056.0,16.0
+104,423,Automates,AU P 04,130088,2023,Ambroise PARE,PCTT Ouest,Preventif,18.0,900.0,18.0
+105,424,Automates,AU P 04,130088,2023,Bellerive,PCTT Ouest,Preventif,18.0,900.0,18.0
+106,425,Automates,AU P 04,130088,2023,Chennevières,PCTT Ouest,Preventif,7.0,350.0,7.0
+107,426,Automates,AU P 04,130088,2023,Nanterre / La Défense,PCTT Ouest,Preventif,166.0,8300.0,166.0
+108,427,Automates,AU P 04,130088,2023,Neuilly,PCTT Ouest,Preventif,7.0,350.0,7.0
+109,428,Automates,AU P 04,130088,2023,PCTT,PCTT Ouest,Preventif,16.0,800.0,16.0
+110,429,Automates,AU P 04,130088,2023,Saint Cloud,PCTT Ouest,Preventif,14.0,700.0,14.0
+111,430,Automates,AU P 04,130088,2023,Sévines,PCTT Ouest,Preventif,5.0,250.0,5.0
+112,432,Automates,AU P 02,130104,2023,PCTT,PCTT Ouest,Preventif,4.0,972.0,4.0
+114,435,Automates,AU P 01,130122,2023,Antony,PCTT Sud,Preventif,1.0,117.0,1.0
+115,436,Automates,AU P 01,130122,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,234.0,2.0
+116,437,Automates,AU P 01,130122,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,117.0,1.0
+117,438,Automates,AU P 01,130122,2023,Champigny,PCTT Est,Preventif,2.0,234.0,2.0
+118,439,Automates,AU P 01,130122,2023,La Courneuve,PCTT Nord,Preventif,1.0,117.0,1.0
+119,440,Automates,AU P 01,130122,2023,Landy,PCTT Nord,Preventif,1.0,117.0,1.0
+120,441,Automates,AU P 01,130122,2023,Nogent,PCTT Est,Preventif,3.0,351.0,3.0
+121,442,Automates,AU P 01,130122,2023,PCTT,PCTT Ouest,Preventif,6.0,702.0,6.0
+122,443,Automates,AU P 01,130122,2023,Saint Cloud,PCTT Ouest,Preventif,4.0,468.0,4.0
+123,444,Automates,AU P 01,130122,2023,Taverny,PCTT Nord,Preventif,1.0,117.0,1.0
+124,445,Automates,AU P 01,130122,2023,Thiais,PCTT Est,Preventif,1.0,117.0,1.0
+125,447,Automates,AU D 01,130126,2023,Ambroise PARE,PCTT Ouest,Preventif,900.0,630.0,900.0
+126,448,Automates,AU D 01,130126,2023,Antony,PCTT Sud,Preventif,1569.0,1098.3,1569.0
+127,449,Automates,AU D 01,130126,2023,Bellerive,PCTT Ouest,Preventif,900.0,630.0,900.0
+128,450,Automates,AU D 01,130126,2023,Champigny,PCTT Est,Preventif,198.0,138.6,198.0
+129,451,Automates,AU D 01,130126,2023,Nanterre / La Défense,PCTT Ouest,Preventif,5104.0,3572.8,5104.0
+130,452,Automates,AU D 01,130126,2023,Nogent,PCTT Est,Preventif,2112.0,1478.4,2112.0
+131,453,Automates,AU D 01,130126,2023,Thiais,PCTT Est,Preventif,330.0,231.0,330.0
+132,464,Automates23,AUPR39,313267,2024,Landy,PCTT Nord,Preventif,1.0,343.81,1.0
+133,465,Automates23,AUPR38,313269,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,688.98,1.0
+134,466,Automates23,AUPR09,313271,2024,Sévines,PCTT Ouest,Preventif,1.0,303.27,1.0
+135,467,Automates23,AUPR17,313273,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,296.74,1.0
+136,468,Automates23,AUPR32,313275,2024,Thiais,PCTT Est,Preventif,2.0,2683.86,2.0
+137,469,Automates23,AUPR33,313281,2023,Nogent,PCTT Est,Preventif,1.0,1416.02,1.0
+138,470,Automates23,AUPR33,313281,2024,Nogent,PCTT Est,Preventif,2.0,2832.04,2.0
+140,472,Automates23,AUPR11,313291,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,296.74,1.0
+141,473,Automates23,AUPR29,313293,2024,Champigny,PCTT Est,Preventif,2.0,687.62,2.0
+142,474,Automates23,AUPR15,313295,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,343.81,1.0
+143,481,Automates23,AUPR03,313301,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,903.0,1.0
+144,482,Automates23,AUPR08,313303,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,640.66,1.0
+145,483,Automates23,AUPR07,313309,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,343.81,1.0
+146,485,Automates23,AUDI01,313311,2023,Nogent,PCTT Est,Preventif,1233.06,1109.75,1233.06
+147,486,Automates23,AUDI01,313311,2024,Ambroise PARE,PCTT Ouest,Preventif,1018.8,916.92,1018.8
+148,487,Automates23,AUDI01,313311,2024,Antony,PCTT Sud,Preventif,1824.62,1642.16,1824.62
+149,488,Automates23,AUDI01,313311,2024,Bellerive,PCTT Ouest,Preventif,1018.8,916.92,1018.8
+150,489,Automates23,AUDI01,313311,2024,Boissy-Saint-Léger,PCTT Est,Preventif,3197.43,2877.69,3197.43
+151,490,Automates23,AUDI01,313311,2024,Champigny,PCTT Est,Preventif,1065.81,959.23,1065.81
+152,491,Automates23,AUDI01,313311,2024,Chennevières,PCTT Ouest,Preventif,396.2,356.58,396.2
+153,492,Automates23,AUDI01,313311,2024,Nogent,PCTT Est,Preventif,2466.12,2219.5,2466.12
+154,493,Automates23,AUDI01,313311,2024,Saint Cloud,PCTT Ouest,Preventif,3543.41,3189.07,3543.41
+155,494,Automates23,AUDI01,313311,2024,Thiais,PCTT Est,Preventif,3418.56,3076.72,3418.55
+156,495,Automates23,AUPR16,313313,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,211.79,1.0
+157,496,Automates23,AUPR14,313317,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,953.13,1.0
+158,497,Automates23,AUPR42,313319,2024,La Courneuve,PCTT Nord,Preventif,1.0,320.72,1.0
+159,498,Automates23,AUPR31,313321,2024,Thiais,PCTT Est,Preventif,2.0,734.7,2.0
+160,499,Automates23,AUPR26,313327,2023,Orly,PCTT Sud,Preventif,1.0,501.19,1.0
+161,500,Automates23,AUPR26,313327,2024,Orly,PCTT Sud,Preventif,1.0,501.19,1.0
+162,501,Automates23,AUPR22,313335,2024,Antony,PCTT Sud,Preventif,1.0,1527.88,1.0
+163,504,Automates23,AUPR02,313345,2024,Neuilly,PCTT Ouest,Preventif,1.0,333.08,1.0
+164,505,Automates23,AUPR02,313345,2024,PCTT,PCTT Ouest,Preventif,1.0,333.08,1.0
+165,506,Automates23,AUPR49,313349,2023,Bicêtre,PCTT Sud,Preventif,16.0,905.6,16.0
+166,507,Automates23,AUPR49,313349,2023,Orly,PCTT Sud,Preventif,10.0,566.0,10.0
+167,508,Automates23,AUPR49,313349,2024,Ambroise PARE,PCTT Ouest,Preventif,18.0,1018.8,18.0
+168,509,Automates23,AUPR49,313349,2024,Bellerive,PCTT Ouest,Preventif,18.0,1018.8,18.0
+169,510,Automates23,AUPR49,313349,2024,Chennevières,PCTT Ouest,Preventif,7.0,396.2,7.0
+170,511,Automates23,AUPR49,313349,2024,Fontenay le Fleury,PCTT Ouest,Preventif,10.0,566.0,10.0
+171,512,Automates23,AUPR49,313349,2024,Saint Cloud,PCTT Ouest,Preventif,14.0,792.4,14.0
+172,513,Automates23,AUPR27,313351,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,593.48,2.0
+173,514,Automates23,AUPR45,313355,2024,Taverny,PCTT Nord,Preventif,1.0,120.22,1.0
+174,515,Automates23,AUPR13,313357,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,456.27,1.0
+175,518,Automates23,AUPR21,313365,2024,Antony,PCTT Sud,Preventif,1.0,296.74,1.0
+176,520,Automates23,AUPR36,313369,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,1531.48,1.0
+177,522,Automates23,AUPR41,313375,2024,La Courneuve,PCTT Nord,Preventif,1.0,296.74,1.0
+178,523,Automates23,AUPR43,313379,2024,Taverny,PCTT Nord,Preventif,1.0,273.2,1.0
+179,525,Automates23,AUPR46,313383,2024,Landy,PCTT Nord,Preventif,62.0,9011.7,62.0
+180,531,Automates23,AUPR04,313391,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,3537.49,1.0
+181,533,Automates23,AUPR18,313395,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,658.12,1.0
+182,536,Automates23,AUPR30,313401,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1065.81,1.0
+183,537,Automates23,AUPR30,313401,2024,Champigny,PCTT Est,Preventif,1.0,1065.81,1.0
+184,538,Automates23,AUPR40,313403,2024,Landy,PCTT Nord,Preventif,1.0,2031.8,1.0
+185,539,Automates23,AUPR19,313407,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,337.28,1.0
+186,540,Automates23,AUPR05,313409,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,356.89,1.0
+187,543,Automates23,AUPR34,313419,2023,Nogent,PCTT Est,Preventif,1.0,1233.06,1.0
+188,544,Automates23,AUPR34,313419,2024,Nogent,PCTT Est,Preventif,2.0,2466.12,2.0
+189,545,Automates23,AUPR23,313423,2023,Bicêtre,PCTT Sud,Preventif,1.0,320.28,1.0
+190,546,Automates23,AUPR23,313423,2024,Bicêtre,PCTT Sud,Preventif,1.0,320.28,1.0
+191,547,Automates23,AUPR10,313425,2024,Sévines,PCTT Ouest,Preventif,1.0,237.75,1.0
+192,548,Automates23,AUPR12,313427,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,871.33,1.0
+193,549,Automates23,AUPR25,313429,2023,Orly,PCTT Sud,Preventif,1.0,273.2,1.0
+194,550,Automates23,AUPR25,313429,2024,Orly,PCTT Sud,Preventif,1.0,273.2,1.0
+195,551,Automates23,AUPR20,313443,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,849.04,1.0
+196,552,Automates23,AUPR44,313445,2024,Taverny,PCTT Nord,Preventif,1.0,418.41,1.0
+197,553,Automates23,AUPR24,313447,2023,Bicêtre,PCTT Sud,Preventif,1.0,1731.08,1.0
+198,554,Automates23,AUPR24,313447,2024,Bicêtre,PCTT Sud,Preventif,1.0,1731.08,1.0
+199,555,Automates23,AUPR06,313449,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,767.18,1.0
+200,564,Automates23,AUPR37,313453,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,503.35,1.0
+201,565,Automates23,AUPR01,313455,2024,Neuilly,PCTT Ouest,Preventif,1.0,276.47,1.0
+202,566,Automates23,AUPR28,313457,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,2131.62,2.0
+203,569,Automates23,AUPR35,313467,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,1358.58,1.0
+204,688,Bat,B2F001,205573,2023,PCTT,PCTT Est,Preventif,643.48,592.0,643.48
+205,699,Bat,B2F001,205573,2024,PCTT,PCTT Est,Preventif,74.99,643.41,74.99
+206,728,Bat,B2P003,205599,2023,Bicêtre,PCTT Sud,Preventif,57.0,7501.26,55.0
+207,729,Bat,B2P003,205599,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,45.0,5850.0,45.0
+208,730,Bat,B2P003,205599,2023,La Courneuve,PCTT Nord,Preventif,4.0,520.0,4.0
+209,731,Bat,B2P003,205599,2023,Landy,PCTT Nord,Preventif,24.0,3120.0,24.0
+210,732,Bat,B2P003,205599,2023,Nanterre / La Défense,PCTT Ouest,Preventif,82.0,10660.0,82.0
+211,733,Bat,B2P003,205599,2023,Orly,PCTT Sud,Preventif,30.0,3950.7,30.0
+212,734,Bat,B2P003,205599,2023,Taverny,PCTT Nord,Preventif,8.0,1040.0,8.0
+213,735,Bat,B2P003,205599,2023,Thiais,PCTT Est,Preventif,50.0,6626.75,50.0
+214,736,Bat,B2P003,205599,2024,Bicêtre,PCTT Sud,Preventif,75.0,10460.25,75.0
+215,737,Bat,B2P003,205599,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,45.0,6276.15,45.0
+216,738,Bat,B2P003,205599,2024,La Courneuve,PCTT Nord,Preventif,4.0,557.88,4.0
+217,739,Bat,B2P003,205599,2024,Landy,PCTT Nord,Preventif,24.0,3347.28,24.0
+218,740,Bat,B2P003,205599,2024,Orly,PCTT Sud,Preventif,40.0,5578.8,40.0
+219,741,Bat,B2P003,205599,2024,Taverny,PCTT Nord,Preventif,8.0,1115.76,8.0
+220,794,Bat,B2P001,205623,2023,Ambroise PARE,PCTT Ouest,Preventif,21.0,2730.0,21.0
+221,795,Bat,B2P001,205623,2023,Bellerive,PCTT Ouest,Preventif,23.0,2990.0,23.0
+222,796,Bat,B2P001,205623,2023,Bicêtre,PCTT Sud,Preventif,26.0,3445.91,26.0
+223,797,Bat,B2P001,205623,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,29.0,3770.0,29.0
+224,798,Bat,B2P001,205623,2023,Boissy-Saint-Léger,PCTT Est,Preventif,8.0,1040.0,8.0
+225,799,Bat,B2P001,205623,2023,Champigny,PCTT Est,Preventif,36.0,4745.91,36.0
+226,800,Bat,B2P001,205623,2023,Chennevières,PCTT Ouest,Preventif,6.0,780.0,6.0
+227,801,Bat,B2P001,205623,2023,La Courneuve,PCTT Nord,Preventif,4.0,520.0,4.0
+228,802,Bat,B2P001,205623,2023,Landy,PCTT Nord,Preventif,20.0,2600.0,20.0
+229,803,Bat,B2P001,205623,2023,Nogent,PCTT Est,Preventif,136.0,18121.09,136.0
+230,804,Bat,B2P001,205623,2023,Orly,PCTT Sud,Preventif,4.0,530.14,4.0
+231,805,Bat,B2P001,205623,2023,PCTT,PCTT Ouest,Preventif,8.0,1040.0,8.0
+234,808,Bat,B2P001,205623,2023,Saint Cloud,PCTT Ouest,Preventif,21.0,2730.0,21.0
+235,809,Bat,B2P001,205623,2023,Taverny,PCTT Nord,Preventif,6.0,780.0,6.0
+236,810,Bat,B2P001,205623,2023,Thiais,PCTT Est,Preventif,17.0,2210.0,17.0
+237,812,Bat,B2P001,205623,2024,Ambroise PARE,PCTT Ouest,Preventif,21.0,2928.87,21.0
+238,813,Bat,B2P001,205623,2024,Antony,PCTT Sud,Preventif,27.0,3765.69,25.0
+239,814,Bat,B2P001,205623,2024,Bellerive,PCTT Ouest,Preventif,23.0,3207.81,23.0
+240,815,Bat,B2P001,205623,2024,Bicêtre,PCTT Sud,Preventif,39.0,5439.33,36.0
+241,816,Bat,B2P001,205623,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,29.0,4044.63,29.0
+242,817,Bat,B2P001,205623,2024,Boissy-Saint-Léger,PCTT Est,Preventif,37.0,5160.39,16.0
+243,818,Bat,B2P001,205623,2024,Champigny,PCTT Est,Preventif,57.0,7949.79,57.0
+244,819,Bat,B2P001,205623,2024,Chennevières,PCTT Ouest,Preventif,6.0,836.82,6.0
+245,820,Bat,B2P001,205623,2024,Fontenay le Fleury,PCTT Ouest,Preventif,10.0,1394.7,10.0
+246,821,Bat,B2P001,205623,2024,Fresnes,PCTT Sud,Preventif,5.0,697.35,5.0
+247,822,Bat,B2P001,205623,2024,La Courneuve,PCTT Nord,Preventif,4.0,557.88,4.0
+248,823,Bat,B2P001,205623,2024,Landy,PCTT Nord,Preventif,20.0,2789.4,20.0
+249,824,Bat,B2P001,205623,2024,Nanterre / La Défense,PCTT Ouest,Preventif,156.0,21757.32,156.0
+250,825,Bat,B2P001,205623,2024,Neuilly,PCTT Ouest,Preventif,8.0,1115.76,8.0
+251,826,Bat,B2P001,205623,2024,Nogent,PCTT Est,Preventif,106.0,14783.82,106.0
+252,827,Bat,B2P001,205623,2024,Orly,PCTT Sud,Preventif,6.0,836.82,6.0
+253,828,Bat,B2P001,205623,2024,PCTT,PCTT Ouest,Preventif,8.0,1115.76,8.0
+255,830,Bat,B2P001,205623,2024,Saint Cloud,PCTT Ouest,Preventif,21.0,2928.87,21.0
+256,831,Bat,B2P001,205623,2024,Sévines,PCTT Ouest,Preventif,12.0,1673.64,12.0
+257,832,Bat,B2P001,205623,2024,Taverny,PCTT Nord,Preventif,6.0,836.82,6.0
+258,833,Bat,B2P001,205623,2024,Thiais,PCTT Est,Preventif,85.0,11854.95,72.0
+259,851,Bat,B2P002,205637,2023,Ambroise PARE,PCTT Ouest,Preventif,4.0,4800.0,4.0
+260,852,Bat,B2P002,205637,2023,Bicêtre,PCTT Sud,Preventif,2.0,2400.0,2.0
+261,853,Bat,B2P002,205637,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,5149.64,4.0
+262,854,Bat,B2P002,205637,2024,Antony,PCTT Sud,Preventif,1.0,1287.41,1.0
+263,855,Bat,B2P002,205637,2024,Bicêtre,PCTT Sud,Preventif,2.0,2574.82,2.0
+264,866,Bat,B2C071,205645,2023,PCTT,PCTT Est,Preventif,1.0,1080.0,1.0
+265,867,Bat,B2C071,205645,2024,PCTT,PCTT Est,Preventif,1.0,1158.67,1.0
+341,1204,Cont Reg,CRO115,213629,2023,Bellerive,PCTT Ouest,Preventif,1.0,625.8,1.0
+342,1205,Cont Reg,CRO115,213629,2024,Bellerive,PCTT Ouest,Preventif,1.0,648.6,1.0
+344,1208,Cont Reg,CRO122,213633,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,432.4,1.0
+345,1209,Cont Reg,CRC101,213635,2023,Antony,PCTT Sud,Preventif,6.0,3754.8,6.0
+346,1210,Cont Reg,CRC101,213635,2023,Nanterre / La Défense,PCTT Ouest,Preventif,73.0,45683.4,73.0
+347,1211,Cont Reg,CRC101,213635,2023,Nogent,PCTT Est,Preventif,3.0,1800.0,3.0
+348,1212,Cont Reg,CRC101,213635,2023,PCTT,PCTT Nord,Preventif,10.0,6000.0,4.0
+349,1213,Cont Reg,CRC101,213635,2023,Saint Cloud,PCTT Ouest,Preventif,5.0,3129.0,5.0
+350,1214,Cont Reg,CRC101,213635,2024,Antony,PCTT Sud,Preventif,8.0,5006.4,8.0
+351,1215,Cont Reg,CRC101,213635,2024,Nanterre / La Défense,PCTT Ouest,Preventif,73.0,47347.8,73.0
+352,1216,Cont Reg,CRC101,213635,2024,Nogent,PCTT Est,Preventif,3.0,1877.4,3.0
+353,1217,Cont Reg,CRC101,213635,2024,PCTT,PCTT Nord,Preventif,10.0,6258.0,10.0
+354,1218,Cont Reg,CRC101,213635,2024,PCTT,PCTT Ouest,Preventif,5.0,3243.0,5.0
+355,1219,Cont Reg,CRO110,213637,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,834.4,2.0
+356,1220,Cont Reg,CRO110,213637,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,864.8,2.0
+357,1221,Cont Reg,CRO121,213639,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,1021.5,2.0
+358,1222,Cont Reg,CRO121,213639,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,540.5,1.0
+359,1223,Cont Reg,CRO116,213641,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,417.2,1.0
+360,1224,Cont Reg,CRO116,213641,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,432.4,1.0
+361,1225,Cont Reg,CRC103,213643,2023,Nogent,PCTT Est,Preventif,1.0,1000.0,1.0
+362,1226,Cont Reg,CRC103,213643,2024,Nogent,PCTT Est,Preventif,1.0,1043.0,1.0
+363,1227,Cont Reg,CRC114,213645,2023,Ambroise PARE,PCTT Ouest,Preventif,5000.0,2500.0,5000.0
+364,1228,Cont Reg,CRC114,213645,2023,Bellerive,PCTT Ouest,Preventif,6600.0,3300.0,6600.0
+365,1229,Cont Reg,CRC114,213645,2023,Bicêtre,PCTT Sud,Preventif,18200.0,9100.0,18200.0
+366,1230,Cont Reg,CRC114,213645,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,938.7,469.35,938.7
+367,1231,Cont Reg,CRC114,213645,2023,Boissy-Saint-Léger,PCTT Est,Preventif,3650.0,1825.0,3650.0
+368,1232,Cont Reg,CRC114,213645,2023,Champigny,PCTT Est,Preventif,3200.0,1600.0,3200.0
+369,1233,Cont Reg,CRC114,213645,2023,La Courneuve,PCTT Nord,Preventif,938.7,469.35,938.7
+370,1234,Cont Reg,CRC114,213645,2023,Landy,PCTT Nord,Preventif,5006.4,2503.2,5006.4
+371,1235,Cont Reg,CRC114,213645,2023,Nanterre / La Défense,PCTT Ouest,Preventif,26500.0,13250.0,26500.0
+372,1236,Cont Reg,CRC114,213645,2023,Neuilly,PCTT Ouest,Preventif,4100.0,2050.0,4100.0
+373,1237,Cont Reg,CRC114,213645,2023,Nogent,PCTT Est,Preventif,10800.0,5400.0,10800.0
+374,1238,Cont Reg,CRC114,213645,2023,Orly,PCTT Sud,Preventif,13500.0,6750.0,13500.0
+376,1241,Cont Reg,CRC114,213645,2023,Saint Cloud,PCTT Ouest,Preventif,4550.0,2275.0,4550.0
+377,1242,Cont Reg,CRC114,213645,2023,Thiais,PCTT Est,Preventif,9960.65,4980.32,9960.65
+378,1243,Cont Reg,CRC114,213645,2024,Ambroise PARE,PCTT Ouest,Preventif,5187.0,2593.5,5187.0
+379,1244,Cont Reg,CRC114,213645,2024,Antony,PCTT Sud,Preventif,7242.7,3621.35,7242.7
+380,1245,Cont Reg,CRC114,213645,2024,Bellerive,PCTT Ouest,Preventif,6846.9,3423.45,6846.0
+381,1246,Cont Reg,CRC114,213645,2024,Bicêtre,PCTT Sud,Preventif,18200.0,9100.0,18200.0
+382,1247,Cont Reg,CRC114,213645,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,13663.3,6831.65,13663.3
+383,1248,Cont Reg,CRC114,213645,2024,Boissy-Saint-Léger,PCTT Est,Preventif,3806.95,1903.48,3806.9
+384,1249,Cont Reg,CRC114,213645,2024,Champigny,PCTT Est,Preventif,5006.4,2503.2,5006.4
+385,1250,Cont Reg,CRC114,213645,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2716.0,1358.0,2716.0
+386,1251,Cont Reg,CRC114,213645,2024,Fresnes,PCTT Sud,Preventif,2270.1,1135.05,2270.1
+387,1252,Cont Reg,CRC114,213645,2024,La Courneuve,PCTT Nord,Preventif,2607.5,1303.75,2607.5
+388,1253,Cont Reg,CRC114,213645,2024,Landy,PCTT Nord,Preventif,6883.8,3441.9,6883.8
+389,1254,Cont Reg,CRC114,213645,2024,Nanterre / La Défense,PCTT Ouest,Preventif,29332.15,14666.07,29332.15
+390,1255,Cont Reg,CRC114,213645,2024,Neuilly,PCTT Ouest,Preventif,2216.05,1108.03,2216.05
+391,1256,Cont Reg,CRC114,213645,2024,Nogent,PCTT Est,Preventif,11264.4,5632.2,11264.4
+392,1257,Cont Reg,CRC114,213645,2024,Orly,PCTT Sud,Preventif,13500.0,6750.0,13500.0
+395,1261,Cont Reg,CRC114,213645,2024,Sévines,PCTT Ouest,Preventif,2864.65,1432.32,2864.65
+396,1262,Cont Reg,CRC114,213645,2024,Taverny,PCTT Nord,Preventif,2607.5,1303.75,2607.5
+397,1263,Cont Reg,CRC114,213645,2024,Thiais,PCTT Est,Preventif,9960.65,4980.32,9960.65
+398,1264,Cont Reg,CRO112,213647,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,625.8,1.0
+399,1265,Cont Reg,CRO112,213647,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,648.6,1.0
+400,1266,Cont Reg,CRO103,213649,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,834.4,1.0
+401,1267,Cont Reg,CRO103,213649,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,864.8,1.0
+402,1268,Cont Reg,CRO119,213651,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,612.9,2.0
+403,1269,Cont Reg,CRO119,213651,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,324.3,1.0
+405,1272,Cont Reg,CRO101,213657,2023,Neuilly,PCTT Ouest,Preventif,1.0,625.8,1.0
+406,1273,Cont Reg,CRO101,213657,2024,Sévines,PCTT Ouest,Preventif,1.0,648.6,1.0
+407,1274,Cont Reg,CRC107,213659,2023,Ambroise PARE,PCTT Ouest,Preventif,4.0,3337.6,4.0
+408,1275,Cont Reg,CRC107,213659,2023,Bellerive,PCTT Ouest,Preventif,6.0,5006.4,6.0
+409,1276,Cont Reg,CRC107,213659,2023,Bicêtre,PCTT Sud,Preventif,4.0,3200.0,4.0
+410,1277,Cont Reg,CRC107,213659,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,13.0,10400.0,13.0
+411,1278,Cont Reg,CRC107,213659,2023,Boissy-Saint-Léger,PCTT Est,Preventif,4.0,3200.0,4.0
+412,1279,Cont Reg,CRC107,213659,2023,Champigny,PCTT Est,Preventif,4.0,3200.0,4.0
+413,1280,Cont Reg,CRC107,213659,2023,Chennevières,PCTT Ouest,Preventif,1.0,834.4,1.0
+414,1281,Cont Reg,CRC107,213659,2023,La Courneuve,PCTT Nord,Preventif,2.0,1600.0,2.0
+415,1282,Cont Reg,CRC107,213659,2023,Landy,PCTT Nord,Preventif,6.0,5006.4,6.0
+416,1283,Cont Reg,CRC107,213659,2023,Nanterre / La Défense,PCTT Ouest,Preventif,23.0,19191.2,23.0
+417,1284,Cont Reg,CRC107,213659,2023,Neuilly,PCTT Ouest,Preventif,4.0,3337.6,4.0
+418,1285,Cont Reg,CRC107,213659,2023,Nogent,PCTT Est,Preventif,9.0,7200.0,9.0
+419,1286,Cont Reg,CRC107,213659,2023,Orly,PCTT Sud,Preventif,2.0,1600.0,2.0
+421,1288,Cont Reg,CRC107,213659,2023,Saint Cloud,PCTT Ouest,Preventif,4.0,3337.6,4.0
+422,1289,Cont Reg,CRC107,213659,2023,Thiais,PCTT Est,Preventif,8.0,6675.2,8.0
+423,1290,Cont Reg,CRC107,213659,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,3459.2,4.0
+424,1291,Cont Reg,CRC107,213659,2024,Antony,PCTT Sud,Preventif,1.0,864.8,1.0
+425,1292,Cont Reg,CRC107,213659,2024,Bellerive,PCTT Ouest,Preventif,6.0,5188.8,6.0
+426,1293,Cont Reg,CRC107,213659,2024,Bicêtre,PCTT Sud,Preventif,4.0,3459.2,4.0
+427,1294,Cont Reg,CRC107,213659,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,13.0,10847.2,13.0
+428,1295,Cont Reg,CRC107,213659,2024,Boissy-Saint-Léger,PCTT Est,Preventif,4.0,3337.6,4.0
+429,1296,Cont Reg,CRC107,213659,2024,Champigny,PCTT Est,Preventif,6.0,5006.4,6.0
+430,1297,Cont Reg,CRC107,213659,2024,Chennevières,PCTT Ouest,Preventif,1.0,864.8,1.0
+431,1298,Cont Reg,CRC107,213659,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,1729.6,2.0
+432,1299,Cont Reg,CRC107,213659,2024,Fresnes,PCTT Sud,Preventif,1.0,864.8,1.0
+433,1300,Cont Reg,CRC107,213659,2024,La Courneuve,PCTT Nord,Preventif,2.0,1668.8,2.0
+434,1301,Cont Reg,CRC107,213659,2024,Landy,PCTT Nord,Preventif,6.0,5006.4,6.0
+435,1302,Cont Reg,CRC107,213659,2024,Nanterre / La Défense,PCTT Ouest,Preventif,23.0,19890.4,23.0
+436,1303,Cont Reg,CRC107,213659,2024,Neuilly,PCTT Ouest,Preventif,2.0,1729.6,2.0
+437,1304,Cont Reg,CRC107,213659,2024,Nogent,PCTT Est,Preventif,9.0,7509.6,9.0
+438,1305,Cont Reg,CRC107,213659,2024,Orly,PCTT Sud,Preventif,2.0,1729.6,2.0
+439,1307,Cont Reg,CRC107,213659,2024,Sévines,PCTT Ouest,Preventif,2.0,1729.6,2.0
+440,1308,Cont Reg,CRC107,213659,2024,Taverny,PCTT Nord,Preventif,2.0,1668.8,2.0
+441,1309,Cont Reg,CRC107,213659,2024,Thiais,PCTT Est,Preventif,8.0,6675.2,8.0
+442,1310,Cont Reg,CRE105,213661,2023,Thiais,PCTT Est,Preventif,1.0,800.0,1.0
+443,1311,Cont Reg,CRE105,213661,2024,Thiais,PCTT Est,Preventif,1.0,834.4,1.0
+444,1312,Cont Reg,CRN113,213663,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,200.0,1.0
+445,1313,Cont Reg,CRN113,213663,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,208.6,1.0
+446,1314,Cont Reg,CRO108,213665,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,834.4,1.0
+447,1315,Cont Reg,CRO108,213665,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,864.8,1.0
+448,1316,Cont Reg,CRN107,213667,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,400.0,1.0
+449,1317,Cont Reg,CRN107,213667,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,417.2,1.0
+450,1318,Cont Reg,CRC102,213669,2023,Antony,PCTT Sud,Preventif,3.0,2503.2,3.0
+451,1319,Cont Reg,CRC102,213669,2023,Nanterre / La Défense,PCTT Ouest,Preventif,34.0,28369.6,34.0
+452,1320,Cont Reg,CRC102,213669,2023,Nogent,PCTT Est,Preventif,11.0,8800.0,11.0
+453,1321,Cont Reg,CRC102,213669,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,1668.8,2.0
+454,1322,Cont Reg,CRC102,213669,2024,Antony,PCTT Sud,Preventif,3.0,2503.2,3.0
+455,1323,Cont Reg,CRC102,213669,2024,Nanterre / La Défense,PCTT Ouest,Preventif,36.0,31132.8,36.0
+456,1324,Cont Reg,CRC102,213669,2024,Nogent,PCTT Est,Preventif,11.0,9178.4,11.0
+457,1325,Cont Reg,CRC102,213669,2024,PCTT,PCTT Ouest,Preventif,2.0,1729.6,2.0
+458,1326,Cont Reg,CRN102,213671,2023,Landy,PCTT Nord,Preventif,1.0,300.0,1.0
+459,1327,Cont Reg,CRN102,213671,2024,Landy,PCTT Nord,Preventif,1.0,312.9,1.0
+460,1328,Cont Reg,CRO120,213675,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,612.9,2.0
+461,1329,Cont Reg,CRO120,213675,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,324.3,1.0
+470,1338,Cont Reg,CRO102,213679,2023,Neuilly,PCTT Ouest,Preventif,2.0,1251.6,2.0
+471,1339,Cont Reg,CRO102,213679,2024,Neuilly,PCTT Ouest,Preventif,2.0,1297.2,2.0
+472,1340,Cont Reg,CRN108,213681,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,300.0,1.0
+473,1341,Cont Reg,CRN108,213681,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,312.9,1.0
+475,1343,Cont Reg,CRN114,213685,2023,Taverny,PCTT Nord,Preventif,1.0,400.0,1.0
+476,1344,Cont Reg,CRN114,213685,2024,Taverny,PCTT Nord,Preventif,1.0,417.2,1.0
+477,1345,Cont Reg,CRO105,213687,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,1251.6,2.0
+478,1346,Cont Reg,CRO105,213687,2024,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,1297.2,2.0
+479,1347,Cont Reg,CRE104,213689,2023,Champigny,PCTT Est,Preventif,1.0,1000.0,1.0
+480,1348,Cont Reg,CRE104,213689,2024,Champigny,PCTT Est,Preventif,1.0,1043.0,1.0
+481,1349,Cont Reg,CRO109,213691,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,834.4,1.0
+482,1350,Cont Reg,CRO109,213691,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,864.8,1.0
+483,1351,Cont Reg,CRN116,213693,2024,PCTT,PCTT Nord,Preventif,1.0,2503.2,1.0
+484,1352,Cont Reg,CRO124,213695,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,2503.2,1.0
+485,1353,Cont Reg,CRO124,213695,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,2594.4,1.0
+486,1354,Cont Reg,CRE102,213697,2023,Nogent,PCTT Est,Preventif,1.0,1200.0,1.0
+487,1355,Cont Reg,CRE102,213697,2024,Nogent,PCTT Est,Preventif,1.0,1251.6,1.0
+488,1356,Cont Reg,CRO106,213699,2023,Nanterre / La Défense,PCTT Ouest,Preventif,5.0,4172.0,5.0
+489,1357,Cont Reg,CRO106,213699,2024,Nanterre / La Défense,PCTT Ouest,Preventif,5.0,4324.0,5.0
+490,1358,Cont Reg,CRN103,213701,2023,Landy,PCTT Nord,Preventif,1.0,300.0,1.0
+491,1359,Cont Reg,CRN103,213701,2024,Landy,PCTT Nord,Preventif,1.0,312.9,1.0
+500,1368,Cont Reg,CRO114,213707,2023,Bellerive,PCTT Ouest,Preventif,1.0,521.5,1.0
+501,1369,Cont Reg,CRO114,213707,2024,Bellerive,PCTT Ouest,Preventif,1.0,540.5,1.0
+502,1370,Cont Reg,CRN110,213709,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,5.0,2068.8,5.0
+503,1371,Cont Reg,CRN110,213709,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,417.2,1.0
+504,1372,Cont Reg,CRO123,213711,2023,Chennevières,PCTT Ouest,Preventif,1.0,521.5,1.0
+505,1373,Cont Reg,CRO123,213711,2024,Chennevières,PCTT Ouest,Preventif,1.0,540.5,1.0
+506,1374,Cont Reg,CRN112,213713,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,400.0,1.0
+507,1375,Cont Reg,CRN112,213713,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,417.2,1.0
+508,1376,Cont Reg,CRN104,213715,2023,Landy,PCTT Nord,Preventif,1.0,200.0,1.0
+509,1377,Cont Reg,CRN104,213715,2024,Landy,PCTT Nord,Preventif,1.0,208.6,1.0
+510,1378,Cont Reg,CRO113,213717,2023,Bellerive,PCTT Ouest,Preventif,1.0,625.8,1.0
+511,1379,Cont Reg,CRO113,213717,2024,Bellerive,PCTT Ouest,Preventif,1.0,648.6,1.0
+512,1380,Cont Reg,CRC104,213719,2023,Chennevières,PCTT Ouest,Preventif,1700.0,510.0,1700.0
+513,1381,Cont Reg,CRC104,213719,2023,Saint Cloud,PCTT Ouest,Preventif,400.0,120.0,400.0
+514,1382,Cont Reg,CRC104,213719,2024,Chennevières,PCTT Ouest,Preventif,1764.0,529.2,1764.0
+515,1383,Cont Reg,CRC104,213719,2024,PCTT,PCTT Ouest,Preventif,400.0,120.0,400.0
+516,1384,Cont Reg,CRE103,213721,2023,Champigny,PCTT Est,Preventif,1.0,1000.0,1.0
+517,1385,Cont Reg,CRE103,213721,2024,Champigny,PCTT Est,Preventif,1.0,1043.0,1.0
+518,1386,Cont Reg,CRN101,213723,2023,Landy,PCTT Nord,Preventif,1.0,300.0,1.0
+519,1387,Cont Reg,CRN101,213723,2024,Landy,PCTT Nord,Preventif,1.0,312.9,1.0
+520,1388,Cont Reg,CRC115,213725,2023,Ambroise PARE,PCTT Ouest,Preventif,1100.0,22.0,1100.0
+521,1389,Cont Reg,CRC115,213725,2023,Bellerive,PCTT Ouest,Preventif,3050.0,61.0,3050.0
+522,1390,Cont Reg,CRC115,213725,2023,Bicêtre,PCTT Sud,Preventif,18200.0,364.0,18200.0
+523,1391,Cont Reg,CRC115,213725,2023,Champigny,PCTT Est,Preventif,7199.0,143.98,7199.0
+524,1392,Cont Reg,CRC115,213725,2023,Chennevières,PCTT Ouest,Preventif,950.0,19.0,950.0
+525,1393,Cont Reg,CRC115,213725,2023,Nanterre / La Défense,PCTT Ouest,Preventif,103099.0,2061.98,103099.0
+526,1394,Cont Reg,CRC115,213725,2023,Neuilly,PCTT Ouest,Preventif,5900.0,118.0,5900.0
+527,1395,Cont Reg,CRC115,213725,2023,Orly,PCTT Sud,Preventif,13500.0,270.0,13500.0
+528,1396,Cont Reg,CRC115,213725,2023,PCTT,PCTT Sud,Preventif,2400.0,48.0,0.0
+531,1400,Cont Reg,CRC115,213725,2023,Saint Cloud,PCTT Ouest,Preventif,2200.0,44.0,2200.0
+532,1401,Cont Reg,CRC115,213725,2024,Ambroise PARE,PCTT Ouest,Preventif,1151.0,23.02,1.0
+533,1402,Cont Reg,CRC115,213725,2024,Bellerive,PCTT Ouest,Preventif,3209.0,64.18,3209.0
+534,1403,Cont Reg,CRC115,213725,2024,Chennevières,PCTT Ouest,Preventif,1000.0,20.0,1000.0
+535,1404,Cont Reg,CRC115,213725,2024,Fontenay le Fleury,PCTT Ouest,Preventif,918.85,18.38,918.85
+536,1405,Cont Reg,CRC115,213725,2024,PCTT,PCTT Sud,Preventif,2400.0,48.0,0.0
+539,1408,Cont Reg,CRC115,213725,2024,Saint Cloud,PCTT Ouest,Preventif,189.1,3.78,189.1
+540,1409,Cont Reg,CRC112,213727,2023,Bicêtre,PCTT Sud,Preventif,1.0,900.0,1.0
+541,1410,Cont Reg,CRC112,213727,2023,Orly,PCTT Sud,Preventif,1.0,900.0,1.0
+542,1411,Cont Reg,CRC112,213727,2024,Antony,PCTT Sud,Preventif,1.0,972.9,1.0
+543,1412,Cont Reg,CRC112,213727,2024,Bicêtre,PCTT Sud,Preventif,1.0,972.9,1.0
+544,1413,Cont Reg,CRC112,213727,2024,Fresnes,PCTT Sud,Preventif,1.0,972.9,1.0
+545,1414,Cont Reg,CRC112,213727,2024,Orly,PCTT Sud,Preventif,1.0,972.9,1.0
+546,1415,Cont Reg,CRS104,213729,2024,Antony,PCTT Sud,Preventif,1.0,864.8,1.0
+547,1416,Cont Reg,CRN105,213731,2023,Landy,PCTT Nord,Preventif,1.0,200.0,0.0
+548,1417,Cont Reg,CRN105,213731,2024,Landy,PCTT Nord,Preventif,1.0,208.6,1.0
+549,1418,Cont Reg,CRE106,213733,2023,Thiais,PCTT Est,Preventif,2.0,1600.0,2.0
+550,1419,Cont Reg,CRE106,213733,2024,Thiais,PCTT Est,Preventif,2.0,1668.8,2.0
+551,1420,Cont Reg,CRN111,213735,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,300.0,1.0
+552,1421,Cont Reg,CRN111,213735,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,312.9,1.0
+561,1430,Cont Reg,CRO111,213743,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,417.2,1.0
+562,1431,Cont Reg,CRO111,213743,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,432.4,1.0
+563,1432,Cont Reg,CRN109,213745,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,200.0,1.0
+564,1433,Cont Reg,CRN109,213745,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,208.6,1.0
+565,1434,Cont Reg,CRS109,213747,2023,Bicêtre,PCTT Sud,Preventif,1.0,800.0,1.0
+566,1435,Cont Reg,CRS109,213747,2024,Bicêtre,PCTT Sud,Preventif,1.0,864.8,1.0
+567,1436,Cont Reg,CRC106,213749,2023,Ambroise PARE,PCTT Ouest,Preventif,4.0,1877.4,4.0
+568,1437,Cont Reg,CRC106,213749,2023,Bellerive,PCTT Ouest,Preventif,7.0,3285.45,7.0
+569,1438,Cont Reg,CRC106,213749,2023,Bicêtre,PCTT Sud,Preventif,28.0,12600.0,28.0
+570,1439,Cont Reg,CRC106,213749,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,6.0,2816.1,6.0
+571,1440,Cont Reg,CRC106,213749,2023,Boissy-Saint-Léger,PCTT Est,Preventif,5.0,2250.0,5.0
+572,1441,Cont Reg,CRC106,213749,2023,Champigny,PCTT Est,Preventif,0.333,150.0,0.333
+573,1442,Cont Reg,CRC106,213749,2023,Chennevières,PCTT Ouest,Preventif,3.0,1408.05,3.0
+574,1443,Cont Reg,CRC106,213749,2023,La Courneuve,PCTT Nord,Preventif,2.0,900.0,2.0
+575,1444,Cont Reg,CRC106,213749,2023,Landy,PCTT Nord,Preventif,4.0,1800.0,4.0
+576,1445,Cont Reg,CRC106,213749,2023,Nanterre / La Défense,PCTT Ouest,Preventif,20.0,9387.0,20.0
+577,1446,Cont Reg,CRC106,213749,2023,Neuilly,PCTT Ouest,Preventif,2.0,938.7,2.0
+578,1447,Cont Reg,CRC106,213749,2023,Nogent,PCTT Est,Preventif,8.0,3600.0,8.0
+579,1448,Cont Reg,CRC106,213749,2023,Orly,PCTT Sud,Preventif,24.0,10800.0,24.0
+581,1451,Cont Reg,CRC106,213749,2023,Saint Cloud,PCTT Ouest,Preventif,3.0,1408.05,3.0
+582,1452,Cont Reg,CRC106,213749,2023,Taverny,PCTT Nord,Preventif,2.0,900.0,2.0
+583,1453,Cont Reg,CRC106,213749,2023,Thiais,PCTT Est,Preventif,7.0,3285.45,7.0
+584,1454,Cont Reg,CRC106,213749,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,1945.8,4.0
+585,1455,Cont Reg,CRC106,213749,2024,Antony,PCTT Sud,Preventif,34.0,16539.3,33.0
+586,1456,Cont Reg,CRC106,213749,2024,Bellerive,PCTT Ouest,Preventif,7.0,3405.15,7.0
+587,1457,Cont Reg,CRC106,213749,2024,Bicêtre,PCTT Sud,Preventif,28.0,13620.6,28.0
+588,1458,Cont Reg,CRC106,213749,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,6.0,2816.1,6.0
+589,1459,Cont Reg,CRC106,213749,2024,Boissy-Saint-Léger,PCTT Est,Preventif,5.0,2346.75,5.0
+590,1460,Cont Reg,CRC106,213749,2024,Chennevières,PCTT Ouest,Preventif,3.0,1459.35,3.0
+591,1461,Cont Reg,CRC106,213749,2024,Fontenay le Fleury,PCTT Ouest,Preventif,3.0,1459.35,3.0
+592,1462,Cont Reg,CRC106,213749,2024,Fresnes,PCTT Sud,Preventif,43.0,20917.35,43.0
+593,1463,Cont Reg,CRC106,213749,2024,La Courneuve,PCTT Nord,Preventif,2.0,938.7,2.0
+594,1464,Cont Reg,CRC106,213749,2024,Landy,PCTT Nord,Preventif,4.0,1877.4,4.0
+595,1465,Cont Reg,CRC106,213749,2024,Nanterre / La Défense,PCTT Ouest,Preventif,20.0,9729.0,20.0
+596,1466,Cont Reg,CRC106,213749,2024,Neuilly,PCTT Ouest,Preventif,1.0,486.45,1.0
+597,1467,Cont Reg,CRC106,213749,2024,Nogent,PCTT Est,Preventif,8.0,3754.8,8.0
+598,1468,Cont Reg,CRC106,213749,2024,Orly,PCTT Sud,Preventif,24.0,11674.8,24.0
+601,1472,Cont Reg,CRC106,213749,2024,Sévines,PCTT Ouest,Preventif,1.0,486.45,1.0
+602,1473,Cont Reg,CRC106,213749,2024,Taverny,PCTT Nord,Preventif,2.0,938.7,2.0
+603,1474,Cont Reg,CRC106,213749,2024,Thiais,PCTT Est,Preventif,7.0,3285.45,7.0
+604,1475,Cont Reg,CRN106,213751,2023,La Courneuve,PCTT Nord,Preventif,1.0,300.0,1.0
+605,1476,Cont Reg,CRN106,213751,2023,PCTT,PCTT Nord,Preventif,1.0,300.0,1.0
+606,1477,Cont Reg,CRN106,213751,2024,La Courneuve,PCTT Nord,Preventif,1.0,312.9,1.0
+607,1478,Cont Reg,CRS110,213753,2023,Orly,PCTT Sud,Preventif,1.0,200.0,1.0
+608,1479,Cont Reg,CRS110,213753,2024,Orly,PCTT Sud,Preventif,1.0,216.2,1.0
+609,1480,Cont Reg,CRS103,213755,2024,Antony,PCTT Sud,Preventif,1.0,864.8,1.0
+610,1481,Cont Reg,CRO117,213757,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,417.2,1.0
+611,1482,Cont Reg,CRO117,213757,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,432.4,1.0
+612,1483,Cont Reg,CRS107,213759,2023,Bicêtre,PCTT Sud,Preventif,1.0,800.0,1.0
+613,1484,Cont Reg,CRS107,213759,2024,Bicêtre,PCTT Sud,Preventif,1.0,864.8,1.0
+614,1485,Cont Reg,CRS111,213761,2023,PCTT,PCTT Sud,Preventif,1.0,2400.0,0.0
+615,1486,Cont Reg,CRS111,213761,2024,PCTT,PCTT Sud,Preventif,1.0,2594.4,0.0
+616,1487,Cont Reg,CRE101,213763,2023,Nogent,PCTT Est,Preventif,1.0,1200.0,1.0
+617,1488,Cont Reg,CRE101,213763,2024,Nogent,PCTT Est,Preventif,1.0,1251.6,1.0
+619,1491,Cont Reg,CRS102,213767,2024,Antony,PCTT Sud,Preventif,1.0,432.4,1.0
+620,1492,Cont Reg,CRO104,213769,2023,Nanterre / La Défense,PCTT Ouest,Preventif,8.0,5006.4,8.0
+621,1493,Cont Reg,CRO104,213769,2024,Nanterre / La Défense,PCTT Ouest,Preventif,8.0,5188.8,8.0
+622,1494,Cont Reg,CRS105,213771,2024,Fresnes,PCTT Sud,Preventif,1.0,432.4,1.0
+623,1495,Cont Reg,CRC105,213773,2024,Antony,PCTT Sud,Preventif,24484.65,7345.4,23852.26
+624,1496,Cont Reg,CRC105,213773,2024,Fresnes,PCTT Sud,Preventif,23349.6,7004.88,23349.6
+625,1497,Cont Reg,CRS108,213775,2023,Bicêtre,PCTT Sud,Preventif,1.0,800.0,1.0
+626,1498,Cont Reg,CRS108,213775,2024,Bicêtre,PCTT Sud,Preventif,1.0,864.8,1.0
+627,1499,Cont Reg,CRO118,213779,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,312.9,1.0
+628,1500,Cont Reg,CRO118,213779,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,324.3,1.0
+631,1503,Cont Reg,CRS101,213783,2024,Antony,PCTT Sud,Preventif,1.0,1297.2,1.0
+632,1509,Cont Reg,CRC111,269898,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,23294.79,3.0
+633,1510,Cont Reg,CRC111,269898,2024,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,23349.6,3.0
+634,1519,Cont Reg,CRE110,284016,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,2400.0,1.0
+635,1520,Cont Reg,CRE110,284016,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,2588.31,1.0
+636,1521,Detection2,DEP025,138481,2023,Antony,PCTT Sud,Preventif,4.0,101.44,4.0
+637,1522,Detection2,DEP022,138485,2023,Antony,PCTT Sud,Preventif,0.0,0.0,0.0
+638,1525,Detection2,DEP011,138493,2023,Taverny,PCTT Nord,Preventif,4.0,5631.8,4.0
+639,1526,Detection2,DEP004,138495,2023,Ambroise PARE,PCTT Ouest,Preventif,8.0,20427.36,4.0
+640,1527,Detection2,DEP201,138497,2023,Ambroise PARE,PCTT Ouest,Preventif,5.0,92.05,5.0
+641,1528,Detection2,DEP201,138497,2023,Bellerive,PCTT Ouest,Preventif,2.0,36.82,2.0
+642,1529,Detection2,DEP201,138497,2023,Bicêtre,PCTT Sud,Preventif,5.0,92.05,5.0
+643,1530,Detection2,DEP201,138497,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,18.41,1.0
+644,1531,Detection2,DEP201,138497,2023,Chennevières,PCTT Ouest,Preventif,9.0,165.69,9.0
+645,1532,Detection2,DEP201,138497,2023,Landy,PCTT Nord,Preventif,5.0,92.05,5.0
+646,1533,Detection2,DEP201,138497,2023,Nanterre / La Défense,PCTT Ouest,Preventif,35.0,644.35,35.0
+647,1534,Detection2,DEP201,138497,2023,Neuilly,PCTT Ouest,Preventif,1.0,18.41,1.0
+648,1535,Detection2,DEP201,138497,2023,Saint Cloud,PCTT Ouest,Preventif,8.0,147.28,8.0
+649,1536,Detection2,DEP017,138499,2023,Antony,PCTT Sud,Preventif,1.0,4077.76,1.0
+650,1537,Detection2,DEP203,138515,2023,Bellerive,PCTT Ouest,Preventif,4.0,53.68,4.0
+651,1538,Detection2,DEP203,138515,2023,Boissy-Saint-Léger,PCTT Est,Preventif,24.0,322.08,24.0
+652,1539,Detection2,DEP203,138515,2023,Champigny,PCTT Est,Preventif,10.0,134.2,10.0
+653,1540,Detection2,DEP203,138515,2023,Landy,PCTT Nord,Preventif,2.0,26.84,2.0
+654,1541,Detection2,DEP203,138515,2023,Nanterre / La Défense,PCTT Ouest,Preventif,33.0,442.86,33.0
+655,1542,Detection2,DEP203,138515,2023,Neuilly,PCTT Ouest,Preventif,5.0,67.1,5.0
+656,1543,Detection2,DEP203,138515,2023,Nogent,PCTT Est,Preventif,7.0,93.94,7.0
+657,1544,Detection2,DEP203,138515,2023,PCTT,PCTT Est,Preventif,5.0,67.1,4.0
+658,1545,Detection2,DEP203,138515,2023,PCTT,PCTT Ouest,Preventif,1.0,13.42,1.0
+659,1546,Detection2,DEP203,138515,2023,Sévines,PCTT Ouest,Preventif,1.0,13.42,1.0
+660,1547,Detection2,DEP012,138523,2023,Landy,PCTT Nord,Preventif,6.0,24123.6,6.0
+661,1550,Detection2,DEP015,138527,2023,Champigny,PCTT Est,Preventif,2.0,4445.56,2.0
+662,1564,Detection2,DEC002,138535,2023,Nanterre / La Défense,PCTT Ouest,Preventif,57.0,4872.93,57.0
+663,1575,Detection2,DEF108,138543,2023,Nanterre / La Défense,PCTT Ouest,Preventif,26.0,22169.16,26.0
+664,1576,Detection2,DEP006,138547,2023,Nanterre / La Défense,PCTT Ouest,Preventif,6.0,59169.66,4.0
+665,1577,Detection2,DEP020,138549,2023,Orly,PCTT Sud,Preventif,2.0,3812.5,2.0
+666,1578,Detection2,DEP202,138551,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,32.66,1.0
+667,1585,Detection2,DEP009,138565,2023,Neuilly,PCTT Ouest,Preventif,6.0,8314.68,4.0
+668,1586,Detection2,DEP005,138569,2023,Bellerive,PCTT Ouest,Preventif,8.0,41097.12,4.0
+669,1588,Detection2,DEP026,138577,2023,Antony,PCTT Sud,Preventif,8.0,152.16,8.0
+670,1589,Detection2,DEP026,138577,2023,Bicêtre,PCTT Sud,Preventif,20.0,380.4,20.0
+671,1590,Detection2,DEP026,138577,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,20.0,380.4,20.0
+672,1591,Detection2,DEP026,138577,2023,Boissy-Saint-Léger,PCTT Est,Preventif,3.0,57.06,3.0
+673,1592,Detection2,DEP026,138577,2023,Champigny,PCTT Est,Preventif,3.0,57.06,3.0
+674,1593,Detection2,DEP026,138577,2023,Landy,PCTT Nord,Preventif,6.0,114.12,6.0
+675,1594,Detection2,DEP026,138577,2023,Nogent,PCTT Est,Preventif,2.0,38.04,2.0
+676,1595,Detection2,DEP026,138577,2023,PCTT,PCTT Ouest,Preventif,98.0,1863.96,69.0
+677,1596,Detection2,DEP026,138577,2023,Saint Cloud,PCTT Ouest,Preventif,33.0,627.66,11.0
+678,1597,Detection2,DEP026,138577,2023,Taverny,PCTT Nord,Preventif,4.0,76.08,4.0
+679,1598,Detection2,DEP003,138581,2023,Saint Cloud,PCTT Ouest,Preventif,8.0,39940.0,4.0
+680,1607,Detection2,DEP100,138589,2023,Bicêtre,PCTT Sud,Preventif,3.0,943.2,3.0
+681,1608,Detection2,DEP100,138589,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,943.2,3.0
+682,1609,Detection2,DEP100,138589,2023,PCTT,PCTT Nord,Preventif,9.0,2829.6,9.0
+683,1610,Detection2,DEP100,138589,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,314.4,1.0
+684,1611,Detection2,DEP023,138591,2023,Antony,PCTT Sud,Preventif,6.0,915.18,6.0
+685,1613,Detection2,DEF105,138601,2023,Nanterre / La Défense,PCTT Ouest,Preventif,31.0,10416.0,31.0
+686,1614,Detection2,DEP104,138605,2023,Nogent,PCTT Est,Preventif,2.0,2817.22,2.0
+687,1618,Detection2,DEP206,138621,2023,Ambroise PARE,PCTT Ouest,Preventif,21.0,281.82,21.0
+688,1619,Detection2,DEP206,138621,2023,Bellerive,PCTT Ouest,Preventif,18.0,241.56,18.0
+689,1620,Detection2,DEP206,138621,2023,Bicêtre,PCTT Sud,Preventif,9.0,120.78,9.0
+690,1621,Detection2,DEP206,138621,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,29.0,389.18,29.0
+691,1622,Detection2,DEP206,138621,2023,Boissy-Saint-Léger,PCTT Est,Preventif,12.0,161.04,12.0
+692,1623,Detection2,DEP206,138621,2023,Champigny,PCTT Est,Preventif,9.0,120.78,9.0
+693,1624,Detection2,DEP206,138621,2023,Chennevières,PCTT Ouest,Preventif,19.0,254.98,19.0
+694,1625,Detection2,DEP206,138621,2023,La Courneuve,PCTT Nord,Preventif,2.0,26.84,2.0
+695,1626,Detection2,DEP206,138621,2023,Landy,PCTT Nord,Preventif,23.0,308.66,23.0
+696,1627,Detection2,DEP206,138621,2023,Nanterre / La Défense,PCTT Ouest,Preventif,135.0,1811.7,135.0
+697,1628,Detection2,DEP206,138621,2023,Neuilly,PCTT Ouest,Preventif,7.0,93.94,7.0
+698,1629,Detection2,DEP206,138621,2023,Nogent,PCTT Est,Preventif,34.0,456.28,34.0
+699,1630,Detection2,DEP206,138621,2023,Orly,PCTT Sud,Preventif,12.0,161.04,12.0
+700,1631,Detection2,DEP206,138621,2023,PCTT,PCTT Est,Preventif,11.0,147.62,0.0
+701,1632,Detection2,DEP206,138621,2023,PCTT,PCTT Ouest,Preventif,6.0,80.52,6.0
+703,1634,Detection2,DEP206,138621,2023,Saint Cloud,PCTT Ouest,Preventif,20.0,268.4,20.0
+704,1635,Detection2,DEP206,138621,2023,Sévines,PCTT Ouest,Preventif,7.0,93.94,7.0
+705,1636,Detection2,DEP206,138621,2023,Thiais,PCTT Est,Preventif,6.0,80.52,6.0
+706,1637,Detection2,DEP008,138623,2023,Nanterre / La Défense,PCTT Ouest,Preventif,6.0,12398.28,4.0
+707,1638,Detection2,DEP014,138633,2023,Nogent,PCTT Est,Preventif,6.0,20839.5,6.0
+708,1639,Detection2,DEP010,138639,2023,Sévines,PCTT Ouest,Preventif,6.0,13862.16,4.0
+709,1641,Detection2,DEP200,138647,2023,Ambroise PARE,PCTT Ouest,Preventif,34.0,1018.98,34.0
+710,1642,Detection2,DEP200,138647,2023,Bellerive,PCTT Ouest,Preventif,28.0,839.16,28.0
+711,1643,Detection2,DEP200,138647,2023,Bicêtre,PCTT Sud,Preventif,30.0,899.1,30.0
+712,1644,Detection2,DEP200,138647,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,88.0,2637.36,88.0
+713,1645,Detection2,DEP200,138647,2023,Champigny,PCTT Est,Preventif,43.0,1288.71,43.0
+714,1646,Detection2,DEP200,138647,2023,Chennevières,PCTT Ouest,Preventif,46.0,1378.62,46.0
+715,1647,Detection2,DEP200,138647,2023,Italie,PCTT Sud,Preventif,30.0,899.1,30.0
+716,1648,Detection2,DEP200,138647,2023,La Courneuve,PCTT Nord,Preventif,9.0,269.73,9.0
+717,1649,Detection2,DEP200,138647,2023,Landy,PCTT Nord,Preventif,51.0,1528.47,51.0
+718,1650,Detection2,DEP200,138647,2023,Nanterre / La Défense,PCTT Ouest,Preventif,195.0,5844.15,195.0
+719,1651,Detection2,DEP200,138647,2023,Neuilly,PCTT Ouest,Preventif,15.0,449.55,15.0
+720,1652,Detection2,DEP200,138647,2023,Nogent,PCTT Est,Preventif,66.0,1978.02,66.0
+721,1653,Detection2,DEP200,138647,2023,Orly,PCTT Sud,Preventif,20.0,599.4,20.0
+722,1654,Detection2,DEP200,138647,2023,PCTT,PCTT Est,Preventif,36.0,1078.92,29.0
+724,1656,Detection2,DEP200,138647,2023,Saint Cloud,PCTT Ouest,Preventif,40.0,1198.8,40.0
+725,1657,Detection2,DEP200,138647,2023,Sévines,PCTT Ouest,Preventif,18.0,539.46,18.0
+726,1658,Detection2,DEP200,138647,2023,Taverny,PCTT Nord,Preventif,16.0,479.52,16.0
+727,1659,Detection2,DEP200,138647,2023,Thiais,PCTT Est,Preventif,55.0,1648.35,55.0
+728,1660,Detection2,DEP018,138649,2023,Bicêtre,PCTT Sud,Preventif,4.0,10232.36,4.0
+729,1665,Detection2,DED104,138663,2023,Ambroise PARE,PCTT Ouest,Preventif,21843.37,3276.52,11629.69
+730,1666,Detection2,DED104,138663,2023,Antony,PCTT Sud,Preventif,5208.5,781.28,5208.5
+731,1667,Detection2,DED104,138663,2023,Bellerive,PCTT Ouest,Preventif,42314.66,6347.19,21766.1
+732,1668,Detection2,DED104,138663,2023,Boissy-Saint-Léger,PCTT Est,Preventif,5296.78,794.52,5296.78
+733,1669,Detection2,DED104,138663,2023,Champigny,PCTT Est,Preventif,5581.54,837.23,5581.54
+734,1670,Detection2,DED104,138663,2023,Chennevières,PCTT Ouest,Preventif,14789.05,2218.36,8317.33
+735,1671,Detection2,DED104,138663,2023,Nanterre / La Défense,PCTT Ouest,Preventif,4872.93,730.94,4872.93
+736,1673,Detection2,DED104,138663,2023,Nogent,PCTT Est,Preventif,22316.1,3347.4,22316.1
+737,1674,Detection2,DED104,138663,2023,PCTT,PCTT Ouest,Preventif,209.22,31.38,209.22
+739,1676,Detection2,DED104,138663,2023,Saint Cloud,PCTT Ouest,Preventif,42206.16,6330.92,21817.72
+740,1679,Detection2,DED104,138663,2023,Thiais,PCTT Est,Preventif,14337.26,2150.58,14337.26
+741,1680,Detection2,DEP013,138671,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,6.0,34715.16,6.0
+742,1682,Detection2,DEP204,138681,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,23.16,1.0
+743,1683,Detection2,DEP204,138681,2023,Bellerive,PCTT Ouest,Preventif,2.0,46.32,2.0
+744,1684,Detection2,DEP204,138681,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,11.0,254.76,11.0
+745,1685,Detection2,DEP204,138681,2023,Champigny,PCTT Est,Preventif,7.0,162.12,7.0
+746,1686,Detection2,DEP204,138681,2023,Chennevières,PCTT Ouest,Preventif,2.0,46.32,2.0
+747,1687,Detection2,DEP204,138681,2023,La Courneuve,PCTT Nord,Preventif,3.0,69.48,3.0
+748,1688,Detection2,DEP204,138681,2023,Landy,PCTT Nord,Preventif,4.0,92.64,4.0
+749,1689,Detection2,DEP204,138681,2023,Nanterre / La Défense,PCTT Ouest,Preventif,6.0,138.96,6.0
+750,1690,Detection2,DEP204,138681,2023,Nogent,PCTT Est,Preventif,3.0,69.48,3.0
+751,1691,Detection2,DEP204,138681,2023,PCTT,PCTT Est,Preventif,9.0,208.44,7.0
+752,1693,Detection2,DEP204,138681,2023,PCTT,PCTT Ouest,Preventif,3.0,69.48,3.0
+755,1696,Detection2,DEP204,138681,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,23.16,1.0
+756,1697,Detection2,DEP204,138681,2023,Taverny,PCTT Nord,Preventif,7.0,162.12,7.0
+757,1702,Detection2,DEP101,138707,2023,Nanterre / La Défense,PCTT Ouest,Preventif,16.0,10121.92,16.0
+758,1703,Detection2,DEP101,138707,2023,Neuilly,PCTT Ouest,Preventif,2.0,1265.24,2.0
+759,1704,Detection2,DEP101,138707,2023,Orly,PCTT Sud,Preventif,1.0,632.62,1.0
+760,1705,Detection2,DEP101,138707,2023,PCTT,PCTT Nord,Preventif,3.0,1897.86,3.0
+761,1706,Detection2,DEP101,138707,2023,Saint Cloud,PCTT Ouest,Preventif,9.0,5693.58,9.0
+762,1707,Detection2,DEP101,138707,2023,Sévines,PCTT Ouest,Preventif,1.0,632.62,1.0
+763,1708,Detection2,DEP101,138707,2023,Thiais,PCTT Est,Preventif,1.0,632.62,1.0
+764,1709,Detection2,DEP001,138711,2023,Chennevières,PCTT Ouest,Preventif,8.0,12943.44,4.0
+765,1710,Detection2,DEP007,138713,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,10267.29,2.0
+766,1713,Detection2,DEP016,138725,2023,Thiais,PCTT Est,Preventif,4.0,9927.96,4.0
+767,1714,Detection2,DEP102,138729,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,944.17,1.0
+768,1715,Detection2,DEP102,138729,2023,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,3776.68,4.0
+769,1716,Detection2,DEP102,138729,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,944.17,1.0
+770,1717,Detection2,DEP102,138729,2023,Thiais,PCTT Est,Preventif,2.0,1888.34,2.0
+771,1718,Detection2,DEP019,138733,2023,Bicêtre,PCTT Sud,Preventif,2.0,3120.8,2.0
+772,1721,Detection2,DEP029,271651,2023,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,4917.64,2.0
+773,1722,Detection2,DEP027,271653,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,3756.54,2.0
+774,1723,Detection2,DEP028,271655,2023,Thiais,PCTT Est,Preventif,2.0,3510.2,2.0
+775,1724,Detection3,DEP005,334214,2024,Bellerive,PCTT Ouest,Preventif,8.0,40256.0,6.0
+776,1725,Detection3,DEP014,334218,2024,Nogent,PCTT Est,Preventif,8.0,41312.0,8.0
+777,1726,Detection3,DEF108,334220,2024,PCTT,PCTT Nord,Preventif,12.0,13164.0,12.0
+778,1728,Detection3,DEC200,334222,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,16.0,368.0,16.0
+779,1729,Detection3,DEC200,334222,2024,La Courneuve,PCTT Nord,Preventif,1.0,23.0,1.0
+780,1730,Detection3,DEC200,334222,2024,Landy,PCTT Nord,Preventif,17.0,391.0,17.0
+781,1731,Detection3,DEC200,334222,2024,PCTT,PCTT Nord,Preventif,1.0,23.0,1.0
+783,1738,Detection3,DEC002,334224,2024,PCTT,PCTT Nord,Preventif,68.0,5848.0,68.0
+784,1745,Detection3,DEP016,334238,2024,Thiais,PCTT Est,Preventif,8.0,47312.0,8.0
+785,1746,Detection3,DEP007,334240,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,15532.0,4.0
+786,1756,Detection3,DEP203,334244,2024,Bellerive,PCTT Ouest,Preventif,4.0,60.0,0.0
+787,1757,Detection3,DEP203,334244,2024,Boissy-Saint-Léger,PCTT Est,Preventif,24.0,360.0,24.0
+788,1758,Detection3,DEP203,334244,2024,Champigny,PCTT Est,Preventif,10.0,150.0,10.0
+789,1759,Detection3,DEP203,334244,2024,Landy,PCTT Nord,Preventif,1.0,15.0,1.0
+790,1760,Detection3,DEP203,334244,2024,Nanterre / La Défense,PCTT Ouest,Preventif,33.0,495.0,33.0
+791,1761,Detection3,DEP203,334244,2024,Neuilly,PCTT Ouest,Preventif,5.0,75.0,5.0
+792,1762,Detection3,DEP203,334244,2024,Nogent,PCTT Est,Preventif,7.0,105.0,7.0
+793,1763,Detection3,DEP203,334244,2024,PCTT,PCTT Ouest,Preventif,5.0,75.0,5.0
+794,1764,Detection3,DEP203,334244,2024,Sévines,PCTT Ouest,Preventif,1.0,15.0,1.0
+795,1766,Detection3,DEP201,334248,2024,Ambroise PARE,PCTT Ouest,Preventif,5.0,100.0,5.0
+796,1767,Detection3,DEP201,334248,2024,Antony,PCTT Sud,Preventif,2.0,40.0,2.0
+797,1768,Detection3,DEP201,334248,2024,Bellerive,PCTT Ouest,Preventif,2.0,40.0,0.0
+798,1769,Detection3,DEP201,334248,2024,Bicêtre,PCTT Sud,Preventif,5.0,100.0,5.0
+799,1770,Detection3,DEP201,334248,2024,Chennevières,PCTT Ouest,Preventif,9.0,180.0,0.0
+800,1771,Detection3,DEP201,334248,2024,Fontenay le Fleury,PCTT Ouest,Preventif,4.0,80.0,4.0
+801,1772,Detection3,DEP201,334248,2024,Landy,PCTT Nord,Preventif,4.0,80.0,4.0
+802,1773,Detection3,DEP201,334248,2024,Nanterre / La Défense,PCTT Ouest,Preventif,35.0,700.0,35.0
+803,1774,Detection3,DEP201,334248,2024,Neuilly,PCTT Ouest,Preventif,1.0,20.0,1.0
+804,1775,Detection3,DEP201,334248,2024,PCTT,PCTT Ouest,Preventif,28.0,560.0,28.0
+805,1776,Detection3,DEP201,334248,2024,Saint Cloud,PCTT Ouest,Preventif,8.0,160.0,0.0
+806,1782,Detection3,DEP206,334258,2024,Ambroise PARE,PCTT Ouest,Preventif,21.0,315.0,21.0
+807,1783,Detection3,DEP206,334258,2024,Antony,PCTT Sud,Preventif,14.0,210.0,14.0
+808,1784,Detection3,DEP206,334258,2024,Bellerive,PCTT Ouest,Preventif,18.0,270.0,0.0
+809,1785,Detection3,DEP206,334258,2024,Bicêtre,PCTT Sud,Preventif,9.0,135.0,9.0
+810,1786,Detection3,DEP206,334258,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,28.0,420.0,28.0
+811,1787,Detection3,DEP206,334258,2024,Boissy-Saint-Léger,PCTT Est,Preventif,12.0,180.0,12.0
+812,1788,Detection3,DEP206,334258,2024,Champigny,PCTT Est,Preventif,9.0,135.0,9.0
+813,1789,Detection3,DEP206,334258,2024,Chennevières,PCTT Ouest,Preventif,19.0,285.0,0.0
+814,1790,Detection3,DEP206,334258,2024,Fontenay le Fleury,PCTT Ouest,Preventif,4.0,60.0,4.0
+815,1791,Detection3,DEP206,334258,2024,Fresnes,PCTT Sud,Preventif,4.0,60.0,4.0
+816,1792,Detection3,DEP206,334258,2024,La Courneuve,PCTT Nord,Preventif,2.0,30.0,2.0
+817,1793,Detection3,DEP206,334258,2024,Landy,PCTT Nord,Preventif,21.0,315.0,21.0
+818,1794,Detection3,DEP206,334258,2024,Nanterre / La Défense,PCTT Ouest,Preventif,135.0,2025.0,135.0
+819,1795,Detection3,DEP206,334258,2024,Neuilly,PCTT Ouest,Preventif,7.0,105.0,7.0
+820,1796,Detection3,DEP206,334258,2024,Nogent,PCTT Est,Preventif,34.0,510.0,34.0
+821,1797,Detection3,DEP206,334258,2024,Orly,PCTT Sud,Preventif,12.0,180.0,12.0
+822,1798,Detection3,DEP206,334258,2024,PCTT,PCTT Nord,Preventif,3.0,45.0,3.0
+823,1799,Detection3,DEP206,334258,2024,PCTT,PCTT Ouest,Preventif,68.0,1020.0,68.0
+826,1802,Detection3,DEP206,334258,2024,Sévines,PCTT Ouest,Preventif,7.0,105.0,7.0
+827,1803,Detection3,DEP206,334258,2024,Thiais,PCTT Est,Preventif,6.0,90.0,6.0
+828,1804,Detection3,DEP006,334262,2024,Nanterre / La Défense,PCTT Ouest,Preventif,8.0,70584.0,8.0
+829,1806,Detection3,DEP101,334268,2024,Antony,PCTT Sud,Preventif,1.0,665.0,1.0
+830,1807,Detection3,DEP101,334268,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,665.0,1.0
+831,1808,Detection3,DEP101,334268,2024,Nanterre / La Défense,PCTT Ouest,Preventif,16.0,10640.0,16.0
+832,1809,Detection3,DEP101,334268,2024,Neuilly,PCTT Ouest,Preventif,2.0,1330.0,2.0
+833,1810,Detection3,DEP101,334268,2024,Orly,PCTT Sud,Preventif,1.0,665.0,1.0
+834,1811,Detection3,DEP101,334268,2024,PCTT,PCTT Nord,Preventif,3.0,1995.0,3.0
+835,1812,Detection3,DEP101,334268,2024,Saint Cloud,PCTT Ouest,Preventif,9.0,5985.0,9.0
+836,1813,Detection3,DEP101,334268,2024,Sévines,PCTT Ouest,Preventif,1.0,665.0,1.0
+837,1814,Detection3,DEP101,334268,2024,Thiais,PCTT Est,Preventif,2.0,1330.0,2.0
+838,1818,Detection3,DEP202,334286,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,35.0,1.0
+839,1819,Detection3,DEP004,334288,2024,Ambroise PARE,PCTT Ouest,Preventif,8.0,24136.0,8.0
+840,1820,Detection3,DEP100,334292,2024,Antony,PCTT Sud,Preventif,3.0,993.0,0.0
+841,1821,Detection3,DEP100,334292,2024,Bicêtre,PCTT Sud,Preventif,3.0,993.0,3.0
+842,1822,Detection3,DEP100,334292,2024,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,993.0,3.0
+843,1823,Detection3,DEP100,334292,2024,PCTT,PCTT Nord,Preventif,9.0,2979.0,9.0
+844,1824,Detection3,DEP100,334292,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,331.0,1.0
+845,1825,Detection3,DEP001,334296,2024,Chennevières,PCTT Ouest,Preventif,8.0,22272.0,4.0
+846,1826,Detection3,DEP012,334304,2024,Landy,PCTT Nord,Preventif,8.0,40864.0,8.0
+847,1827,Detection3,DEP102,334306,2024,Antony,PCTT Sud,Preventif,4.0,3968.0,4.0
+848,1828,Detection3,DEP102,334306,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,1984.0,2.0
+849,1829,Detection3,DEP102,334306,2024,Champigny,PCTT Est,Preventif,4.0,3968.0,4.0
+850,1830,Detection3,DEP102,334306,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,3968.0,4.0
+851,1831,Detection3,DEP102,334306,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,992.0,1.0
+852,1832,Detection3,DEP102,334306,2024,Thiais,PCTT Est,Preventif,4.0,3968.0,4.0
+853,1833,Detection3,DEP205,334312,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,25.0,1.0
+854,1834,Detection3,DEP205,334312,2024,Antony,PCTT Sud,Preventif,26.0,650.0,26.0
+855,1835,Detection3,DEP205,334312,2024,Bellerive,PCTT Ouest,Preventif,2.0,50.0,0.0
+856,1836,Detection3,DEP205,334312,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,9.0,225.0,9.0
+857,1837,Detection3,DEP205,334312,2024,Champigny,PCTT Est,Preventif,7.0,175.0,7.0
+858,1838,Detection3,DEP205,334312,2024,Chennevières,PCTT Ouest,Preventif,2.0,50.0,0.0
+859,1839,Detection3,DEP205,334312,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,50.0,2.0
+860,1840,Detection3,DEP205,334312,2024,Fresnes,PCTT Sud,Preventif,6.0,150.0,6.0
+861,1841,Detection3,DEP205,334312,2024,La Courneuve,PCTT Nord,Preventif,3.0,75.0,3.0
+862,1842,Detection3,DEP205,334312,2024,Landy,PCTT Nord,Preventif,4.0,100.0,4.0
+863,1843,Detection3,DEP205,334312,2024,Nogent,PCTT Est,Preventif,3.0,75.0,3.0
+864,1844,Detection3,DEP205,334312,2024,PCTT,PCTT Nord,Preventif,4.0,100.0,4.0
+865,1845,Detection3,DEP205,334312,2024,PCTT,PCTT Ouest,Preventif,27.0,675.0,27.0
+867,1847,Detection3,DEP205,334312,2024,Saint Cloud,PCTT Ouest,Preventif,20.0,500.0,0.0
+868,1848,Detection3,DEP205,334312,2024,Taverny,PCTT Nord,Preventif,8.0,200.0,8.0
+869,1849,Detection3,DEP010,334318,2024,Sévines,PCTT Ouest,Preventif,8.0,22872.0,8.0
+870,1852,Detection3,DEP008,334326,2024,Nanterre / La Défense,PCTT Ouest,Preventif,8.0,23688.0,8.0
+871,1853,Detection3,DEP204,334328,2024,Nanterre / La Défense,PCTT Ouest,Preventif,6.0,132.0,6.0
+872,1854,Detection3,DEP204,334328,2024,Nogent,PCTT Est,Preventif,9.0,198.0,9.0
+873,1855,Detection3,DEP204,334328,2024,PCTT,PCTT Ouest,Preventif,4.0,88.0,4.0
+874,1856,Detection3,DEP204,334328,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,22.0,0.0
+875,1857,Detection3,DEP200,334330,2024,Ambroise PARE,PCTT Ouest,Preventif,34.0,1088.0,34.0
+876,1858,Detection3,DEP200,334330,2024,Antony,PCTT Sud,Preventif,60.0,1920.0,60.0
+877,1859,Detection3,DEP200,334330,2024,Bellerive,PCTT Ouest,Preventif,28.0,896.0,0.0
+878,1860,Detection3,DEP200,334330,2024,Bicêtre,PCTT Sud,Preventif,60.0,1920.0,60.0
+879,1861,Detection3,DEP200,334330,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,83.0,2656.0,83.0
+880,1862,Detection3,DEP200,334330,2024,Champigny,PCTT Est,Preventif,43.0,1376.0,43.0
+881,1863,Detection3,DEP200,334330,2024,Chennevières,PCTT Ouest,Preventif,46.0,1472.0,0.0
+882,1864,Detection3,DEP200,334330,2024,Fontenay le Fleury,PCTT Ouest,Preventif,32.0,1024.0,32.0
+883,1865,Detection3,DEP200,334330,2024,Fresnes,PCTT Sud,Preventif,44.0,1408.0,44.0
+884,1866,Detection3,DEP200,334330,2024,La Courneuve,PCTT Nord,Preventif,8.0,256.0,8.0
+885,1867,Detection3,DEP200,334330,2024,Landy,PCTT Nord,Preventif,39.0,1248.0,39.0
+886,1868,Detection3,DEP200,334330,2024,Nanterre / La Défense,PCTT Ouest,Preventif,195.0,6240.0,195.0
+887,1869,Detection3,DEP200,334330,2024,Neuilly,PCTT Ouest,Preventif,15.0,480.0,15.0
+888,1870,Detection3,DEP200,334330,2024,Nogent,PCTT Est,Preventif,57.0,1824.0,57.0
+889,1871,Detection3,DEP200,334330,2024,Orly,PCTT Sud,Preventif,20.0,640.0,20.0
+890,1872,Detection3,DEP200,334330,2024,PCTT,PCTT Nord,Preventif,5.0,160.0,5.0
+891,1873,Detection3,DEP200,334330,2024,PCTT,PCTT Ouest,Preventif,180.0,5760.0,180.0
+893,1875,Detection3,DEP200,334330,2024,Saint Cloud,PCTT Ouest,Preventif,40.0,1280.0,0.0
+894,1876,Detection3,DEP200,334330,2024,Sévines,PCTT Ouest,Preventif,18.0,576.0,18.0
+895,1877,Detection3,DEP200,334330,2024,Taverny,PCTT Nord,Preventif,16.0,512.0,16.0
+896,1878,Detection3,DEP200,334330,2024,Thiais,PCTT Est,Preventif,60.0,1920.0,60.0
+897,1881,Detection3,DEP011,334358,2024,Taverny,PCTT Nord,Preventif,6.0,16338.0,4.0
+898,1882,Detection3,DEP003,334360,2024,Saint Cloud,PCTT Ouest,Preventif,8.0,25408.0,8.0
+899,1887,Detection3,DED108,334372,2024,Ambroise PARE,PCTT Ouest,Preventif,1528.0,779.28,1528.0
+900,1889,Detection3,DED108,334372,2024,Antony,PCTT Sud,Preventif,640.0,326.4,640.0
+901,1891,Detection3,DED108,334372,2024,Bellerive,PCTT Ouest,Preventif,1316.0,671.16,0.0
+902,1892,Detection3,DED108,334372,2024,Boissy-Saint-Léger,PCTT Est,Preventif,360.0,183.6,360.0
+903,1893,Detection3,DED108,334372,2024,Champigny,PCTT Est,Preventif,1152.0,587.52,1152.0
+904,1894,Detection3,DED108,334372,2024,Chennevières,PCTT Ouest,Preventif,1987.0,1013.37,0.0
+905,1895,Detection3,DED108,334372,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2428.0,1238.28,1214.0
+906,1896,Detection3,DED108,334372,2024,Fresnes,PCTT Sud,Preventif,640.0,326.4,640.0
+907,1899,Detection3,DED108,334372,2024,Nogent,PCTT Est,Preventif,1720.0,877.2,1720.0
+908,1900,Detection3,DED108,334372,2024,Saint Cloud,PCTT Ouest,Preventif,1962.0,1000.62,0.0
+909,1902,Detection3,DED108,334372,2024,Thiais,PCTT Est,Preventif,960.0,489.6,960.0
+910,1906,Detection3,DEP018,334388,2024,Antony,PCTT Sud,Preventif,3.0,15993.0,3.0
+911,1907,Detection3,DEP013,334392,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,8.0,52120.0,8.0
+912,1912,Detection3,DEP021,334398,2024,Orly,PCTT Sud,Preventif,3.0,8295.0,3.0
+913,1913,Detection3,DEP103,334402,2024,Nogent,PCTT Est,Preventif,4.0,5920.0,4.0
+914,1918,Detection3,DEP009,334412,2024,Neuilly,PCTT Ouest,Preventif,8.0,21360.0,8.0
+915,1919,Detection3,DEP027,334420,2024,Antony,PCTT Sud,Preventif,17.0,391.0,17.0
+916,1920,Detection3,DEP027,334420,2024,Bicêtre,PCTT Sud,Preventif,18.0,414.0,18.0
+917,1921,Detection3,DEP027,334420,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,16.0,368.0,16.0
+918,1922,Detection3,DEP027,334420,2024,Boissy-Saint-Léger,PCTT Est,Preventif,12.0,276.0,9.0
+919,1923,Detection3,DEP027,334420,2024,Champigny,PCTT Est,Preventif,18.0,414.0,12.0
+920,1924,Detection3,DEP027,334420,2024,Landy,PCTT Nord,Preventif,8.0,184.0,8.0
+921,1925,Detection3,DEP027,334420,2024,Nanterre / La Défense,PCTT Ouest,Preventif,87.0,2001.0,87.0
+922,1926,Detection3,DEP027,334420,2024,Nogent,PCTT Est,Preventif,8.0,184.0,8.0
+923,1927,Detection3,DEP027,334420,2024,PCTT,PCTT Ouest,Preventif,73.0,1679.0,59.0
+924,1928,Detection3,DEP027,334420,2024,Taverny,PCTT Nord,Preventif,6.0,138.0,4.0
+925,1929,Detection3,DEP019,334424,2024,Bicêtre,PCTT Sud,Preventif,3.0,18009.0,3.0
+926,1935,Detection3,DEP015,334438,2024,Champigny,PCTT Est,Preventif,8.0,24400.0,8.0
+927,1936,Detection3,DEP017,334448,2024,Boissy-Saint-Léger,PCTT Est,Preventif,8.0,23120.0,6.0
+928,1950,Detection3,DEP020,334462,2024,Bicêtre,PCTT Sud,Preventif,3.0,8229.0,3.0
+929,1956,Detection3,DEF105,334470,2024,PCTT,PCTT Nord,Preventif,56.0,34720.0,56.0
+930,1962,Detection3,DEP002,334486,2024,Fontenay le Fleury,PCTT Ouest,Preventif,8.0,22320.0,2.0
+931,1970,Eclairage,ECPN04,252378,2023,La Courneuve,PCTT Nord,Preventif,4.0,595.6,4.0
+932,1971,Eclairage,ECPN04,252378,2023,La Courneuve,PCTT Ouest,Preventif,2.0,297.8,2.0
+933,1972,Eclairage,ECPN04,252378,2024,La Courneuve,PCTT Nord,Preventif,6.0,913.92,4.0
+934,1976,Eclairage,ECPB55,252382,2023,Chennevières,PCTT Ouest,Preventif,2.0,7019.56,2.0
+935,2005,Eclairage,ECPE14,252430,2024,Champigny,PCTT Est,Preventif,0.2,1978.18,0.2
+936,2006,Eclairage,ECPB64,252434,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,4448.41,0.0
+937,2007,Eclairage,ECPB54,252438,2023,Chennevières,PCTT Ouest,Preventif,2.0,12051.3,2.0
+938,2008,Eclairage,ECPS18,252446,2023,Italie,PCTT Sud,Preventif,2.0,2246.4,2.0
+939,2010,Eclairage,ECPN06,252448,2023,Taverny,PCTT Nord,Preventif,4.0,595.6,4.0
+940,2011,Eclairage,ECPN06,252448,2023,Taverny,PCTT Ouest,Preventif,2.0,297.8,2.0
+941,2012,Eclairage,ECPN06,252448,2024,Taverny,PCTT Nord,Preventif,6.0,913.92,4.0
+942,2013,Eclairage,ECPN16,252450,2023,La Courneuve,PCTT Nord,Preventif,2.0,6469.94,2.0
+943,2015,Eclairage,ECPN05,252458,2023,Landy,PCTT Nord,Preventif,4.0,2978.0,4.0
+944,2016,Eclairage,ECPN05,252458,2024,Landy,PCTT Nord,Preventif,6.0,4569.72,6.0
+945,2017,Eclairage,ECPB56,252474,2024,Chennevières,PCTT Ouest,Preventif,2.0,11375.24,0.0
+946,2026,Eclairage,ECPE60,252500,2024,Champigny,PCTT Est,Preventif,1.5,20589.82,1.5
+947,2027,Eclairage,ECPS05,252506,2023,Bicêtre,PCTT Sud,Preventif,6.0,1360.66,6.0
+948,2028,Eclairage,ECPS05,252506,2024,Bicêtre,PCTT Sud,Preventif,6.0,1401.3,6.0
+949,2061,Eclairage,ECPB66,252540,2024,Bellerive,PCTT Ouest,Preventif,2.0,18302.04,2.0
+950,2080,Eclairage,ECPS14,252556,2023,Orly,PCTT Sud,Preventif,2.0,6739.2,2.0
+951,2088,Eclairage,ECPN68,252564,2023,Taverny,PCTT Nord,Preventif,2.0,10104.28,2.0
+952,2094,Eclairage,ECPS02,252572,2024,Antony,PCTT Sud,Preventif,4.0,1573.88,4.0
+953,2097,Eclairage,ECPE16,252584,2023,Nogent,PCTT Est,Preventif,2.0,40779.84,2.0
+954,2098,Eclairage,ECPE16,252584,2024,Nogent,PCTT Est,Preventif,2.0,41717.78,2.0
+955,2133,Eclairage,ECF57,252616,2024,Champigny,PCTT Est,Preventif,520.0,11169.6,520.0
+956,2174,Eclairage,ECPN02,252644,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,595.6,4.0
+957,2175,Eclairage,ECPN02,252644,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,2.0,297.8,2.0
+958,2176,Eclairage,ECPN02,252644,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,6.0,913.92,4.0
+959,2177,Eclairage,ECPN53,252648,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,25927.92,4.0
+960,2178,Eclairage,ECF56,252650,2024,Champigny,PCTT Est,Preventif,266.0,5043.36,266.0
+961,2198,Eclairage,ECPN01,252698,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.0,3722.52,4.0
+962,2199,Eclairage,ECPN01,252698,2023,PCTT,PCTT Ouest,Preventif,2.0,1861.26,2.0
+963,2200,Eclairage,ECPN01,252698,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,6.0,5712.18,6.0
+964,2217,Eclairage,ECPS10,252710,2023,Bicêtre,PCTT Sud,Preventif,2.0,9961.92,2.0
+965,2221,Eclairage,ECPE18,252714,2023,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,6009.12,2.0
+966,2222,Eclairage,ECPE18,252714,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,6147.32,2.0
+967,2223,Eclairage,ECPS04,252716,2024,Fresnes,PCTT Sud,Preventif,4.0,930.16,4.0
+968,2240,Eclairage,ECPS01,252734,2023,Bicêtre,PCTT Sud,Preventif,6.0,2267.74,6.0
+969,2241,Eclairage,ECPS01,252734,2024,Bicêtre,PCTT Sud,Preventif,6.0,2335.5,6.0
+970,2246,Eclairage,ECPE10,252740,2023,Thiais,PCTT Est,Preventif,2.0,29223.84,2.0
+971,2247,Eclairage,ECPE10,252740,2024,Thiais,PCTT Est,Preventif,2.0,29895.98,2.0
+972,2249,Eclairage,ECF59,252742,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1329.0,2352.33,1329.0
+973,2255,Eclairage,ECPB65,252754,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,5083.9,0.0
+974,2262,Eclairage,ECPE61,252770,2024,Champigny,PCTT Est,Preventif,1.5,18731.0,1.5
+975,2283,Eclairage,ECF54,252788,2024,Champigny,PCTT Est,Preventif,764.0,10963.4,764.0
+976,2287,Eclairage,ECPB68,252792,2024,Bellerive,PCTT Ouest,Preventif,2.0,12392.0,0.0
+977,2316,Eclairage,ECPE58,252802,2024,Champigny,PCTT Est,Preventif,1.5,28120.32,1.5
+978,2322,Eclairage,ECPS03,252816,2023,Orly,PCTT Sud,Preventif,6.0,1340.24,6.0
+979,2323,Eclairage,ECPS03,252816,2024,Orly,PCTT Sud,Preventif,6.0,1380.28,6.0
+980,2324,Eclairage,ECF53,252818,2023,Chennevières,PCTT Ouest,Preventif,614.0,7257.48,614.0
+981,2325,Eclairage,ECF53,252818,2023,Taverny,PCTT Nord,Preventif,186.0,2248.74,186.0
+982,2330,Eclairage,ECPB53,252824,2024,Ambroise PARE,PCTT Ouest,Preventif,2.0,11629.42,0.0
+983,2331,Eclairage,ECPB12,252826,2023,Chennevières,PCTT Ouest,Preventif,2.0,8398.08,2.0
+999,2416,MEC2,EC P 063,134637,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,24177.0,1.0
+1000,2417,MEC2,EC P 026,134641,2023,La Courneuve,PCTT Nord,Preventif,1.0,1695.0,1.0
+1001,2418,MEC2,EC P 052,134643,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,10840.0,0.0
+1002,2419,MEC2,EC P 034,134649,2023,PCTT,PCTT Nord,Preventif,1.0,3982.0,0.0
+1003,2420,MEC2,EC P 010,134655,2023,PCTT,PCTT Ouest,Preventif,3.0,1041.0,3.0
+1005,2423,MEC2,EC P 104,134659,2023,PCTT,PCTT Sud,Preventif,1.0,584.0,1.0
+1006,2424,MEC2,EC P 070,134663,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,8739.0,1.0
+1007,2425,MEC2,EC P 032,134667,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,19011.0,1.0
+1009,2427,MEC2,EC P 049,134673,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,1429.0,1.0
+1010,2428,MEC2,EC P 056,134677,2023,Bellerive,PCTT Ouest,Preventif,1.0,4443.0,1.0
+1011,2429,MEC2,EC P 042,134681,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,4269.0,1.0
+1012,2430,MEC2,EC P 103,134683,2023,Orly,PCTT Sud,Preventif,1.0,793.0,1.0
+1013,2431,MEC2,EC P 031,134685,2023,La Courneuve,PCTT Nord,Preventif,1.0,1168.0,1.0
+1018,2436,MEC2,EC P 069,134695,2023,Chennevières,PCTT Ouest,Preventif,1.0,1784.0,1.0
+1019,2437,MEC2,EC P 025,134701,2023,Landy,PCTT Nord,Preventif,1.0,3717.0,1.0
+1020,2438,MEC2,EC P 007,134703,2023,PCTT,PCTT Ouest,Preventif,10.0,2630.0,10.0
+1022,2440,MEC2,EC P 033,134705,2023,Taverny,PCTT Nord,Preventif,1.0,2666.0,1.0
+1023,2441,MEC2,EC P 050,134707,2023,PCTT,PCTT Ouest,Preventif,1.0,994.0,1.0
+1024,2442,MEC2,EC P 071,134711,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,6401.0,1.0
+1029,2447,MEC2,EC P 067,134717,2023,Bellerive,PCTT Ouest,Preventif,1.0,11630.0,1.0
+1030,2450,MEC2,EC P 066,134723,2023,Sévines,PCTT Ouest,Preventif,1.0,2947.0,1.0
+1031,2451,MEC2,EC P 086,134725,2023,Nogent,PCTT Est,Preventif,1.0,15876.0,1.0
+1032,2452,MEC2,EC P 087,134729,2023,Champigny,PCTT Est,Preventif,1.0,10214.0,1.0
+1033,2453,MEC2,EC P 102,134733,2023,Bicêtre,PCTT Sud,Preventif,1.0,2061.0,1.0
+1034,2454,MEC2,EC P 029,134735,2023,PCTT,PCTT Nord,Preventif,1.0,1141.0,0.0
+1035,2456,MEC2,EC P 044,134741,2023,Sévines,PCTT Ouest,Preventif,1.0,795.0,1.0
+1039,2461,MEC2,EC P 040,134751,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,5511.0,1.0
+1040,2462,MEC2,EC P 043,134755,2023,Neuilly,PCTT Ouest,Preventif,1.0,1075.0,1.0
+1041,2463,MEC2,EC P 065,134757,2023,Neuilly,PCTT Ouest,Preventif,1.0,5448.0,1.0
+1042,2464,MEC2,EC P 027,134761,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,6409.0,1.0
+1043,2465,MEC2,EC P 030,134763,2023,Landy,PCTT Nord,Preventif,1.0,10338.0,1.0
+1044,2466,MEC2,EC P 028,134769,2023,Taverny,PCTT Nord,Preventif,1.0,1444.0,1.0
+1045,2467,MEC2,EC P 058,134771,2023,Chennevières,PCTT Ouest,Preventif,1.0,1763.0,1.0
+1046,2468,MEC2,EC P 064,134773,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,21341.0,1.0
+1047,2470,MEC2,EC P 083,134779,2023,Nogent,PCTT Est,Preventif,1.0,5091.0,1.0
+1048,2471,MEC2,EC P 009,134785,2023,PCTT,PCTT Ouest,Preventif,1.0,282.0,1.0
+1050,2473,MEC2,EC P 048,134789,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,1901.0,1.0
+1051,2474,MEC2,EC P 124,135159,2023,Nanterre / La Défense,PCTT Ouest,Preventif,45518.0,8193.24,45518.0
+1052,2475,MEC2,EC P 124,135159,2023,Neuilly,PCTT Ouest,Preventif,5448.0,980.64,5448.0
+1053,2476,MEC2,EC P 114,135161,2023,PCTT,PCTT Sud,Preventif,1.0,1343.0,1.0
+1054,2477,MEC2,EC P 126,135163,2023,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,1396.0,4.0
+1055,2483,MEC2,EC P 120,135167,2023,Nogent,PCTT Est,Preventif,32.0,1502.08,32.0
+1056,2504,MEC2,EC P 112,135173,2023,Bicêtre,PCTT Sud,Preventif,1.0,6478.0,1.0
+1057,2505,MEC2,EC P 125,135177,2023,Champigny,PCTT Est,Preventif,4.0,10652.0,4.0
+1058,2506,MEC2,EC P 125,135177,2023,Nogent,PCTT Est,Preventif,5.0,13315.0,5.0
+1059,2507,MEC2,EC P 125,135177,2023,Thiais,PCTT Est,Preventif,8.0,21304.0,8.0
+1060,2508,MEC2,EC P 127,135179,2023,Nanterre / La Défense,PCTT Ouest,Preventif,17.0,10761.0,17.0
+1061,2511,MEC2,EC P 113,135185,2023,Orly,PCTT Sud,Preventif,1.0,2869.0,1.0
+1062,2549,MEC2,EC D 002,135205,2023,Ambroise PARE,PCTT Ouest,Preventif,8187.0,2456.1,8187.0
+1063,2551,MEC2,EC D 002,135205,2023,Bellerive,PCTT Ouest,Preventif,15174.0,4552.2,15174.0
+1064,2554,MEC2,EC D 002,135205,2023,Boissy-Saint-Léger,PCTT Est,Preventif,5860.0,1758.0,5860.0
+1065,2556,MEC2,EC D 002,135205,2023,Champigny,PCTT Est,Preventif,3544.0,1063.2,3544.0
+1066,2558,MEC2,EC D 002,135205,2023,Chennevières,PCTT Ouest,Preventif,3961.0,1188.3,3961.0
+1067,2559,MEC2,EC D 002,135205,2023,La Courneuve,PCTT Nord,Preventif,1168.0,350.4,1168.0
+1068,2560,MEC2,EC D 002,135205,2023,Landy,PCTT Nord,Preventif,10338.0,3101.4,10338.0
+1069,2563,MEC2,EC D 002,135205,2023,Nanterre / La Défense,PCTT Ouest,Preventif,53747.0,16124.1,53747.0
+1070,2565,MEC2,EC D 002,135205,2023,Neuilly,PCTT Ouest,Preventif,5448.0,1634.4,5448.0
+1071,2567,MEC2,EC D 002,135205,2023,Nogent,PCTT Est,Preventif,20545.32,6163.6,20545.32
+1072,2568,MEC2,EC D 002,135205,2023,PCTT,PCTT Nord,Preventif,3982.0,1194.6,3982.0
+1073,2570,MEC2,EC D 002,135205,2023,PCTT,PCTT Ouest,Preventif,10799.0,3239.7,10799.0
+1076,2579,MEC2,EC D 002,135205,2023,Saint Cloud,PCTT Ouest,Preventif,10804.0,3241.2,10804.0
+1077,2582,MEC2,EC D 002,135205,2023,Sévines,PCTT Ouest,Preventif,2947.0,884.1,2947.0
+1078,2583,MEC2,EC D 002,135205,2023,Taverny,PCTT Nord,Preventif,2666.0,799.8,2666.0
+1079,2585,MEC2,EC D 002,135205,2023,Thiais,PCTT Est,Preventif,5916.0,1774.8,5916.0
+1080,2592,MEC2,EC C 020,135211,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,632.0,2.0
+1081,2686,MEC2,EC D 020,135257,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,808.0,1.0
+1082,2744,MEC2,EC C 068,135301,2023,Bellerive,PCTT Ouest,Preventif,4.0,1656.0,4.0
+1083,2745,MEC2,EC C 068,135301,2023,Chennevières,PCTT Ouest,Preventif,1.0,414.0,0.0
+1084,2755,MEC2,EC D 012,135309,2023,PCTT,PCTT Ouest,Preventif,32.0,27104.0,32.0
+1085,2780,MEC2,DFP2,189117,2023,Ambroise PARE,PCTT Ouest,Preventif,4.0,1228.0,4.0
+1086,2781,MEC2,DFP2,189117,2023,Bellerive,PCTT Ouest,Preventif,7.0,2149.0,7.0
+1087,2782,MEC2,DFP2,189117,2023,Bicêtre,PCTT Sud,Preventif,3.0,921.0,3.0
+1088,2783,MEC2,DFP2,189117,2023,Boissy-Saint-Léger,PCTT Est,Preventif,10.0,3070.0,10.0
+1089,2784,MEC2,DFP2,189117,2023,Champigny,PCTT Est,Preventif,7.0,2149.0,7.0
+1090,2785,MEC2,DFP2,189117,2023,Nogent,PCTT Est,Preventif,12.0,3684.0,12.0
+1091,2786,MEC2,DFP2,189117,2023,Orly,PCTT Sud,Preventif,2.0,614.0,2.0
+1092,2787,MEC2,DFP2,189117,2023,PCTT,PCTT Nord,Preventif,16.0,4912.0,16.0
+1093,2788,MEC2,DFP2,189117,2023,PCTT,PCTT Ouest,Preventif,17.0,5219.0,17.0
+1094,2789,MEC2,DFP2,189117,2023,Saint Cloud,PCTT Ouest,Preventif,4.0,1228.0,4.0
+1095,2790,MEC2,DFP2,189117,2023,Thiais,PCTT Est,Preventif,12.0,3684.0,12.0
+1096,2794,MEC2,DFP1,189129,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,558.0,2.0
+1097,2795,MEC2,DFP1,189129,2023,Bellerive,PCTT Ouest,Preventif,5.0,1395.0,5.0
+1098,2796,MEC2,DFP1,189129,2023,Bicêtre,PCTT Sud,Preventif,3.0,837.0,3.0
+1099,2797,MEC2,DFP1,189129,2023,Boissy-Saint-Léger,PCTT Est,Preventif,10.0,2790.0,10.0
+1100,2798,MEC2,DFP1,189129,2023,Champigny,PCTT Est,Preventif,5.0,1395.0,5.0
+1101,2799,MEC2,DFP1,189129,2023,Nogent,PCTT Est,Preventif,8.0,2232.0,8.0
+1102,2800,MEC2,DFP1,189129,2023,Orly,PCTT Sud,Preventif,2.0,558.0,2.0
+1103,2801,MEC2,DFP1,189129,2023,PCTT,PCTT Nord,Preventif,13.0,3627.0,13.0
+1104,2802,MEC2,DFP1,189129,2023,PCTT,PCTT Ouest,Preventif,20.0,5580.0,20.0
+1105,2803,MEC2,DFP1,189129,2023,Saint Cloud,PCTT Ouest,Preventif,3.0,837.0,3.0
+1106,2804,MEC2,DFP1,189129,2023,Thiais,PCTT Est,Preventif,8.0,2232.0,8.0
+1108,2879,MEC2,PN N 003,305170,2023,Thiais,PCTT Est,Preventif,1.0,8048.0,1.0
+1109,2880,MEC2,PN N 001,305172,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,5634.0,1.0
+1110,2881,MEC2,PN N 002,305174,2023,Thiais,PCTT Est,Preventif,1.0,13142.0,1.0
+1111,2885,MEC3-Lot1,1059,326785,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,2921.88,1.0
+1112,2902,MEC3-Lot1,1101,326789,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,411.6,1.0
+1114,2923,MEC3-Lot1,870,326803,2024,Antony,PCTT Sud,Preventif,1.0,1651.37,1.0
+1115,2928,MEC3-Lot1,1070,326821,2024,Chennevières,PCTT Ouest,Preventif,1.0,891.29,1.0
+1116,2929,MEC3-Lot1,816,326829,2024,Fresnes,PCTT Sud,Preventif,1.0,2838.68,1.0
+1117,2930,MEC3-Lot1,1004,326831,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,1864.28,1.0
+1120,2934,MEC3-Lot1,950,326853,2024,Neuilly,PCTT Ouest,Preventif,1.0,1975.72,1.0
+1121,2939,MEC3-Lot1,776,326869,2024,Boissy-Saint-Léger,PCTT Est,Preventif,4.0,8709.32,2.0
+1122,2940,MEC3-Lot1,970,326871,2024,Neuilly,PCTT Ouest,Preventif,1.0,5223.14,1.0
+1123,2941,MEC3-Lot1,951,326873,2024,Sévines,PCTT Ouest,Preventif,1.0,1002.64,1.0
+1124,2948,MEC3-Lot1,611,326891,2024,La Courneuve,PCTT Nord,Preventif,1.0,1281.34,1.0
+1125,2966,MEC3-Lot1,620,326909,2024,Landy,PCTT Nord,Preventif,1.0,18151.06,1.0
+1126,2967,MEC3-Lot1,714,326917,2024,Nogent,PCTT Est,Preventif,1.0,6464.83,1.0
+1127,2970,MEC3-Lot1,613,326931,2024,Taverny,PCTT Nord,Preventif,1.0,1099.46,1.0
+1128,2971,MEC3-Lot1,982,326935,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,3899.39,1.0
+1129,2980,MEC3-Lot1,1030,326959,2024,Chennevières,PCTT Ouest,Preventif,1.0,776.44,1.0
+1130,2982,MEC3-Lot1,871,326967,2024,Fresnes,PCTT Sud,Preventif,1.0,2333.66,1.0
+1131,2983,MEC3-Lot1,921,326973,2024,Sévines,PCTT Ouest,Preventif,1.0,2524.93,1.0
+1133,2985,MEC3-Lot1,503,326985,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,100.0,2671.0,100.0
+1134,2986,MEC3-Lot1,503,326985,2024,La Courneuve,PCTT Nord,Preventif,10.0,267.1,10.0
+1135,2987,MEC3-Lot1,503,326985,2024,Landy,PCTT Nord,Preventif,50.0,1335.5,50.0
+1136,2992,MEC3-Lot1,657,326991,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,9825.67,1.0
+1137,3002,MEC3-Lot1,501,327007,2024,Bicêtre,PCTT Sud,Preventif,10.0,12628.5,10.0
+1138,3004,MEC3-Lot1,501,327007,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,10.0,12628.5,10.0
+1139,3005,MEC3-Lot1,501,327007,2024,La Courneuve,PCTT Nord,Preventif,1.52,1919.53,1.52
+1140,3006,MEC3-Lot1,501,327007,2024,Landy,PCTT Nord,Preventif,2.71,3422.32,2.71
+1141,3007,MEC3-Lot1,501,327007,2024,Orly,PCTT Sud,Preventif,4.0,5051.4,4.0
+1142,3009,MEC3-Lot1,501,327007,2024,Taverny,PCTT Nord,Preventif,2.0,2525.7,2.0
+1144,3026,MEC3-Lot1,502,327023,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,10.0,2705.5,10.0
+1145,3027,MEC3-Lot1,502,327023,2024,La Courneuve,PCTT Nord,Preventif,3.0,811.65,3.0
+1146,3028,MEC3-Lot1,502,327023,2024,Landy,PCTT Nord,Preventif,10.0,2705.5,10.0
+1147,3029,MEC3-Lot1,502,327023,2024,Taverny,PCTT Nord,Preventif,2.0,541.1,2.0
+1148,3030,MEC3-Lot1,929,327033,2024,Bellerive,PCTT Ouest,Preventif,1.0,13613.29,1.0
+1149,3049,MEC3-Lot1,619,327049,2024,PCTT,PCTT Nord,Preventif,1.0,1129.02,1.0
+1150,3050,MEC3-Lot1,715,327051,2024,Champigny,PCTT Est,Preventif,1.0,6464.83,1.0
+1152,3097,MEC3-Lot1,602,327077,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,838.93,1.0
+1153,3098,MEC3-Lot1,602,327077,2024,La Courneuve,PCTT Nord,Preventif,1.0,838.93,1.0
+1154,3099,MEC3-Lot1,905,327083,2024,Sévines,PCTT Ouest,Preventif,1.0,1025.35,1.0
+1155,3139,MEC3-Lot1,731,327099,2024,Champigny,PCTT Est,Preventif,1.0,2311.76,1.0
+1156,3140,MEC3-Lot1,947,327103,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,14599.52,1.0
+1157,3151,MEC3-Lot1,948,327115,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,9946.76,1.0
+1158,3152,MEC3-Lot1,653,327117,2024,Taverny,PCTT Nord,Preventif,1.0,1517.53,1.0
+1159,3154,MEC3-Lot1,983,327123,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1559.75,1.0
+1160,3155,MEC3-Lot1,1072,327125,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,3565.15,1.0
+1161,3156,MEC3-Lot1,1034,327127,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,1444.89,1.0
+1163,3160,MEC3-Lot1,631,327143,2024,La Courneuve,PCTT Nord,Preventif,1.0,609.33,1.0
+1164,3161,MEC3-Lot1,651,327147,2024,La Courneuve,PCTT Nord,Preventif,1.0,1816.5,1.0
+1165,3162,MEC3-Lot1,1032,327149,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,1541.51,1.0
+1166,3177,MEC3-Lot1,830,327161,2024,Antony,PCTT Sud,Preventif,1.0,3235.18,1.0
+1167,3179,MEC3-Lot1,775,327165,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1839.83,1.0
+1168,3180,MEC3-Lot1,775,327165,2024,Champigny,PCTT Est,Preventif,2.0,3679.66,2.0
+1169,3181,MEC3-Lot1,984,327171,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1002.7,1.0
+1170,3183,MEC3-Lot1,919,327179,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,15216.39,1.0
+1171,3184,MEC3-Lot1,857,327183,2024,Bicêtre,PCTT Sud,Preventif,1.0,6745.88,1.0
+1172,3197,MEC3-Lot1,402,327189,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,10.0,5899.7,10.0
+1173,3198,MEC3-Lot1,402,327189,2024,Landy,PCTT Nord,Preventif,3.0,1769.91,3.0
+1174,3199,MEC3-Lot1,402,327189,2024,Taverny,PCTT Nord,Preventif,2.0,1179.94,2.0
+1176,3218,MEC3-Lot1,985,327205,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,4456.44,1.0
+1179,3241,MEC3-Lot1,640,327217,2024,Landy,PCTT Nord,Preventif,1.0,6611.22,1.0
+1180,3242,MEC3-Lot1,604,327225,2024,Taverny,PCTT Nord,Preventif,2.0,1530.08,2.0
+1181,3248,MEC3-Lot1,780,327229,2024,Nogent,PCTT Est,Preventif,1.0,4283.06,1.0
+1182,3249,MEC3-Lot1,780,327229,2024,Thiais,PCTT Est,Preventif,1.15,4925.52,1.15
+1183,3251,MEC3-Lot1,773,327235,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,5098.93,1.0
+1184,3253,MEC3-Lot1,671,327239,2024,La Courneuve,PCTT Nord,Preventif,1.0,1202.77,1.0
+1185,3254,MEC3-Lot1,767,327241,2024,Thiais,PCTT Est,Preventif,1.0,6858.38,1.0
+1186,3255,MEC3-Lot1,603,327245,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,11723.34,2.0
+1187,3261,MEC3-Lot1,739,327259,2024,Thiais,PCTT Est,Preventif,1.0,6404.69,1.0
+1188,3276,MEC3-Lot1,815,327285,2024,Antony,PCTT Sud,Preventif,1.0,4889.83,1.0
+1191,3285,MEC3-Lot1,617,327303,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,13275.97,1.0
+1192,3295,MEC3-Lot1,981,327313,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,8244.41,1.0
+1193,3298,MEC3-Lot1,949,327325,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,8890.72,1.0
+1194,3304,MEC3-Lot1,973,327349,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,42382.59,1.0
+1195,3305,MEC3-Lot1,730,327355,2024,Nogent,PCTT Est,Preventif,1.0,2368.01,1.0
+1197,3326,MEC3-Lot1,670,327389,2024,Landy,PCTT Nord,Preventif,1.0,5102.15,1.0
+1198,3327,MEC3-Lot1,903,327395,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,6552.82,1.0
+1199,3333,MEC3-Lot1,920,327413,2024,Neuilly,PCTT Ouest,Preventif,1.0,3921.76,1.0
+1200,3345,MEC3-Lot1,783,327431,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,2041.25,1.0
+1201,3346,MEC3-Lot1,637,327433,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,12038.45,1.0
+1203,3368,MEC3-Lot1,672,327455,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,10449.88,1.0
+1204,3369,MEC3-Lot1,325,327463,2024,Chennevières,PCTT Ouest,Preventif,776.44,388.22,776.44
+1205,3376,MEC3-Lot1,812,327473,2024,Bicêtre,PCTT Sud,Preventif,1.0,3628.92,1.0
+1206,3377,MEC3-Lot1,1073,327475,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,4679.26,1.0
+1207,3384,MEC3-Lot1,837,327481,2024,Bicêtre,PCTT Sud,Preventif,1.0,6404.69,1.0
+1208,3415,MEC3-Lot1,904,327497,2024,Neuilly,PCTT Ouest,Preventif,1.0,1513.02,1.0
+1209,3416,MEC3-Lot1,1011,327505,2024,Chennevières,PCTT Ouest,Preventif,1.0,1294.98,0.0
+1210,3420,MEC3-Lot1,771,327511,2024,Champigny,PCTT Est,Preventif,1.0,9554.96,0.83
+1211,3421,MEC3-Lot1,401,327519,2024,Antony,PCTT Sud,Preventif,4.0,1796.04,4.0
+1212,3422,MEC3-Lot1,401,327519,2024,Bicêtre,PCTT Sud,Preventif,6.0,2694.06,6.0
+1213,3423,MEC3-Lot1,401,327519,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,10.0,4490.1,10.0
+1214,3424,MEC3-Lot1,401,327519,2024,Boissy-Saint-Léger,PCTT Est,Preventif,15.0,6735.15,10.0
+1215,3425,MEC3-Lot1,401,327519,2024,Champigny,PCTT Est,Preventif,19.0,8531.19,14.0
+1216,3426,MEC3-Lot1,401,327519,2024,Fresnes,PCTT Sud,Preventif,4.0,1796.04,4.0
+1217,3427,MEC3-Lot1,401,327519,2024,Landy,PCTT Nord,Preventif,3.0,1347.03,3.0
+1218,3428,MEC3-Lot1,401,327519,2024,Nanterre / La Défense,PCTT Ouest,Preventif,18.0,8082.18,18.0
+1219,3430,MEC3-Lot1,401,327519,2024,Nogent,PCTT Est,Preventif,12.0,5388.12,10.0
+1220,3431,MEC3-Lot1,401,327519,2024,Orly,PCTT Sud,Preventif,4.0,1796.04,4.0
+1221,3432,MEC3-Lot1,401,327519,2024,Taverny,PCTT Nord,Preventif,2.0,898.02,2.0
+1222,3433,MEC3-Lot1,401,327519,2024,Thiais,PCTT Est,Preventif,12.0,5388.12,12.0
+1223,3434,MEC3-Lot1,716,327527,2024,Thiais,PCTT Est,Preventif,1.0,7391.0,1.0
+1224,3435,MEC3-Lot1,747,327529,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1515.78,1.0
+1225,3436,MEC3-Lot1,918,327531,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,16513.43,1.0
+1226,3437,MEC3-Lot1,873,327533,2024,Orly,PCTT Sud,Preventif,1.0,1651.37,1.0
+1227,3446,MEC3-Lot1,121,327535,2024,Ambroise PARE,PCTT Ouest,Preventif,6220.77,6220.77,6220.77
+1228,3448,MEC3-Lot1,121,327535,2024,Antony,PCTT Sud,Preventif,11572.42,11572.42,11572.42
+1229,3451,MEC3-Lot1,121,327535,2024,Bellerive,PCTT Ouest,Preventif,7531.42,7531.42,7531.42
+1230,3454,MEC3-Lot1,121,327535,2024,Bicêtre,PCTT Sud,Preventif,22294.56,22294.56,22294.56
+1231,3457,MEC3-Lot1,121,327535,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,60982.55,60982.55,60982.55
+1232,3458,MEC3-Lot1,121,327535,2024,Boissy-Saint-Léger,PCTT Est,Preventif,26368.89,26368.89,24123.84
+1233,3460,MEC3-Lot1,121,327535,2024,Champigny,PCTT Est,Preventif,29374.45,29374.45,25505.06
+1234,3462,MEC3-Lot1,121,327535,2024,Chennevières,PCTT Ouest,Preventif,3381.3,3381.3,1667.73
+1235,3464,MEC3-Lot1,121,327535,2024,Fontenay le Fleury,PCTT Ouest,Preventif,3103.0,3103.0,3103.0
+1236,3465,MEC3-Lot1,121,327535,2024,Fresnes,PCTT Sud,Preventif,9148.29,9148.29,9148.29
+1237,3470,MEC3-Lot1,121,327535,2024,La Courneuve,PCTT Nord,Preventif,7668.4,7668.4,7668.4
+1238,3472,MEC3-Lot1,121,327535,2024,Landy,PCTT Nord,Preventif,52857.64,52857.64,52857.64
+1239,3474,MEC3-Lot1,121,327535,2024,Nanterre / La Défense,PCTT Ouest,Preventif,69285.71,69285.71,69285.71
+1240,3477,MEC3-Lot1,121,327535,2024,Neuilly,PCTT Ouest,Preventif,7198.86,7198.86,7198.14
+1241,3480,MEC3-Lot1,121,327535,2024,Nogent,PCTT Est,Preventif,16825.73,16825.73,13429.26
+1242,3482,MEC3-Lot1,121,327535,2024,Orly,PCTT Sud,Preventif,12481.46,12481.46,12481.46
+1243,3483,MEC3-Lot1,121,327535,2024,PCTT,PCTT Nord,Preventif,1129.02,1129.02,1129.02
+1247,3496,MEC3-Lot1,121,327535,2024,Saint Cloud,PCTT Ouest,Preventif,5871.73,5871.73,5871.73
+1248,3498,MEC3-Lot1,121,327535,2024,Sévines,PCTT Ouest,Preventif,3157.43,3157.43,3157.43
+1249,3500,MEC3-Lot1,121,327535,2024,Taverny,PCTT Nord,Preventif,10275.66,10275.66,10275.66
+1250,3502,MEC3-Lot1,121,327535,2024,Thiais,PCTT Est,Preventif,18461.95,18461.95,18461.95
+1251,3506,MEC3-Lot1,1001,327551,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,1454.48,1.0
+1252,3507,MEC3-Lot1,971,327561,2024,Sévines,PCTT Ouest,Preventif,1.0,2154.79,1.0
+1253,3513,MEC3-Lot1,986,327581,2024,Bellerive,PCTT Ouest,Preventif,1.0,4567.85,1.0
+1254,3537,MEC3-Lot1,601,327589,2024,Landy,PCTT Nord,Preventif,2.0,6043.0,2.0
+1255,3538,MEC3-Lot1,901,327595,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,7328.66,1.0
+1258,3544,MEC3-Lot1,813,327605,2024,Orly,PCTT Sud,Preventif,1.0,2067.6,1.0
+1259,3549,MEC3-Lot1,633,327617,2024,Taverny,PCTT Nord,Preventif,1.0,776.44,1.0
+1260,3550,MEC3-Lot1,673,327623,2024,Taverny,PCTT Nord,Preventif,1.0,1871.24,1.0
+1261,3551,MEC3-Lot1,1071,327625,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,1114.11,1.0
+1263,3558,MEC3-Lot1,119,327643,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1.0,544.26,1.0
+1265,3560,MEC3-Lot1,952,327647,2024,Bellerive,PCTT Ouest,Preventif,1.0,2963.57,1.0
+1266,3573,MEC3-Lot1,660,327673,2024,Landy,PCTT Nord,Preventif,1.0,14541.27,1.0
+1267,3574,MEC3-Lot1,980,327679,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,5681.96,1.0
+1268,3578,MEC3-Lot1,836,327689,2024,Fresnes,PCTT Sud,Preventif,1.0,2179.91,1.0
+1269,3579,MEC3-Lot1,721,327705,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,4783.29,1.0
+1270,3585,MEC3-Lot1,322,327709,2024,Nanterre / La Défense,PCTT Ouest,Preventif,13.0,8293.09,13.0
+1274,3599,MEC3-Lot1,907,327725,2024,PCTT,PCTT Ouest,Preventif,1.0,1362.97,1.0
+1275,3600,MEC3-Lot1,1031,327731,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,2306.58,1.0
+1276,3603,MEC3-Lot1,781,327735,2024,Champigny,PCTT Est,Preventif,1.0,3210.89,1.0
+1277,3604,MEC3-Lot1,765,327739,2024,Nogent,PCTT Est,Preventif,1.0,4786.54,1.0
+1278,3632,MEC3-Lot1,838,327761,2024,Orly,PCTT Sud,Preventif,1.0,2179.91,1.0
+1279,3633,MEC3-Lot1,858,327763,2024,Orly,PCTT Sud,Preventif,1.0,4786.54,1.0
+1280,3650,MEC3-Lot1,1176,327783,2024,Chennevières,PCTT Ouest,Preventif,1.0,418.59,0.0
+1281,3653,MEC3-Lot1,872,327785,2024,Bicêtre,PCTT Sud,Preventif,1.0,2821.01,1.0
+1282,3654,MEC3-Lot1,917,327787,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,18711.92,1.0
+1283,3655,MEC3-Lot1,321,327789,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,699.15,1.0
+1287,3667,MEC3-Lot1,902,327797,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,6343.66,1.0
+1288,3669,MEC3-Lot1,1003,327801,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,2516.78,1.0
+1315,4096,Onduleur,ONP004,150000,2023,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,343.0,2.0
+1319,4100,Onduleur,ONP004,150000,2023,Thiais,PCTT Est,Preventif,2.0,343.0,2.0
+1320,4126,Onduleur,ONP002,150058,2023,Antony,PCTT Sud,Preventif,2.0,643.84,2.0
+1321,4127,Onduleur,ONP002,150058,2023,Bicêtre,PCTT Sud,Preventif,5.0,1609.6,5.0
+1322,4128,Onduleur,ONP002,150058,2023,PCTT,PCTT Nord,Preventif,10.0,3219.2,10.0
+1323,4129,Onduleur,ONP002,150058,2023,PCTT,PCTT Ouest,Preventif,17.0,5472.64,17.0
+1324,4131,Onduleur,ONP001,150068,2023,Antony,PCTT Sud,Preventif,2.0,581.12,2.0
+1325,4132,Onduleur,ONP001,150068,2023,PCTT,PCTT Est,Preventif,1.0,290.56,1.0
+1326,4133,Onduleur,ONP001,150068,2023,PCTT,PCTT Nord,Preventif,1.0,290.56,1.0
+1327,4134,Onduleur,ONP001,150068,2023,PCTT,PCTT Ouest,Preventif,13.0,3777.28,13.0
+1330,4161,Onduleur,ONP003,150150,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,343.0,1.0
+1331,4162,Onduleur,ONP003,150150,2023,Champigny,PCTT Est,Preventif,2.0,686.0,2.0
+1332,4163,Onduleur,ONP003,150150,2023,Nogent,PCTT Est,Preventif,2.0,686.0,2.0
+1333,4164,Onduleur,ONP003,150150,2023,PCTT,PCTT Nord,Preventif,2.0,686.0,2.0
+1334,4165,Onduleur,ONP003,150150,2023,PCTT,PCTT Ouest,Preventif,11.0,3773.0,11.0
+1335,4166,Onduleur,ONP003,150150,2023,Thiais,PCTT Est,Preventif,3.0,1029.0,3.0
+1336,4174,Onduleur,OND004,150194,2023,Antony,PCTT Sud,Preventif,1224.96,1224.96,0.0
+1337,4196,Onduleur,ONP005,150282,2023,Bicêtre,PCTT Sud,Preventif,5.0,1925.0,5.0
+1338,4197,Onduleur,ONP005,150282,2023,PCTT,PCTT Ouest,Preventif,41.0,15785.0,41.0
+1341,4202,Onduleur2,ONP002,347433,2024,Antony,PCTT Sud,Preventif,3.0,1013.85,3.0
+1342,4203,Onduleur2,ONP002,347433,2024,Bicêtre,PCTT Sud,Preventif,2.0,675.9,2.0
+1343,4204,Onduleur2,ONP002,347433,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,0.0,0.0,0.0
+1344,4205,Onduleur2,ONP002,347433,2024,Italie,PCTT Sud,Preventif,1.0,337.95,1.0
+1345,4206,Onduleur2,ONP002,347433,2024,Nogent,PCTT Est,Preventif,2.0,675.9,2.0
+1346,4208,Onduleur2,ONP002,347433,2024,PCTT,PCTT Ouest,Preventif,9.0,3041.55,9.0
+1347,4209,Onduleur2,ONP001,347435,2024,Antony,PCTT Sud,Preventif,2.0,608.02,2.0
+1348,4210,Onduleur2,ONP001,347435,2024,Nanterre / La Défense,PCTT Ouest,Preventif,18.0,5472.18,18.0
+1349,4211,Onduleur2,ONP001,347435,2024,PCTT,PCTT Est,Preventif,1.0,304.01,1.0
+1350,4212,Onduleur2,ONP001,347435,2024,PCTT,PCTT Ouest,Preventif,4.0,1216.04,4.0
+1351,4213,Onduleur2,ONP001,347435,2024,PCTT,PCTT Sud,Preventif,1.0,304.01,1.0
+1355,4225,Onduleur2,ONC004,347662,2024,Bicêtre,PCTT Sud,Preventif,1.0,3311.2,1.0
+1356,4228,Onduleur2,ONF002,347706,2024,Bicêtre,PCTT Sud,Preventif,99.0,18067.5,99.0
+1357,4234,Onduleur2,ONP005,347734,2024,Bicêtre,PCTT Sud,Preventif,2.0,828.6,2.0
+1358,4235,Onduleur2,ONP005,347734,2024,Champigny,PCTT Est,Preventif,2.0,828.6,2.0
+1359,4236,Onduleur2,ONP005,347734,2024,Italie,PCTT Sud,Preventif,1.0,414.3,1.0
+1360,4237,Onduleur2,ONP005,347734,2024,Nanterre / La Défense,PCTT Ouest,Preventif,29.0,12014.7,29.0
+1361,4238,Onduleur2,ONP005,347734,2024,Nogent,PCTT Est,Preventif,2.0,828.6,2.0
+1362,4240,Onduleur2,ONP005,347734,2024,PCTT,PCTT Est,Preventif,1.0,414.3,1.0
+1363,4241,Onduleur2,ONP005,347734,2024,PCTT,PCTT Ouest,Preventif,13.0,5385.9,13.0
+1364,4242,Onduleur2,ONP005,347734,2024,PCTT,PCTT Sud,Preventif,1.0,414.3,1.0
+1367,4245,Onduleur2,ONP005,347734,2024,Thiais,PCTT Est,Preventif,2.0,828.6,2.0
+1368,4253,Onduleur2,OND003,347820,2024,Bicêtre,PCTT Sud,Preventif,2772.0,27.72,2772.0
+1369,4257,Onduleur2,ONP003,347834,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,0.0,0.0,0.0
+1370,4258,Onduleur2,ONP003,347834,2024,Champigny,PCTT Est,Preventif,2.0,743.76,2.0
+1371,4259,Onduleur2,ONP003,347834,2024,Nanterre / La Défense,PCTT Ouest,Preventif,11.0,4090.68,11.0
+1372,4260,Onduleur2,ONP003,347834,2024,Thiais,PCTT Est,Preventif,3.0,1115.64,3.0
+1373,4261,Onduleur2,ONP007,347840,2024,Bicêtre,PCTT Sud,Preventif,1.0,575.5,1.0
+1376,4267,Onduleur2,OND004,347886,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1419.66,425.9,1419.66
+1377,4279,Pompage,IND400,162455,2023,Nogent,PCTT Est,Preventif,4.0,3064.76,0.0
+1378,4280,Pompage,POE322,162463,2023,PCTT,PCTT Ouest,Preventif,1.0,1555.14,1.0
+1379,4281,Pompage,POP316,162467,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,961.62,1.0
+1380,4283,Pompage,POP312,162473,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,324.68,1.0
+1381,4284,Pompage,POP310,162475,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,517.0,1.0
+1382,4287,Pompage,INF203,162481,2023,Italie,PCTT Sud,Preventif,1.0,1617.72,1.0
+1383,4288,Pompage,POE104,162487,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,461.16,1.0
+1384,4289,Pompage,POE104,162487,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,1.0
+1385,4293,Pompage,POE320,162499,2023,PCTT,PCTT Ouest,Preventif,1.0,925.43,1.0
+1386,4294,Pompage,POE500,162503,2023,Antony,PCTT Sud,Preventif,5.0,1395.9,1.0
+1387,4295,Pompage,POE314,162505,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,931.63,1.0
+1388,4296,Pompage,IND502,162511,2023,Antony,PCTT Sud,Preventif,13856.35,3693.81,6578.8
+1389,4297,Pompage,IND502,162511,2023,Bicêtre,PCTT Sud,Preventif,29796.0,8044.92,29796.0
+1390,4298,Pompage,IND502,162511,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1418.24,382.92,1418.24
+1391,4300,Pompage,IND502,162511,2023,Champigny,PCTT Est,Preventif,8137.08,2134.55,8137.08
+1392,4301,Pompage,IND502,162511,2023,Italie,PCTT Sud,Preventif,8078.0,2181.06,8078.0
+1393,4305,Pompage,IND502,162511,2023,Nanterre / La Défense,PCTT Ouest,Preventif,9093.0,2364.19,9093.0
+1394,4306,Pompage,IND502,162511,2023,Neuilly,PCTT Ouest,Preventif,1036.07,269.38,1036.07
+1395,4309,Pompage,IND502,162511,2023,Nogent,PCTT Est,Preventif,8116.0,2110.15,7929.88
+1396,4311,Pompage,IND502,162511,2023,Orly,PCTT Sud,Preventif,5432.98,1466.9,5432.98
+1397,4312,Pompage,IND502,162511,2023,PCTT,PCTT Ouest,Preventif,51.7,13.44,51.7
+1398,4314,Pompage,IND502,162511,2023,Sévines,PCTT Ouest,Preventif,518.03,134.69,518.03
+1399,4316,Pompage,IND502,162511,2023,Thiais,PCTT Est,Preventif,2797.46,734.9,2797.46
+1400,4317,Pompage,POD006,162513,2023,Boissy-Saint-Léger,PCTT Est,Preventif,4.0,2289.96,4.0
+1401,4318,Pompage,IND203,162523,2023,Nogent,PCTT Est,Preventif,2.0,339.16,2.0
+1402,4319,Pompage,POE304,162527,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1091.9,1.0
+1403,4320,Pompage,INP101,162529,2023,PCTT,PCTT Ouest,Preventif,1.0,2878.66,1.0
+1404,4321,Pompage,INP700,162531,2023,Nanterre / La Défense,PCTT Ouest,Preventif,7.0,2062.83,0.0
+1405,4322,Pompage,INP700,162531,2023,PCTT,PCTT Ouest,Preventif,9.0,2652.21,9.0
+1406,4323,Pompage,POE600,162533,2023,Bicêtre,PCTT Sud,Preventif,4.0,207.3,4.0
+1407,4324,Pompage,POE600,162533,2023,Nogent,PCTT Est,Preventif,2.0,103.65,2.0
+1408,4325,Pompage,POE600,162533,2023,PCTT,PCTT Ouest,Preventif,9.0,465.3,9.0
+1409,4326,Pompage,POE600,162533,2023,Thiais,PCTT Est,Preventif,2.0,103.4,2.0
+1410,4328,Pompage,POP104,162539,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,1.0
+1411,4329,Pompage,POE404,162543,2023,Bicêtre,PCTT Sud,Preventif,1.0,231.7,1.0
+1412,4330,Pompage,POP304,162545,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,651.42,1.0
+1413,4334,Pompage,POP315,162561,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,438.42,1.0
+1414,4336,Pompage,POC011,162563,2023,PCTT,PCTT Ouest,Preventif,8.0,744.48,8.0
+1415,4337,Pompage,POC011,162563,2023,PCTT,PCTT Sud,Preventif,10.0,932.85,9.0
+1416,4341,Pompage,POE321,162581,2023,PCTT,PCTT Ouest,Preventif,1.0,857.19,1.0
+1417,4342,Pompage,INP201,162583,2023,Thiais,PCTT Est,Preventif,1.0,1020.56,1.0
+1418,4348,Pompage,IND302,162589,2023,Champigny,PCTT Est,Preventif,2.0,1890.98,2.0
+1419,4359,Pompage,INP204,162591,2023,Thiais,PCTT Est,Preventif,1.0,1020.56,1.0
+1420,4360,Pompage,POE307,162595,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,984.37,1.0
+1421,4361,Pompage,INP307,162597,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1446.57,1.0
+1422,4362,Pompage,INP600,162599,2023,Nanterre / La Défense,PCTT Ouest,Preventif,7.0,2156.91,0.0
+1423,4363,Pompage,INP104,162601,2023,PCTT,PCTT Ouest,Preventif,1.0,1093.97,1.0
+1424,4371,Pompage,POP103,162615,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,1.0
+1425,4373,Pompage,POP311,162619,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,625.57,1.0
+1426,4376,Pompage,INP301,162625,2023,PCTT,PCTT Ouest,Preventif,1.0,1183.93,1.0
+1427,4377,Pompage,POE401,162627,2023,Antony,PCTT Sud,Preventif,1.0,5786.26,0.896
+1428,4379,Pompage,POD005,162645,2023,Antony,PCTT Sud,Preventif,2.0,2163.12,2.0
+1429,4380,Pompage,INP102,162663,2023,PCTT,PCTT Ouest,Preventif,1.0,575.94,1.0
+1430,4382,Pompage,INP312,162667,2023,PCTT,PCTT Ouest,Preventif,1.0,2170.37,1.0
+1431,4383,Pompage,INP901,162673,2023,Bicêtre,PCTT Sud,Preventif,216.0,12566.88,216.0
+1432,4384,Pompage,INP901,162673,2023,Italie,PCTT Sud,Preventif,58.0,3374.44,58.0
+1433,4385,Pompage,INP901,162673,2023,Orly,PCTT Sud,Preventif,32.0,1861.76,32.0
+1434,4386,Pompage,INP901,162673,2023,Thiais,PCTT Est,Preventif,13.0,756.34,13.0
+1435,4387,Pompage,POE315,162675,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,931.63,1.0
+1436,4389,Pompage,POE701,162681,2023,Antony,PCTT Sud,Preventif,70.0,10310.76,52.62
+1437,4391,Pompage,POE701,162681,2023,Bellerive,PCTT Ouest,Preventif,98.654,14536.17,98.654
+1438,4394,Pompage,POE701,162681,2023,Nanterre / La Défense,PCTT Ouest,Preventif,711.595,104483.51,675.565
+1439,4395,Pompage,POE701,162681,2023,Nogent,PCTT Est,Preventif,33.62,4937.7,33.62
+1440,4396,Pompage,POE701,162681,2023,PCTT,PCTT Ouest,Preventif,47.0,6901.01,47.0
+1441,4400,Pompage,IND501,162685,2023,Tous tunnels,UPMM,Preventif,10.0,25029.5,3.0
+1442,4402,Pompage,INP103,162707,2023,PCTT,PCTT Ouest,Preventif,1.0,1424.85,1.0
+1443,4403,Pompage,POE702,162711,2023,Antony,PCTT Sud,Preventif,70.0,3557.94,52.62
+1444,4405,Pompage,POE702,162711,2023,Bellerive,PCTT Ouest,Preventif,96.093,4885.61,96.093
+1445,4408,Pompage,POE702,162711,2023,Nogent,PCTT Est,Preventif,31.82,1612.32,31.82
+1446,4409,Pompage,POE702,162711,2023,PCTT,PCTT Ouest,Preventif,64.0,3242.88,64.0
+1447,4412,Pompage,POC706,162725,2023,Nogent,PCTT Est,Preventif,1.0,248.16,1.0
+1448,4413,Pompage,POC703,162729,2023,Nogent,PCTT Est,Preventif,1.0,1361.78,1.0
+1449,4414,Pompage,INP403,162731,2023,Orly,PCTT Sud,Preventif,1.0,1224.98,1.0
+1450,4415,Pompage,POE309,162733,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,924.4,1.0
+1451,4416,Pompage,POE323,162735,2023,PCTT,PCTT Ouest,Preventif,1.0,922.33,1.0
+1452,4417,Pompage,INP305,162739,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1688.52,1.0
+1453,4420,Pompage,POE403,162743,2023,Bicêtre,PCTT Sud,Preventif,1.0,231.7,1.0
+1454,4421,Pompage,INP302,162745,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,5957.91,1.0
+1455,4422,Pompage,INP800,162747,2023,Bicêtre,PCTT Sud,Preventif,4340.0,13540.8,4340.0
+1456,4423,Pompage,INP800,162747,2023,Champigny,PCTT Est,Preventif,1700.0,5270.0,1700.0
+1457,4424,Pompage,INP800,162747,2023,Italie,PCTT Sud,Preventif,960.0,2995.2,960.0
+1458,4425,Pompage,INP800,162747,2023,Orly,PCTT Sud,Preventif,752.0,2346.24,752.0
+1459,4426,Pompage,POP314,162753,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,438.42,1.0
+1460,4430,Pompage,INP304,162759,2023,PCTT,PCTT Ouest,Preventif,1.0,518.03,1.0
+1461,4434,Pompage,INP311,162765,2023,PCTT,PCTT Ouest,Preventif,1.0,1326.62,1.0
+1462,4435,Pompage,INP309,162767,2023,Neuilly,PCTT Ouest,Preventif,1.0,1036.07,1.0
+1463,4438,Pompage,POE207,162773,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1418.24,1.0
+1464,4439,Pompage,POE201,162775,2023,Nogent,PCTT Est,Preventif,1.0,1384.53,1.0
+1465,4441,Pompage,POC701,162777,2023,Nogent,PCTT Est,Preventif,1.0,736.21,1.0
+1466,4442,Pompage,POD502,162783,2023,Bellerive,PCTT Ouest,Preventif,69.663,19832.4,69.663
+1467,4446,Pompage,IND301,162789,2023,Bicêtre,PCTT Sud,Preventif,12.0,4862.52,12.0
+1468,4449,Pompage,IND301,162789,2023,Italie,PCTT Sud,Preventif,5.0,2026.05,5.0
+1469,4457,Pompage,POE101,162811,2023,Landy,PCTT Nord,Preventif,1.0,461.16,1.0
+1470,4458,Pompage,POE101,162811,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,2.0
+1471,4460,Pompage,INP310,162823,2023,Sévines,PCTT Ouest,Preventif,1.0,518.03,1.0
+1472,4461,Pompage,POD003,162825,2023,Nogent,PCTT Est,Preventif,1.0,2029.74,1.0
+1473,4462,Pompage,POD003,162825,2023,PCTT,PCTT Ouest,Preventif,1.0,2029.74,1.0
+1474,4463,Pompage,POE311,162829,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,701.05,1.0
+1475,4464,Pompage,INP202,162839,2023,Nogent,PCTT Est,Preventif,1.0,2734.93,1.0
+1476,4467,Pompage,POP309,162849,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,672.1,1.0
+1477,4470,Pompage,IND205,162855,2023,Nogent,PCTT Est,Preventif,1.0,122.01,1.0
+1478,4475,Pompage,POE103,162867,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,461.16,1.0
+1479,4476,Pompage,POE103,162867,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,1.9
+1480,4477,Pompage,POE102,162869,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,461.16,1.0
+1481,4478,Pompage,POE102,162869,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,2.0
+1482,4479,Pompage,POE308,162873,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1204.61,1.0
+1483,4484,Pompage,POC707,162885,2023,Nogent,PCTT Est,Preventif,2.0,372.24,1.0
+1484,4485,Pompage,POE325,162891,2023,PCTT,PCTT Ouest,Preventif,1.0,1032.97,1.0
+1485,4486,Pompage,POE316,162893,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1631.65,1.0
+1486,4488,Pompage,POE310,162897,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,925.43,1.0
+1487,4490,Pompage,POP308,162901,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,701.05,1.0
+1488,4494,Pompage,POP307,162907,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,551.12,1.0
+1489,4499,Pompage,INP001,162917,2023,Champigny,PCTT Est,Preventif,1.0,107.54,1.0
+1490,4500,Pompage,INP001,162917,2023,Nogent,PCTT Est,Preventif,3.0,322.62,3.0
+1491,4502,Pompage,IND115,162927,2023,Nogent,PCTT Est,Preventif,2.0,1404.18,2.0
+1492,4505,Pompage,POE324,162937,2023,PCTT,PCTT Ouest,Preventif,1.0,701.05,1.0
+1493,4506,Pompage,POE319,162941,2023,PCTT,PCTT Ouest,Preventif,1.0,925.43,1.0
+1494,4507,Pompage,INP203,162943,2023,Champigny,PCTT Est,Preventif,1.0,868.56,1.0
+1495,4508,Pompage,POP101,162945,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,2.0
+1496,4509,Pompage,POE312,162947,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,399.12,1.0
+1497,4510,Pompage,POP313,162955,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,750.68,1.0
+1498,4511,Pompage,POE313,162959,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1425.89,1.0
+1499,4512,Pompage,POD501,162965,2023,Antony,PCTT Sud,Preventif,70.0,7987.1,52.62
+1500,4513,Pompage,POD501,162965,2023,Bellerive,PCTT Ouest,Preventif,27.0,3070.98,27.0
+1501,4514,Pompage,POD501,162965,2023,Nogent,PCTT Est,Preventif,35.0,3980.9,35.0
+1502,4515,Pompage,POD501,162965,2023,PCTT,PCTT Ouest,Preventif,47.0,5345.78,47.0
+1503,4516,Pompage,INP105,162967,2023,PCTT,PCTT Ouest,Preventif,1.0,2734.93,1.0
+1504,4518,Pompage,POP102,162987,2023,PCTT,PCTT Ouest,Preventif,2.0,922.32,1.4
+1505,4521,Pompage 2,POD008,365000,2024,Antony,PCTT Sud,Preventif,2.0,3552.0,2.0
+1506,4522,Pompage 2,POD008,365000,2024,Nogent,PCTT Est,Preventif,1.0,1776.0,1.0
+1507,4524,Pompage 2,INP306,365014,2024,Bellerive,PCTT Ouest,Preventif,1.0,1922.0,1.0
+1508,4525,Pompage 2,INP304,365018,2024,Bellerive,PCTT Ouest,Preventif,1.0,1441.0,0.0
+1509,4526,Pompage 2,POP314,365036,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,549.0,1.0
+1510,4527,Pompage 2,POE401,365038,2024,Antony,PCTT Sud,Preventif,1.0,6863.0,0.0
+1511,4528,Pompage 2,POP304,365040,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1512,4529,Pompage 2,POP315,365046,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,549.0,1.0
+1513,4530,Pompage 2,POP307,365054,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1514,4531,Pompage 2,INP500,365060,2024,Nanterre / La Défense,PCTT Ouest,Preventif,6.0,4944.0,6.0
+1515,4532,Pompage 2,POD003,365062,2024,Antony,PCTT Sud,Preventif,6.0,552.0,5.8
+1516,4533,Pompage 2,POD003,365062,2024,Fresnes,PCTT Sud,Preventif,16.0,1472.0,6.43
+1517,4534,Pompage 2,INP305,365078,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1922.0,1.0
+1518,4535,Pompage 2,POP316,365092,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1098.0,1.0
+1519,4536,Pompage 2,POD011,365120,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,4.36,2786.04,4.36
+1520,4538,Pompage 2,INP600,365138,2024,Ambroise PARE,PCTT Ouest,Preventif,2.0,1648.0,2.0
+1521,4539,Pompage 2,INP600,365138,2024,Antony,PCTT Sud,Preventif,2.0,1648.0,2.0
+1522,4540,Pompage 2,INP600,365138,2024,Bellerive,PCTT Ouest,Preventif,4.0,3296.0,4.0
+1523,4541,Pompage 2,INP600,365138,2024,Chennevières,PCTT Ouest,Preventif,1.0,824.0,1.0
+1524,4542,Pompage 2,INP600,365138,2024,PCTT,PCTT Ouest,Preventif,7.0,5768.0,7.0
+1525,4543,Pompage 2,INP600,365138,2024,Saint Cloud,PCTT Ouest,Preventif,2.0,1648.0,2.0
+1526,4546,Pompage 2,POP311,365148,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,412.0,1.0
+1527,4547,Pompage 2,POE600,365150,2024,Bicêtre,PCTT Sud,Preventif,3.0,1647.0,0.0
+1528,4548,Pompage 2,POE600,365150,2024,Nanterre / La Défense,PCTT Ouest,Preventif,15.0,8235.0,15.0
+1529,4549,Pompage 2,INP700,365152,2024,Bicêtre,PCTT Sud,Preventif,12.0,2472.0,12.0
+1530,4550,Pompage 2,INP700,365152,2024,Champigny,PCTT Est,Preventif,32.0,6592.0,0.0
+1531,4551,Pompage 2,INP700,365152,2024,Italie,PCTT Sud,Preventif,6.0,1236.0,6.0
+1532,4552,Pompage 2,INP700,365152,2024,Orly,PCTT Sud,Preventif,2.0,412.0,2.0
+1533,4554,Pompage 2,POE403,365178,2024,Bicêtre,PCTT Sud,Preventif,1.0,824.0,0.0
+1534,4555,Pompage 2,INP310,365180,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,1922.0,1.0
+1535,4556,Pompage 2,POE402,365182,2024,Antony,PCTT Sud,Preventif,1.0,2265.0,0.0
+1536,4557,Pompage 2,INP404,365186,2024,Italie,PCTT Sud,Preventif,1.0,961.0,1.0
+1537,4562,Pompage 2,POP308,365202,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1538,4563,Pompage 2,POP309,365208,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1539,4568,Pompage 2,POA104,365220,2024,Antony,PCTT Sud,Preventif,2052.0,1026.0,1973.72
+1540,4569,Pompage 2,POA104,365220,2024,Boissy-Saint-Léger,PCTT Est,Preventif,3004.0,1502.0,1502.0
+1541,4570,Pompage 2,POA104,365220,2024,Fresnes,PCTT Sud,Preventif,5472.0,2736.0,2197.83
+1542,4571,Pompage 2,POA104,365220,2024,Nanterre / La Défense,PCTT Ouest,Preventif,824.0,412.0,824.0
+1543,4572,Pompage 2,POP310,365222,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1544,4574,Pompage 2,POE404,365236,2024,Bicêtre,PCTT Sud,Preventif,1.0,824.0,0.0
+1545,4575,Pompage 2,INP403,365258,2024,Orly,PCTT Sud,Preventif,1.0,1922.0,1.0
+1546,4576,Pompage 2,POD010,365286,2024,Antony,PCTT Sud,Preventif,6.0,1242.0,5.8
+1547,4577,Pompage 2,POD010,365286,2024,Fresnes,PCTT Sud,Preventif,16.0,3312.0,6.43
+1548,4578,Pompage 2,POD010,365286,2024,PCTT,PCTT Ouest,Preventif,35.332,7313.79,35.332
+1549,4581,Pompage 2,INP405,365298,2024,Bicêtre,PCTT Sud,Preventif,1.0,2402.0,1.0
+1550,4583,Pompage 2,POE208,365306,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,3004.0,1.0
+1551,4586,Pompage 2,INP401,365324,2024,Antony,PCTT Sud,Preventif,1.0,1441.0,1.0
+1552,4587,Pompage 2,POD002,365328,2024,Antony,PCTT Sud,Preventif,6.0,1500.0,5.8
+1553,4588,Pompage 2,POD002,365328,2024,Fresnes,PCTT Sud,Preventif,16.0,4000.0,6.43
+1554,4589,Pompage 2,POD002,365328,2024,PCTT,PCTT Ouest,Preventif,35.332,8833.07,35.332
+1555,4590,Pompage 2,INP308,365340,2024,Neuilly,PCTT Ouest,Preventif,1.0,2745.0,1.0
+1556,4591,Pompage 2,POP313,365344,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,824.0,1.0
+1557,4592,Pompage 2,POC011,365356,2024,PCTT,PCTT Sud,Preventif,6.0,2058.0,0.0
+1558,4593,Pompage 2,POE202,365368,2024,Nogent,PCTT Est,Preventif,1.0,2995.0,1.0
+1559,4594,Pompage 2,INP311,365372,2024,Ambroise PARE,PCTT Ouest,Preventif,1.0,3088.0,0.5
+1560,4595,Pompage 2,POP312,365374,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,412.0,1.0
+1561,4596,Pompage 2,INP301,365384,2024,Bellerive,PCTT Ouest,Preventif,1.0,1922.0,1.0
+1562,4600,Pompage 2,INP307,365400,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1922.0,1.0
+1563,4602,Pompage 2,INP402,365418,2024,Fresnes,PCTT Sud,Preventif,1.0,1441.0,1.0
+1564,4612,Pompage 2,INP309,365476,2024,Sévines,PCTT Ouest,Preventif,1.0,1441.0,1.0
+1565,4613,Pompage 2,POD009,365488,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1602.0,1.0
+1566,4614,Pompage 2,INP302,365490,2024,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,8921.0,1.0
+1567,4619,Pompage 2,INP900,365518,2024,Antony,PCTT Sud,Preventif,7.0,1400.0,7.0
+1568,4620,Pompage 2,INP900,365518,2024,Bicêtre,PCTT Sud,Preventif,48.0,9600.0,48.0
+1569,4621,Pompage 2,INP900,365518,2024,Italie,PCTT Sud,Preventif,18.0,3600.0,18.0
+1570,4624,Pompage 2,INP900,365518,2024,Orly,PCTT Sud,Preventif,32.0,6400.0,32.0
+1571,4629,Propreté,POI011,212422,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,1416.0,2.0
+1572,4630,Propreté,POI011,212422,2024,Sévines,PCTT Ouest,Preventif,4.0,1971.08,4.0
+1573,4633,Propreté,POI018,212432,2024,Thiais,PCTT Est,Preventif,1.0,1022.49,1.0
+1574,4634,Propreté,POI017,212434,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1136.1,1.0
+1575,4638,Propreté,PON002,212436,2023,Saint Cloud,PCTT Ouest,Preventif,20.0,2300.0,20.0
+1576,4649,Propreté,POL013,212440,2023,La Courneuve,PCTT Nord,Preventif,2.0,11632.0,2.0
+1577,4650,Propreté,POL013,212440,2024,La Courneuve,PCTT Nord,Preventif,2.0,12143.8,2.0
+1579,4657,Propreté,POI024,212444,2024,Boissy-Saint-Léger,PCTT Est,Preventif,690.0,8956.2,690.0
+1581,4667,Propreté,POL010,212446,2023,Taverny,PCTT Nord,Preventif,2.0,8044.0,2.0
+1582,4668,Propreté,POL010,212446,2024,Taverny,PCTT Nord,Preventif,2.0,8397.94,2.0
+1583,4670,Propreté,POI008,212452,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,5670.0,2.0
+1584,4671,Propreté,POI008,212452,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,7892.64,4.0
+1585,4672,Propreté,POT001,212454,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,10.5,1.0
+1586,4673,Propreté,POT001,212454,2023,Saint Cloud,PCTT Ouest,Preventif,5.0,52.5,5.0
+1587,4674,Propreté,POL005,212456,2023,Bellerive,PCTT Ouest,Preventif,2.0,18038.0,2.0
+1588,4675,Propreté,POL005,212456,2024,Bellerive,PCTT Ouest,Preventif,4.0,38348.8,4.0
+1589,4677,Propreté,POL002,212460,2023,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,12940.0,2.0
+1590,4678,Propreté,POL002,212460,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,13509.36,2.0
+1591,4679,Propreté,POL006,212462,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,18038.0,2.0
+1592,4680,Propreté,POL006,212462,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,37663.36,4.0
+1593,4688,Propreté,POL012,212476,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,21561.0,1.0
+1594,4689,Propreté,POL012,212476,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,45019.36,2.0
+1595,4690,Propreté,POL017,212478,2023,Antony,PCTT Sud,Preventif,2.0,23918.04,2.0
+1596,4692,Propreté,POI009,212482,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,5670.0,2.0
+1597,4694,Propreté,POI009,212482,2024,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,5919.48,3.0
+1598,4695,Propreté,POI006,212484,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,3150.0,2.0
+1599,4696,Propreté,POI006,212484,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,4384.8,4.0
+1600,4697,Propreté,POL019,212486,2023,Bicêtre,PCTT Sud,Preventif,2.0,8044.0,2.0
+1601,4698,Propreté,POL019,212486,2024,Bicêtre,PCTT Sud,Preventif,2.0,8397.94,2.0
+1602,4699,Propreté,POL016,212488,2023,Thiais,PCTT Est,Preventif,4.0,36869.68,4.0
+1603,4700,Propreté,POL016,212488,2024,Thiais,PCTT Est,Preventif,4.0,37663.36,2.0
+1604,4701,Propreté,POL008,212494,2023,Neuilly,PCTT Ouest,Preventif,2.0,8044.0,2.0
+1605,4702,Propreté,POL008,212494,2024,Neuilly,PCTT Ouest,Preventif,4.0,16795.88,4.0
+1606,4703,Propreté,POI016,212496,2024,Nogent,PCTT Est,Preventif,4.0,8179.92,4.0
+1607,4704,Propreté,POL014,212498,2023,Nogent,PCTT Est,Preventif,2.0,43122.0,2.0
+1608,4705,Propreté,POL014,212498,2024,Nogent,PCTT Est,Preventif,6.0,136696.72,5.0
+1609,4706,Propreté,POL015,212500,2023,Champigny,PCTT Est,Preventif,4.0,44203.54,4.0
+1610,4707,Propreté,POL015,212500,2024,Champigny,PCTT Est,Preventif,4.0,45155.08,4.0
+1611,4718,Propreté,POL018,212504,2023,Bicêtre,PCTT Sud,Preventif,2.0,14570.0,2.0
+1612,4719,Propreté,POL018,212504,2024,Bicêtre,PCTT Sud,Preventif,2.0,15211.08,2.0
+1613,4720,Propreté,POT005,212508,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,250.0,1.0
+1614,4721,Propreté,POT005,212508,2023,Saint Cloud,PCTT Ouest,Preventif,5.0,1250.0,5.0
+1615,4726,Propreté,POI010,212510,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,1416.0,2.0
+1616,4727,Propreté,POI010,212510,2024,Neuilly,PCTT Ouest,Preventif,4.0,1971.08,4.0
+1617,4728,Propreté,POL004,212514,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,18038.0,2.0
+1618,4729,Propreté,POL004,212514,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,38348.8,4.0
+1619,4730,Propreté,POL001,212516,2023,Chennevières,PCTT Ouest,Preventif,2.0,12530.0,2.0
+1620,4731,Propreté,POL001,212516,2024,Chennevières,PCTT Ouest,Preventif,2.0,13081.32,2.0
+1621,4732,Propreté,POL020,212520,2023,Orly,PCTT Sud,Preventif,1.0,4022.0,1.0
+1622,4733,Propreté,POL020,212520,2024,Orly,PCTT Sud,Preventif,1.0,4198.97,1.0
+1623,4734,Propreté,POL007,212522,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,76326.0,2.0
+1624,4735,Propreté,POL007,212522,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,159368.68,4.0
+1625,4736,Propreté,PON001,212524,2023,Ambroise PARE,PCTT Ouest,Preventif,10.0,530.0,10.0
+1626,4737,Propreté,PON001,212524,2023,Saint Cloud,PCTT Ouest,Preventif,20.0,1060.0,20.0
+1627,4741,Propreté,PON001,212524,2024,Thiais,PCTT Est,Preventif,18.0,1032.3,18.0
+1628,4743,Propreté,POI007,212530,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,3150.0,2.0
+1629,4744,Propreté,POI007,212530,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,4384.8,4.0
+1630,4745,Propreté,POL003,212534,2023,Saint Cloud,PCTT Ouest,Preventif,3.0,27057.0,3.0
+1631,4746,Propreté,POL003,212534,2024,Saint Cloud,PCTT Ouest,Preventif,4.0,38348.8,4.0
+1632,4747,Propreté,POL009,212536,2023,Sévines,PCTT Ouest,Preventif,2.0,8044.0,2.0
+1633,4748,Propreté,POL009,212536,2024,Sévines,PCTT Ouest,Preventif,4.0,16795.88,4.0
+1634,4749,Propreté,POT009,212538,2023,Ambroise PARE,PCTT Ouest,Preventif,10.0,1800.0,10.0
+1635,4752,Propreté,POT009,212538,2023,Saint Cloud,PCTT Ouest,Preventif,50.0,9000.0,50.0
+1636,4757,Propreté,POT009,212538,2024,Thiais,PCTT Est,Preventif,16.0,3116.16,16.0
+1637,4758,Propreté,POL023,212542,2023,Ambroise PARE,PCTT Ouest,Preventif,5.0,1425.0,5.0
+1638,4759,Propreté,POL023,212542,2023,Bellerive,PCTT Ouest,Preventif,15.0,4275.0,15.0
+1639,4760,Propreté,POL023,212542,2023,Bicêtre,PCTT Sud,Preventif,26.0,7410.0,26.0
+1640,4761,Propreté,POL023,212542,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,27.0,7695.0,27.0
+1641,4762,Propreté,POL023,212542,2023,Boissy-Saint-Léger,PCTT Est,Preventif,16.0,4660.32,16.0
+1642,4763,Propreté,POL023,212542,2023,Champigny,PCTT Est,Preventif,13.0,3868.02,13.0
+1643,4764,Propreté,POL023,212542,2023,Chennevières,PCTT Ouest,Preventif,2.0,570.0,2.0
+1644,4765,Propreté,POL023,212542,2023,Landy,PCTT Nord,Preventif,24.0,6840.0,24.0
+1645,4767,Propreté,POL023,212542,2023,Nanterre / La Défense,PCTT Ouest,Preventif,82.0,23370.0,82.0
+1646,4769,Propreté,POL023,212542,2023,Nogent,PCTT Est,Preventif,38.0,11068.26,38.0
+1647,4770,Propreté,POL023,212542,2023,Orly,PCTT Sud,Preventif,4.0,1140.0,4.0
+1648,4772,Propreté,POL023,212542,2023,Taverny,PCTT Nord,Preventif,4.0,1140.0,4.0
+1649,4773,Propreté,POL023,212542,2023,Thiais,PCTT Est,Preventif,52.0,15146.04,49.0
+1650,4774,Propreté,POL023,212542,2024,Ambroise PARE,PCTT Ouest,Preventif,10.0,3029.55,10.0
+1651,4776,Propreté,POL023,212542,2024,Bellerive,PCTT Ouest,Preventif,30.0,9088.65,30.0
+1652,4777,Propreté,POL023,212542,2024,Bicêtre,PCTT Sud,Preventif,39.0,11885.64,39.0
+1653,4778,Propreté,POL023,212542,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,24.0,7140.96,24.0
+1654,4779,Propreté,POL023,212542,2024,Boissy-Saint-Léger,PCTT Est,Preventif,16.0,4933.92,16.0
+1655,4781,Propreté,POL023,212542,2024,Champigny,PCTT Est,Preventif,26.0,8017.62,26.0
+1656,4782,Propreté,POL023,212542,2024,Chennevières,PCTT Ouest,Preventif,2.0,595.08,2.0
+1657,4783,Propreté,POL023,212542,2024,Fontenay le Fleury,PCTT Ouest,Preventif,4.0,1190.16,4.0
+1658,4787,Propreté,POL023,212542,2024,Landy,PCTT Nord,Preventif,24.0,7140.96,24.0
+1659,4789,Propreté,POL023,212542,2024,Nanterre / La Défense,PCTT Ouest,Preventif,156.0,46416.24,156.0
+1660,4791,Propreté,POL023,212542,2024,Neuilly,PCTT Ouest,Preventif,8.0,2380.32,8.0
+1661,4792,Propreté,POL023,212542,2024,Nogent,PCTT Est,Preventif,76.0,23024.58,76.0
+1662,4793,Propreté,POL023,212542,2024,Orly,PCTT Sud,Preventif,6.0,1828.56,4.0
+1663,4795,Propreté,POL023,212542,2024,Sévines,PCTT Ouest,Preventif,12.0,3570.48,12.0
+1664,4796,Propreté,POL023,212542,2024,Taverny,PCTT Nord,Preventif,4.0,1190.16,4.0
+1665,4797,Propreté,POL023,212542,2024,Thiais,PCTT Est,Preventif,64.0,19172.52,56.0
+1666,4798,Propreté,POT007,212544,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,250.0,1.0
+1667,4800,Propreté,POT007,212544,2023,Saint Cloud,PCTT Ouest,Preventif,5.0,1250.0,5.0
+1668,4806,Propreté,POL011,212552,2023,Landy,PCTT Nord,Preventif,4.0,36076.0,1.77
+1669,4807,Propreté,POL011,212552,2024,Landy,PCTT Nord,Preventif,4.0,37663.36,4.0
+1670,4815,Propreté,POL027,212558,2023,Ambroise PARE,PCTT Ouest,Preventif,1425.0,427.5,1425.0
+1671,4816,Propreté,POL027,212558,2023,Bellerive,PCTT Ouest,Preventif,4275.0,1282.5,4275.0
+1672,4817,Propreté,POL027,212558,2023,Chennevières,PCTT Ouest,Preventif,570.0,171.0,570.0
+1674,4819,Propreté,POL027,212558,2024,Ambroise PARE,PCTT Ouest,Preventif,2850.0,855.0,2850.0
+1675,4820,Propreté,POL027,212558,2024,Bellerive,PCTT Ouest,Preventif,8550.0,2565.0,8550.0
+1676,4821,Propreté,POL027,212558,2024,Chennevières,PCTT Ouest,Preventif,570.0,171.0,570.0
+1677,4822,Propreté,POL027,212558,2024,Fontenay le Fleury,PCTT Ouest,Preventif,1190.0,357.0,1190.0
+1679,4830,Propreté,POT008,212566,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,173.12,1.0
+1680,4839,Propreté,POL026,212570,2023,Ambroise PARE,PCTT Ouest,Preventif,150.0,2250.0,150.0
+1681,4841,Propreté,POL026,212570,2023,Nogent,PCTT Est,Preventif,576.0,8640.0,576.0
+1683,4843,Propreté,POL026,212570,2023,Saint Cloud,PCTT Ouest,Preventif,1400.0,21000.0,1400.0
+1684,4846,Propreté,POL026,212570,2024,Nogent,PCTT Est,Preventif,1152.0,18040.32,1152.0
+1686,4849,Propreté,PN01,320948,2023,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,15830.0,2.0
+1687,4850,Propreté,PN01,320948,2024,Boissy-Saint-Léger,PCTT Est,Preventif,2.0,15830.0,2.0
+1688,4851,RAU/TSE,RAP03,130398,2023,Antony,PCTT Sud,Preventif,1.0,3797.5,1.0
+1689,4852,RAU/TSE,RAP03,130398,2023,PCTT,PCTT Est,Preventif,1.0,3797.5,1.0
+1690,4853,RAU/TSE,RAP03,130398,2023,PCTT,PCTT Ouest,Preventif,1.0,3797.5,1.0
+1691,4854,RAU/TSE,RAP02,130400,2023,Ambroise PARE,PCTT Ouest,Preventif,14.0,878.5,14.0
+1692,4855,RAU/TSE,RAP02,130400,2023,Antony,PCTT Sud,Preventif,8.0,502.0,8.0
+1693,4856,RAU/TSE,RAP02,130400,2023,Bellerive,PCTT Ouest,Preventif,30.0,1882.5,30.0
+1694,4857,RAU/TSE,RAP02,130400,2023,Bicêtre,PCTT Sud,Preventif,13.0,815.75,13.0
+1695,4858,RAU/TSE,RAP02,130400,2023,Boissy-Saint-Léger,PCTT Est,Preventif,8.0,502.0,8.0
+1696,4859,RAU/TSE,RAP02,130400,2023,Champigny,PCTT Est,Preventif,13.0,815.75,11.0
+1697,4860,RAU/TSE,RAP02,130400,2023,Chennevières,PCTT Ouest,Preventif,4.0,251.0,4.0
+1698,4861,RAU/TSE,RAP02,130400,2023,Fresnes,PCTT Sud,Preventif,2.0,125.5,2.0
+1699,4862,RAU/TSE,RAP02,130400,2023,Nanterre / La Défense,PCTT Ouest,Preventif,148.0,9287.0,148.0
+1700,4863,RAU/TSE,RAP02,130400,2023,Neuilly,PCTT Ouest,Preventif,8.0,502.0,8.0
+1701,4864,RAU/TSE,RAP02,130400,2023,Nogent,PCTT Est,Preventif,18.0,1129.5,18.0
+1702,4865,RAU/TSE,RAP02,130400,2023,Orly,PCTT Sud,Preventif,2.0,125.5,2.0
+1703,4866,RAU/TSE,RAP02,130400,2023,PCTT,PCTT Nord,Preventif,55.0,3451.25,55.0
+1704,4867,RAU/TSE,RAP02,130400,2023,Saint Cloud,PCTT Ouest,Preventif,26.0,1631.5,26.0
+1705,4868,RAU/TSE,RAP02,130400,2023,Sévines,PCTT Ouest,Preventif,8.0,502.0,8.0
+1706,4877,RAU/TSE,RAD01,130434,2023,Ambroise PARE,PCTT Ouest,Preventif,3716.3,929.06,3716.3
+1707,4878,RAU/TSE,RAD01,130434,2023,Antony,PCTT Sud,Preventif,1013.5,253.38,1013.5
+1708,4879,RAU/TSE,RAD01,130434,2023,Bellerive,PCTT Ouest,Preventif,4314.9,1078.72,4314.9
+1709,4880,RAU/TSE,RAD01,130434,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1216.2,304.05,1216.2
+1710,4881,RAU/TSE,RAD01,130434,2023,Champigny,PCTT Est,Preventif,1824.3,456.08,1824.3
+1711,4882,RAU/TSE,RAD01,130434,2023,Chennevières,PCTT Ouest,Preventif,1467.2,366.8,1467.2
+1712,4883,RAU/TSE,RAD01,130434,2023,Fresnes,PCTT Sud,Preventif,1013.5,253.38,1013.5
+1713,4885,RAU/TSE,RAD01,130434,2023,Nogent,PCTT Est,Preventif,1013.5,253.38,1013.38
+1714,4887,RAU/TSE,RAD01,130434,2023,Saint Cloud,PCTT Ouest,Preventif,5077.4,1269.36,5077.4
+1715,4889,RAU/TSE,RAP01,130444,2023,Ambroise PARE,PCTT Ouest,Preventif,28.0,2837.8,28.0
+1716,4890,RAU/TSE,RAP01,130444,2023,Antony,PCTT Sud,Preventif,10.0,1013.5,10.0
+1717,4891,RAU/TSE,RAP01,130444,2023,Bellerive,PCTT Ouest,Preventif,24.0,2432.4,24.0
+1718,4892,RAU/TSE,RAP01,130444,2023,Bicêtre,PCTT Sud,Preventif,28.0,2837.8,28.0
+1719,4893,RAU/TSE,RAP01,130444,2023,Boissy-Saint-Léger,PCTT Est,Preventif,12.0,1216.2,12.0
+1720,4894,RAU/TSE,RAP01,130444,2023,Champigny,PCTT Est,Preventif,18.0,1824.3,18.0
+1721,4895,RAU/TSE,RAP01,130444,2023,Chennevières,PCTT Ouest,Preventif,12.0,1216.2,12.0
+1722,4896,RAU/TSE,RAP01,130444,2023,Fresnes,PCTT Sud,Preventif,10.0,1013.5,10.0
+1723,4897,RAU/TSE,RAP01,130444,2023,Nanterre / La Défense,PCTT Ouest,Preventif,190.0,19256.5,190.0
+1724,4898,RAU/TSE,RAP01,130444,2023,Neuilly,PCTT Ouest,Preventif,12.0,1216.2,12.0
+1725,4899,RAU/TSE,RAP01,130444,2023,Nogent,PCTT Est,Preventif,12.0,1216.2,12.0
+1726,4900,RAU/TSE,RAP01,130444,2023,Orly,PCTT Sud,Preventif,12.0,1216.2,12.0
+1727,4901,RAU/TSE,RAP01,130444,2023,PCTT,PCTT Nord,Preventif,79.0,8006.65,79.0
+1728,4902,RAU/TSE,RAP01,130444,2023,Saint Cloud,PCTT Ouest,Preventif,34.0,3445.9,34.0
+1729,4903,RAU/TSE,RAP01,130444,2023,Sévines,PCTT Ouest,Preventif,12.0,1216.2,12.0
+1730,4904,RAU/TSE23,TSE-PO08,317068,2024,Bellerive,PCTT Ouest,Preventif,4.0,2582.8,4.0
+1731,4905,RAU/TSE23,TSE-PS03,317070,2023,Orly,PCTT Sud,Preventif,1.0,86.09,1.0
+1732,4906,RAU/TSE23,TSE-PS03,317070,2024,Orly,PCTT Sud,Preventif,2.0,176.05,2.0
+1733,4907,RAU/TSE23,TSE-PO01,317072,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,7920.56,1.76
+1734,4909,RAU/TSE23,TSE-PN02,317078,2024,PCTT,PCTT Nord,Preventif,1.0,172.19,1.0
+1735,4919,RAU/TSE23,TSE-PO05,317086,2024,Sévines,PCTT Ouest,Preventif,4.0,688.76,2.0
+1736,4926,RAU/TSE23,RAU-PO10,317092,2024,Saint Cloud,PCTT Ouest,Preventif,4.0,3797.24,4.0
+1737,4927,RAU/TSE23,RAU-PN03,317094,2024,PCTT,PCTT Nord,Preventif,1.0,2512.89,1.0
+1738,4928,RAU/TSE23,TSE-PO07,317096,2024,Fontenay le Fleury,PCTT Ouest,Preventif,4.0,688.76,2.0
+1739,4934,RAU/TSE23,TSE-PO09,317102,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,1205.32,4.0
+1740,4935,RAU/TSE23,TSE-PO10,317104,2024,Saint Cloud,PCTT Ouest,Preventif,4.0,2238.44,4.0
+1741,4936,RAU/TSE23,TSE-PE03,317106,2023,Nogent,PCTT Est,Preventif,1.0,817.89,1.0
+1742,4937,RAU/TSE23,TSE-PE03,317106,2024,Nogent,PCTT Est,Preventif,4.0,3271.56,3.0
+1743,4941,RAU/TSE23,RAU-PN02,317110,2024,PCTT,PCTT Nord,Preventif,1.0,446.74,1.0
+1744,4944,RAU/TSE23,TSE-PN03,317118,2024,PCTT,PCTT Nord,Preventif,1.0,1205.3,1.0
+1745,4945,RAU/TSE23,RAU-PO05,317120,2024,Sévines,PCTT Ouest,Preventif,4.0,1940.24,2.0
+1746,4946,RAU/TSE23,RAU-PG01,317122,2023,Nogent,PCTT Est,Preventif,12.0,970.08,12.0
+1747,4947,RAU/TSE23,RAU-PG01,317122,2024,Nanterre / La Défense,PCTT Ouest,Preventif,12.0,970.08,2.0
+1748,4948,RAU/TSE23,RAU-PO02,317124,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,5820.68,1.29
+1749,4961,RAU/TSE23,RAU-EC01,317126,2024,Thiais,PCTT Est,Preventif,4.0,631.12,4.0
+1750,4962,RAU/TSE23,RAU-PO03,317130,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,4527.2,2.0
+1751,4963,RAU/TSE23,RAU-PS02,317132,2023,Bicêtre,PCTT Sud,Preventif,1.0,2113.6,1.0
+1752,4964,RAU/TSE23,RAU-PS02,317132,2024,Bicêtre,PCTT Sud,Preventif,2.0,4322.31,2.0
+1753,4965,RAU/TSE23,TSE-PO03,317134,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,2066.24,2.0
+1754,4968,RAU/TSE23,TSE-PE02,317138,2024,Champigny,PCTT Est,Preventif,4.0,1894.08,4.0
+1755,4969,RAU/TSE23,TSE-PO06,317140,2024,Chennevières,PCTT Ouest,Preventif,4.0,344.36,2.0
+1756,4975,RAU/TSE23,RAU-PO06,317148,2024,Chennevières,PCTT Ouest,Preventif,4.0,1940.24,2.0
+1757,4976,RAU/TSE23,TSE-PN04,317150,2024,PCTT,PCTT Nord,Preventif,1.0,129.14,1.0
+1758,4977,RAU/TSE23,RAU-PS01,317152,2024,Antony,PCTT Sud,Preventif,1.0,1689.62,1.0
+1759,4978,RAU/TSE23,TSE-PO04,317154,2024,Neuilly,PCTT Ouest,Preventif,4.0,688.76,1.75
+1760,4982,RAU/TSE23,TSE-PO02,317158,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,2927.2,1.93
+1761,4987,RAU/TSE23,TSE-PN01,317166,2024,PCTT,PCTT Nord,Preventif,1.0,860.93,1.0
+1762,4990,RAU/TSE23,RAU-PO07,317170,2024,Fontenay le Fleury,PCTT Ouest,Preventif,4.0,2680.4,2.0
+1763,5008,RAU/TSE23,RAU-EC12,317180,2024,Thiais,PCTT Est,Preventif,631.12,631.12,631.12
+1764,5009,RAU/TSE23,RAU-PN04,317182,2024,PCTT,PCTT Nord,Preventif,1.0,323.37,1.0
+1765,5010,RAU/TSE23,TSE-PE04,317184,2024,Thiais,PCTT Est,Preventif,2.0,1807.96,2.0
+1766,5011,RAU/TSE23,RAU-PE01,317186,2024,Boissy-Saint-Léger,PCTT Est,Preventif,3.0,2010.3,2.0
+1767,5013,RAU/TSE23,TSE-PE01,317194,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,344.37,1.0
+1768,5014,RAU/TSE23,TSE-PE01,317194,2024,Boissy-Saint-Léger,PCTT Est,Preventif,3.0,1033.11,2.0
+1769,5015,RAU/TSE23,RAU-PO08,317198,2024,Bellerive,PCTT Ouest,Preventif,4.0,3880.44,4.0
+1770,5016,RAU/TSE23,RAU-PN01,317200,2024,PCTT,PCTT Nord,Preventif,1.0,1340.21,1.0
+1771,5017,RAU/TSE23,TSE-PS01,317204,2024,Antony,PCTT Sud,Preventif,1.0,430.47,1.0
+1772,5018,RAU/TSE23,TSE-PS02,317206,2023,Bicêtre,PCTT Sud,Preventif,1.0,559.61,1.0
+1773,5019,RAU/TSE23,TSE-PS02,317206,2024,Bicêtre,PCTT Sud,Preventif,2.0,1144.4,2.0
+1774,5022,RAU/TSE23,SIP-PG04,317214,2024,PCTT,PCTT Nord,Preventif,1.0,2579.44,1.0
+1775,5023,RAU/TSE23,SIP-PG04,317214,2024,PCTT,PCTT Ouest,Preventif,1.0,2579.44,1.0
+1776,5024,RAU/TSE23,SIP-PG04,317214,2024,PCTT,PCTT Sud,Preventif,1.0,2695.51,1.0
+1777,5028,RAU/TSE23,RAU-PO01,317220,2024,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,23282.76,1.81
+1778,5029,RAU/TSE23,RAU-PO09,317222,2024,Ambroise PARE,PCTT Ouest,Preventif,4.0,3127.16,4.0
+1779,5031,RAU/TSE23,RAU-PS03,317226,2023,Orly,PCTT Sud,Preventif,1.0,670.1,1.0
+1780,5032,RAU/TSE23,RAU-PS03,317226,2024,Orly,PCTT Sud,Preventif,2.0,1370.35,2.0
+1781,5036,RAU/TSE23,RAU-PO04,317232,2024,Neuilly,PCTT Ouest,Preventif,4.0,1340.2,1.5
+1785,5135,SignaDyn,SDY MP 101,218419,2023,Chennevières,PCTT Ouest,Preventif,1.0,3399.54,1.0
+1786,5136,SignaDyn,SDY MP 101,218419,2023,Neuilly,PCTT Ouest,Preventif,2.0,6799.08,2.0
+1787,5137,SignaDyn,SDY MP 101,218419,2023,Sévines,PCTT Ouest,Preventif,2.0,6799.08,2.0
+1788,5138,SignaDyn,SDY MP 101,218419,2024,Neuilly,PCTT Ouest,Preventif,1.0,3486.53,1.0
+1789,5139,SignaDyn,SDY MP 101,218419,2024,Sévines,PCTT Ouest,Preventif,2.0,6973.06,2.0
+1790,5144,SignaDyn,SDY MP 204,218447,2023,Fresnes,PCTT Sud,Preventif,1.0,17380.56,1.0
+1791,5145,SignaDyn,SDY MP 204,218447,2024,Bellerive,PCTT Ouest,Preventif,1.0,17380.56,1.0
+1792,5146,SignaDyn,SDY MP 204,218447,2024,Bicêtre,PCTT Sud,Preventif,1.0,17380.56,1.0
+1793,5147,SignaDyn,SDY MP 204,218447,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,17380.56,1.0
+1794,5148,SignaDyn,SDY MP 204,218447,2024,Champigny,PCTT Est,Preventif,1.0,17380.56,1.0
+1795,5149,SignaDyn,SDY MP 204,218447,2024,Landy,PCTT Nord,Preventif,2.0,34761.12,2.0
+1796,5150,SignaDyn,SDY MP 204,218447,2024,Nogent,PCTT Est,Preventif,2.0,34761.12,2.0
+1797,5151,SignaDyn,SDY MP 204,218447,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,17380.56,1.0
+1798,5152,SignaDyn,SDY MP 204,218447,2024,Thiais,PCTT Est,Preventif,1.0,17380.56,1.0
+1799,5156,SignaDyn,SDY MP 205,218457,2023,Antony,PCTT Sud,Preventif,1.0,17865.09,1.0
+1800,5157,SignaDyn,SDY MP 205,218457,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,35730.18,2.0
+1803,5163,SignaDyn,SDY MP 202,218483,2024,Ambroise PARE,PCTT Ouest,Preventif,2.0,19943.88,2.0
+1804,5164,SignaDyn,SDY MP 202,218483,2024,Bicêtre,PCTT Sud,Preventif,2.0,19943.88,0.0
+1805,5165,SignaDyn,SDY MP 202,218483,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,9971.94,1.0
+1806,5166,SignaDyn,SDY MP 202,218483,2024,Chennevières,PCTT Ouest,Preventif,1.0,9971.94,1.0
+1807,5167,SignaDyn,SDY MP 202,218483,2024,Italie,PCTT Sud,Preventif,2.0,19943.88,1.0
+1808,5168,SignaDyn,SDY MP 202,218483,2024,La Courneuve,PCTT Nord,Preventif,1.0,9971.94,1.0
+1809,5169,SignaDyn,SDY MP 202,218483,2024,Orly,PCTT Sud,Preventif,3.0,29915.82,1.0
+1810,5170,SignaDyn,SDY MP 202,218483,2024,Saint Cloud,PCTT Ouest,Preventif,1.0,9971.94,1.0
+1811,5185,SignaDyn,SDY MP 105,218523,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,22788.88,2.0
+1818,5217,SignaDyn,SDY MP 102,218619,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,12604.5,2.0
+1819,5218,SignaDyn,SDY MP 102,218619,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,6302.25,1.0
+1820,5219,SignaDyn,SDY MP 102,218619,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,6302.25,1.0
+1821,5220,SignaDyn,SDY MP 102,218619,2023,Chennevières,PCTT Ouest,Preventif,1.0,6302.25,1.0
+1822,5221,SignaDyn,SDY MP 102,218619,2023,La Courneuve,PCTT Nord,Preventif,1.0,6302.25,1.0
+1823,5222,SignaDyn,SDY MP 102,218619,2023,Nanterre / La Défense,PCTT Ouest,Preventif,4.0,25209.0,4.0
+1824,5223,SignaDyn,SDY MP 102,218619,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,6302.25,1.0
+1825,5224,SignaDyn,SDY MP 102,218619,2023,Taverny,PCTT Nord,Preventif,1.0,6302.25,1.0
+1826,5225,SignaDyn,SDY MP 102,218619,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,6463.53,1.0
+1827,5226,SignaDyn,SDY MP 102,218619,2024,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,19390.59,3.0
+1828,5227,SignaDyn,SDY MP 102,218619,2024,Neuilly,PCTT Ouest,Preventif,1.0,6463.53,1.0
+1829,5228,SignaDyn,SDY MP 102,218619,2024,Taverny,PCTT Nord,Preventif,1.0,6463.53,1.0
+1830,5231,SignaDyn,SDY MP 203,218625,2024,Bellerive,PCTT Ouest,Preventif,1.0,13858.6,1.0
+1831,5232,SignaDyn,SDY MP 203,218625,2024,Bicêtre,PCTT Sud,Preventif,1.0,13858.6,1.0
+1832,5233,SignaDyn,SDY MP 203,218625,2024,Champigny,PCTT Est,Preventif,1.0,13858.6,0.75
+1833,5234,SignaDyn,SDY MP 203,218625,2024,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,27717.2,1.458
+1834,5235,SignaDyn,SDY MP 203,218625,2024,La Courneuve,PCTT Nord,Preventif,1.0,13858.6,1.0
+1835,5236,SignaDyn,SDY MP 203,218625,2024,Orly,PCTT Sud,Preventif,1.0,13858.6,1.0
+1837,5238,SignaDyn,SDY MP 203,218625,2024,Thiais,PCTT Est,Preventif,1.0,13858.6,0.8
+1851,5291,SignaDyn,SDY MP 201,218795,2024,Chennevières,PCTT Ouest,Preventif,1.0,4807.79,1.0
+1855,5305,SignaDyn,SDY MP 103,218831,2023,Bellerive,PCTT Ouest,Preventif,1.0,8649.64,1.0
+1856,5306,SignaDyn,SDY MP 103,218831,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,8433.82,1.0
+1857,5307,SignaDyn,SDY MP 103,218831,2023,Fontenay le Fleury,PCTT Ouest,Preventif,2.0,16867.64,2.0
+1858,5308,SignaDyn,SDY MP 103,218831,2023,La Courneuve,PCTT Nord,Preventif,1.0,8433.82,1.0
+1859,5309,SignaDyn,SDY MP 103,218831,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,8433.82,1.0
+1860,5310,SignaDyn,SDY MP 103,218831,2023,Nogent,PCTT Est,Preventif,1.0,8433.82,1.0
+1862,5312,SignaDyn,SDY MP 103,218831,2023,Taverny,PCTT Nord,Preventif,1.0,8433.82,1.0
+1863,5313,SignaDyn,SDY MP 103,218831,2023,Thiais,PCTT Est,Preventif,1.0,8433.82,0.917
+1864,5314,SignaDyn,SDY MP 103,218831,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,8649.64,1.0
+1865,5315,SignaDyn,SDY MP 103,218831,2024,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,25948.92,2.231
+1866,5316,SignaDyn,SDY MP 103,218831,2024,Taverny,PCTT Nord,Preventif,1.0,8649.64,1.0
+1870,5379,SignaDyn,SDY MP 104,219023,2023,Bellerive,PCTT Ouest,Preventif,1.0,10775.32,1.0
+1871,5380,SignaDyn,SDY MP 104,219023,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,10506.46,1.0
+1872,5381,SignaDyn,SDY MP 104,219023,2023,Champigny,PCTT Est,Preventif,2.0,21012.92,2.0
+1873,5382,SignaDyn,SDY MP 104,219023,2023,Landy,PCTT Nord,Preventif,2.0,21012.92,2.0
+1874,5383,SignaDyn,SDY MP 104,219023,2023,Nogent,PCTT Est,Preventif,1.0,10506.46,1.0
+1875,5384,SignaDyn,SDY MP 104,219023,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,10506.46,1.0
+1876,5385,SignaDyn,SDY MP 104,219023,2023,Thiais,PCTT Est,Preventif,1.0,10506.46,0.9
+1877,5386,SignaDyn,SDY MP 104,219023,2024,Nogent,PCTT Est,Preventif,2.0,21550.64,0.0
+1880,5564,Ventilation2,VEP08,148036,2023,Sévines,PCTT Ouest,Preventif,1.0,664.62,1.0
+1881,5565,Ventilation2,VEP10,148038,2023,Landy,PCTT Nord,Preventif,1.0,18287.64,1.0
+1882,5566,Ventilation2,VEP04,148044,2023,PCTT,PCTT Ouest,Preventif,1.0,7382.33,1.0
+1883,5567,Ventilation2,VEC01,148046,2023,Tous tunnels,PCTT Nord,Preventif,10.0,5042.8,10.0
+1884,5568,Ventilation2,VEP09,148050,2023,Taverny,PCTT Nord,Preventif,1.0,4520.36,1.0
+1885,5586,Ventilation2,VEP13,148058,2023,Champigny,PCTT Est,Preventif,1.0,4789.54,1.0
+1886,5590,Ventilation2,VEP19,148064,2023,Bicêtre,PCTT Sud,Preventif,8.0,596.16,8.0
+1887,5591,Ventilation2,VEP19,148064,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,41.0,3055.32,23.0
+1888,5592,Ventilation2,VEP19,148064,2023,Boissy-Saint-Léger,PCTT Est,Preventif,18.0,1341.36,18.0
+1889,5593,Ventilation2,VEP19,148064,2023,Champigny,PCTT Est,Preventif,15.0,1117.8,15.0
+1890,5594,Ventilation2,VEP19,148064,2023,Landy,PCTT Nord,Preventif,28.0,2086.56,28.0
+1891,5595,Ventilation2,VEP19,148064,2023,Nanterre / La Défense,PCTT Ouest,Preventif,20.0,1490.4,20.0
+1892,5596,Ventilation2,VEP19,148064,2023,Neuilly,PCTT Ouest,Preventif,6.0,447.12,6.0
+1893,5597,Ventilation2,VEP19,148064,2023,Nogent,PCTT Est,Preventif,38.0,2831.76,38.0
+1894,5598,Ventilation2,VEP19,148064,2023,Orly,PCTT Sud,Preventif,13.0,968.76,13.0
+1895,5599,Ventilation2,VEP19,148064,2023,PCTT,PCTT Ouest,Preventif,103.0,7675.56,103.0
+1896,5600,Ventilation2,VEP19,148064,2023,Thiais,PCTT Est,Preventif,31.0,2310.12,0.0
+1897,5601,Ventilation2,VEP06,148066,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,45116.78,1.0
+1898,5605,Ventilation2,VEP05,148074,2023,PCTT,PCTT Ouest,Preventif,1.0,9177.73,1.0
+1899,5606,Ventilation2,VEP20,148078,2023,Champigny,PCTT Est,Preventif,1.0,149.03,1.0
+1900,5607,Ventilation2,VEP20,148078,2023,Nogent,PCTT Est,Preventif,1.0,149.03,1.0
+1901,5608,Ventilation2,VEP20,148078,2023,PCTT,PCTT Ouest,Preventif,6.0,894.18,6.0
+1902,5609,Ventilation2,VEP12,148084,2023,Nogent,PCTT Est,Preventif,1.0,8284.39,1.0
+1903,5610,Ventilation2,VEP03,148086,2023,PCTT,PCTT Ouest,Preventif,1.0,8548.51,1.0
+1904,5616,Ventilation2,VEP11,148090,2023,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,21117.71,1.0
+1905,5617,Ventilation2,VEP18,148094,2023,Bicêtre,PCTT Sud,Preventif,2.0,10826.52,2.0
+1906,5619,Ventilation2,VED05,148096,2023,Landy,PCTT Nord,Preventif,3.0,1312.41,3.0
+1907,5629,Ventilation2,VEP07,148106,2023,Neuilly,PCTT Ouest,Preventif,1.0,1260.73,1.0
+1908,5655,Ventilation2,VE PN 13,309718,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,13646.0,1.0
+1909,5656,Ventilation2,VE PN 11,309720,2023,Thiais,PCTT Est,Preventif,1.0,10102.35,1.0
+1910,5657,Ventilation2,VE PN 12,309722,2023,Thiais,PCTT Est,Preventif,1.0,9298.03,1.0
+1911,5659,Ventilation3,VPT301,352276,2024,Champigny,PCTT Est,Preventif,1.0,123.72,1.0
+1912,5660,Ventilation3,VPT301,352276,2024,Landy,PCTT Nord,Preventif,6.0,742.32,6.0
+1913,5661,Ventilation3,VPT301,352276,2024,Nogent,PCTT Est,Preventif,6.0,742.32,6.0
+1914,5662,Ventilation3,VPT301,352276,2024,PCTT,PCTT Ouest,Preventif,44.0,5443.68,44.0
+1915,5663,Ventilation3,VPN201,352278,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,1.0,38076.92,1.0
+1916,5667,Ventilation3,VPN202,352290,2024,Taverny,PCTT Nord,Preventif,1.0,4997.6,1.0
+1917,5681,Ventilation3,VPE200,352338,2024,Nogent,PCTT Est,Preventif,1.0,9960.98,1.0
+1918,5682,Ventilation3,VPS201,352340,2024,Fresnes,PCTT Sud,Preventif,1.0,7343.96,1.0
+1919,5687,Ventilation3,VPT300,352360,2024,Antony,PCTT Sud,Preventif,7.0,532.35,0.0
+1920,5688,Ventilation3,VPT300,352360,2024,Bicêtre,PCTT Sud,Preventif,16.0,1216.8,16.0
+1921,5690,Ventilation3,VPT300,352360,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,42.0,3194.1,42.0
+1922,5691,Ventilation3,VPT300,352360,2024,Boissy-Saint-Léger,PCTT Est,Preventif,54.0,4106.7,54.0
+1923,5692,Ventilation3,VPT300,352360,2024,Champigny,PCTT Est,Preventif,30.0,2281.5,30.0
+1924,5693,Ventilation3,VPT300,352360,2024,Fresnes,PCTT Sud,Preventif,3.0,228.15,0.0
+1925,5694,Ventilation3,VPT300,352360,2024,Landy,PCTT Nord,Preventif,22.0,1673.1,22.0
+1926,5695,Ventilation3,VPT300,352360,2024,Nanterre / La Défense,PCTT Ouest,Preventif,87.0,6616.35,87.0
+1927,5696,Ventilation3,VPT300,352360,2024,Neuilly,PCTT Ouest,Preventif,6.0,456.3,6.0
+1928,5697,Ventilation3,VPT300,352360,2024,Nogent,PCTT Est,Preventif,86.0,6540.3,43.0
+1929,5698,Ventilation3,VPT300,352360,2024,Orly,PCTT Sud,Preventif,13.0,988.65,13.0
+1930,5699,Ventilation3,VPT300,352360,2024,PCTT,PCTT Ouest,Preventif,44.0,3346.2,44.0
+1931,5700,Ventilation3,VPT300,352360,2024,Thiais,PCTT Est,Preventif,31.0,2357.55,31.0
+1932,5701,Ventilation3,VPS200,352362,2024,Antony,PCTT Sud,Preventif,1.0,5318.04,1.0
+1933,5702,Ventilation3,VPN200,352364,2024,Landy,PCTT Nord,Preventif,1.0,30759.84,1.0
+1934,5705,Ventilation3,VPE203,352380,2024,Thiais,PCTT Est,Preventif,1.0,9995.2,1.0
+1935,5706,Ventilation3,VPE204,352384,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,8121.1,1.0
+1936,5708,Ventilation3,VDT104,352392,2024,Antony,PCTT Sud,Preventif,2.0,3064.5,2.0
+1937,5718,Ventilation3,VPS202,352408,2024,Bicêtre,PCTT Sud,Preventif,2.0,17773.08,2.0
+1938,5727,Ventilation3,VPE202,352434,2024,Thiais,PCTT Est,Preventif,1.0,9995.2,1.0
+1939,5734,Ventilation3,VPE201,352458,2024,Champigny,PCTT Est,Preventif,1.0,5385.86,1.0
+1940,5737,Ventilation3,VPT303,352460,2024,Champigny,PCTT Est,Preventif,18.0,8233.38,18.0
+1941,5767,Vidéo,VI P 215,159484,2023,Taverny,PCTT Ouest,Preventif,3.0,2609.13,2.0
+1942,5768,Vidéo,VI P 402,159488,2023,Nogent,PCTT Est,Preventif,2.0,1025.6,2.0
+1943,5769,Vidéo,VI P 404,159492,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,3.0,1376.46,3.0
+1944,5770,Vidéo,VI P 227,159494,2023,Saint Cloud,PCTT Ouest,Preventif,3.0,5929.86,3.0
+1945,5788,Vidéo,VI P 116,159502,2023,Neuilly,PCTT Ouest,Preventif,1.0,2215.63,1.0
+1946,5789,Vidéo,VI P 133,159504,2023,Sévines,PCTT Ouest,Preventif,1.0,2004.62,1.0
+1947,5793,Vidéo,VI P 124,159514,2023,Bellerive,PCTT Ouest,Preventif,1.0,4853.29,1.0
+1948,5799,Vidéo,VI P 412,159522,2023,Bellerive,PCTT Ouest,Preventif,2.0,809.66,2.0
+1949,5800,Vidéo,VI P 400,159530,2023,Champigny,PCTT Est,Preventif,1.0,350.86,1.0
+1950,5801,Vidéo,VI P 127,159534,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,2637.65,1.0
+1951,5802,Vidéo,VI P 212,159542,2023,La Courneuve,PCTT Ouest,Preventif,3.0,4269.51,3.0
+1952,5809,Vidéo,VI P 140,159550,2023,Bicêtre,PCTT Sud,Preventif,3.0,8862.51,3.0
+1953,5810,Vidéo,VI P 205,159554,2023,Nogent,PCTT Est,Preventif,3.0,13520.1,3.0
+1954,5814,Vidéo,VI P 407,159558,2023,Taverny,PCTT Ouest,Preventif,1.0,107.95,1.0
+1955,5815,Vidéo,VI P 138,159576,2023,Fresnes,PCTT Sud,Preventif,1.0,1793.6,1.0
+1956,5816,Vidéo,VI P 137,159578,2023,Antony,PCTT Sud,Preventif,1.0,2004.62,1.0
+1957,5817,Vidéo,VI P 401,159580,2023,Thiais,PCTT Est,Preventif,1.0,593.77,1.0
+1958,5818,Vidéo,VI P 113,159586,2023,La Courneuve,PCTT Ouest,Preventif,1.0,2110.13,1.0
+1959,5822,Vidéo,VI P 228,159594,2023,Ambroise PARE,PCTT Ouest,Preventif,3.0,7115.85,3.0
+1960,5823,Vidéo,VI P 112,159598,2023,La Courneuve,PCTT Ouest,Preventif,1.0,1899.11,1.0
+1961,5824,Vidéo,VI P 420,159600,2023,Bicêtre,PCTT Sud,Preventif,3.0,809.67,3.0
+1962,5832,Vidéo,VI P 128,159614,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,3165.18,1.0
+1963,5833,Vidéo,VI P 118,159616,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,4536.76,1.0
+1964,5834,Vidéo,VI P 135,159622,2023,Chennevières,PCTT Ouest,Preventif,1.0,2215.63,1.0
+1965,5835,Vidéo,VI P 109,159626,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,1.0,7174.42,1.0
+1966,5836,Vidéo,VI P 408,159632,2023,Neuilly,PCTT Ouest,Preventif,2.0,215.9,2.0
+1967,5837,Vidéo,VI P 203,159634,2023,Thiais,PCTT Est,Preventif,2.0,8855.26,2.0
+1968,5838,Vidéo,VI P 414,159644,2023,Ambroise PARE,PCTT Ouest,Preventif,2.0,431.82,2.0
+1969,5839,Vidéo,VI P 201,159646,2023,Champigny,PCTT Est,Preventif,2.0,5218.28,2.0
+1970,5840,Vidéo,VI P 222,159648,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,25142.64,3.0
+1971,5847,Vidéo,VI P 221,159654,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,8301.81,3.0
+1972,5848,Vidéo,VI P 409,159660,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,593.76,2.0
+1973,5850,Vidéo,VI P 236,159664,2023,Antony,PCTT Sud,Preventif,1.0,1185.97,1.0
+1974,5855,Vidéo,VI P 115,159674,2023,Taverny,PCTT Ouest,Preventif,1.0,1160.57,1.0
+1975,5856,Vidéo,VI P 226,159676,2023,Saint Cloud,PCTT Ouest,Preventif,3.0,6878.67,3.0
+1976,5857,Vidéo,VI P 129,159680,2023,Ambroise PARE,PCTT Ouest,Preventif,1.0,2637.65,1.0
+1977,5862,Vidéo,VI P 206,159698,2023,Landy,PCTT Ouest,Preventif,3.0,10673.76,3.0
+1978,5863,Vidéo,VI P 132,159702,2023,Sévines,PCTT Ouest,Preventif,1.0,2004.62,1.0
+1979,5869,Vidéo,VI P 122,159706,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,11183.65,1.0
+1980,5873,Vidéo,VI P 111,159710,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,4.0,14348.84,4.0
+1981,5874,Vidéo,VI P 141,159714,2023,Bicêtre,PCTT Sud,Preventif,2.0,5908.34,2.0
+1982,5875,Vidéo,VI P 141,159714,2023,Italie,PCTT Sud,Preventif,1.0,2954.17,1.0
+1983,5876,Vidéo,VI P 403,159716,2023,Landy,PCTT Ouest,Preventif,1.0,539.78,1.0
+1984,5877,Vidéo,VI P 143,159720,2023,Orly,PCTT Sud,Preventif,3.0,5697.33,3.0
+1985,5879,Vidéo,VI P 238,159734,2023,Fresnes,PCTT Sud,Preventif,1.0,1344.11,1.0
+1986,5880,Vidéo,VI P 232,159736,2023,Sévines,PCTT Ouest,Preventif,3.0,4506.72,3.0
+1987,5881,Vidéo,VI P 417,159740,2023,Chennevières,PCTT Ouest,Preventif,2.0,161.94,2.0
+1988,5882,Vidéo,VI P 208,159742,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,3.0,16366.44,3.0
+1989,5889,Vidéo,VI P 207,159750,2023,Landy,PCTT Ouest,Preventif,3.0,10673.76,3.0
+1990,5890,Vidéo,VI P 422,159754,2023,Bicêtre,PCTT Sud,Preventif,9.0,93.69,9.0
+1991,5891,Vidéo,VI P 220,159756,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,9013.41,3.0
+1992,5892,Vidéo,VI P 410,159760,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,647.74,2.0
+1993,5893,Vidéo,VI P 416,159762,2023,Sévines,PCTT Ouest,Preventif,2.0,215.9,2.0
+1994,5902,Vidéo,VI P 233,159770,2023,Sévines,PCTT Ouest,Preventif,3.0,4506.72,3.0
+1995,5903,Vidéo,VI P 421,159772,2023,Orly,PCTT Sud,Preventif,3.0,161.94,3.0
+1996,5904,Vidéo,VI P 117,159782,2023,Neuilly,PCTT Ouest,Preventif,1.0,2215.63,1.0
+1997,5905,Vidéo,VI P 106,159784,2023,Landy,PCTT Ouest,Preventif,1.0,4747.78,1.0
+1998,5906,Vidéo,VI P 123,159786,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,13399.28,1.0
+1999,5907,Vidéo,VI P 411,159788,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,2483.02,2.0
+2000,5908,Vidéo,VI P 213,159792,2023,La Courneuve,PCTT Ouest,Preventif,3.0,4743.9,3.0
+2001,5909,Vidéo,VI F 530,159794,2023,Nogent,PCTT Est,Preventif,4.0,745.48,4.0
+2002,5910,Vidéo,VI P 217,159796,2023,Neuilly,PCTT Ouest,Preventif,3.0,4981.08,3.0
+2003,5911,Vidéo,VI P 110,159800,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,4.0,11394.68,4.0
+2006,5915,Vidéo,VI P 209,159808,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,3.0,16129.23,3.0
+2007,5916,Vidéo,VI P 406,159810,2023,La Courneuve,PCTT Ouest,Preventif,1.0,80.97,1.0
+2008,5917,Vidéo,VI P 229,159812,2023,Ambroise PARE,PCTT Ouest,Preventif,3.0,5929.86,3.0
+2009,5918,Vidéo,VI P 214,159814,2023,Taverny,PCTT Ouest,Preventif,3.0,2846.34,2.0
+2010,5919,Vidéo,VI P 108,159822,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,1.0,7279.93,1.0
+2011,5921,Vidéo,VI P 139,159840,2023,Fresnes,PCTT Sud,Preventif,1.0,2954.17,1.0
+2012,5922,Vidéo,VI P 101,159842,2023,Champigny,PCTT Est,Preventif,1.0,3481.71,1.0
+2013,5923,Vidéo,VI P 102,159844,2023,Thiais,PCTT Est,Preventif,1.0,4958.79,1.0
+2014,5924,Vidéo,VI P 204,159850,2023,Nogent,PCTT Est,Preventif,3.0,11859.75,2.0
+2015,5925,Vidéo,VI F 508,159864,2023,Nogent,PCTT Est,Preventif,4.0,203.32,4.0
+2016,5926,Vidéo,VI P 244,159866,2023,Bicêtre,PCTT Sud,Preventif,54.0,562.14,54.0
+2017,5927,Vidéo,VI P 244,159866,2023,Italie,PCTT Sud,Preventif,9.0,93.69,9.0
+2018,5928,Vidéo,VI P 239,159870,2023,Fresnes,PCTT Sud,Preventif,1.0,2213.82,1.0
+2019,5929,Vidéo,VI P 142,159872,2023,Orly,PCTT Sud,Preventif,3.0,7912.95,3.0
+2020,5931,Vidéo,VI P 119,159884,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1793.6,1.0
+2021,5932,Vidéo,VI P 219,159886,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,4032.33,3.0
+2023,5943,Vidéo,VI P 234,159900,2023,Chennevières,PCTT Ouest,Preventif,3.0,2609.13,3.0
+2024,5944,Vidéo,VI P 216,159904,2023,Neuilly,PCTT Ouest,Preventif,3.0,4981.08,3.0
+2025,5945,Vidéo,VI P 225,159912,2023,Bellerive,PCTT Ouest,Preventif,3.0,9487.8,3.0
+2026,5946,Vidéo,VI P 100,159914,2023,Champigny,PCTT Est,Preventif,1.0,3587.21,1.0
+2027,5947,Vidéo,VI P 218,159920,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,10199.37,3.0
+2028,5948,Vidéo,VI P 114,159922,2023,Taverny,PCTT Ouest,Preventif,1.0,1266.07,1.0
+2029,5953,Vidéo,VI P 405,159926,2023,Bobigny-Lumen-Norton,PCTT Ouest,Preventif,1.0,107.95,1.0
+2030,5954,Vidéo,VI P 413,159928,2023,Saint Cloud,PCTT Ouest,Preventif,2.0,701.72,2.0
+2031,5955,Vidéo,VI P 235,159930,2023,Chennevières,PCTT Ouest,Preventif,3.0,4981.08,3.0
+2032,5956,Vidéo,VI P 200,159932,2023,Champigny,PCTT Est,Preventif,2.0,5376.42,2.0
+2033,5957,Vidéo,VI P 136,159936,2023,Antony,PCTT Sud,Preventif,1.0,1582.59,1.0
+2034,5958,Vidéo,VI P 103,159938,2023,Thiais,PCTT Est,Preventif,1.0,5908.34,1.0
+2035,5959,Vidéo,VI P 419,159940,2023,Fresnes,PCTT Sud,Preventif,1.0,53.98,1.0
+2036,5960,Vidéo,VI P 237,159942,2023,Antony,PCTT Sud,Preventif,1.0,1502.24,1.0
+2037,5961,Vidéo,VI P 223,159946,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,30123.75,3.0
+2038,5962,Vidéo,VI P 224,159950,2023,Bellerive,PCTT Ouest,Preventif,3.0,10910.94,3.0
+2039,5963,Vidéo,VI P 125,159954,2023,Bellerive,PCTT Ouest,Preventif,1.0,4220.25,1.0
+2040,5964,Vidéo,VI P 120,159956,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,4009.23,1.0
+2041,5965,Vidéo,VI P 418,159958,2023,Antony,PCTT Sud,Preventif,1.0,242.91,1.0
+2042,5966,Vidéo,VI P 104,159960,2023,Nogent,PCTT Est,Preventif,1.0,5275.31,1.0
+2043,5967,Vidéo,VI P 134,159962,2023,Chennevières,PCTT Ouest,Preventif,1.0,1160.57,1.0
+2044,5968,Vidéo,VI P 126,159966,2023,Saint Cloud,PCTT Ouest,Preventif,1.0,3059.68,1.0
+2045,5969,Vidéo,VI P 107,159968,2023,Landy,PCTT Ouest,Preventif,1.0,4747.78,1.0
+2046,5970,Vidéo,VI P 202,159970,2023,Thiais,PCTT Est,Preventif,2.0,7432.1,2.0
+2047,5971,Vidéo,VI P 105,159974,2023,Nogent,PCTT Est,Preventif,1.0,6013.86,1.0
+2048,5975,Vidéo,VI P 121,159992,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,3692.72,1.0
+2049,5999,Vidéo,VI P 600,273785,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1774.13,1.0
+2050,6000,Vidéo,VI P 601,273787,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,3168.09,1.0
+2051,6001,Vidéo,VI P 603,273789,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1013.79,1.0
+2053,6003,Vidéo,VI P 700,273793,2023,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,236.22,1.0
+2054,6004,Vidéo,VI P 701,273795,2023,Nanterre / La Défense,PCTT Ouest,Preventif,2.0,118.12,2.0
+2055,6005,Vidéo,VI P 602,273797,2023,Nanterre / La Défense,PCTT Ouest,Preventif,1.0,1393.96,1.0
+2056,6006,Vidéo,VI P 245,273799,2023,Boissy-Saint-Léger,PCTT Est,Preventif,3.0,3320.73,3.0
+2057,6007,Vidéo,VI P 248,273801,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,1897.56,3.0
+2058,6008,Vidéo,VI P 246,273803,2023,Boissy-Saint-Léger,PCTT Est,Preventif,3.0,5929.86,3.0
+2059,6009,Vidéo,VI P 247,273805,2023,Nanterre / La Défense,PCTT Ouest,Preventif,3.0,2609.13,3.0
+2060,6010,Vidéo 2,VI MP 313,362913,2024,La Courneuve,PCTT Nord,Preventif,2.0,3249.4,2.0
+2061,6011,Vidéo 2,VI MP 103,362915,2024,Thiais,PCTT Est,Preventif,1.0,4055.9,1.0
+2062,6012,Vidéo 2,VI MP 140,362917,2024,Bicêtre,PCTT Sud,Preventif,1.0,3200.8,1.0
+2063,6013,Vidéo 2,VI MP 102,362919,2024,Thiais,PCTT Est,Preventif,1.0,3200.8,1.0
+2064,6014,Vidéo 2,VI MP 312,362921,2024,La Courneuve,PCTT Nord,Preventif,2.0,3249.4,2.0
+2065,6015,Vidéo 2,VI MP 125,362925,2024,Bellerive,PCTT Ouest,Preventif,1.0,3200.8,1.0
+2066,6016,Vidéo 2,VI MP 407,362927,2024,Taverny,PCTT Nord,Preventif,2.0,119.0,2.0
+2069,6019,Vidéo 2,VI MP 338,362931,2024,Fresnes,PCTT Sud,Preventif,1.0,1218.5,1.0
+2070,6020,Vidéo 2,VI MP 143,362935,2024,Orly,PCTT Sud,Preventif,2.0,3420.4,2.0
+2071,6026,Vidéo 2,VI MP 324,362941,2024,Bellerive,PCTT Ouest,Preventif,1.0,3040.8,0.0
+2072,6027,Vidéo 2,VI MP 406,362943,2024,La Courneuve,PCTT Nord,Preventif,2.0,89.2,2.0
+2073,6028,Vidéo 2,VI MP 139,362949,2024,Fresnes,PCTT Sud,Preventif,1.0,2880.8,1.0
+2074,6051,Vidéo 2,VI MP 308,362989,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,6081.6,2.0
+2075,6052,Vidéo 2,VI MP 337,362991,2024,Antony,PCTT Sud,Preventif,1.0,1624.7,1.0
+2076,6058,Vidéo 2,VI MP 309,362997,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,6081.6,2.0
+2077,6059,Vidéo 2,VI MP 142,362999,2024,Orly,PCTT Sud,Preventif,2.0,6401.6,2.0
+2078,6060,Vidéo 2,VI MP 138,363005,2024,Fresnes,PCTT Sud,Preventif,1.0,1539.2,1.0
+2079,6061,Vidéo 2,VI MP 404,363009,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,505.6,2.0
+2080,6062,Vidéo 2,VI MP 311,363011,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,3249.4,2.0
+2081,6063,Vidéo 2,VI MP 136,363019,2024,Antony,PCTT Sud,Preventif,1.0,1539.2,1.0
+2082,6064,Vidéo 2,VI MP 418,363023,2024,Antony,PCTT Sud,Preventif,1.0,133.8,1.0
+2083,6065,Vidéo 2,VI MP 419,363027,2024,Fresnes,PCTT Sud,Preventif,1.0,29.7,1.0
+2084,6066,Vidéo 2,VI MP 305,363029,2024,Nogent,PCTT Est,Preventif,2.0,6081.6,2.0
+2085,6067,Vidéo 2,VI MP 422,363039,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,119.0,1.0
+2086,6068,Vidéo 2,VI MP 325,363047,2024,Bellerive,PCTT Ouest,Preventif,1.0,3040.8,0.0
+2087,6069,Vidéo 2,VI MP 420,363051,2024,Bicêtre,PCTT Sud,Preventif,1.0,193.3,1.0
+2088,6070,Vidéo 2,VI MP 306,363055,2024,Landy,PCTT Nord,Preventif,2.0,6081.6,2.0
+2089,6071,Vidéo 2,VI MP 201,363057,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1602.5,1.0
+2090,6072,Vidéo 2,VI MP 345,363063,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,3040.8,1.0
+2091,6078,Vidéo 2,VI MP 124,363071,2024,Bellerive,PCTT Ouest,Preventif,1.0,3200.8,1.0
+2092,6080,Vidéo 2,VI MP 339,363075,2024,Fresnes,PCTT Sud,Preventif,1.0,1624.7,1.0
+2093,6081,Vidéo 2,VI MP 421,363081,2024,Orly,PCTT Sud,Preventif,1.0,29.7,1.0
+2094,6082,Vidéo 2,VI MP 600,363087,2024,PCTT,PCTT Nord,Preventif,40.0,800.0,40.0
+2095,6083,Vidéo 2,VI MP 401,363091,2024,Thiais,PCTT Est,Preventif,1.0,327.1,1.0
+2096,6084,Vidéo 2,VI MP 301,363095,2024,Champigny,PCTT Est,Preventif,1.0,1624.7,1.0
+2097,6085,Vidéo 2,VI MP 344,363099,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,1624.7,1.0
+2098,6086,Vidéo 2,VI MP 302,363109,2024,Thiais,PCTT Est,Preventif,1.0,3040.8,1.0
+2099,6087,Vidéo 2,VI MP 200,363117,2024,Boissy-Saint-Léger,PCTT Est,Preventif,1.0,856.2,1.0
+2100,6088,Vidéo 2,VI MP 304,363123,2024,Nogent,PCTT Est,Preventif,2.0,6081.6,2.0
+2101,6089,Vidéo 2,VI MP 310,363125,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,3249.4,2.0
+2102,6090,Vidéo 2,VI MP 315,363133,2024,Taverny,PCTT Nord,Preventif,2.0,1624.8,2.0
+2103,6091,Vidéo 2,VI MP 300,363137,2024,Champigny,PCTT Est,Preventif,1.0,1624.7,1.0
+2104,6092,Vidéo 2,VI MP 402,363145,2024,Nogent,PCTT Est,Preventif,1.0,327.1,1.0
+2105,6093,Vidéo 2,VI MP 141,363153,2024,Bicêtre,PCTT Sud,Preventif,1.0,3200.8,1.0
+2106,6094,Vidéo 2,VI MP 336,363155,2024,Antony,PCTT Sud,Preventif,1.0,1218.5,1.0
+2108,6096,Vidéo 2,VI MP 307,363161,2024,Landy,PCTT Nord,Preventif,2.0,6081.6,2.0
+2109,6097,Vidéo 2,VI MP 137,363163,2024,Antony,PCTT Sud,Preventif,1.0,1539.2,1.0
+2110,6098,Vidéo 2,VI MP 405,363175,2024,Bobigny-Lumen-Norton,PCTT Nord,Preventif,2.0,119.0,2.0
+2111,6099,Vidéo 2,VI MP 303,363177,2024,Thiais,PCTT Est,Preventif,1.0,3040.8,1.0
+2112,6103,Vidéo 2,VI MP 314,363189,2024,Taverny,PCTT Nord,Preventif,2.0,1624.8,2.0
+2113,6104,Vidéo 2,VI MP 403,363193,2024,Landy,PCTT Nord,Preventif,2.0,594.8,2.0

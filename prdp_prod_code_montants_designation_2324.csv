@@ -1080,3 +1080,5 @@
 1081;1081;Pompage;POC706;POMEXP706;248.16;0.0;Expertise d'une pompe
 1082;1082;Pompage;IND205;POMGEL205;122.01;0.0;Amenee et retrait d'un Groupe Electrogene
 1083;1083;Pompage;IND301;POMREP301;6888.570000000001;0.0;Recherche et reparation simple de defaut (soit 3h de travail de 2 techniciens specialises)
+1084;1084;Pompage;INP901;POMERG901;18559.42;0.0;Entretien d'une vanne manuelle du réseau incendie
+1085;1085;Pompage 2;INP900;POMERG900;0.0;21000.0;Entretien d'une vanne motorisée du réseau incendie

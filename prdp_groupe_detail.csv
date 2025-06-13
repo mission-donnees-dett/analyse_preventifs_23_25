@@ -116,6 +116,7 @@ POM;Entretien d'un surpresseur;POMERC;Entretien d'un surpresseur;
 POM;Entretien d'un disconnecteur;POMERD;Entretien d'un disconnecteur;
 POM;Entretien d’une colonne sèche;POMERE;Entretien d’une colonne sèche;
 POM;Entretien d’une colonne humide;POMERF;Entretien d’une colonne humide;
+POM;Entretien d'une vanne motorisée/manuelle du réseau incendie;POMERG;Entretien d'une vanne;
 POM;Entretien des stations de pompage (curage bâche);POMESP;Entretien des stations de pompage;
 POM;Entretien d'une pompe;POMEPO;Entretien d'une pompe;
 POM;Visite des stations de pompage;POMVSP;Visite des stations de pompage;

@@ -34,3 +34,5 @@ Exemple:
 'tunMarCoefFreqEq.ipynb' est le Notebook Python principal qui crée le document 'tunMarCoefFreqEq.csv'; des commentaires sont inclus pour expliquer le travail et le lignes de code
 
 'test_préventifs.ipynb' est le Notebook Python avec les tests d'éxhaustivité de ces fichiers 
+
+'prod_erreurs_montants.csv' est un fichier CSV avec tous les prix qui sont probablement une erreur ou qui ne sont pas clairement décrits et donc pas possible à catégoriser. Il faudra les catégoriser à la main pour chaque prix individuel.

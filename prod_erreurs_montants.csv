@@ -1,0 +1,51 @@
+mar_diminutif;prod_code;prod_designation;montant_2024;montant_2023
+Propreté;PN01;Lavage de nuit  d'un tube (Y ou W) du tunnel de Boissy (préventifs 23/24);15830.0;15830.0
+;POL030;Lavage de nuit d’un tube (Y ou W) du tunnel de BOISSY (normatives 2025) —-> quel prix>????;-;-
+;PON001;Ramassage de détritus de jour;1032.3;1590.0
+;PON002;Ramassage de produits organiques de jour;0.0;2300.0
+;POT001;Location journalière d''une benne inférieure à 9m3;0.0;63.0
+;POT005;Amenée de benne;0.0;1500.0
+;POT007;Retrait de benne;0.0;1500.0
+;POT008;Traitement de déchets inertes et déchets verts non triés - classe 1;173.12;0.0
+;POT009;Traitement de déchets industriels banals (DIB) non triés - classe 2;3116.16;10800.0
+Batiment;B2C071;Réparation ou mise en Suvre d élément de Toiture 1 journée;1158.67;1080.0
+;B2F001;Fourniture BATIMENT selon catalogue PLATEFORME DU BATIMENT;643.41;592.0
+ContReg;CRC 111,00;Mise à disposition pour une semaine des équipements ou moyens permettant l'accessibilité aux équipements de levage à contrôler - Montage/démontage échafaudage et/ou Perchage et/ou Cordiste;0.0;0.0
+;CRC 112,00;Mise à disposition d une nacelle de nuit, à pied d Suvre;0.0;0.0
+;CRC 104,00;Vérification initiale d un équipement de levage;0.0;0.0
+;CRC 105,00;Vérification électrique initiale d un site;0.0;0.0
+Eclairage;ECF53;Fourniture d une source sodium Haute Pression 70W   type : MASTER SON-T APIA Xtra « PHILIPS »;0.0;9506.22
+;ECF54;Fourniture d une source sodium Haute Pression 100W   type : MASTER SON-T APIA Xtra « PHILIPS »;10963.4;0.0
+;ECF56;Fourniture d une source sodium Haute Pression 250W   type : MASTER SON-T APIA Xtra « PHILIPS »;5043.36;0.0
+;ECF57;Fourniture d une source sodium Haute Pression 400W   type : MASTER SON-T APIA Xtra « PHILIPS »;11169.6;0.0
+;ECF59;Fourniture d un tube fluorescent 36W;0.0;2352.33
+Automates;;Same problem as with batiment, I just made a new prdp_code for the prev baie MESD and for the ;0.0;0.0
+RAU/TSE;RAU-EC01;Identification de l élément défectueux et remplacement de celui-ci;631.12;0.0
+;;Same problem as with batiment and Automates, I just made a new prdp_code for the non-matched values;0.0;0.0
+Detection;DEC002;Remplacement d'un element de jour d'un opacimetre, CO, NO, NO2, smokecheck ou anemometre.;5848.0;4872.93
+;DEC200;Remplacement d'un extincteur;851.0;0.0
+;DEF105;Fourniture d'une cellule electrochimique pour un capteur CO, NO ou NO2 NOCOSTOP;34720.0;10416.0
+;DEF108;Fourniture d'une cellule electrochimique pour CO, NO ou NO2  POLYTRON 3000;13164.0;22169.16
+;DEP021;Plus ou moins value pour ajout ou retrait d'un opacimetre lors d'une campagne de preventive d'ouvrage precite. //// Préventif sens W du tunnel de Orly;8295.0;0.0
+;DEP027;Plus value, pour la bretelle B5 du prix DEP007, Préventif des bretelles B1, B3/B4, B7/B8 de l Echangeur A14/A86 de tous les capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres) //////// Préventif luminancemètre exécuté lors d'un préventif tube;6049.0;3756.54
+Ventilation (ant);VEC01;Mise a disposition d'un technicien 7j/7j 24h/24h dans le cadre de l’astreinte (préventif???);0.0;5042.8
+Vidéo ancien;VI P 245;Tunnel de Boissy (N19) sens Province/Paris (14 cam?ras);0.0;3320.73
+;VI P 246;Tunnel de Boissy (N19) sens Paris/Province (25 cam?ras);0.0;5929.86
+;VI P 600;Tunnel de Boissy (N19) sens Province/Paris (14 cam?ras);0.0;1774.13
+;VI P 601;Tunnel de Boissy (N19) sens Paris/Province (25 cam?ras);0.0;3168.09
+;;??? Pour le marché renouvelé;0.0;0.0
+;VI MP 200;Tunnel de Boissy (N19) sens Province/Paris (14 caméras);856.2;0.0
+;VI MP 201;Tunnel de Boissy (N19) sens Paris/Province (25 caméras);1602.5;0.0
+;VI MP 346;Echangeur A14/A86 - Bretelle B5 (11 caméras);0.0;0.0
+;VI MP 202;Echangeur A14/A86 - Bretelle B5 (11 caméras);0.0;0.0
+;;Plusieurs prod_code avec même designation!!;0.0;0.0
+;VI MP 347;Couverture Trinity (8 caméras);0.0;0.0
+;VI MP 203;Couverture Trinity (8 caméras);0.0;0.0
+;;Plusieurs prod_code avec même designation!!;0.0;0.0
+Pompage;IND115;Mise a disposition d'une pompe electrique inferieur ou egal a 10 litres/seconde. La journee de 8 heures;0.0;1404.18
+;INF203;Fourniture d'une vanne motorisée diamètre 150;0.0;1617.72
+;IND501;Astreinte;0.0;25029.5
+;IND302;Reparation d'un defaut complexe (soit 8h de travail de 2 techniciens specialises);0.0;1890.98
+Onduleur2;ONF002;Fourniture de batterie 12 Volts superieure 50 A/H;18067.5;0.0
+;ONC004;Remplacement d'un banc superieur a 50 batteries onduleur et inferieur ou egale a 100 batteries onduleur.;3311.2;0.0
+;OND003;Recyclage de batteries;27.72 (quantite 2772.0);0.0

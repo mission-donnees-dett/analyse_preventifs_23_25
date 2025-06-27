@@ -1,0 +1,1647 @@
+,tunnel,mar_diminutif,prdp_code,ref_prix,form_typ,frq_totale,nb_equipe,coeff,cout_ht,cout_total
+0,Guy Môquet,Bâtiment,BATCJE005,VJE005,sum_2,6.0,0.5,1.0,1522.0,4566.0
+1,Guy Môquet,Bâtiment,BATCJE006,VJE006,sum_2,6.0,0.5,1.0,1522.0,4566.0
+2,Guy Môquet,Bâtiment,BATCNE005,VNE005,sum_2,6.0,0.5,1.0,2611.0,7833.0
+3,Guy Môquet,Bâtiment,BATCNE006,VNE006,sum_2,6.0,0.5,1.0,2611.0,7833.0
+4,Guy Môquet,Bâtiment,BATMPE005,MPE005,sum_2,1.0,0.5,1.0,2815.0,1407.5
+5,Guy Môquet,Bâtiment,BATMPE006,MPE006,sum_2,1.0,0.5,1.0,2815.0,1407.5
+6,Guy Môquet,Propreté,PRPLTB016,POL016,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+7,Guy Môquet,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+8,Guy Môquet,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+9,Guy Môquet,ContReg,CRGVIE105,CRE105,sum_2,1.0,0.5,1.0,864.8,432.4
+10,Guy Môquet,ContReg,CRGVIE106,CRE106,sum_2,1.0,0.5,1.0,864.8,432.4
+11,Guy Môquet,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+12,Guy Môquet,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+13,Guy Môquet,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+14,Guy Môquet,Eclairage,ECLNPE001,ECPE01,direct_reference,2.0,1.0,1.0,855.21,1710.42
+15,Guy Môquet,Eclairage,ECLNEE010,ECPE10,direct_reference,2.0,1.0,1.0,15985.44,31970.88
+16,Guy Môquet,Eclairage,ECLRSE050,ECPE50,sum_3,0.4,1.0,1.0,28406.97,11362.79
+17,Guy Môquet,Eclairage,ECLRSE054,ECPE54,sum_3,0.4,1.0,1.0,17737.38,7094.95
+18,Guy Môquet,Eclairage,ECLRSE056,ECPE56,sum_3,0.4,1.0,1.0,27455.54,10982.22
+19,Guy Môquet,AEV,AEVEFE010,AEFE10,direct_reference,2.0,1.0,1.0,1005.24,2010.48
+20,Guy Môquet,AEV,AEVMPE020,AEPE20,direct_reference,2.0,1.0,1.0,3016.89,6033.78
+21,Guy Môquet,AEV,AEVPLV008,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+22,Guy Môquet,Automate,AUTPAB031,AUPR31,direct_reference,1.0,0.5,1.0,397.10535,198.55
+23,Guy Môquet,Automate,AUTPAR032,AUPR32,direct_reference,1.0,0.5,1.0,1450.62633,725.31
+24,Guy Môquet,Automate,AUTPAM047,AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+25,Guy Môquet,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+26,Guy Môquet,PAU/TSE,RTSPPE004,RAU-PE04,direct_reference,4.0,0.5,1.0,1552.88,3105.76
+27,Guy Môquet,PAU/TSE,RTSPTE004,TSE-PE04,direct_reference,4.0,0.5,1.0,944.66,1889.32
+28,Guy Môquet,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+29,Guy Môquet,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+30,Guy Môquet,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+31,Guy Môquet,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+32,Guy Môquet,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+33,Guy Môquet,Détection,DETPCA016,DEP016,direct_reference,4.0,1.0,1.0,6209.7,24838.8
+34,Guy Môquet,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+35,Guy Môquet,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+36,Guy Môquet,Détection,DETPXA200,DEP200,direct_reference,1.0,18.0,1.0,33.6,604.8
+37,Guy Môquet,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+38,Guy Môquet,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+39,Guy Môquet,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+40,Guy Môquet,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+41,Guy Môquet,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+42,Guy Môquet,Détection,DETPXG206,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+43,Guy Môquet,Ventilation,VENPEE202,VPE202,direct_reference,1.0,1.0,1.0,10365.03,10365.03
+44,Guy Môquet,Ventilation,VENPQA300,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+45,Guy Môquet,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+46,Guy Môquet,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+47,Guy Môquet,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+48,Guy Môquet,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+49,Guy Môquet,Vidéo,VIDDAI102,VI MP 102,sum_2,1.0,0.5,1.0,3341.64,1670.82
+50,Guy Môquet,Vidéo,VIDDAI103,VI MP 103,sum_2,1.0,0.5,1.0,4234.36,2117.18
+51,Guy Môquet,Vidéo,VIDCAM302,VI MP 302,sum_2,2.0,0.5,1.0,3174.6,3174.6
+52,Guy Môquet,Vidéo,VIDCAM303,VI MP 303,sum_2,2.0,0.5,1.0,3174.6,3174.6
+53,Guy Môquet,Vidéo,VIDPCI400,VI MP 400,direct_reference,1.0,0.5,1.0,201.81,100.91
+54,Guy Môquet,Pompage,POMIND201,INP201,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+55,Guy Môquet,Pompage,,,direct_value,3.0,0.5,1.0,0.0,0.0
+56,Guy Môquet,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+57,Guy Môquet,Pompage,,,direct_value,1.0,0.0,1.0,0.0,0.0
+58,Guy Môquet,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+59,Guy Môquet,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+60,Guy Môquet,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+61,Guy Môquet,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+62,Guy Môquet,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+63,Guy Môquet,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+64,Fresnes,Bâtiment,BATCJS003,VJS003,div_2,6.0,2.0,0.5,507.0,3042.0
+65,Fresnes,Bâtiment,BATCJS004,VJS004,div_2,6.0,2.0,0.5,507.0,3042.0
+66,Fresnes,Bâtiment,BATCNS003,VNS003,div_2,6.0,2.0,0.5,1306.0,7836.0
+67,Fresnes,Bâtiment,BATCNS004,VNS004,div_2,6.0,2.0,0.5,1306.0,7836.0
+68,Fresnes,Bâtiment,BATMPS003,MPS003,div_2,1.0,2.0,0.5,1407.0,1407.0
+69,Fresnes,Bâtiment,BATMPS004,MPS004,div_2,1.0,2.0,0.5,1407.0,1407.0
+70,Fresnes,Propreté,PRPLTB017,POL017,div_2,2.0,2.0,0.5,13633.74,27267.48
+71,Fresnes,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+72,Fresnes,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+73,Fresnes,ContReg,CRGVIS105,CRS105,sum_1,1.0,1.0,1.0,432.4,432.4
+74,Fresnes,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+75,Fresnes,ContReg,CRGDLB102,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+76,Fresnes,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+77,Fresnes,Eclairage,ECLNPS004,ECPS04,direct_reference,2.0,2.0,1.0,240.68,962.72
+78,Fresnes,Eclairage,ECLNES016,ECPS16,direct_reference,2.0,2.0,1.0,5279.03,21116.12
+79,Fresnes,Eclairage,ECLRSS059,ECPS59,sum_3,0.4,2.0,1.0,16514.09,13211.27
+80,Fresnes,Eclairage,ECLRSS060,ECPS60,sum_3,0.4,2.0,1.0,3126.13,2500.9
+81,Fresnes,Eclairage,ECLRSS061,ECPS61,sum_3,0.4,2.0,1.0,11790.94,9432.75
+82,Fresnes,AEV,AEVEFS013,AEFS13,direct_reference,2.0,2.0,1.0,385.57,1542.28
+83,Fresnes,AEV,AEVMPS023,AEPS23,direct_reference,2.0,2.0,1.0,732.16,2928.64
+84,Fresnes,AEV,AEVPLV008,AEV08,direct_reference,1.0,9.0,1.0,61.7,555.3
+85,Fresnes,Automate,AUTPAB021,AUPR21,div_2,1.0,1.0,0.5,320.77594,160.39
+86,Fresnes,Automate,AUTPAR022,AUPR22,div_2,1.0,1.0,0.5,1651.6382800000001,825.82
+87,Fresnes,Automate,AUTPAM047,AUPR47,direct_reference,1.0,2.0,1.0,202.4713,404.94
+88,Fresnes,Automate,AUTPAR048,AUPR48,direct_reference,1.0,7.0,1.0,91.39855,639.79
+89,Fresnes,PAU/TSE,RTSPPS001,RAU-PS01,div_2,4.0,1.0,0.5,1689.62,3379.24
+90,Fresnes,PAU/TSE,RTSPTS001,TSE-PS01,div_2,4.0,1.0,0.5,449.84,899.68
+91,Fresnes,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+92,Fresnes,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+93,Fresnes,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+94,Fresnes,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+95,Fresnes,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+96,Fresnes,Détection,DETPCA018,DEP018,div_2,4.0,2.0,0.5,5597.55,22390.2
+97,Fresnes,Détection,DETPLV027,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+98,Fresnes,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+99,Fresnes,Détection,DETPXA200,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+100,Fresnes,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+101,Fresnes,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+102,Fresnes,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+103,Fresnes,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+104,Fresnes,Détection,DETPXF204,DEP205,direct_reference,1.0,5.0,1.0,26.25,131.25
+105,Fresnes,Détection,DETPXG206,DEP206,direct_reference,1.0,6.0,1.0,15.75,94.5
+106,Fresnes,Ventilation,VENPES201,VPS201,direct_reference,1.0,1.0,1.0,7613.49,7613.49
+107,Fresnes,Ventilation,VENPQA300,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+108,Fresnes,Ventilation,VENPQB301,VPT301,direct_reference,1.0,29.0,1.0,128.27,3719.83
+109,Fresnes,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+110,Fresnes,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+111,Fresnes,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+112,Fresnes,Vidéo,VIDDAI138,VI MP 138,sum_2,1.0,1.0,1.0,1606.92,1606.92
+113,Fresnes,Vidéo,VIDDAI139,VI MP 139,sum_2,1.0,1.0,1.0,3007.56,3007.56
+114,Fresnes,Vidéo,VIDCAM338,VI MP 338,sum_2,2.0,1.0,1.0,1272.11,2544.22
+115,Fresnes,Vidéo,VIDCAM339,VI MP 339,sum_2,2.0,1.0,1.0,1696.19,3392.38
+116,Fresnes,Vidéo,VIDPCI419,VI MP 419,direct_reference,1.0,1.0,1.0,31.01,31.01
+117,Fresnes,Pompage,POMIND402,INP402,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+118,Fresnes,Pompage,POMVSP402,POP402,direct_reference,3.0,1.0,1.0,858.61,2575.83
+119,Fresnes,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+120,Fresnes,Pompage,POMESP402,POE402,direct_reference,1.0,1.0,1.0,2360.13,2360.13
+121,Fresnes,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+122,Fresnes,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+123,Fresnes,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+124,Fresnes,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+125,Fresnes,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+126,Fresnes,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+127,Bobigny,Bâtiment,BATCJN001,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+128,Bobigny,Bâtiment,BATCJN002,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+129,Bobigny,Bâtiment,BATCNN001,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+130,Bobigny,Bâtiment,BATCNN002,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+131,Bobigny,Bâtiment,BATMPN001,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+132,Bobigny,Bâtiment,BATMPN002,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+133,Bobigny,Propreté,PRPLTB012,POL012,direct_reference,2.0,1.0,1.0,25661.9,51323.8
+134,Bobigny,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+135,Bobigny,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+136,Bobigny,ContReg,CRGVIN109,CRN109,sum_5,1.0,1.0,1.0,216.2,216.2
+137,Bobigny,ContReg,CRGVIN110,CRN110,sum_5,1.0,1.0,1.0,432.4,432.4
+138,Bobigny,ContReg,CRGVIN111,CRN111,sum_5,1.0,1.0,1.0,324.3,324.3
+139,Bobigny,ContReg,CRGVIN112,CRN112,sum_5,1.0,1.0,1.0,432.4,432.4
+140,Bobigny,ContReg,CRGVIN113,CRN113,sum_5,1.0,1.0,1.0,216.2,216.2
+141,Bobigny,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+142,Bobigny,ContReg,CRGDLB102,CRC102,direct_reference,1.0,7.0,1.0,864.8,6053.6
+143,Bobigny,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+144,Bobigny,Eclairage,ECLNPN001,ECPN01,direct_reference,2.0,2.0,1.0,1018.11,4072.44
+145,Bobigny,Eclairage,ECLNEN010,ECPN10,direct_reference,2.0,2.0,1.0,8582.56,34330.24
+146,Bobigny,Eclairage,ECLRSN050,ECPN50,sum_3,0.4,2.0,1.0,18009.21,14407.37
+147,Bobigny,Eclairage,ECLRSN051,ECPN51,sum_3,0.4,2.0,1.0,9004.6,7203.68
+148,Bobigny,Eclairage,ECLRSN052,ECPN52,sum_3,0.4,2.0,1.0,3907.66,3126.13
+149,Bobigny,AEV,AEVEFN010,AEFN10,direct_reference,2.0,2.0,1.0,1263.33,5053.32
+150,Bobigny,AEV,AEVMPN020,AEPN20,direct_reference,2.0,2.0,1.0,4317.72,17270.88
+151,Bobigny,AEV,AEVPLV008,AEV08,direct_reference,1.0,31.0,1.0,61.7,1912.7
+152,Bobigny,Automate,AUTPAB035,AUPR35,direct_reference,1.0,1.0,1.0,1468.6249799999998,1468.62
+153,Bobigny,Automate,AUTPAR036,AUPR36,direct_reference,1.0,1.0,1.0,1655.52988,1655.53
+154,Bobigny,Automate,AUTPAM047,AUPR47,direct_reference,1.0,25.0,1.0,202.4713,5061.78
+155,Bobigny,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+156,Bobigny,PAU/TSE,RTSPPN003,RAU-PN03,direct_reference,4.0,1.0,1.0,2625.97,10503.88
+157,Bobigny,PAU/TSE,RTSPTN003,TSE-PN03,direct_reference,4.0,1.0,1.0,1259.54,5038.16
+158,Bobigny,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,5.0,1.0,304.01,1520.05
+159,Bobigny,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+160,Bobigny,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+161,Bobigny,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+162,Bobigny,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,5.0,1.0,414.3,1035.75
+163,Bobigny,Détection,DETPCA013,DEP013,div_2,4.0,2.0,0.5,6840.75,27363.0
+164,Bobigny,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+165,Bobigny,Détection,DETPDI101,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+166,Bobigny,Détection,DETPXA200,DEP200,direct_reference,1.0,64.0,1.0,33.6,2150.4
+167,Bobigny,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+168,Bobigny,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+169,Bobigny,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+170,Bobigny,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+171,Bobigny,Détection,DETPXF204,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+172,Bobigny,Détection,DETPXG206,DEP206,direct_reference,1.0,26.0,1.0,15.75,409.5
+173,Bobigny,Ventilation,VENPEN201,VPN201,div_2,1.0,1.0,0.5,39474.35,19737.17
+174,Bobigny,Ventilation,VENPQA300,VPT300,direct_reference,1.0,30.0,1.0,78.85,2365.5
+175,Bobigny,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+176,Bobigny,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+177,Bobigny,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+178,Bobigny,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+179,Bobigny,Vidéo,VIDDAI108,VI MP 108,sum_2,1.0,1.0,1.0,4234.36,4234.36
+180,Bobigny,Vidéo,VIDDAI109,VI MP 109,sum_2,1.0,1.0,1.0,4234.36,4234.36
+181,Bobigny,Vidéo,VIDCAM308,VI MP 308,sum_2,2.0,1.0,1.0,3174.6,6349.2
+182,Bobigny,Vidéo,VIDCAM309,VI MP 309,sum_2,2.0,1.0,1.0,3174.6,6349.2
+183,Bobigny,Vidéo,VIDPCI404,VI MP 404,direct_reference,1.0,1.0,1.0,263.92,263.92
+184,Bobigny,Pompage,POMIND105,INP105,direct_reference,1.0,1.0,1.0,2910.0,2910.0
+185,Bobigny,Pompage,,,direct_value,3.0,0.0,1.0,0.0,0.0
+186,Bobigny,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+187,Bobigny,Pompage,POMESP701,POE701,direct_reference,1.0,4.0,1.0,0.0,0.0
+188,Bobigny,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+189,Bobigny,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+190,Bobigny,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+191,Bobigny,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+192,Bobigny,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+193,Bobigny,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+194,La Courneuve,Bâtiment,BATCJN001,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+195,La Courneuve,Bâtiment,BATCJN002,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+196,La Courneuve,Bâtiment,BATCNN001,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+197,La Courneuve,Bâtiment,BATCNN002,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+198,La Courneuve,Bâtiment,BATMPN001,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+199,La Courneuve,Bâtiment,BATMPN002,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+200,La Courneuve,Propreté,PRPLTB013,POL013,direct_reference,2.0,2.0,1.0,6922.2,27688.8
+201,La Courneuve,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+202,La Courneuve,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+203,La Courneuve,ContReg,CRGVIN106,CRN106,direct_reference,1.0,1.0,1.0,324.3,324.3
+204,La Courneuve,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+205,La Courneuve,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+206,La Courneuve,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+207,La Courneuve,Eclairage,ECLNPN004,ECPN04,direct_reference,2.0,2.0,1.0,162.9,651.6
+208,La Courneuve,Eclairage,ECLNEN016,ECPN16,direct_reference,2.0,2.0,1.0,3459.49,13837.96
+209,La Courneuve,Eclairage,ECLRSN061,ECPN61,sum_3,0.4,2.0,1.0,9242.47,7393.98
+210,La Courneuve,Eclairage,ECLRSN062,ECPN62,sum_3,0.4,2.0,1.0,2378.58,1902.86
+211,La Courneuve,Eclairage,ECLRSN063,ECPN63,sum_3,0.4,2.0,1.0,5436.75,4349.4
+212,La Courneuve,AEV,AEVEFN012,AEFN12,direct_reference,2.0,2.0,1.0,397.62,1590.48
+213,La Courneuve,AEV,AEVMPN022,AEPN22,direct_reference,2.0,2.0,1.0,810.41,3241.64
+214,La Courneuve,AEV,AEVPLV008,AEV08,direct_reference,1.0,4.0,1.0,61.7,246.8
+215,La Courneuve,Automate,AUTPAB041,AUPR41,direct_reference,1.0,1.0,1.0,320.77594,320.78
+216,La Courneuve,Automate,AUTPAR042,AUPR42,direct_reference,1.0,1.0,1.0,346.69832,346.7
+217,La Courneuve,Automate,AUTPAM047,AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+218,La Courneuve,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+219,La Courneuve,PAU/TSE,RTSPPN004,RAU-PN04,direct_reference,4.0,1.0,1.0,337.92,1351.68
+220,La Courneuve,PAU/TSE,RTSPTN004,TSE-PN04,direct_reference,4.0,1.0,1.0,134.95,539.8
+221,La Courneuve,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+222,La Courneuve,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+223,La Courneuve,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+224,La Courneuve,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+225,La Courneuve,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+226,La Courneuve,Détection,,,direct_value,4.0,2.0,1.0,0.0,0.0
+227,La Courneuve,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+228,La Courneuve,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+229,La Courneuve,Détection,DETPXA200,DEP200,direct_reference,1.0,9.0,1.0,33.6,302.4
+230,La Courneuve,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+231,La Courneuve,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+232,La Courneuve,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+233,La Courneuve,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+234,La Courneuve,Détection,DETPXF204,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+235,La Courneuve,Détection,DETPXG206,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+236,La Courneuve,Ventilation,,,direct_value,1.0,1.0,1.0,0.0,0.0
+237,La Courneuve,Ventilation,VENPQA300,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+238,La Courneuve,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+239,La Courneuve,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+240,La Courneuve,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+241,La Courneuve,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+242,La Courneuve,Vidéo,VIDDAI112,VI MP 112,sum_2,1.0,1.0,1.0,1785.45,1785.45
+243,La Courneuve,Vidéo,VIDDAI113,VI MP 113,sum_2,1.0,1.0,1.0,1785.45,1785.45
+244,La Courneuve,Vidéo,VIDCAM312,VI MP 312,sum_2,2.0,1.0,1.0,1696.19,3392.38
+245,La Courneuve,Vidéo,VIDCAM313,VI MP 313,sum_2,2.0,1.0,1.0,1696.19,3392.38
+246,La Courneuve,Vidéo,VIDPCI406,VI MP 406,direct_reference,1.0,1.0,1.0,46.56,46.56
+247,La Courneuve,Pompage,POMIND102,INP102,direct_reference,1.0,1.0,1.0,613.0,613.0
+248,La Courneuve,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+249,La Courneuve,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+250,La Courneuve,Pompage,POMESP701,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+251,La Courneuve,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+252,La Courneuve,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+253,La Courneuve,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+254,La Courneuve,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+255,La Courneuve,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+256,La Courneuve,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+257,Orly,Bâtiment,BATCJS005,VJS005,direct_reference,6.0,1.0,1.0,507.0,3042.0
+258,Orly,Bâtiment,BATCNS005,VNS005,direct_reference,6.0,1.0,1.0,1306.0,7836.0
+259,Orly,Bâtiment,BATMPS005,MPS005,direct_reference,1.0,1.0,1.0,1407.0,1407.0
+260,Orly,Propreté,PRPLTB020,POL020,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+261,Orly,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+262,Orly,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+263,Orly,ContReg,CRGVIS110,CRS110,direct_reference,1.0,1.0,1.0,216.2,216.2
+264,Orly,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+265,Orly,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+266,Orly,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+267,Orly,Eclairage,ECLNPS003,ECPS03,direct_reference,2.0,2.0,1.0,240.68,962.72
+268,Orly,Eclairage,ECLNES014,ECPS14,direct_reference,2.0,2.0,1.0,3686.35,14745.4
+269,Orly,Eclairage,ECLRSS056,ECPS56,sum_3,0.4,2.0,1.0,3177.08,2541.66
+270,Orly,Eclairage,ECLRSS057,ECPS57,sum_3,0.4,2.0,1.0,2106.74,1685.39
+271,Orly,Eclairage,ECLRSS058,ECPS58,sum_3,0.4,2.0,1.0,16344.19,13075.35
+272,Orly,AEV,AEVEFS012,AEFS12,direct_reference,2.0,2.0,1.0,385.57,1542.28
+273,Orly,AEV,AEVMPS022,AEPS22,direct_reference,2.0,2.0,1.0,802.22,3208.88
+274,Orly,AEV,AEVPLV008,AEV08,direct_reference,1.0,12.0,1.0,61.7,740.4
+275,Orly,Automate,AUTPAB025,AUPR25,direct_reference,1.0,1.0,1.0,295.32919999999996,295.33
+276,Orly,Automate,AUTPAR002,AUPR02,direct_reference,1.0,1.0,1.0,360.05947999999995,360.06
+277,Orly,Automate,AUTPAB003,AUPR03,direct_reference,1.0,0.0,1.0,976.1429999999999,0.0
+278,Orly,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+279,Orly,PAU/TSE,RTSPPS003,RAU-PS03,direct_reference,4.0,1.0,1.0,700.25,2801.0
+280,Orly,PAU/TSE,RTSPTS003,TSE-PS03,direct_reference,4.0,1.0,1.0,89.96,359.84
+281,Orly,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+282,Orly,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+283,Orly,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+284,Orly,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+285,Orly,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+286,Orly,Détection,DETPLV021,DEP021,direct_reference,4.0,1.0,1.0,2903.25,11613.0
+287,Orly,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+288,Orly,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+289,Orly,Détection,DETPXA200,DEP200,direct_reference,1.0,0.0,1.0,33.6,0.0
+290,Orly,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+291,Orly,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+292,Orly,Détection,DETPXD203,DEP203,direct_reference,1.0,20.0,1.0,15.75,315.0
+293,Orly,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+294,Orly,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+295,Orly,Détection,DETPXG206,DEP206,direct_reference,1.0,11.0,1.0,15.75,173.25
+296,Orly,Ventilation,,,direct_value,1.0,1.0,1.0,0.0,0.0
+297,Orly,Ventilation,VENPQA300,VPT300,direct_reference,1.0,12.0,1.0,78.85,946.2
+298,Orly,Ventilation,VENPQB301,VPT301,direct_reference,1.0,9.0,1.0,128.27,1154.43
+299,Orly,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+300,Orly,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+301,Orly,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+302,Orly,Vidéo,VIDDAI142,VI MP 142,sum_2,1.0,1.0,1.0,3341.64,3341.64
+303,Orly,Vidéo,VIDDAI143,VI MP 143,sum_2,1.0,1.0,1.0,1785.45,1785.45
+304,Orly,Vidéo,VIDCAM342,VI MP 342,sum_2,2.0,1.0,1.0,1696.19,3392.38
+305,Orly,Vidéo,VIDCAM343,VI MP 343,sum_2,2.0,1.0,1.0,1696.19,3392.38
+306,Orly,Vidéo,VIDPCI421,VI MP 421,direct_reference,1.0,1.0,1.0,31.01,31.01
+307,Orly,Pompage,POMIND403,INP403,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+308,Orly,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+309,Orly,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+310,Orly,Pompage,POMESP701,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+311,Orly,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+312,Orly,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+313,Orly,Pompage,POMERE700,INP700,direct_reference,1.0,9.0,1.0,214.65,1931.85
+314,Orly,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+315,Orly,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+316,Orly,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+317,Fontenay,Bâtiment,BATCJN004,VJO004,sum_2,6.0,2.0,1.0,507.0,6084.0
+318,Fontenay,Bâtiment,BATCJN005,VJO005,sum_2,6.0,2.0,1.0,507.0,6084.0
+319,Fontenay,Bâtiment,BATCNO004,VNO004,sum_2,6.0,2.0,1.0,1306.0,15672.0
+320,Fontenay,Bâtiment,BATCNO005,VNO005,sum_2,6.0,2.0,1.0,1306.0,15672.0
+321,Fontenay,Bâtiment,BATMPO004,MPO004,sum_2,1.0,2.0,1.0,1407.0,2814.0
+322,Fontenay,Bâtiment,BATMPO005,MPO005,sum_2,1.0,2.0,1.0,1407.0,2814.0
+323,Fontenay,Propreté,PRPLTB002,POL002,direct_reference,2.0,2.0,1.0,7700.59,30802.36
+324,Fontenay,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+325,Fontenay,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+326,Fontenay,ContReg,CRGVIO122,CRO122,direct_reference,1.0,1.0,1.0,432.4,432.4
+327,Fontenay,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+328,Fontenay,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+329,Fontenay,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+330,Fontenay,Eclairage,ECLNPB003,ECPB03,direct_reference,2.0,2.0,1.0,162.9,651.6
+331,Fontenay,Eclairage,ECLNEB014,ECPB14,direct_reference,2.0,2.0,1.0,3265.72,13062.88
+332,Fontenay,Eclairage,ECLRSB057,ECPB57,sum_3,0.4,2.0,1.0,3058.17,2446.54
+333,Fontenay,Eclairage,ECLRSB058,ECPB58,sum_3,0.4,2.0,1.0,3024.2,2419.36
+334,Fontenay,Eclairage,ECLRSB059,ECPB59,sum_3,0.4,2.0,1.0,5657.62,4526.1
+335,Fontenay,AEV,AEVEFB012,AEFB12,direct_reference,2.0,2.0,1.0,397.62,1590.48
+336,Fontenay,AEV,AEVMPB012,AEPB12,direct_reference,2.0,2.0,1.0,794.03,3176.12
+337,Fontenay,AEV,AEVPLV008,AEV08,direct_reference,1.0,16.0,1.0,61.7,987.2
+338,Fontenay,Automate,AUTPAB017,AUPR17,direct_reference,1.0,1.0,1.0,320.77594,320.78
+339,Fontenay,Automate,AUTPAR018,AUPR18,direct_reference,1.0,1.0,1.0,711.42772,711.43
+340,Fontenay,Automate,AUTPAM047,AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+341,Fontenay,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+342,Fontenay,PAU/TSE,RTSPPO007,RAU-PO07,direct_reference,4.0,1.0,1.0,700.25,2801.0
+343,Fontenay,PAU/TSE,RTSPTO007,TSE-PO07,direct_reference,4.0,1.0,1.0,179.94,719.76
+344,Fontenay,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+345,Fontenay,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+346,Fontenay,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+347,Fontenay,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+348,Fontenay,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+349,Fontenay,Détection,DETPCA002,DEP002,direct_reference,4.0,2.0,1.0,2929.5,23436.0
+350,Fontenay,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+351,Fontenay,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+352,Fontenay,Détection,DETPXA200,DEP200,direct_reference,1.0,24.0,1.0,33.6,806.4
+353,Fontenay,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+354,Fontenay,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+355,Fontenay,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+356,Fontenay,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+357,Fontenay,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+358,Fontenay,Détection,DETPXG206,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+359,Fontenay,Ventilation,VENPEB201,VPB201,direct_reference,1.0,1.0,1.0,1925.53,1925.53
+360,Fontenay,Ventilation,VENPQA300,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+361,Fontenay,Ventilation,VENPQB301,VPT301,direct_reference,1.0,10.0,1.0,128.27,1282.7
+362,Fontenay,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+363,Fontenay,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+364,Fontenay,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+365,Fontenay,Vidéo,VIDDAI130,VI MP 130,sum_2,1.0,1.0,1.0,1785.45,1785.45
+366,Fontenay,Vidéo,VIDDAI131,VI MP 131,sum_2,1.0,1.0,1.0,1785.45,1785.45
+367,Fontenay,Vidéo,VIDCAM330,VI MP 330,sum_2,2.0,1.0,1.0,1696.19,3392.38
+368,Fontenay,Vidéo,VIDCAM331,VI MP 331,sum_2,2.0,1.0,1.0,1696.19,3392.38
+369,Fontenay,Vidéo,VIDPCI415,VI MP 415,direct_reference,1.0,1.0,1.0,31.01,31.01
+370,Fontenay,Pompage,POMIND211,INP306,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+371,Fontenay,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+372,Fontenay,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+373,Fontenay,Pompage,,,direct_value,1.0,0.0,1.0,0.0,0.0
+374,Fontenay,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+375,Fontenay,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+376,Fontenay,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+377,Fontenay,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+378,Fontenay,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+379,Fontenay,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+380,Belle-Rive,Bâtiment,BATCJN008,VJO008,sum_2,6.0,2.0,1.0,1014.0,12168.0
+381,Belle-Rive,Bâtiment,BATCJN009,VJO009,sum_2,6.0,2.0,1.0,1014.0,12168.0
+382,Belle-Rive,Bâtiment,BATCNO008,VNO008,sum_2,6.0,2.0,1.0,1958.0,23496.0
+383,Belle-Rive,Bâtiment,BATCNO009,VNO009,sum_2,6.0,2.0,1.0,1958.0,23496.0
+384,Belle-Rive,Bâtiment,BATMPO008,MPO008,sum_2,1.0,2.0,1.0,2111.0,4222.0
+385,Belle-Rive,Bâtiment,BATMPO009,MPO009,sum_2,1.0,2.0,1.0,2111.0,4222.0
+386,Belle-Rive,Propreté,PRPLTB005,POL005,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+387,Belle-Rive,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+388,Belle-Rive,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+389,Belle-Rive,ContReg,CRGVIO113,CRO113,sum_3,1.0,1.0,1.0,648.6,648.6
+390,Belle-Rive,ContReg,CRGVIO114,CRO114,sum_3,1.0,1.0,1.0,540.5,540.5
+391,Belle-Rive,ContReg,CRGVIO115,CRO115,sum_3,1.0,1.0,1.0,648.6,648.6
+392,Belle-Rive,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+393,Belle-Rive,ContReg,CRGDLB102,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+394,Belle-Rive,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+395,Belle-Rive,Eclairage,ECLNPB005,ECPB05,direct_reference,2.0,2.0,1.0,610.87,2443.48
+396,Belle-Rive,Eclairage,ECLNEB020,ECPB20,direct_reference,2.0,2.0,1.0,2873.45,11493.8
+397,Belle-Rive,Eclairage,ECLRSB066,ECPB66,sum_3,0.4,2.0,1.0,9786.14,7828.91
+398,Belle-Rive,Eclairage,ECLRSB067,ECPB67,sum_3,0.4,2.0,1.0,9072.57,7258.06
+399,Belle-Rive,Eclairage,ECLRSB068,ECPB68,sum_3,0.4,2.0,1.0,6626.03,5300.82
+400,Belle-Rive,AEV,AEVEFB014,AEFB14,direct_reference,2.0,2.0,1.0,785.44,3141.76
+401,Belle-Rive,AEV,AEVMPB014,AEPB14,direct_reference,2.0,2.0,1.0,2338.42,9353.68
+402,Belle-Rive,AEV,AEVPLV008,AEV08,direct_reference,1.0,13.0,1.0,61.7,802.1
+403,Belle-Rive,Automate,AUTPAB013,AUPR13,direct_reference,1.0,1.0,1.0,493.22786999999994,493.23
+404,Belle-Rive,Automate,AUTPAR014,AUPR14,direct_reference,1.0,1.0,1.0,1030.3335299999999,1030.33
+405,Belle-Rive,Automate,AUTPAM047,AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+406,Belle-Rive,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+407,Belle-Rive,PAU/TSE,RTSPPO008,RAU-PO08,direct_reference,4.0,1.0,1.0,1013.76,4055.04
+408,Belle-Rive,PAU/TSE,RTSPTO008,TSE-PO08,direct_reference,4.0,1.0,1.0,674.76,2699.04
+409,Belle-Rive,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,5.0,1.0,304.01,1520.05
+410,Belle-Rive,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+411,Belle-Rive,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+412,Belle-Rive,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+413,Belle-Rive,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,5.0,1.0,414.3,1035.75
+414,Belle-Rive,Détection,DETPCA005,DEP005,direct_reference,4.0,2.0,1.0,5283.6,42268.8
+415,Belle-Rive,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+416,Belle-Rive,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+417,Belle-Rive,Détection,DETPXA200,DEP200,direct_reference,1.0,36.0,1.0,33.6,1209.6
+418,Belle-Rive,Détection,DETPXB201,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+419,Belle-Rive,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+420,Belle-Rive,Détection,DETPXD203,DEP203,direct_reference,1.0,5.0,1.0,15.75,78.75
+421,Belle-Rive,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+422,Belle-Rive,Détection,DETPXF204,DEP205,direct_reference,1.0,5.0,1.0,26.25,131.25
+423,Belle-Rive,Détection,DETPXG206,DEP206,direct_reference,1.0,16.0,1.0,15.75,252.0
+424,Belle-Rive,Ventilation,VENPEO200,VPO200,direct_reference,1.0,1.0,1.0,10362.03,10362.03
+425,Belle-Rive,Ventilation,VENPQA300,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+426,Belle-Rive,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+427,Belle-Rive,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+428,Belle-Rive,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+429,Belle-Rive,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+430,Belle-Rive,Vidéo,VIDDAI125,VI MP 125,sum_2,1.0,1.0,1.0,3341.64,3341.64
+431,Belle-Rive,Vidéo,VIDDAI125,VI MP 125,sum_2,1.0,1.0,1.0,3341.64,3341.64
+432,Belle-Rive,Vidéo,VIDCAM324,VI MP 324,sum_2,2.0,1.0,1.0,3174.6,6349.2
+433,Belle-Rive,Vidéo,VIDCAM325,VI MP 325,sum_2,2.0,1.0,1.0,3174.6,6349.2
+434,Belle-Rive,Vidéo,VIDPCI412,VI MP 412,direct_reference,1.0,1.0,1.0,232.81,232.81
+435,Belle-Rive,Pompage,POMIND206,INP301,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+436,Belle-Rive,Pompage,POMVSP319,POP319,sum_3,3.0,1.0,1.0,858.61,2575.83
+437,Belle-Rive,Pompage,POMVSP320,POP320,sum_3,3.0,1.0,1.0,858.61,2575.83
+438,Belle-Rive,Pompage,POMVSP321,POP321,sum_3,3.0,1.0,1.0,858.61,2575.83
+439,Belle-Rive,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+440,Belle-Rive,Pompage,POMESP319,POE319,sum_3,1.0,3.0,1.0,1358.77,4076.31
+441,Belle-Rive,Pompage,POMESP320,POE320,sum_3,1.0,3.0,1.0,1358.77,4076.31
+442,Belle-Rive,Pompage,POMESP321,POE321,sum_3,1.0,3.0,1.0,1358.77,4076.31
+443,Belle-Rive,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+444,Belle-Rive,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+445,Belle-Rive,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+446,Belle-Rive,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+447,Belle-Rive,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+448,Belle-Rive,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+449,Italie,Bâtiment,BATCJS001,VJS001,div_2,6.0,1.0,0.5,507.0,1521.0
+450,Italie,Bâtiment,BATCJS002,VJS002,div_2,6.0,1.0,0.5,507.0,1521.0
+451,Italie,Bâtiment,BATCNS001,VNS001,div_2,6.0,1.0,0.5,1306.0,3918.0
+452,Italie,Bâtiment,BATCNS002,VNS002,div_2,6.0,1.0,0.5,1306.0,3918.0
+453,Italie,Bâtiment,BATMPS001,MPS001,div_2,1.0,1.0,0.5,1407.0,703.5
+454,Italie,Bâtiment,BATMPS002,MPS002,div_2,1.0,1.0,0.5,1407.0,703.5
+455,Italie,Propreté,PRPLTB019,POL019,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+456,Italie,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+457,Italie,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+458,Italie,ContReg,CRGVIS109,CRS109,direct_reference,1.0,1.0,1.0,864.8,864.8
+459,Italie,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+460,Italie,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+461,Italie,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+462,Italie,Eclairage,ECLNPS005,ECPS05,direct_reference,2.0,2.0,1.0,244.34,977.36
+463,Italie,Eclairage,ECLNES018,ECPS18,direct_reference,2.0,2.0,1.0,1228.78,4915.12
+464,Italie,Eclairage,ECLRSS062,ECPS62,sum_3,0.4,2.0,1.0,1919.86,1535.89
+465,Italie,Eclairage,ECLRSS063,ECPS63,sum_3,0.4,2.0,1.0,1648.01,1318.41
+466,Italie,Eclairage,ECLRSS064,ECPS64,sum_3,0.4,2.0,1.0,2361.59,1889.27
+467,Italie,AEV,AEVEFS014,AEFS14,direct_reference,2.0,2.0,1.0,383.8,1535.2
+468,Italie,AEV,AEVMPS024,AEPS24,direct_reference,2.0,2.0,1.0,771.3,3085.2
+469,Italie,AEV,AEVPLV008,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+470,Italie,Automate,AUTPAB023,AUPR23,div_2,1.0,1.0,0.5,346.22267999999997,173.11
+471,Italie,Automate,AUTPAR024,AUPR24,div_2,1.0,1.0,0.5,1871.29748,935.65
+472,Italie,Automate,AUTPAM047,AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+473,Italie,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+474,Italie,PAU/TSE,RTSPPS002,RAU-PS02,div_2,4.0,1.0,0.5,2208.71,4417.42
+475,Italie,PAU/TSE,RTSPTS002,TSE-PS02,div_2,4.0,1.0,0.5,584.79,1169.58
+476,Italie,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+477,Italie,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+478,Italie,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+479,Italie,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+480,Italie,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+481,Italie,Détection,DETPCA020,DEP020,direct_reference,4.0,1.0,1.0,2880.15,11520.6
+482,Italie,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+483,Italie,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+484,Italie,Détection,DETPXA200,DEP200,direct_reference,1.0,17.0,1.0,33.6,571.2
+485,Italie,Détection,DETPXB201,DEP201,direct_reference,1.0,2.0,1.0,21.0,42.0
+486,Italie,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+487,Italie,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+488,Italie,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+489,Italie,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+490,Italie,Détection,DETPXG206,DEP206,direct_reference,1.0,10.0,1.0,15.75,157.5
+491,Italie,Ventilation,,,direct_value,1.0,1.0,1.0,0.0,0.0
+492,Italie,Ventilation,VENPQA300,VPT300,direct_reference,1.0,1.0,1.0,78.85,78.85
+493,Italie,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+494,Italie,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+495,Italie,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+496,Italie,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+497,Italie,Vidéo,VIDDAI140,VI MP 140,div_2,1.0,1.0,0.5,3341.64,1670.82
+498,Italie,Vidéo,VIDDAI141,VI MP 141,div_2,1.0,1.0,0.5,3341.64,1670.82
+499,Italie,Vidéo,VIDCAM340,VI MP 340,div_2,2.0,1.0,0.5,1696.19,1696.19
+500,Italie,Vidéo,VIDCAM341,VI MP 341,div_2,2.0,1.0,0.5,1696.19,1696.19
+501,Italie,Vidéo,VIDPCI420,VI MP 420,div_2,1.0,1.0,0.5,201.81,100.91
+502,Italie,Pompage,POMIND404,INP404,direct_reference,1.0,1.0,1.0,961.0,961.0
+503,Italie,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+504,Italie,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+505,Italie,Pompage,,,direct_value,1.0,0.0,1.0,0.0,0.0
+506,Italie,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+507,Italie,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+508,Italie,Pompage,POMERE700,INP700,direct_reference,1.0,5.0,1.0,214.65,1073.25
+509,Italie,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+510,Italie,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+511,Italie,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+512,Saint-Cloud,Bâtiment,BATCJN001,VJO001,sum_2,6.0,1.0,1.0,2029.0,12174.0
+513,Saint-Cloud,Bâtiment,BATCJN002,VJO002,sum_2,6.0,1.0,1.0,1522.0,9132.0
+514,Saint-Cloud,Bâtiment,BATCNO001,VNO001,sum_2,6.0,1.0,1.0,3264.0,19584.0
+515,Saint-Cloud,Bâtiment,BATCNO002,VNO002,sum_2,6.0,1.0,1.0,2611.0,15666.0
+516,Saint-Cloud,Bâtiment,BATMPO001,MPO001,sum_2,1.0,1.0,1.0,3519.0,3519.0
+517,Saint-Cloud,Bâtiment,BATMPO002,MPO002,sum_2,1.0,1.0,1.0,2815.0,2815.0
+518,Saint-Cloud,Propreté,PRPLTB003,POL003,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+519,Saint-Cloud,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+520,Saint-Cloud,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+521,Saint-Cloud,ContReg,CRGVIO119,CRO119,sum_3,1.0,1.0,1.0,324.3,324.3
+522,Saint-Cloud,ContReg,CRGVIO120,CRO120,sum_3,1.0,1.0,1.0,324.3,324.3
+523,Saint-Cloud,ContReg,CRGVIO121,CRO121,sum_3,1.0,1.0,1.0,540.5,540.5
+524,Saint-Cloud,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+525,Saint-Cloud,ContReg,CRGDLB102,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+526,Saint-Cloud,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+527,Saint-Cloud,Eclairage,ECLNPB004,ECPB04,direct_reference,2.0,2.0,1.0,529.42,2117.68
+528,Saint-Cloud,Eclairage,ECLNEB016,ECPB16,direct_reference,2.0,2.0,1.0,2882.91,11531.64
+529,Saint-Cloud,Eclairage,ECLRSB060,ECPB60,sum_6,0.4,2.0,1.0,3397.96,2718.37
+530,Saint-Cloud,Eclairage,ECLRSB061,ECPB61,sum_6,0.4,2.0,1.0,7135.73,5708.58
+531,Saint-Cloud,Eclairage,ECLRSB062,ECPB62,sum_6,0.4,2.0,1.0,3399.0,2719.2
+532,Saint-Cloud,Eclairage,ECLRSB063,ECPB63,sum_6,0.4,2.0,1.0,7135.73,5708.58
+533,Saint-Cloud,Eclairage,ECLRSB064,ECPB64,sum_6,0.4,2.0,1.0,4757.15,3805.72
+534,Saint-Cloud,Eclairage,ECLRSB065,ECPB65,sum_6,0.4,2.0,1.0,5436.75,4349.4
+535,Saint-Cloud,AEV,AEVEFB013,AEFB13,direct_reference,2.0,2.0,1.0,801.05,3204.2
+536,Saint-Cloud,AEV,AEVMPB013,AEPB13,direct_reference,2.0,2.0,1.0,2657.19,10628.76
+537,Saint-Cloud,AEV,AEVPLV008,AEV08,direct_reference,1.0,23.0,1.0,61.7,1419.1
+538,Saint-Cloud,Automate,AUTPAB019,AUPR19,direct_reference,1.0,1.0,1.0,364.59968,364.6
+539,Saint-Cloud,Automate,AUTPAR020,AUPR20,direct_reference,1.0,1.0,1.0,917.81224,917.81
+540,Saint-Cloud,Automate,AUTPAM047,AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+541,Saint-Cloud,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+542,Saint-Cloud,PAU/TSE,RTSPPO010,RAU-PO10,direct_reference,4.0,1.0,1.0,992.03,3968.12
+543,Saint-Cloud,PAU/TSE,RTSPTO010,TSE-PO10,direct_reference,4.0,1.0,1.0,584.79,2339.16
+544,Saint-Cloud,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+545,Saint-Cloud,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,3.0,1.0,337.95,1013.85
+546,Saint-Cloud,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+547,Saint-Cloud,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+548,Saint-Cloud,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+549,Saint-Cloud,Détection,DETPCA003,DEP003,direct_reference,4.0,2.0,1.0,3334.8,26678.4
+550,Saint-Cloud,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+551,Saint-Cloud,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+552,Saint-Cloud,Détection,DETPXA200,DEP200,direct_reference,1.0,40.0,1.0,33.6,1344.0
+553,Saint-Cloud,Détection,DETPXB201,DEP201,direct_reference,1.0,8.0,1.0,21.0,168.0
+554,Saint-Cloud,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+555,Saint-Cloud,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+556,Saint-Cloud,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+557,Saint-Cloud,Détection,DETPXF204,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+558,Saint-Cloud,Détection,DETPXG206,DEP206,direct_reference,1.0,20.0,1.0,15.75,315.0
+559,Saint-Cloud,Ventilation,VENPEB202,VPB202,direct_reference,1.0,1.0,1.0,9393.31,9393.31
+560,Saint-Cloud,Ventilation,VENPQA300,VPT300,direct_reference,1.0,23.0,1.0,78.85,1813.55
+561,Saint-Cloud,Ventilation,VENPQB301,VPT301,direct_reference,1.0,14.0,1.0,128.27,1795.78
+562,Saint-Cloud,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+563,Saint-Cloud,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+564,Saint-Cloud,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+565,Saint-Cloud,Vidéo,VIDDAI126,VI MP 126,sum_2,1.0,1.0,1.0,2506.23,2506.23
+566,Saint-Cloud,Vidéo,VIDDAI127,VI MP 127,sum_2,1.0,1.0,1.0,2506.23,2506.23
+567,Saint-Cloud,Vidéo,VIDCAM326,VI MP 326,sum_2,2.0,1.0,1.0,1696.19,3392.38
+568,Saint-Cloud,Vidéo,VIDCAM327,VI MP 327,sum_2,2.0,1.0,1.0,1696.19,3392.38
+569,Saint-Cloud,Vidéo,VIDPCI413,VI MP 413,direct_reference,1.0,1.0,1.0,201.81,201.81
+570,Saint-Cloud,Pompage,POMIND215,INP310,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+571,Saint-Cloud,Pompage,POMVSP324,POP324,direct_reference,3.0,1.0,1.0,429.61,1288.83
+572,Saint-Cloud,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+573,Saint-Cloud,Pompage,POMESP324,POE324,direct_reference,1.0,1.0,1.0,858.61,858.61
+574,Saint-Cloud,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+575,Saint-Cloud,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+576,Saint-Cloud,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+577,Saint-Cloud,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+578,Saint-Cloud,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+579,Saint-Cloud,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+580,Chennevières,Bâtiment,BATCJN003,VJO003,direct_reference,6.0,1.0,1.0,507.0,3042.0
+581,Chennevières,Bâtiment,BATCNO003,VNO003,direct_reference,6.0,1.0,1.0,1306.0,7836.0
+582,Chennevières,Bâtiment,BATMPO003,MPO003,direct_reference,1.0,1.0,1.0,1407.0,1407.0
+583,Chennevières,Propreté,PRPLTB001,POL001,direct_reference,2.0,2.0,1.0,7456.6,29826.4
+584,Chennevières,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+585,Chennevières,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+586,Chennevières,ContReg,CRGVIO123,CRO123,direct_reference,1.0,1.0,1.0,540.5,540.5
+587,Chennevières,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+588,Chennevières,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+589,Chennevières,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+590,Chennevières,Eclairage,ECLNPB002,ECPB02,direct_reference,2.0,2.0,1.0,81.44,325.76
+591,Chennevières,Eclairage,ECLNEB012,ECPB12,direct_reference,2.0,2.0,1.0,4593.75,18375.0
+592,Chennevières,Eclairage,ECLRSB054,ECPB54,sum_3,0.4,2.0,1.0,6592.06,5273.65
+593,Chennevières,Eclairage,ECLRSB055,ECPB55,sum_3,0.4,2.0,1.0,3839.69,3071.75
+594,Chennevières,Eclairage,ECLRSB056,ECPB56,sum_3,0.4,2.0,1.0,6082.37,4865.9
+595,Chennevières,AEV,AEVEFB011,AEFB11,direct_reference,2.0,2.0,1.0,354.36,1417.44
+596,Chennevières,AEV,AEVMPB011,AEPB11,direct_reference,2.0,2.0,1.0,942.35,3769.4
+597,Chennevières,AEV,AEVPLV008,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+598,Chennevières,Automate,AUTPAB015,AUPR15,direct_reference,1.0,1.0,1.0,371.65861,371.66
+599,Chennevières,Automate,AUTPAR016,AUPR16,direct_reference,1.0,1.0,1.0,228.94499,228.94
+600,Chennevières,Automate,AUTPAM047,AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+601,Chennevières,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+602,Chennevières,PAU/TSE,RTSPPO006,RAU-PO06,direct_reference,4.0,1.0,1.0,506.89,2027.56
+603,Chennevières,PAU/TSE,RTSPTO006,TSE-PO06,direct_reference,4.0,1.0,1.0,89.96,359.84
+604,Chennevières,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+605,Chennevières,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+606,Chennevières,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+607,Chennevières,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+608,Chennevières,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+609,Chennevières,Détection,DETPCA001,DEP001,direct_reference,4.0,2.0,1.0,2923.2,23385.6
+610,Chennevières,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+611,Chennevières,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+612,Chennevières,Détection,DETPXA200,DEP200,direct_reference,1.0,13.0,1.0,33.6,436.8
+613,Chennevières,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+614,Chennevières,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+615,Chennevières,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+616,Chennevières,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+617,Chennevières,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+618,Chennevières,Détection,DETPXG206,DEP206,direct_reference,1.0,10.0,1.0,15.75,157.5
+619,Chennevières,Ventilation,VENPEB200,VPB200,direct_reference,1.0,1.0,1.0,1943.45,1943.45
+620,Chennevières,Ventilation,VENPQA300,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+621,Chennevières,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+622,Chennevières,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+623,Chennevières,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+624,Chennevières,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+625,Chennevières,Vidéo,VIDDAI134,VI MP 134,sum_2,1.0,1.0,1.0,1785.45,1785.45
+626,Chennevières,Vidéo,VIDDAI135,VI MP 135,sum_2,1.0,1.0,1.0,1785.45,1785.45
+627,Chennevières,Vidéo,VIDCAM334,VI MP 334,sum_2,2.0,1.0,1.0,1696.19,3392.38
+628,Chennevières,Vidéo,VIDCAM335,VI MP 335,sum_2,2.0,1.0,1.0,1696.19,3392.38
+629,Chennevières,Vidéo,VIDPCI417,VI MP 417,direct_reference,1.0,1.0,1.0,46.56,46.56
+630,Chennevières,Pompage,POMIND209,INP304,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+631,Chennevières,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+632,Chennevières,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+633,Chennevières,Pompage,,,direct_value,1.0,1.0,1.0,0.0,0.0
+634,Chennevières,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+635,Chennevières,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+636,Chennevières,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+637,Chennevières,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+638,Chennevières,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+639,Chennevières,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+640,Landy,Bâtiment,BATCJN003,VJN003,sum_2,6.0,1.0,1.0,1014.0,6084.0
+641,Landy,Bâtiment,BATCJN004,VJN004,sum_2,6.0,1.0,1.0,1014.0,6084.0
+642,Landy,Bâtiment,BATCNN003,VNN003,sum_2,6.0,1.0,1.0,1958.0,11748.0
+643,Landy,Bâtiment,BATCNN004,VNN004,sum_2,6.0,1.0,1.0,1958.0,11748.0
+644,Landy,Bâtiment,BATMPN003,MPN003,sum_2,1.0,1.0,1.0,2111.0,2111.0
+645,Landy,Bâtiment,BATMPN004,MPN004,sum_2,1.0,1.0,1.0,2111.0,2111.0
+646,Landy,Propreté,PRPLTB011,POL011,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+647,Landy,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+648,Landy,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+649,Landy,ContReg,CRGVIN101,CRN101,sum_5,1.0,1.0,1.0,324.3,324.3
+650,Landy,ContReg,CRGVIN102,CRN102,sum_5,1.0,1.0,1.0,324.3,324.3
+651,Landy,ContReg,CRGVIN103,CRN103,sum_5,1.0,1.0,1.0,324.3,324.3
+652,Landy,ContReg,CRGVIN104,CRN104,sum_5,1.0,1.0,1.0,216.2,216.2
+653,Landy,ContReg,CRGVIN105,CRN105,sum_5,1.0,1.0,1.0,216.2,216.2
+654,Landy,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+655,Landy,ContReg,CRGDLB102,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+656,Landy,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+657,Landy,Eclairage,ECLNPN005,ECPN05,direct_reference,2.0,2.0,1.0,814.49,3257.96
+658,Landy,Eclairage,ECLNEN018,ECPN18,direct_reference,2.0,2.0,1.0,8993.74,35974.96
+659,Landy,Eclairage,ECLRSN064,ECPN64,sum_3,0.4,2.0,1.0,30785.54,24628.43
+660,Landy,Eclairage,ECLRSN065,ECPN65,sum_3,0.4,2.0,1.0,15341.82,12273.46
+661,Landy,Eclairage,ECLRSN066,ECPN66,sum_3,0.4,2.0,1.0,5062.97,4050.38
+662,Landy,AEV,AEVEFN013,AEFN13,direct_reference,2.0,2.0,1.0,1024.39,4097.56
+663,Landy,AEV,AEVMPN023,AEPN23,direct_reference,2.0,2.0,1.0,3491.55,13966.2
+664,Landy,AEV,AEVPLV008,AEV08,direct_reference,1.0,24.0,1.0,61.7,1480.8
+665,Landy,Automate,AUTPAB039,AUPR39,direct_reference,1.0,1.0,1.0,371.65861,371.66
+666,Landy,Automate,AUTPAR040,AUPR40,direct_reference,1.0,1.0,1.0,2196.3758,2196.38
+667,Landy,Automate,AUTPAM047,AUPR47,direct_reference,1.0,9.0,1.0,202.4713,1822.24
+668,Landy,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+669,Landy,PAU/TSE,RTSPPN001,RAU-PN01,direct_reference,4.0,1.0,1.0,1400.52,5602.08
+670,Landy,PAU/TSE,RTSPTN001,TSE-PN01,direct_reference,4.0,1.0,1.0,899.67,3598.68
+671,Landy,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+672,Landy,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+673,Landy,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+674,Landy,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+675,Landy,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+676,Landy,Détection,DETPCA012,DEP012,direct_reference,4.0,2.0,1.0,5363.4,42907.2
+677,Landy,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+678,Landy,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+679,Landy,Détection,DETPXA200,DEP200,direct_reference,1.0,52.0,1.0,33.6,1747.2
+680,Landy,Détection,DETPXB201,DEP201,direct_reference,1.0,5.0,1.0,21.0,105.0
+681,Landy,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+682,Landy,Détection,DETPXD203,DEP203,direct_reference,1.0,2.0,1.0,15.75,31.5
+683,Landy,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+684,Landy,Détection,DETPXF204,DEP205,direct_reference,1.0,4.0,1.0,26.25,105.0
+685,Landy,Détection,DETPXG206,DEP206,direct_reference,1.0,23.0,1.0,15.75,362.25
+686,Landy,Ventilation,VENPEN200,VPN200,direct_reference,1.0,1.0,1.0,31888.73,31888.73
+687,Landy,Ventilation,VENPQA300,VPT300,direct_reference,1.0,24.0,1.0,78.85,1892.4
+688,Landy,Ventilation,VENPQB301,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+689,Landy,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+690,Landy,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+691,Landy,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+692,Landy,Vidéo,VIDDAI106,VI MP 106,sum_2,1.0,1.0,1.0,3341.64,3341.64
+693,Landy,Vidéo,VIDDAI107,VI MP 107,sum_2,1.0,1.0,1.0,3341.64,3341.64
+694,Landy,Vidéo,VIDCAM306,VI MP 306,sum_2,2.0,1.0,1.0,3174.6,6349.2
+695,Landy,Vidéo,VIDCAM307,VI MP 307,sum_2,2.0,1.0,1.0,3174.6,6349.2
+696,Landy,Vidéo,VIDPCI403,VI MP 403,direct_reference,1.0,1.0,1.0,310.49,310.49
+697,Landy,Pompage,POMIND101,INP101,direct_reference,1.0,1.0,1.0,3062.0,3062.0
+698,Landy,Pompage,POMVSP101,POP101,direct_reference,3.0,1.0,1.0,573.1,1719.3
+699,Landy,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+700,Landy,Pompage,POMESP701,POE701,direct_reference,1.0,7.0,1.0,0.0,0.0
+701,Landy,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+702,Landy,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+703,Landy,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+704,Landy,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+705,Landy,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+706,Landy,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+707,Moulin,Bâtiment,BATCJE005,VJE005,sum_2,6.0,0.5,1.0,1522.0,4566.0
+708,Moulin,Bâtiment,BATCJE006,VJE006,sum_2,6.0,0.5,1.0,1522.0,4566.0
+709,Moulin,Bâtiment,BATCNE005,VNE005,sum_2,6.0,0.5,1.0,2611.0,7833.0
+710,Moulin,Bâtiment,BATCNE006,VNE006,sum_2,6.0,0.5,1.0,2611.0,7833.0
+711,Moulin,Bâtiment,BATMPE005,MPE005,sum_2,1.0,0.5,1.0,2815.0,1407.5
+712,Moulin,Bâtiment,BATMPE006,MPE006,sum_2,1.0,0.5,1.0,2815.0,1407.5
+713,Moulin,Propreté,PRPLTB016,POL016,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+714,Moulin,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+715,Moulin,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+716,Moulin,ContReg,CRGVIE105,CRE105,sum_2,1.0,0.5,1.0,864.8,432.4
+717,Moulin,ContReg,CRGVIE106,CRE106,sum_2,1.0,0.5,1.0,864.8,432.4
+718,Moulin,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+719,Moulin,ContReg,CRGDLB102,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+720,Moulin,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+721,Moulin,Eclairage,ECLNPE001,ECPE01,direct_reference,2.0,1.0,1.0,855.21,1710.42
+722,Moulin,Eclairage,ECLNEE010,ECPE10,direct_reference,2.0,1.0,1.0,15985.44,31970.88
+723,Moulin,Eclairage,ECLRSE050,ECPE50,sum_3,0.4,1.0,1.0,28406.97,11362.79
+724,Moulin,Eclairage,ECLRSE054,ECPE54,sum_3,0.4,1.0,1.0,17737.38,7094.95
+725,Moulin,Eclairage,ECLRSE056,ECPE56,sum_3,0.4,1.0,1.0,27455.54,10982.22
+726,Moulin,AEV,AEVEFE010,AEFE10,direct_reference,2.0,1.0,1.0,1005.24,2010.48
+727,Moulin,AEV,AEVMPE020,AEPE20,direct_reference,2.0,1.0,1.0,3016.89,6033.78
+728,Moulin,AEV,AEVPLV008,AEV08,direct_reference,1.0,8.0,1.0,61.7,493.6
+729,Moulin,Automate,AUTPAB031,AUPR31,direct_reference,1.0,0.5,1.0,397.10535,198.55
+730,Moulin,Automate,AUTPAR032,AUPR32,direct_reference,1.0,0.5,1.0,1450.62633,725.31
+731,Moulin,Automate,AUTPAM047,AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+732,Moulin,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+733,Moulin,PAU/TSE,RTSPPE004,RAU-PE04,direct_reference,4.0,0.5,1.0,1552.88,3105.76
+734,Moulin,PAU/TSE,RTSPTE004,TSE-PE04,direct_reference,4.0,0.5,1.0,944.66,1889.32
+735,Moulin,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+736,Moulin,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+737,Moulin,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+738,Moulin,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+739,Moulin,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+740,Moulin,Détection,DETPCA016,DEP016,direct_reference,4.0,1.0,1.0,6209.7,24838.8
+741,Moulin,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+742,Moulin,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+743,Moulin,Détection,DETPXA200,DEP200,direct_reference,1.0,25.0,1.0,33.6,840.0
+744,Moulin,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+745,Moulin,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+746,Moulin,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+747,Moulin,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+748,Moulin,Détection,DETPXF204,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+749,Moulin,Détection,DETPXG206,DEP206,direct_reference,1.0,4.0,1.0,15.75,63.0
+750,Moulin,Ventilation,VENPEE203,VPE203,direct_reference,1.0,1.0,1.0,10365.03,10365.03
+751,Moulin,Ventilation,VENPQA300,VPT300,direct_reference,1.0,8.0,1.0,78.85,630.8
+752,Moulin,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+753,Moulin,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+754,Moulin,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+755,Moulin,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+756,Moulin,Vidéo,VIDDAI102,VI MP 102,sum_2,1.0,0.5,1.0,3341.64,1670.82
+757,Moulin,Vidéo,VIDDAI103,VI MP 103,sum_2,1.0,0.5,1.0,4234.36,2117.18
+758,Moulin,Vidéo,VIDCAM302,VI MP 302,sum_2,2.0,0.5,1.0,3174.6,3174.6
+759,Moulin,Vidéo,VIDCAM303,VI MP 303,sum_2,2.0,0.5,1.0,3174.6,3174.6
+760,Moulin,Vidéo,VIDPCI400,VI MP 400,direct_reference,1.0,0.5,1.0,201.81,100.91
+761,Moulin,Pompage,POMIND204,INP204,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+762,Moulin,Pompage,,,direct_value,3.0,0.5,1.0,0.0,0.0
+763,Moulin,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+764,Moulin,Pompage,,,direct_value,1.0,1.0,1.0,0.0,0.0
+765,Moulin,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+766,Moulin,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+767,Moulin,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+768,Moulin,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+769,Moulin,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+770,Moulin,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+771,Nogent,Bâtiment,BATCJE007,VJE007,sum_2,6.0,1.0,1.0,1014.0,6084.0
+772,Nogent,Bâtiment,BATCJE008,VJE008,sum_2,6.0,1.0,1.0,1014.0,6084.0
+773,Nogent,Bâtiment,BATCNE007,VNE007,sum_2,6.0,1.0,1.0,1958.0,11748.0
+774,Nogent,Bâtiment,BATCNE008,VNE008,sum_2,6.0,1.0,1.0,1958.0,11748.0
+775,Nogent,Bâtiment,BATMPE007,MPE007,sum_2,1.0,1.0,1.0,2111.0,2111.0
+776,Nogent,Bâtiment,BATMPE008,MPE008,sum_2,1.0,1.0,1.0,2111.0,2111.0
+777,Nogent,Propreté,PRPLTB014,POL014,direct_reference,2.0,2.0,1.0,25661.9,102647.6
+778,Nogent,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+779,Nogent,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+780,Nogent,ContReg,CRGVIE101,CRE101,sum_2,1.0,1.0,1.0,1297.2,1297.2
+781,Nogent,ContReg,CRGVIE102,CRE102,sum_2,1.0,1.0,1.0,1297.2,1297.2
+782,Nogent,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+783,Nogent,ContReg,CRGDLB102,CRC102,direct_reference,1.0,15.0,1.0,864.8,12972.0
+784,Nogent,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+785,Nogent,Eclairage,ECLNPE004,ECPE04,direct_reference,2.0,2.0,1.0,733.03,2932.12
+786,Nogent,Eclairage,ECLNEE016,ECPE16,direct_reference,2.0,2.0,1.0,22306.58,89226.32
+787,Nogent,Eclairage,ECLRSE062,ECPE62,sum_3,0.4,2.0,1.0,53959.66,43167.73
+788,Nogent,Eclairage,ECLRSE064,ECPE64,sum_3,0.4,2.0,1.0,19164.53,15331.62
+789,Nogent,Eclairage,ECLRSE065,ECPE65,sum_3,0.4,2.0,1.0,14747.17,11797.74
+790,Nogent,AEV,AEVEFE014,AEFE14,direct_reference,2.0,2.0,1.0,1008.79,4035.16
+791,Nogent,AEV,AEVMPE024,AEPE24,direct_reference,2.0,2.0,1.0,2969.56,11878.24
+792,Nogent,AEV,AEVPLV008,AEV08,direct_reference,1.0,24.0,1.0,61.7,1480.8
+793,Nogent,Automate,AUTPAB033,AUPR33,direct_reference,1.0,1.0,1.0,1530.71762,1530.72
+794,Nogent,Automate,AUTPAR034,AUPR34,direct_reference,1.0,1.0,1.0,1332.93786,1332.94
+795,Nogent,Automate,AUTPAM047,AUPR47,direct_reference,1.0,16.0,1.0,202.4713,3239.54
+796,Nogent,Automate,AUTPAR048,AUPR48,direct_reference,1.0,16.0,1.0,91.39855,1462.38
+797,Nogent,PAU/TSE,RTSPPE003,RAU-PE03,direct_reference,4.0,1.0,1.0,2027.54,8110.16
+798,Nogent,PAU/TSE,RTSPTE003,TSE-PE03,direct_reference,4.0,1.0,1.0,854.7,3418.8
+799,Nogent,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+800,Nogent,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+801,Nogent,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,2.0,1.0,371.88,743.76
+802,Nogent,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+803,Nogent,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+804,Nogent,Détection,DETPCA014,DEP014,direct_reference,4.0,2.0,1.0,5422.2,43377.6
+805,Nogent,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+806,Nogent,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+807,Nogent,Détection,DETPXA200,DEP200,direct_reference,1.0,57.0,1.0,33.6,1915.2
+808,Nogent,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+809,Nogent,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+810,Nogent,Détection,DETPXD203,DEP203,direct_reference,1.0,7.0,1.0,15.75,110.25
+811,Nogent,Détection,DETPXE204,DEP204,direct_reference,1.0,9.0,1.0,23.1,207.9
+812,Nogent,Détection,DETPXF204,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+813,Nogent,Détection,DETPXG206,DEP206,direct_reference,1.0,36.0,1.0,15.75,567.0
+814,Nogent,Ventilation,VENPEE200,VPE200,direct_reference,1.0,1.0,1.0,10329.54,10329.54
+815,Nogent,Ventilation,VENPQA300,VPT300,direct_reference,1.0,12.0,1.0,78.85,946.2
+816,Nogent,Ventilation,VENPQB301,VPT301,direct_reference,1.0,31.0,1.0,128.27,3976.37
+817,Nogent,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+818,Nogent,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+819,Nogent,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+820,Nogent,Vidéo,VIDDAI104,VI MP 104,sum_2,1.0,1.0,1.0,4234.36,4234.36
+821,Nogent,Vidéo,VIDDAI105,VI MP 105,sum_2,1.0,1.0,1.0,4234.36,4234.36
+822,Nogent,Vidéo,VIDCAM304,VI MP 304,sum_2,2.0,1.0,1.0,3174.6,6349.2
+823,Nogent,Vidéo,VIDCAM305,VI MP 305,sum_2,2.0,1.0,1.0,3174.6,6349.2
+824,Nogent,Vidéo,VIDPCI402,VI MP 402,direct_reference,1.0,1.0,1.0,341.49,341.49
+825,Nogent,Pompage,,,direct_value,1.0,1.0,1.0,0.0,0.0
+826,Nogent,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+827,Nogent,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+828,Nogent,Pompage,,,direct_value,1.0,0.0,1.0,0.0,0.0
+829,Nogent,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+830,Nogent,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+831,Nogent,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+832,Nogent,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+833,Nogent,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+834,Nogent,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+835,Antony,Bâtiment,BATCJS003,VJS003,div_2,6.0,2.0,0.5,507.0,3042.0
+836,Antony,Bâtiment,BATCJS004,VJS004,div_2,6.0,2.0,0.5,507.0,3042.0
+837,Antony,Bâtiment,BATCNS003,VNS003,div_2,6.0,2.0,0.5,1306.0,7836.0
+838,Antony,Bâtiment,BATCNS004,VNS004,div_2,6.0,2.0,0.5,1306.0,7836.0
+839,Antony,Bâtiment,BATMPS003,MPS003,div_2,1.0,2.0,0.5,1407.0,1407.0
+840,Antony,Bâtiment,BATMPS004,MPS004,div_2,1.0,2.0,0.5,1407.0,1407.0
+841,Antony,Propreté,PRPLTB017,POL017,div_2,2.0,2.0,0.5,13633.74,27267.48
+842,Antony,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+843,Antony,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+844,Antony,ContReg,CRGVIS101,CRS101,sum_4,1.0,1.0,1.0,1297.2,1297.2
+845,Antony,ContReg,CRGVIS102,CRS102,sum_4,1.0,1.0,1.0,432.4,432.4
+846,Antony,ContReg,CRGVIS103,CRS103,sum_4,1.0,1.0,1.0,864.8,864.8
+847,Antony,ContReg,CRGVIS104,CRS104,sum_4,1.0,1.0,1.0,864.8,864.8
+848,Antony,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+849,Antony,ContReg,CRGDLB102,CRC102,direct_reference,1.0,4.0,1.0,864.8,3459.2
+850,Antony,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+851,Antony,Eclairage,ECLNPS002,ECPS02,direct_reference,2.0,2.0,1.0,407.24,1628.96
+852,Antony,Eclairage,ECLNES012,ECPS12,direct_reference,2.0,2.0,1.0,1824.27,7297.08
+853,Antony,Eclairage,ECLRSS053,ECPS53,sum_3,0.4,2.0,1.0,5470.71,4376.57
+854,Antony,Eclairage,ECLRSS054,ECPS54,sum_3,0.4,2.0,1.0,3109.14,2487.31
+855,Antony,Eclairage,ECLRSS055,ECPS55,sum_3,0.4,2.0,1.0,4519.29,3615.43
+856,Antony,AEV,AEVEFS011,AEFS11,direct_reference,2.0,2.0,1.0,620.95,2483.8
+857,Antony,AEV,AEVMPS021,AEPS21,direct_reference,2.0,2.0,1.0,1675.71,6702.84
+858,Antony,AEV,AEVPLV008,AEV08,direct_reference,1.0,10.0,1.0,61.7,617.0
+859,Antony,Automate,AUTPAB021,AUPR21,div_2,1.0,1.0,0.5,320.77594,160.39
+860,Antony,Automate,AUTPAR022,AUPR22,div_2,1.0,1.0,0.5,1651.6382800000001,825.82
+861,Antony,Automate,AUTPAM047,AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+862,Antony,Automate,AUTPAR048,AUPR48,direct_reference,1.0,2.0,1.0,91.39855,182.8
+863,Antony,PAU/TSE,RTSPPS001,RAU-PS01,div_2,4.0,1.0,0.5,1689.62,3379.24
+864,Antony,PAU/TSE,RTSPTS001,TSE-PS01,div_2,4.0,1.0,0.5,449.84,899.68
+865,Antony,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+866,Antony,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+867,Antony,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+868,Antony,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,4.0,1.0,185.94,743.76
+869,Antony,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+870,Antony,Détection,DETPCA018,DEP018,div_2,4.0,2.0,0.5,5597.55,22390.2
+871,Antony,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+872,Antony,Détection,DETPDI101,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+873,Antony,Détection,DETPXA200,DEP200,direct_reference,1.0,46.0,1.0,33.6,1545.6
+874,Antony,Détection,DETPXB201,DEP201,direct_reference,1.0,2.0,1.0,21.0,42.0
+875,Antony,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+876,Antony,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+877,Antony,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+878,Antony,Détection,DETPXF204,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+879,Antony,Détection,DETPXG206,DEP206,direct_reference,1.0,15.0,1.0,15.75,236.25
+880,Antony,Ventilation,VENPES200,VPS200,direct_reference,1.0,1.0,1.0,5513.22,5513.22
+881,Antony,Ventilation,VENPQA300,VPT300,direct_reference,1.0,3.0,1.0,78.85,236.55
+882,Antony,Ventilation,VENPQB301,VPT301,direct_reference,1.0,11.0,1.0,128.27,1410.97
+883,Antony,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+884,Antony,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+885,Antony,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+886,Antony,Vidéo,VIDDAI136,VI MP 136,sum_2,1.0,1.0,1.0,1606.92,1606.92
+887,Antony,Vidéo,VIDDAI137,VI MP 137,sum_2,1.0,1.0,1.0,1606.92,1606.92
+888,Antony,Vidéo,VIDCAM336,VI MP 336,sum_2,2.0,1.0,1.0,1272.11,2544.22
+889,Antony,Vidéo,VIDCAM337,VI MP 337,sum_2,2.0,1.0,1.0,1696.19,3392.38
+890,Antony,Vidéo,VIDPCI418,VI MP 418,direct_reference,1.0,1.0,1.0,139.69,139.69
+891,Antony,Pompage,POMIND401,INP401,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+892,Antony,Pompage,POMVSP401,POP401,direct_reference,3.0,1.0,1.0,858.61,2575.83
+893,Antony,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+894,Antony,Pompage,POMESP401,POE401,direct_reference,1.0,1.0,1.0,7151.25,7151.25
+895,Antony,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+896,Antony,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+897,Antony,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+898,Antony,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+899,Antony,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+900,Antony,Pompage,POMERG901,INP901,direct_reference,1.0,1.0,1.0,714.81,714.81
+901,Nanterre Centre,Bâtiment,BATCJN006,VJO006,sum_2,6.0,1.0,1.0,1014.0,6084.0
+902,Nanterre Centre,Bâtiment,BATCJN007,VJO007,sum_2,6.0,1.0,1.0,1014.0,6084.0
+903,Nanterre Centre,Bâtiment,BATCNO006,VNO006,sum_2,6.0,1.0,1.0,1958.0,11748.0
+904,Nanterre Centre,Bâtiment,BATCNO007,VNO007,sum_2,6.0,1.0,1.0,1958.0,11748.0
+905,Nanterre Centre,Bâtiment,BATMPO006,MPO006,sum_2,1.0,1.0,1.0,2111.0,2111.0
+906,Nanterre Centre,Bâtiment,BATMPO007,MPO007,sum_2,1.0,1.0,1.0,2111.0,2111.0
+907,Nanterre Centre,Propreté,PRPLTB006,POL006,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+908,Nanterre Centre,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+909,Nanterre Centre,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+910,Nanterre Centre,ContReg,CRGVIO103,CRO103,sum_10,1.0,0.5,1.0,864.8,432.4
+911,Nanterre Centre,ContReg,CRGVIO104,CRO104,sum_10,1.0,0.5,1.0,648.6,324.3
+912,Nanterre Centre,ContReg,CRGVIO105,CRO105,sum_10,1.0,0.5,1.0,648.6,324.3
+913,Nanterre Centre,ContReg,CRGVIO106,CRO106,sum_10,1.0,0.5,1.0,864.8,432.4
+914,Nanterre Centre,ContReg,CRGVIO107,CRO107,sum_10,1.0,0.5,1.0,432.4,216.2
+915,Nanterre Centre,ContReg,CRGVIO108,CRO108,sum_10,1.0,0.5,1.0,864.8,432.4
+916,Nanterre Centre,ContReg,CRGVIO109,CRO109,sum_10,1.0,0.5,1.0,864.8,432.4
+917,Nanterre Centre,ContReg,CRGVIO110,CRO110,sum_10,1.0,0.5,1.0,432.4,216.2
+918,Nanterre Centre,ContReg,CRGVIO111,CRO111,sum_10,1.0,0.5,1.0,432.4,216.2
+919,Nanterre Centre,ContReg,CRGVIO112,CRO112,sum_10,1.0,0.5,1.0,648.6,324.3
+920,Nanterre Centre,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+921,Nanterre Centre,ContReg,CRGDLB102,CRC102,direct_reference,1.0,32.0,1.0,864.8,27673.6
+922,Nanterre Centre,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+923,Nanterre Centre,Eclairage,ECLNPO003,ECPO03,sum_2,2.0,2.0,1.0,1387.01,5548.04
+924,Nanterre Centre,Eclairage,ECLNPO004,ECPO04,sum_2,2.0,2.0,1.0,651.59,2606.36
+925,Nanterre Centre,Eclairage,ECLNEO014,ECPO14,sum_2,2.0,2.0,1.0,6644.86,26579.44
+926,Nanterre Centre,Eclairage,ECLNEO016,ECPO16,sum_2,2.0,2.0,1.0,9244.22,36976.88
+927,Nanterre Centre,Eclairage,ECLRSO050,ECPO50,sum_6,0.4,0.3333333333333333,1.0,58716.81,7828.91
+928,Nanterre Centre,Eclairage,ECLRSO051,ECPO51,sum_6,0.4,0.3333333333333333,1.0,59906.1,7987.48
+929,Nanterre Centre,Eclairage,ECLRSO052,ECPO52,sum_6,0.4,0.3333333333333333,1.0,51784.98,6904.66
+930,Nanterre Centre,Eclairage,ECLRSO053,ECPO53,sum_6,0.4,0.3333333333333333,1.0,52090.78,6945.44
+931,Nanterre Centre,Eclairage,ECLRSO054,ECPO54,sum_6,0.4,0.3333333333333333,1.0,18484.94,2464.66
+932,Nanterre Centre,Eclairage,ECLRSO055,ECPO55,sum_6,0.4,0.3333333333333333,1.0,16751.96,2233.59
+933,Nanterre Centre,AEV,AEVEFO012,AEFO12,sum_2,2.0,2.0,1.0,711.0,2844.0
+934,Nanterre Centre,AEV,AEVEFO013,AEFO13,sum_2,2.0,2.0,1.0,1157.68,4630.72
+935,Nanterre Centre,AEV,AEVMPO012,AEPO12,sum_2,2.0,2.0,1.0,2034.21,8136.84
+936,Nanterre Centre,AEV,AEVMPO013,AEPO13,sum_2,2.0,2.0,1.0,3638.64,14554.56
+937,Nanterre Centre,AEV,AEVPLV008,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+938,Nanterre Centre,Automate,AUTPAB005,AUPR05,direct_reference,1.0,1.0,1.0,385.79808999999995,385.8
+939,Nanterre Centre,Automate,AUTPAR006,AUPR06,direct_reference,1.0,1.0,1.0,829.3215799999999,829.32
+940,Nanterre Centre,Automate,AUTPAM047,AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+941,Nanterre Centre,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+942,Nanterre Centre,PAU/TSE,RTSPPO003,RAU-PO03,direct_reference,4.0,1.0,1.0,1182.73,4730.92
+943,Nanterre Centre,PAU/TSE,RTSPTO003,TSE-PO03,direct_reference,4.0,1.0,1.0,539.81,2159.24
+944,Nanterre Centre,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+945,Nanterre Centre,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+946,Nanterre Centre,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+947,Nanterre Centre,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+948,Nanterre Centre,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+949,Nanterre Centre,Détection,DETPCA008,DEP008,direct_reference,4.0,2.0,1.0,3109.05,24872.4
+950,Nanterre Centre,Détection,DETPLV027,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+951,Nanterre Centre,Détection,DETPDI101,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+952,Nanterre Centre,Détection,DETPXA200,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+953,Nanterre Centre,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+954,Nanterre Centre,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+955,Nanterre Centre,Détection,DETPXD203,DEP203,direct_reference,1.0,8.0,1.0,15.75,126.0
+956,Nanterre Centre,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+957,Nanterre Centre,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+958,Nanterre Centre,Détection,DETPXG206,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+959,Nanterre Centre,Ventilation,VENPEO201,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+960,Nanterre Centre,Ventilation,VENPQA300,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+961,Nanterre Centre,Ventilation,VENPQB301,VPT301,direct_reference,1.0,39.0,1.0,128.27,5002.53
+962,Nanterre Centre,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+963,Nanterre Centre,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+964,Nanterre Centre,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+965,Nanterre Centre,Vidéo,VIDDAI120,VI MP 120,sum_2,1.0,1.0,1.0,3341.64,3341.64
+966,Nanterre Centre,Vidéo,VIDDAI121,VI MP 121,sum_2,1.0,1.0,1.0,3341.64,3341.64
+967,Nanterre Centre,Vidéo,VIDCAM320,VI MP 320,sum_2,2.0,1.0,1.0,3174.6,6349.2
+968,Nanterre Centre,Vidéo,VIDCAM321,VI MP 321,sum_2,2.0,1.0,1.0,1696.19,3392.38
+969,Nanterre Centre,Vidéo,VIDPCI410,VI MP 410,direct_reference,1.0,1.0,1.0,186.25,186.25
+970,Nanterre Centre,Pompage,POMIND212,INP307,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+971,Nanterre Centre,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+972,Nanterre Centre,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+973,Nanterre Centre,Pompage,,,direct_value,1.0,2.0,1.0,0.0,0.0
+974,Nanterre Centre,Pompage,POMERC500,INP500,direct_reference,1.0,1.0,1.0,858.61,858.61
+975,Nanterre Centre,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+976,Nanterre Centre,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+977,Nanterre Centre,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+978,Nanterre Centre,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+979,Nanterre Centre,Pompage,POMERG901,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+980,Sévines,Bâtiment,BATCJN012,VJO012,direct_reference,6.0,1.0,1.0,1014.0,6084.0
+981,Sévines,Bâtiment,BATMPO012,MPO012,direct_reference,6.0,1.0,1.0,2111.0,12666.0
+982,Sévines,Bâtiment,BATMPO012,MPO012,direct_reference,1.0,1.0,1.0,2111.0,2111.0
+983,Sévines,Propreté,PRPLTB009,POL009,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+984,Sévines,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+985,Sévines,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+986,Sévines,ContReg,CRGVIO101,CRO101,direct_reference,1.0,1.0,1.0,648.6,648.6
+987,Sévines,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+988,Sévines,ContReg,CRGDLB102,CRC102,direct_reference,1.0,3.0,1.0,864.8,2594.4
+989,Sévines,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+990,Sévines,Eclairage,ECLNPO005,ECPO05,direct_reference,2.0,2.0,1.0,350.41,1401.64
+991,Sévines,Eclairage,ECLNEO018,ECPO18,direct_reference,2.0,2.0,1.0,2722.22,10888.88
+992,Sévines,Eclairage,ECLRSO056,ECPO56,sum_3,0.4,2.0,1.0,6320.2,5056.16
+993,Sévines,Eclairage,ECLRSO057,ECPO57,sum_3,0.4,2.0,1.0,3160.1,2528.08
+994,Sévines,Eclairage,ECLRSO058,ECPO58,sum_3,0.4,2.0,1.0,4349.39,3479.51
+995,Sévines,AEV,AEVEFO014,AEFO14,direct_reference,2.0,2.0,1.0,413.22,1652.88
+996,Sévines,AEV,AEVMPO014,AEPO14,direct_reference,2.0,2.0,1.0,1277.51,5110.04
+997,Sévines,AEV,AEVPLV008,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+998,Sévines,Automate,AUTPAB009,AUPR09,direct_reference,1.0,1.0,1.0,327.83486999999997,327.83
+999,Sévines,Automate,AUTPAR010,AUPR10,direct_reference,1.0,1.0,1.0,257.00775,257.01
+1000,Sévines,Automate,AUTPAM047,AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+1001,Sévines,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1002,Sévines,PAU/TSE,RTSPPO005,RAU-PO05,direct_reference,4.0,1.0,1.0,506.89,2027.56
+1003,Sévines,PAU/TSE,RTSPTO005,TSE-PO05,direct_reference,4.0,1.0,1.0,179.94,719.76
+1004,Sévines,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1005,Sévines,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+1006,Sévines,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1007,Sévines,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1008,Sévines,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1009,Sévines,Détection,DETPCA010,DEP010,direct_reference,4.0,2.0,1.0,3001.95,24015.6
+1010,Sévines,Détection,DETPLV027,DEP027,direct_reference,1.0,0.0,1.0,24.15,0.0
+1011,Sévines,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1012,Sévines,Détection,DETPXA200,DEP200,direct_reference,1.0,19.0,1.0,33.6,638.4
+1013,Sévines,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1014,Sévines,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1015,Sévines,Détection,DETPXD203,DEP203,direct_reference,1.0,1.0,1.0,15.75,15.75
+1016,Sévines,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1017,Sévines,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1018,Sévines,Détection,DETPXG206,DEP206,direct_reference,1.0,15.0,1.0,15.75,236.25
+1019,Sévines,Ventilation,VENPEO203,VPO203,direct_reference,1.0,1.0,1.0,839.28,839.28
+1020,Sévines,Ventilation,VENPQA300,VPT300,direct_reference,1.0,5.0,1.0,78.85,394.25
+1021,Sévines,Ventilation,VENPQB301,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+1022,Sévines,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1023,Sévines,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1024,Sévines,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1025,Sévines,Vidéo,VIDDAI132,VI MP 132,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1026,Sévines,Vidéo,VIDDAI133,VI MP 133,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1027,Sévines,Vidéo,VIDCAM332,VI MP 332,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1028,Sévines,Vidéo,VIDCAM333,VI MP 333,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1029,Sévines,Vidéo,VIDPCI416,VI MP 416,direct_reference,1.0,1.0,1.0,62.12,62.12
+1030,Sévines,Pompage,POMIND214,INP309,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+1031,Sévines,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1032,Sévines,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1033,Sévines,Pompage,,,direct_value,1.0,1.0,1.0,0.0,0.0
+1034,Sévines,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1035,Sévines,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1036,Sévines,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1037,Sévines,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1038,Sévines,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1039,Sévines,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1040,La Défense,Bâtiment,BATCJN010,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1041,La Défense,Bâtiment,BATCJN011,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1042,La Défense,Bâtiment,BATCNO010,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1043,La Défense,Bâtiment,BATCNO011,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1044,La Défense,Bâtiment,BATMPO010,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1045,La Défense,Bâtiment,BATMPO011,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1046,La Défense,Propreté,PRPLTB007,POL007,direct_reference,2.0,2.0,1.0,45421.61,181686.44
+1047,La Défense,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1048,La Défense,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1049,La Défense,ContReg,CRGVIS106,CRS106,direct_reference,1.0,1.0,1.0,432.4,432.4
+1050,La Défense,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1051,La Défense,ContReg,CRGDLB102,CRC102,direct_reference,1.0,119.0,1.0,864.8,102911.2
+1052,La Défense,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1053,La Défense,Eclairage,ECLNPO001,ECPO01,sum_2,2.0,2.0,1.0,1791.86,7167.44
+1054,La Défense,Eclairage,ECLNPO002,ECPO02,sum_2,2.0,2.0,1.0,1958.04,7832.16
+1055,La Défense,Eclairage,ECLNEO010,ECPO10,sum_2,2.0,2.0,1.0,36296.29,145185.16
+1056,La Défense,Eclairage,ECLNEO012,ECPO12,sum_2,2.0,2.0,1.0,29169.36,116677.44
+1057,La Défense,Eclairage,ECLRSO050,ECPO50,sum_6,0.4,2.0,1.0,58716.81,46973.45
+1058,La Défense,Eclairage,ECLRSO051,ECPO51,sum_6,0.4,2.0,1.0,59906.1,47924.88
+1059,La Défense,Eclairage,ECLRSO052,ECPO52,sum_6,0.4,2.0,1.0,51784.98,41427.98
+1060,La Défense,Eclairage,ECLRSO053,ECPO53,sum_6,0.4,2.0,1.0,52090.78,41672.62
+1061,La Défense,Eclairage,ECLRSO054,ECPO54,sum_6,0.4,2.0,1.0,18484.94,14787.95
+1062,La Défense,Eclairage,ECLRSO055,ECPO55,sum_6,0.4,2.0,1.0,16751.96,13401.57
+1063,La Défense,AEV,AEVEFO010,AEFO10,sum_2,2.0,2.0,1.0,2097.84,8391.36
+1064,La Défense,AEV,AEVEFO011,AEFO11,sum_2,2.0,2.0,1.0,2532.48,10129.92
+1065,La Défense,AEV,AEVMPO010,AEPO10,sum_2,2.0,2.0,1.0,7669.73,30678.92
+1066,La Défense,AEV,AEVMPO011,AEPO11,sum_2,2.0,2.0,1.0,9625.68,38502.72
+1067,La Défense,AEV,AEVPLV008,AEV08,direct_reference,1.0,67.0,1.0,61.7,4133.9
+1068,La Défense,Automate,AUTPAB003,AUPR03,direct_reference,1.0,1.0,1.0,976.1429999999999,976.14
+1069,La Défense,Automate,AUTPAR004,AUPR04,direct_reference,1.0,1.0,1.0,3824.0266899999997,3824.03
+1070,La Défense,Automate,AUTPAM047,AUPR47,direct_reference,1.0,8.0,1.0,202.4713,1619.77
+1071,La Défense,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1072,La Défense,PAU/TSE,RTSPPO001,RAU-PO01,direct_reference,4.0,1.0,1.0,6082.62,24330.48
+1073,La Défense,PAU/TSE,RTSPTO001,TSE-PO01,direct_reference,4.0,1.0,1.0,2069.25,8277.0
+1074,La Défense,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,4.0,1.0,304.01,1216.04
+1075,La Défense,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,4.0,1.0,337.95,1351.8
+1076,La Défense,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,7.0,1.0,371.88,2603.16
+1077,La Défense,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1078,La Défense,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,11.0,1.0,414.3,2278.65
+1079,La Défense,Détection,DETPCA006,DEP006,direct_reference,4.0,2.0,1.0,9264.15,74113.2
+1080,La Défense,Détection,DETPLV027,DEP027,direct_reference,1.0,1.0,1.0,24.15,24.15
+1081,La Défense,Détection,DETPDI103,DEP103,direct_reference,1.0,1.0,1.0,1554.0,1554.0
+1082,La Défense,Détection,DETPXA200,DEP200,direct_reference,1.0,143.0,1.0,33.6,4804.8
+1083,La Défense,Détection,DETPXB201,DEP201,direct_reference,1.0,21.0,1.0,21.0,441.0
+1084,La Défense,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1085,La Défense,Détection,DETPXD203,DEP203,direct_reference,1.0,38.0,1.0,15.75,598.5
+1086,La Défense,Détection,DETPXE204,DEP204,direct_reference,1.0,1.0,1.0,23.1,23.1
+1087,La Défense,Détection,DETPXF204,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+1088,La Défense,Détection,DETPXG206,DEP206,direct_reference,1.0,107.0,1.0,15.75,1685.25
+1089,La Défense,Ventilation,VENPEO201,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+1090,La Défense,Ventilation,VENPQA300,VPT300,direct_reference,1.0,52.0,1.0,78.85,4100.2
+1091,La Défense,Ventilation,VENPQB301,VPT301,direct_reference,1.0,117.0,1.0,128.27,15007.59
+1092,La Défense,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1093,La Défense,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1094,La Défense,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1095,La Défense,Vidéo,VIDDAI122,VI MP 122,sum_2,1.0,1.0,1.0,10025.1,10025.1
+1096,La Défense,Vidéo,VIDDAI123,VI MP 123,sum_2,1.0,1.0,1.0,10025.1,10025.1
+1097,La Défense,Vidéo,VIDCAM322,VI MP 322,sum_2,2.0,1.0,1.0,4761.89,9523.78
+1098,La Défense,Vidéo,VIDCAM323,VI MP 323,sum_2,2.0,1.0,1.0,4761.89,9523.78
+1099,La Défense,Vidéo,VIDPCI411,VI MP 411,direct_reference,1.0,1.0,1.0,714.1,714.1
+1100,La Défense,Pompage,POMIND207,INP302,direct_reference,1.0,1.0,1.0,8921.0,8921.0
+1101,La Défense,Pompage,POMVSP312,POP312,sum_2,3.0,1.0,1.0,429.3,1287.9
+1102,La Défense,Pompage,POMVSP313,POP313,sum_2,3.0,1.0,1.0,858.61,2575.83
+1103,La Défense,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1104,La Défense,Pompage,POMESP312,POE312,sum_2,1.0,3.0,1.0,572.06,1716.18
+1105,La Défense,Pompage,POMESP313,POE313,sum_2,1.0,3.0,1.0,2360.13,7080.39
+1106,La Défense,Pompage,POMERC500,INP500,direct_reference,1.0,4.0,1.0,858.61,3434.44
+1107,La Défense,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1108,La Défense,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1109,La Défense,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1110,La Défense,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1111,La Défense,Pompage,POMERG901,INP901,direct_reference,1.0,11.0,1.0,714.81,7862.91
+1112,Ambroise Paré,Bâtiment,BATCJN001,VJO001,sum_2,6.0,1.0,1.0,2029.0,12174.0
+1113,Ambroise Paré,Bâtiment,BATCJN002,VJO002,sum_2,6.0,1.0,1.0,1522.0,9132.0
+1114,Ambroise Paré,Bâtiment,BATCNO001,VNO001,sum_2,6.0,1.0,1.0,3264.0,19584.0
+1115,Ambroise Paré,Bâtiment,BATCNO002,VNO002,sum_2,6.0,1.0,1.0,2611.0,15666.0
+1116,Ambroise Paré,Bâtiment,BATMPO001,MPO001,sum_2,1.0,1.0,1.0,3519.0,3519.0
+1117,Ambroise Paré,Bâtiment,BATMPO002,MPO002,sum_2,1.0,1.0,1.0,2815.0,2815.0
+1118,Ambroise Paré,Propreté,PRPLTB004,POL004,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+1119,Ambroise Paré,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1120,Ambroise Paré,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1121,Ambroise Paré,ContReg,CRGVIO116,CRO116,sum_3,1.0,1.0,1.0,432.4,432.4
+1122,Ambroise Paré,ContReg,CRGVIO117,CRO117,sum_3,1.0,1.0,1.0,432.4,432.4
+1123,Ambroise Paré,ContReg,CRGVIO118,CRO118,sum_3,1.0,1.0,1.0,324.3,324.3
+1124,Ambroise Paré,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1125,Ambroise Paré,ContReg,CRGDLB102,CRC102,direct_reference,1.0,14.0,1.0,864.8,12107.2
+1126,Ambroise Paré,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1127,Ambroise Paré,Eclairage,ECLNPB001,ECPB01,direct_reference,2.0,2.0,1.0,570.14,2280.56
+1128,Ambroise Paré,Eclairage,ECLNEB010,ECPB10,direct_reference,2.0,2.0,1.0,3360.25,13441.0
+1129,Ambroise Paré,Eclairage,ECLRSB051,ECPB51,sum_3,0.4,2.0,1.0,6201.28,4961.02
+1130,Ambroise Paré,Eclairage,ECLRSB052,ECPB52,sum_3,0.4,2.0,1.0,5929.45,4743.56
+1131,Ambroise Paré,Eclairage,ECLRSB053,ECPB53,sum_3,0.4,2.0,1.0,6218.27,4974.62
+1132,Ambroise Paré,AEV,AEVEFB010,AEFB10,direct_reference,2.0,2.0,1.0,769.85,3079.4
+1133,Ambroise Paré,AEV,AEVMPB010,AEPB10,direct_reference,2.0,2.0,1.0,2252.57,9010.28
+1134,Ambroise Paré,AEV,AEVPLV008,AEV08,direct_reference,1.0,32.0,1.0,61.7,1974.4
+1135,Ambroise Paré,Automate,AUTPAB011,AUPR11,direct_reference,1.0,1.0,1.0,320.77594,320.78
+1136,Ambroise Paré,Automate,AUTPAR012,AUPR12,direct_reference,1.0,1.0,1.0,941.90773,941.91
+1137,Ambroise Paré,Automate,AUTPAM047,AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+1138,Ambroise Paré,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1139,Ambroise Paré,PAU/TSE,RTSPPO009,RAU-PO09,direct_reference,4.0,1.0,1.0,816.97,3267.88
+1140,Ambroise Paré,PAU/TSE,RTSPTO009,TSE-PO09,direct_reference,4.0,1.0,1.0,314.89,1259.56
+1141,Ambroise Paré,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1142,Ambroise Paré,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+1143,Ambroise Paré,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1144,Ambroise Paré,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1145,Ambroise Paré,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1146,Ambroise Paré,Détection,DETPCA004,DEP004,direct_reference,4.0,2.0,1.0,3167.85,25342.8
+1147,Ambroise Paré,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1148,Ambroise Paré,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1149,Ambroise Paré,Détection,DETPXA200,DEP200,direct_reference,1.0,29.0,1.0,33.6,974.4
+1150,Ambroise Paré,Détection,DETPXB201,DEP201,direct_reference,1.0,10.0,1.0,21.0,210.0
+1151,Ambroise Paré,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1152,Ambroise Paré,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1153,Ambroise Paré,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1154,Ambroise Paré,Détection,DETPXF204,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+1155,Ambroise Paré,Détection,DETPXG206,DEP206,direct_reference,1.0,21.0,1.0,15.75,330.75
+1156,Ambroise Paré,Ventilation,VENPEB203,VPB203,direct_reference,1.0,1.0,1.0,4168.29,4168.29
+1157,Ambroise Paré,Ventilation,VENPQA300,VPT300,direct_reference,1.0,19.0,1.0,78.85,1498.15
+1158,Ambroise Paré,Ventilation,VENPQB301,VPT301,direct_reference,1.0,21.0,1.0,128.27,2693.67
+1159,Ambroise Paré,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1160,Ambroise Paré,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1161,Ambroise Paré,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1162,Ambroise Paré,Vidéo,VIDDAI128,VI MP 128,sum_2,1.0,1.0,1.0,2506.23,2506.23
+1163,Ambroise Paré,Vidéo,VIDDAI129,VI MP 129,sum_2,1.0,1.0,1.0,2506.23,2506.23
+1164,Ambroise Paré,Vidéo,VIDCAM328,VI MP 328,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1165,Ambroise Paré,Vidéo,VIDCAM329,VI MP 329,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1166,Ambroise Paré,Vidéo,VIDPCI414,VI MP 414,direct_reference,1.0,1.0,1.0,124.24,124.24
+1167,Ambroise Paré,Pompage,POMIND216,INP311,direct_reference,1.0,1.0,1.0,3088.0,3088.0
+1168,Ambroise Paré,Pompage,POMVSP322,POP322,direct_reference,3.0,1.0,1.0,1001.36,3004.08
+1169,Ambroise Paré,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1170,Ambroise Paré,Pompage,POMESP322,POE322,direct_reference,1.0,1.0,1.0,2360.13,2360.13
+1171,Ambroise Paré,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1172,Ambroise Paré,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1173,Ambroise Paré,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1174,Ambroise Paré,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1175,Ambroise Paré,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1176,Ambroise Paré,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1177,Nanterre échangeur,Bâtiment,BATCJN010,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1178,Nanterre échangeur,Bâtiment,BATCJN011,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1179,Nanterre échangeur,Bâtiment,BATCNO010,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1180,Nanterre échangeur,Bâtiment,BATCNO011,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1181,Nanterre échangeur,Bâtiment,BATMPO010,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1182,Nanterre échangeur,Bâtiment,BATMPO011,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1183,Nanterre échangeur,Propreté,PRPLTB006,POL006,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+1184,Nanterre échangeur,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1185,Nanterre échangeur,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1186,Nanterre échangeur,ContReg,CRGVIO103,CRO103,sum_10,1.0,0.5,1.0,864.8,432.4
+1187,Nanterre échangeur,ContReg,CRGVIO104,CRO104,sum_10,1.0,0.5,1.0,648.6,324.3
+1188,Nanterre échangeur,ContReg,CRGVIO105,CRO105,sum_10,1.0,0.5,1.0,648.6,324.3
+1189,Nanterre échangeur,ContReg,CRGVIO106,CRO106,sum_10,1.0,0.5,1.0,864.8,432.4
+1190,Nanterre échangeur,ContReg,CRGVIO107,CRO107,sum_10,1.0,0.5,1.0,432.4,216.2
+1191,Nanterre échangeur,ContReg,CRGVIO108,CRO108,sum_10,1.0,0.5,1.0,864.8,432.4
+1192,Nanterre échangeur,ContReg,CRGVIO109,CRO109,sum_10,1.0,0.5,1.0,864.8,432.4
+1193,Nanterre échangeur,ContReg,CRGVIO110,CRO110,sum_10,1.0,0.5,1.0,432.4,216.2
+1194,Nanterre échangeur,ContReg,CRGVIO111,CRO111,sum_10,1.0,0.5,1.0,432.4,216.2
+1195,Nanterre échangeur,ContReg,CRGVIO112,CRO112,sum_10,1.0,0.5,1.0,648.6,324.3
+1196,Nanterre échangeur,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1197,Nanterre échangeur,ContReg,CRGDLB102,CRC102,direct_reference,1.0,32.0,1.0,864.8,27673.6
+1198,Nanterre échangeur,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1199,Nanterre échangeur,Eclairage,ECLNPO001,ECPO01,sum_2,2.0,1.0,1.0,1791.86,3583.72
+1200,Nanterre échangeur,Eclairage,ECLNPO002,ECPO02,sum_2,2.0,1.0,1.0,1958.04,3916.08
+1201,Nanterre échangeur,Eclairage,ECLNEO010,ECPO10,sum_2,2.0,1.0,1.0,36296.29,72592.58
+1202,Nanterre échangeur,Eclairage,ECLNEO012,ECPO12,sum_2,2.0,1.0,1.0,29169.36,58338.72
+1203,Nanterre échangeur,Eclairage,ECLRSO050,ECPO50,sum_6,0.4,1.0,1.0,58716.81,23486.72
+1204,Nanterre échangeur,Eclairage,ECLRSO051,ECPO51,sum_6,0.4,1.0,1.0,59906.1,23962.44
+1205,Nanterre échangeur,Eclairage,ECLRSO052,ECPO52,sum_6,0.4,1.0,1.0,51784.98,20713.99
+1206,Nanterre échangeur,Eclairage,ECLRSO053,ECPO53,sum_6,0.4,1.0,1.0,52090.78,20836.31
+1207,Nanterre échangeur,Eclairage,ECLRSO054,ECPO54,sum_6,0.4,1.0,1.0,18484.94,7393.98
+1208,Nanterre échangeur,Eclairage,ECLRSO055,ECPO55,sum_6,0.4,1.0,1.0,16751.96,6700.78
+1209,Nanterre échangeur,AEV,AEVEFO010,AEFO10,sum_2,2.0,1.0,1.0,2097.84,4195.68
+1210,Nanterre échangeur,AEV,AEVEFO011,AEFO11,sum_2,2.0,1.0,1.0,2532.48,5064.96
+1211,Nanterre échangeur,AEV,AEVMPO010,AEPO10,sum_2,2.0,1.0,1.0,7669.73,15339.46
+1212,Nanterre échangeur,AEV,AEVMPO011,AEPO11,sum_2,2.0,1.0,1.0,9625.68,19251.36
+1213,Nanterre échangeur,AEV,AEVPLV008,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+1214,Nanterre échangeur,Automate,AUTPAB007,AUPR07,direct_reference,1.0,0.5,1.0,371.65861,185.83
+1215,Nanterre échangeur,Automate,AUTPAR008,AUPR08,direct_reference,1.0,0.5,1.0,692.55346,346.28
+1216,Nanterre échangeur,Automate,AUTPAM047,AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+1217,Nanterre échangeur,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1218,Nanterre échangeur,PAU/TSE,RTSPPO002,RAU-PO02,direct_reference,4.0,1.0,1.0,1520.65,6082.6
+1219,Nanterre échangeur,PAU/TSE,RTSPTO002,TSE-PO02,direct_reference,4.0,1.0,1.0,764.73,3058.92
+1220,Nanterre échangeur,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+1221,Nanterre échangeur,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+1222,Nanterre échangeur,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+1223,Nanterre échangeur,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1224,Nanterre échangeur,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+1225,Nanterre échangeur,Détection,DETPCA007,DEP007,direct_reference,4.0,2.0,1.0,4077.15,32617.2
+1226,Nanterre échangeur,Détection,DETPLV027,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+1227,Nanterre échangeur,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1228,Nanterre échangeur,Détection,DETPXA200,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+1229,Nanterre échangeur,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1230,Nanterre échangeur,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1231,Nanterre échangeur,Détection,DETPXD203,DEP203,direct_reference,1.0,8.0,1.0,15.75,126.0
+1232,Nanterre échangeur,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1233,Nanterre échangeur,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1234,Nanterre échangeur,Détection,DETPXG206,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+1235,Nanterre échangeur,Ventilation,VENPEO201,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+1236,Nanterre échangeur,Ventilation,VENPQA300,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+1237,Nanterre échangeur,Ventilation,VENPQB301,VPT301,direct_reference,1.0,39.0,1.0,128.27,5002.53
+1238,Nanterre échangeur,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1239,Nanterre échangeur,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1240,Nanterre échangeur,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1241,Nanterre échangeur,Vidéo,VIDDAI118,VI MP 118,sum_3,1.0,1.0,1.0,3007.56,3007.56
+1242,Nanterre échangeur,Vidéo,VIDDAI119,VI MP 119,sum_3,1.0,1.0,1.0,1785.45,1785.45
+1243,Nanterre échangeur,Vidéo,,VI MP 202,sum_3,1.0,1.0,1.0,804.51,804.51
+1244,Nanterre échangeur,Vidéo,VIDCAM318,VI MP 318,sum_3,2.0,1.0,1.0,3174.6,6349.2
+1245,Nanterre échangeur,Vidéo,VIDCAM319,VI MP 319,sum_3,2.0,1.0,1.0,1696.19,3392.38
+1246,Nanterre échangeur,Vidéo,VIDCAM346,VI MP 346,sum_3,2.0,1.0,1.0,1696.19,3392.38
+1247,Nanterre échangeur,Vidéo,VIDPCI409,VI MP 409,sum_2,1.0,1.0,1.0,170.8,170.8
+1248,Nanterre échangeur,Vidéo,VIDPCI423,VI MP 423,sum_2,1.0,1.0,1.0,31.01,31.01
+1249,Nanterre échangeur,Pompage,POMIND210,INP305,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+1250,Nanterre échangeur,Pompage,POMVSP307,POP307,sum_4,3.0,1.0,1.0,858.61,2575.83
+1251,Nanterre échangeur,Pompage,POMVSP308,POP308,sum_4,3.0,1.0,1.0,858.61,2575.83
+1252,Nanterre échangeur,Pompage,POMVSP309,POP309,sum_4,3.0,1.0,1.0,858.61,2575.83
+1253,Nanterre échangeur,Pompage,POMVSP310,POP310,sum_4,3.0,1.0,1.0,858.61,2575.83
+1254,Nanterre échangeur,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1255,Nanterre échangeur,Pompage,POMESP307,POE307,sum_4,1.0,2.0,1.0,1501.52,3003.04
+1256,Nanterre échangeur,Pompage,POMESP308,POE308,sum_4,1.0,2.0,1.0,1501.52,3003.04
+1257,Nanterre échangeur,Pompage,POMESP309,POE309,sum_4,1.0,2.0,1.0,1358.77,2717.54
+1258,Nanterre échangeur,Pompage,POMESP310,POE310,sum_4,1.0,2.0,1.0,1358.77,2717.54
+1259,Nanterre échangeur,Pompage,POMERC500,INP500,direct_reference,1.0,1.0,1.0,858.61,858.61
+1260,Nanterre échangeur,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1261,Nanterre échangeur,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1262,Nanterre échangeur,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1263,Nanterre échangeur,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1264,Nanterre échangeur,Pompage,POMERG901,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+1265,Taverny,Bâtiment,BATCJN005,VJN005,direct_reference,6.0,2.0,1.0,507.0,6084.0
+1266,Taverny,Bâtiment,BATCNN005,VNN005,direct_reference,6.0,2.0,1.0,1306.0,15672.0
+1267,Taverny,Bâtiment,BATMPN005,MPN005,direct_reference,1.0,2.0,1.0,1407.0,2814.0
+1268,Taverny,Propreté,PRPLTB010,POL010,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+1269,Taverny,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1270,Taverny,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1271,Taverny,ContReg,CRGVIN114,CRN114,direct_reference,1.0,1.0,1.0,432.4,432.4
+1272,Taverny,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1273,Taverny,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1274,Taverny,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1275,Taverny,Eclairage,ECLNPN006,ECPN06,direct_reference,2.0,2.0,1.0,162.9,651.6
+1276,Taverny,Eclairage,ECLNEN020,ECPN20,direct_reference,2.0,2.0,1.0,5444.45,21777.8
+1277,Taverny,Eclairage,ECLRSN067,ECPN67,sum_3,0.4,2.0,1.0,10805.52,8644.42
+1278,Taverny,Eclairage,ECLRSN068,ECPN68,sum_3,0.4,2.0,1.0,5402.78,4322.22
+1279,Taverny,Eclairage,ECLRSN069,ECPN69,sum_3,0.4,2.0,1.0,6863.89,5491.11
+1280,Taverny,AEV,AEVEFN014,AEFN14,direct_reference,2.0,2.0,1.0,428.81,1715.24
+1281,Taverny,AEV,AEVMPN024,AEPN24,direct_reference,2.0,2.0,1.0,950.54,3802.16
+1282,Taverny,AEV,AEVPLV008,AEV08,direct_reference,1.0,8.0,1.0,61.7,493.6
+1283,Taverny,Automate,AUTPAB041,AUPR43,direct_reference,1.0,1.0,1.0,295.32919999999996,295.33
+1284,Taverny,Automate,AUTPAR044,AUPR44,direct_reference,1.0,1.0,1.0,452.30121,452.3
+1285,Taverny,Automate,AUTPAM047,AUPR47,direct_reference,1.0,7.0,1.0,202.4713,1417.3
+1286,Taverny,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1287,Taverny,PAU/TSE,RTSPPN002,RAU-PN02,direct_reference,4.0,1.0,1.0,466.84,1867.36
+1288,Taverny,PAU/TSE,RTSPTN002,TSE-PN02,direct_reference,4.0,1.0,1.0,179.94,719.76
+1289,Taverny,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+1290,Taverny,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1291,Taverny,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1292,Taverny,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1293,Taverny,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+1294,Taverny,Détection,DETPCA011,DEP011,direct_reference,4.0,2.0,1.0,2859.15,22873.2
+1295,Taverny,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1296,Taverny,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1297,Taverny,Détection,DETPXA200,DEP200,direct_reference,1.0,16.0,1.0,33.6,537.6
+1298,Taverny,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1299,Taverny,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1300,Taverny,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1301,Taverny,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1302,Taverny,Détection,DETPXF204,DEP205,direct_reference,1.0,8.0,1.0,26.25,210.0
+1303,Taverny,Détection,DETPXG206,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+1304,Taverny,Ventilation,VENPEN202,VPN202,direct_reference,1.0,1.0,1.0,5181.02,5181.02
+1305,Taverny,Ventilation,VENPQA300,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+1306,Taverny,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1307,Taverny,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1308,Taverny,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1309,Taverny,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1310,Taverny,Vidéo,VIDDAI114,VI MP 114,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1311,Taverny,Vidéo,VIDDAI115,VI MP 115,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1312,Taverny,Vidéo,VIDCAM314,VI MP 314,sum_2,2.0,1.0,1.0,848.15,1696.3
+1313,Taverny,Vidéo,VIDCAM315,VI MP 315,sum_2,2.0,1.0,1.0,848.15,1696.3
+1314,Taverny,Vidéo,VIDPCI407,VI MP 407,direct_reference,1.0,1.0,1.0,62.12,62.12
+1315,Taverny,Pompage,POMIND104,INP104,direct_reference,1.0,1.0,1.0,1164.0,1164.0
+1316,Taverny,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1317,Taverny,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1318,Taverny,Pompage,POMESP701,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+1319,Taverny,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1320,Taverny,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1321,Taverny,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1322,Taverny,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1323,Taverny,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1324,Taverny,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1325,Boissy,Bâtiment,BATCJE001,VJE001,sum_2,6.0,1.0,1.0,507.0,3042.0
+1326,Boissy,Bâtiment,BATCJE002,VJE002,sum_2,6.0,1.0,1.0,507.0,3042.0
+1327,Boissy,Bâtiment,BATCNE001,VNE001,sum_2,6.0,1.0,1.0,1306.0,7836.0
+1328,Boissy,Bâtiment,BATCNE002,VNE002,sum_2,6.0,1.0,1.0,1306.0,7836.0
+1329,Boissy,Bâtiment,BATMPE001,MPE001,sum_2,1.0,1.0,1.0,1407.0,1407.0
+1330,Boissy,Bâtiment,BATMPE002,MPE002,sum_2,1.0,1.0,1.0,1407.0,1407.0
+1331,Boissy,Propreté,PRPLTB030,POL030,direct_reference,2.0,2.0,1.0,8706.5,34826.0
+1332,Boissy,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1333,Boissy,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1334,Boissy,ContReg,CRGVIE110,CRE110,direct_reference,1.0,1.0,1.0,2594.4,2594.4
+1335,Boissy,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1336,Boissy,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1337,Boissy,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1338,Boissy,Eclairage,ECLNPE005,ECPE05,direct_reference,2.0,2.0,1.0,325.8,1303.2
+1339,Boissy,Eclairage,ECLNEE018,ECPE18,direct_reference,2.0,2.0,1.0,3286.99,13147.96
+1340,Boissy,Eclairage,ECLRSE066,ECPE66,sum_3,0.4,2.0,1.0,1053.36,842.69
+1341,Boissy,Eclairage,ECLRSE068,ECPE68,sum_3,0.4,2.0,1.0,2701.38,2161.1
+1342,Boissy,Eclairage,ECLRSE069,ECPE69,sum_3,0.4,2.0,1.0,4247.45,3397.96
+1343,Boissy,AEV,AEVEFE016,AEFE16,direct_reference,2.0,2.0,1.0,577.71,2310.84
+1344,Boissy,AEV,AEVMPE026,AEPE26,direct_reference,2.0,2.0,1.0,1090.66,4362.64
+1345,Boissy,AEV,AEVPLV008,AEV08,direct_reference,1.0,32.0,1.0,61.7,1974.4
+1346,Boissy,Automate,AUTPAB027,AUPR27,direct_reference,1.0,1.0,1.0,320.77594,320.78
+1347,Boissy,Automate,AUTPAR028,AUPR28,direct_reference,1.0,1.0,1.0,1152.14061,1152.14
+1348,Boissy,Automate,AUTPAM047,AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+1349,Boissy,Automate,AUTPAR048,AUPR48,direct_reference,1.0,9.0,1.0,91.39855,822.59
+1350,Boissy,PAU/TSE,RTSPPE001,RAU-PE01,direct_reference,4.0,1.0,1.0,700.25,2801.0
+1351,Boissy,PAU/TSE,RTSPTE001,TSE-PE01,direct_reference,4.0,1.0,1.0,359.87,1439.48
+1352,Boissy,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1353,Boissy,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1354,Boissy,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+1355,Boissy,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,1.0,1.0,185.94,185.94
+1356,Boissy,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+1357,Boissy,Détection,DETPCA017,DEP017,direct_reference,4.0,2.0,1.0,3034.5,24276.0
+1358,Boissy,Détection,DETPLV027,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1359,Boissy,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1360,Boissy,Détection,DETPXA200,DEP200,direct_reference,1.0,0.0,1.0,33.6,0.0
+1361,Boissy,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1362,Boissy,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1363,Boissy,Détection,DETPXD203,DEP203,direct_reference,1.0,26.0,1.0,15.75,409.5
+1364,Boissy,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1365,Boissy,Détection,DETPXF204,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+1366,Boissy,Détection,DETPXG206,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+1367,Boissy,Ventilation,VENPEE204,VPE204,direct_reference,1.0,1.0,1.0,8421.59,8421.59
+1368,Boissy,Ventilation,VENPQA300,VPT300,direct_reference,1.0,8.0,1.0,78.85,630.8
+1369,Boissy,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1370,Boissy,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1371,Boissy,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1372,Boissy,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1373,Boissy,Vidéo,,VI MP 200,sum_2,1.0,1.0,1.0,893.87,893.87
+1374,Boissy,Vidéo,,VI MP 201,sum_2,1.0,1.0,1.0,1673.01,1673.01
+1375,Boissy,Vidéo,VIDCAM344,VI MP 344,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1376,Boissy,Vidéo,VIDCAM345,VI MP 345,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1377,Boissy,Vidéo,VIDPCI422,VI MP 422,direct_reference,1.0,1.0,1.0,124.24,124.24
+1378,Boissy,Pompage,POMIND205,INP205,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+1379,Boissy,Pompage,POMVSP208,POP208,direct_reference,3.0,1.0,1.0,961.77,2885.31
+1380,Boissy,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1381,Boissy,Pompage,POMESP208,POE208,direct_reference,1.0,3.0,1.0,1565.08,4695.24
+1382,Boissy,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1383,Boissy,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1384,Boissy,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1385,Boissy,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1386,Boissy,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1387,Boissy,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1388,Neuilly,Bâtiment,BATCJN010,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1389,Neuilly,Bâtiment,BATCJN011,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1390,Neuilly,Bâtiment,BATCNO010,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1391,Neuilly,Bâtiment,BATCNO011,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1392,Neuilly,Bâtiment,BATMPO010,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1393,Neuilly,Bâtiment,BATMPO011,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1394,Neuilly,Propreté,PRPLTB008,POL008,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+1395,Neuilly,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1396,Neuilly,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1397,Neuilly,ContReg,CRGVIO102,CRO102,direct_reference,1.0,2.0,1.0,648.6,1297.2
+1398,Neuilly,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1399,Neuilly,ContReg,CRGDLB102,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+1400,Neuilly,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1401,Neuilly,Eclairage,ECLNPO006,ECPO06,direct_reference,2.0,2.0,1.0,350.41,1401.64
+1402,Neuilly,Eclairage,ECLNEO020,ECPO20,direct_reference,2.0,2.0,1.0,1833.72,7334.88
+1403,Neuilly,Eclairage,ECLRSO059,ECPO59,sum_3,0.4,2.0,1.0,3262.03,2609.62
+1404,Neuilly,Eclairage,ECLRSO060,ECPO60,sum_3,0.4,2.0,1.0,3262.03,2609.62
+1405,Neuilly,Eclairage,ECLRSO061,ECPO61,sum_3,0.4,2.0,1.0,6660.0,5328.0
+1406,Neuilly,AEV,AEVEFO016,AEFO16,direct_reference,2.0,2.0,1.0,472.07,1888.28
+1407,Neuilly,AEV,AEVMPO016,AEPO16,direct_reference,2.0,2.0,1.0,1067.31,4269.24
+1408,Neuilly,AEV,AEVPLV008,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+1409,Neuilly,Automate,AUTPAB001,AUPR01,direct_reference,1.0,1.0,1.0,298.86,298.86
+1410,Neuilly,Automate,AUTPAR002,AUPR02,direct_reference,1.0,1.0,1.0,360.05947999999995,360.06
+1411,Neuilly,Automate,AUTPAM047,AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+1412,Neuilly,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1413,Neuilly,PAU/TSE,RTSPPO004,RAU-PO04,direct_reference,4.0,1.0,1.0,350.13,1400.52
+1414,Neuilly,PAU/TSE,RTSPTO004,TSE-PO04,direct_reference,4.0,1.0,1.0,179.94,719.76
+1415,Neuilly,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1416,Neuilly,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+1417,Neuilly,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1418,Neuilly,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1419,Neuilly,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1420,Neuilly,Détection,DETPCA009,DEP009,direct_reference,4.0,2.0,1.0,2803.5,22428.0
+1421,Neuilly,Détection,DETPLV027,DEP027,direct_reference,1.0,0.0,1.0,24.15,0.0
+1422,Neuilly,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1423,Neuilly,Détection,DETPXA200,DEP200,direct_reference,1.0,20.0,1.0,33.6,672.0
+1424,Neuilly,Détection,DETPXB201,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+1425,Neuilly,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1426,Neuilly,Détection,DETPXD203,DEP203,direct_reference,1.0,1.0,1.0,15.75,15.75
+1427,Neuilly,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1428,Neuilly,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1429,Neuilly,Détection,DETPXG206,DEP206,direct_reference,1.0,8.0,1.0,15.75,126.0
+1430,Neuilly,Ventilation,VENPEO202,VPO202,direct_reference,1.0,1.0,1.0,1678.55,1678.55
+1431,Neuilly,Ventilation,VENPQA300,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+1432,Neuilly,Ventilation,VENPQB301,VPT301,direct_reference,1.0,4.0,1.0,128.27,513.08
+1433,Neuilly,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1434,Neuilly,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1435,Neuilly,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1436,Neuilly,Vidéo,VIDDAI116,VI MP 116,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1437,Neuilly,Vidéo,VIDDAI117,VI MP 117,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1438,Neuilly,Vidéo,VIDCAM316,VI MP 316,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1439,Neuilly,Vidéo,VIDCAM317,VI MP 317,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1440,Neuilly,Vidéo,VIDPCI408,VI MP 408,direct_reference,1.0,1.0,1.0,62.12,62.12
+1441,Neuilly,Pompage,,,direct_value,1.0,1.0,1.0,0.0,0.0
+1442,Neuilly,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1443,Neuilly,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1444,Neuilly,Pompage,,,direct_value,1.0,2.0,1.0,0.0,0.0
+1445,Neuilly,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1446,Neuilly,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1447,Neuilly,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1448,Neuilly,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1449,Neuilly,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1450,Neuilly,Pompage,POMERG901,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+1451,Lumen-Norton,Bâtiment,BATCJN001,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1452,Lumen-Norton,Bâtiment,BATCJN002,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1453,Lumen-Norton,Bâtiment,BATCNN001,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1454,Lumen-Norton,Bâtiment,BATCNN002,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1455,Lumen-Norton,Bâtiment,BATMPN001,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1456,Lumen-Norton,Bâtiment,BATMPN002,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1457,Lumen-Norton,Propreté,PRPLTB012,POL012,direct_reference,2.0,1.0,1.0,25661.9,51323.8
+1458,Lumen-Norton,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1459,Lumen-Norton,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1460,Lumen-Norton,ContReg,CRGVIN107,CRN107,sum_2,1.0,1.0,1.0,432.4,432.4
+1461,Lumen-Norton,ContReg,CRGVIN108,CRN108,sum_2,1.0,1.0,1.0,324.3,324.3
+1462,Lumen-Norton,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1463,Lumen-Norton,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1464,Lumen-Norton,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1465,Lumen-Norton,Eclairage,ECLNPN002,ECPN02,direct_reference,2.0,2.0,1.0,162.9,651.6
+1466,Lumen-Norton,Eclairage,ECLNEN012,ECPN12,direct_reference,2.0,2.0,1.0,6271.51,25086.04
+1467,Lumen-Norton,Eclairage,ECLRSN053,ECPN53,sum_4,0.4,2.0,1.0,6931.86,5545.49
+1468,Lumen-Norton,Eclairage,ECLRSN055,ECPN55,sum_4,0.4,2.0,1.0,3465.93,2772.74
+1469,Lumen-Norton,Eclairage,ECLRSN057,ECPN57,sum_4,0.4,2.0,1.0,3380.98,2704.78
+1470,Lumen-Norton,Eclairage,ECLRSN059,ECPN59,sum_4,0.4,2.0,1.0,1189.29,951.43
+1471,Lumen-Norton,AEV,AEVEFN011,AEFN11,direct_reference,2.0,2.0,1.0,397.62,1590.48
+1472,Lumen-Norton,AEV,AEVMPN021,AEPN21,direct_reference,2.0,2.0,1.0,810.41,3241.64
+1473,Lumen-Norton,AEV,AEVPLV008,AEV08,direct_reference,1.0,14.0,1.0,61.7,863.8
+1474,Lumen-Norton,Automate,AUTPAB037,AUPR37,direct_reference,1.0,1.0,1.0,544.12135,544.12
+1475,Lumen-Norton,Automate,AUTPAR038,AUPR38,direct_reference,1.0,1.0,1.0,744.78738,744.79
+1476,Lumen-Norton,Automate,AUTPAM047,AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+1477,Lumen-Norton,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1478,Lumen-Norton,PAU/TSE,RTSPPN003,RAU-PN03,direct_reference,4.0,1.0,1.0,2625.97,10503.88
+1479,Lumen-Norton,PAU/TSE,RTSPTN003,TSE-PN03,direct_reference,4.0,1.0,1.0,1259.54,5038.16
+1480,Lumen-Norton,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,2.0,1.0,304.01,608.02
+1481,Lumen-Norton,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1482,Lumen-Norton,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1483,Lumen-Norton,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1484,Lumen-Norton,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+1485,Lumen-Norton,Détection,DETPCA013,DEP013,div_2,4.0,2.0,0.5,6840.75,27363.0
+1486,Lumen-Norton,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+1487,Lumen-Norton,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1488,Lumen-Norton,Détection,DETPXA200,DEP200,direct_reference,1.0,25.0,1.0,33.6,840.0
+1489,Lumen-Norton,Détection,DETPXB201,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+1490,Lumen-Norton,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1491,Lumen-Norton,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1492,Lumen-Norton,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1493,Lumen-Norton,Détection,DETPXF204,DEP205,direct_reference,1.0,2.0,1.0,26.25,52.5
+1494,Lumen-Norton,Détection,DETPXG206,DEP206,direct_reference,1.0,5.0,1.0,15.75,78.75
+1495,Lumen-Norton,Ventilation,VENPEN201,VPN201,div_2,1.0,1.0,0.5,39474.35,19737.17
+1496,Lumen-Norton,Ventilation,VENPQA300,VPT300,direct_reference,1.0,5.0,1.0,78.85,394.25
+1497,Lumen-Norton,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1498,Lumen-Norton,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1499,Lumen-Norton,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1500,Lumen-Norton,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1501,Lumen-Norton,Vidéo,VIDDAI110,VI MP 110,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1502,Lumen-Norton,Vidéo,VIDDAI111,VI MP 111,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1503,Lumen-Norton,Vidéo,VIDCAM310,VI MP 310,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1504,Lumen-Norton,Vidéo,VIDCAM311,VI MP 311,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1505,Lumen-Norton,Vidéo,VIDPCI405,VI MP 405,direct_reference,1.0,1.0,1.0,62.12,62.12
+1506,Lumen-Norton,Pompage,POMIND103,INP103,direct_reference,1.0,1.0,1.0,1516.0,1516.0
+1507,Lumen-Norton,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1508,Lumen-Norton,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1509,Lumen-Norton,Pompage,POMESP701,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+1510,Lumen-Norton,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1511,Lumen-Norton,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1512,Lumen-Norton,Pompage,POMERE700,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1513,Lumen-Norton,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1514,Lumen-Norton,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1515,Lumen-Norton,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1516,Bicêtre,Bâtiment,BATCJS001,VJS001,div_2,6.0,2.0,0.5,507.0,3042.0
+1517,Bicêtre,Bâtiment,BATCJS002,VJS002,div_2,6.0,2.0,0.5,507.0,3042.0
+1518,Bicêtre,Bâtiment,BATCNS001,VNS001,div_2,6.0,2.0,0.5,1306.0,7836.0
+1519,Bicêtre,Bâtiment,BATCNS002,VNS002,div_2,6.0,2.0,0.5,1306.0,7836.0
+1520,Bicêtre,Bâtiment,BATMPS001,MPS001,div_2,1.0,2.0,0.5,1407.0,1407.0
+1521,Bicêtre,Bâtiment,BATMPS002,MPS002,div_2,1.0,2.0,0.5,1407.0,1407.0
+1522,Bicêtre,Propreté,PRPLTB018,POL018,direct_reference,2.0,2.0,1.0,8670.61,34682.44
+1523,Bicêtre,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1524,Bicêtre,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1525,Bicêtre,ContReg,CRGVIS107,CRS107,sum_2,1.0,1.0,1.0,864.8,864.8
+1526,Bicêtre,ContReg,CRGVIS108,CRS108,sum_2,1.0,1.0,1.0,864.8,864.8
+1527,Bicêtre,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1528,Bicêtre,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1529,Bicêtre,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1530,Bicêtre,Eclairage,ECLNPS001,ECPS01,direct_reference,2.0,2.0,1.0,407.24,1628.96
+1531,Bicêtre,Eclairage,ECLNES010,ECPS10,direct_reference,2.0,2.0,1.0,5449.18,21796.72
+1532,Bicêtre,Eclairage,ECLRSS050,ECPS50,sum_3,0.4,2.0,1.0,7696.4,6157.12
+1533,Bicêtre,Eclairage,ECLRSS051,ECPS51,sum_3,0.4,2.0,1.0,5470.71,4376.57
+1534,Bicêtre,Eclairage,ECLRSS052,ECPS52,sum_3,0.4,2.0,1.0,23921.68,19137.34
+1535,Bicêtre,AEV,AEVEFS010,AEFS10,direct_reference,2.0,2.0,1.0,714.56,2858.24
+1536,Bicêtre,AEV,AEVMPS020,AEPS20,direct_reference,2.0,2.0,1.0,2096.07,8384.28
+1537,Bicêtre,AEV,AEVPLV008,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+1538,Bicêtre,Automate,AUTPAB023,AUPR23,div_2,1.0,1.0,0.5,346.22267999999997,173.11
+1539,Bicêtre,Automate,AUTPAR024,AUPR24,div_2,1.0,1.0,0.5,1871.29748,935.65
+1540,Bicêtre,Automate,AUTPAM047,AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+1541,Bicêtre,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1542,Bicêtre,PAU/TSE,RTSPPS002,RAU-PS02,div_2,4.0,1.0,0.5,2208.71,4417.42
+1543,Bicêtre,PAU/TSE,RTSPTS002,TSE-PS02,div_2,4.0,1.0,0.5,584.79,1169.58
+1544,Bicêtre,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1545,Bicêtre,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+1546,Bicêtre,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1547,Bicêtre,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1548,Bicêtre,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1549,Bicêtre,Détection,DETPCA019,DEP019,direct_reference,4.0,2.0,1.0,6303.15,50425.2
+1550,Bicêtre,Détection,DETPLV027,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+1551,Bicêtre,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1552,Bicêtre,Détection,DETPXA200,DEP200,direct_reference,1.0,44.0,1.0,33.6,1478.4
+1553,Bicêtre,Détection,DETPXB201,DEP201,direct_reference,1.0,45.0,1.0,21.0,945.0
+1554,Bicêtre,Détection,DETPXC202,DEP202,direct_reference,1.0,3.0,1.0,36.75,110.25
+1555,Bicêtre,Détection,DETPXD203,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1556,Bicêtre,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1557,Bicêtre,Détection,DETPXF204,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1558,Bicêtre,Détection,DETPXG206,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+1559,Bicêtre,Ventilation,VENPES202,VPS202,direct_reference,1.0,1.0,1.0,9212.68,9212.68
+1560,Bicêtre,Ventilation,VENPQA300,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+1561,Bicêtre,Ventilation,VENPQB301,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1562,Bicêtre,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1563,Bicêtre,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1564,Bicêtre,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1565,Bicêtre,Vidéo,VIDDAI140,VI MP 140,div_2,1.0,1.0,0.5,3341.64,1670.82
+1566,Bicêtre,Vidéo,VIDDAI141,VI MP 141,div_2,1.0,1.0,0.5,3341.64,1670.82
+1567,Bicêtre,Vidéo,VIDCAM340,VI MP 340,div_2,2.0,1.0,0.5,1696.19,1696.19
+1568,Bicêtre,Vidéo,VIDCAM341,VI MP 341,div_2,2.0,1.0,0.5,1696.19,1696.19
+1569,Bicêtre,Vidéo,VIDPCI420,VI MP 420,div_2,1.0,1.0,0.5,201.81,100.91
+1570,Bicêtre,Pompage,POMIND405,INP405,direct_reference,1.0,1.0,1.0,2402.0,2402.0
+1571,Bicêtre,Pompage,POMVSP403,POP403,sum_2,3.0,1.0,1.0,858.61,2575.83
+1572,Bicêtre,Pompage,POMVSP404,POP404,sum_2,3.0,1.0,1.0,858.61,2575.83
+1573,Bicêtre,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1574,Bicêtre,Pompage,POMVSP403,POP403,sum_2,1.0,2.0,1.0,858.61,1717.22
+1575,Bicêtre,Pompage,POMVSP404,POP404,sum_2,1.0,2.0,1.0,858.61,1717.22
+1576,Bicêtre,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1577,Bicêtre,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1578,Bicêtre,Pompage,POMERE700,INP700,direct_reference,1.0,12.0,1.0,214.65,2575.8
+1579,Bicêtre,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1580,Bicêtre,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1581,Bicêtre,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1582,Champigny,Bâtiment,BATCJE003,VJE003,sum_2,6.0,1.0,1.0,1014.0,6084.0
+1583,Champigny,Bâtiment,BATCJE004,VJE004,sum_2,6.0,1.0,1.0,1014.0,6084.0
+1584,Champigny,Bâtiment,BATCNE003,VNE003,sum_2,6.0,1.0,1.0,1958.0,11748.0
+1585,Champigny,Bâtiment,BATCNE004,VNE004,sum_2,6.0,1.0,1.0,1958.0,11748.0
+1586,Champigny,Bâtiment,BATMPE003,MPE003,sum_2,1.0,1.0,1.0,2111.0,2111.0
+1587,Champigny,Bâtiment,BATMPE004,MPE004,sum_2,1.0,1.0,1.0,2111.0,2111.0
+1588,Champigny,Propreté,PRPLTB015,POL015,direct_reference,2.0,2.0,1.0,12869.64,51478.56
+1589,Champigny,ContReg,CRGVPA106,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1590,Champigny,ContReg,CRGVPA107,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1591,Champigny,ContReg,CRGVIE103,CRE103,sum_2,1.0,1.0,1.0,1081.0,1081.0
+1592,Champigny,ContReg,CRGVIE104,CRE104,sum_2,1.0,1.0,1.0,1081.0,1081.0
+1593,Champigny,ContReg,CRGDLA101,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1594,Champigny,ContReg,CRGDLB102,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1595,Champigny,ContReg,CRGDLC103,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1596,Champigny,Eclairage,ECLNPE003,ECPE03,direct_reference,2.0,2.0,1.0,529.42,2117.68
+1597,Champigny,Eclairage,ECLNEE014,ECPE14,direct_reference,2.0,2.0,1.0,10577.37,42309.48
+1598,Champigny,Eclairage,ECLRSE058,ECPE58,sum_3,0.4,2.0,1.0,20047.99,16038.39
+1599,Champigny,Eclairage,ECLRSE060,ECPE60,sum_3,0.4,2.0,1.0,14679.21,11743.37
+1600,Champigny,Eclairage,ECLRSE061,ECPE61,sum_3,0.4,2.0,1.0,13353.99,10683.19
+1601,Champigny,AEV,AEVEFE012,AEFE12,direct_reference,2.0,2.0,1.0,801.05,3204.2
+1602,Champigny,AEV,AEVMPE022,AEPE22,direct_reference,2.0,2.0,1.0,2376.93,9507.72
+1603,Champigny,AEV,AEVPLV008,AEV08,direct_reference,1.0,18.0,1.0,61.7,1110.6
+1604,Champigny,Automate,AUTPAB029,AUPR29,direct_reference,1.0,1.0,1.0,371.65861,371.66
+1605,Champigny,Automate,AUTPAR030,AUPR30,direct_reference,1.0,1.0,1.0,1152.14061,1152.14
+1606,Champigny,Automate,AUTPAM047,AUPR47,direct_reference,1.0,2.0,1.0,202.4713,404.94
+1607,Champigny,Automate,AUTPAR048,AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1608,Champigny,PAU/TSE,RTSPPE002,RAU-PE02,direct_reference,4.0,1.0,1.0,1520.65,6082.6
+1609,Champigny,PAU/TSE,RTSPTE002,TSE-PE02,direct_reference,4.0,1.0,1.0,494.83,1979.32
+1610,Champigny,Onduleur,ONDPOA001,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1611,Champigny,Onduleur,ONDPOB002,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1612,Champigny,Onduleur,ONDPOC003,ONP003,direct_reference,1.0,2.0,1.0,371.88,743.76
+1613,Champigny,Onduleur,ONDMPA004,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1614,Champigny,Onduleur,ONDPLV005,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+1615,Champigny,Détection,DETPCA015,DEP015,direct_reference,4.0,2.0,1.0,3202.5,25620.0
+1616,Champigny,Détection,DETPLV027,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+1617,Champigny,Détection,DETPDI100,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1618,Champigny,Détection,DETPXA200,DEP200,direct_reference,1.0,43.0,1.0,33.6,1444.8
+1619,Champigny,Détection,DETPXB201,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1620,Champigny,Détection,DETPXC202,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1621,Champigny,Détection,DETPXD203,DEP203,direct_reference,1.0,10.0,1.0,15.75,157.5
+1622,Champigny,Détection,DETPXE204,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1623,Champigny,Détection,DETPXF204,DEP205,direct_reference,1.0,7.0,1.0,26.25,183.75
+1624,Champigny,Détection,DETPXG206,DEP206,direct_reference,1.0,9.0,1.0,15.75,141.75
+1625,Champigny,Ventilation,VENPEE201,VPE201,direct_reference,1.0,1.0,1.0,5585.14,5585.14
+1626,Champigny,Ventilation,VENPQA300,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+1627,Champigny,Ventilation,VENPQB301,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+1628,Champigny,Ventilation,VENPQC302,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1629,Champigny,Ventilation,VENPQE304,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1630,Champigny,Ventilation,VENPQF305,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1631,Champigny,Vidéo,VIDDAI100,VI MP 100,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1632,Champigny,Vidéo,VIDDAI101,VI MP 101,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1633,Champigny,Vidéo,VIDCAM300,VI MP 300,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1634,Champigny,Vidéo,VIDCAM301,VI MP 301,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1635,Champigny,Vidéo,VIDPCI400,VI MP 400,direct_reference,1.0,1.0,1.0,201.81,201.81
+1636,Champigny,Pompage,POMIND203,INP203,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+1637,Champigny,Pompage,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1638,Champigny,Pompage,POMEPO600,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1639,Champigny,Pompage,,,direct_value,1.0,0.0,1.0,0.0,0.0
+1640,Champigny,Pompage,POMERC500,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1641,Champigny,Pompage,POMERD600,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1642,Champigny,Pompage,POMERE700,INP700,direct_reference,1.0,4.0,1.0,214.65,858.6
+1643,Champigny,Pompage,POMERF800,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1644,Champigny,Pompage,POMERG900,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1645,Champigny,Pompage,POMERG901,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0

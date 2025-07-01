@@ -1,0 +1,1647 @@
+,tunnel,mar_diminutif,prdp_code,prod_groupe,ref_prix,form_typ,frq_totale,nb_equipe,coeff,cout_ht,cout_total
+0,Neuilly,Bâtiment,BATCJN010,Contrôle des IS de jour,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1,Neuilly,Bâtiment,BATCJN011,Contrôle des IS de jour,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+2,Neuilly,Bâtiment,BATCNO010,Contrôle des IS + niches de nuit,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+3,Neuilly,Bâtiment,BATCNO011,Contrôle des IS + niches de nuit,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+4,Neuilly,Bâtiment,BATMPO010,Préventif IS + niches,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+5,Neuilly,Bâtiment,BATMPO011,Préventif IS + niches,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+6,Neuilly,Propreté,PRPLTB008,Lavage d'un tube,POL008,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+7,Neuilly,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+8,Neuilly,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+9,Neuilly,ContReg,CRGVIO102,Vérification des installations électriques,CRO102,direct_reference,1.0,2.0,1.0,648.6,1297.2
+10,Neuilly,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+11,Neuilly,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+12,Neuilly,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+13,Neuilly,Eclairage,ECLNPO006,Nettoyage des plots de jalonnement pour un sens,ECPO06,direct_reference,2.0,2.0,1.0,350.41,1401.64
+14,Neuilly,Eclairage,ECLNEO020,Nettoyage de l'éclairage pour un sens,ECPO20,direct_reference,2.0,2.0,1.0,1833.72,7334.88
+15,Neuilly,Eclairage,ECLRSO059,Remplacement systématiques des sources,ECPO59,sum_3,0.4,2.0,1.0,3262.03,2609.62
+16,Neuilly,Eclairage,ECLRSO060,Remplacement systématiques des sources,ECPO60,sum_3,0.4,2.0,1.0,3262.03,2609.62
+17,Neuilly,Eclairage,ECLRSO061,Remplacement systématiques des sources,ECPO61,sum_3,0.4,2.0,1.0,6660.0,5328.0
+18,Neuilly,AEV,AEVEFO016,Essais fonctionnels pour un sens,AEFO16,direct_reference,2.0,2.0,1.0,472.07,1888.28
+19,Neuilly,AEV,AEVMPO016,Maintenance préventive pour un sens,AEPO16,direct_reference,2.0,2.0,1.0,1067.31,4269.24
+20,Neuilly,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+21,Neuilly,Automate,AUTPAB001,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR01,direct_reference,1.0,1.0,1.0,298.86,298.86
+22,Neuilly,Automate,AUTPAR002,Préventif armoires MESD (fiche n°4 du CCTP),AUPR02,direct_reference,1.0,1.0,1.0,360.05947999999995,360.06
+23,Neuilly,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+24,Neuilly,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+25,Neuilly,PAU/TSE,RTSPPO004,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO04,direct_reference,4.0,1.0,1.0,350.13,1400.52
+26,Neuilly,PAU/TSE,RTSPTO004,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO04,direct_reference,4.0,1.0,1.0,179.94,719.76
+27,Neuilly,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+28,Neuilly,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+29,Neuilly,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+30,Neuilly,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+31,Neuilly,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+32,Neuilly,Détection,DETPCA009,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP009,direct_reference,4.0,2.0,1.0,2803.5,22428.0
+33,Neuilly,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,0.0,1.0,24.15,0.0
+34,Neuilly,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+35,Neuilly,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,20.0,1.0,33.6,672.0
+36,Neuilly,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+37,Neuilly,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+38,Neuilly,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,1.0,1.0,15.75,15.75
+39,Neuilly,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+40,Neuilly,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+41,Neuilly,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,8.0,1.0,15.75,126.0
+42,Neuilly,Ventilation,VENPEO202,Préventif des équipements de ventilation,VPO202,direct_reference,1.0,1.0,1.0,1678.55,1678.55
+43,Neuilly,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+44,Neuilly,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,4.0,1.0,128.27,513.08
+45,Neuilly,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+46,Neuilly,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+47,Neuilly,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+48,Neuilly,Vidéo,VIDDAI116,Maintenance préventive de la DAI du sens 1,VI MP 116,sum_2,1.0,1.0,1.0,1785.45,1785.45
+49,Neuilly,Vidéo,VIDDAI117,Maintenance préventive de la DAI du sens 2,VI MP 117,sum_2,1.0,1.0,1.0,1785.45,1785.45
+50,Neuilly,Vidéo,VIDCAM316,Nettoyage des caméras sens intérieur sens 1,VI MP 316,sum_2,2.0,1.0,1.0,1696.19,3392.38
+51,Neuilly,Vidéo,VIDCAM317,Nettoyage des caméras sens intérieur sens 2,VI MP 317,sum_2,2.0,1.0,1.0,1696.19,3392.38
+52,Neuilly,Vidéo,VIDPCI408,Maintenance préventive des caméras en issues de secours,VI MP 408,direct_reference,1.0,1.0,1.0,62.12,62.12
+53,Neuilly,Pompage,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+54,Neuilly,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+55,Neuilly,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+56,Neuilly,Pompage,,,,direct_value,1.0,2.0,1.0,0.0,0.0
+57,Neuilly,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+58,Neuilly,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+59,Neuilly,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+60,Neuilly,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+61,Neuilly,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+62,Neuilly,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+63,Nanterre Centre,Bâtiment,BATCJN006,Contrôle des IS de jour,VJO006,sum_2,6.0,1.0,1.0,1014.0,6084.0
+64,Nanterre Centre,Bâtiment,BATCJN007,Contrôle des IS de jour,VJO007,sum_2,6.0,1.0,1.0,1014.0,6084.0
+65,Nanterre Centre,Bâtiment,BATCNO006,Contrôle des IS + niches de nuit,VNO006,sum_2,6.0,1.0,1.0,1958.0,11748.0
+66,Nanterre Centre,Bâtiment,BATCNO007,Contrôle des IS + niches de nuit,VNO007,sum_2,6.0,1.0,1.0,1958.0,11748.0
+67,Nanterre Centre,Bâtiment,BATMPO006,Préventif IS + niches,MPO006,sum_2,1.0,1.0,1.0,2111.0,2111.0
+68,Nanterre Centre,Bâtiment,BATMPO007,Préventif IS + niches,MPO007,sum_2,1.0,1.0,1.0,2111.0,2111.0
+69,Nanterre Centre,Propreté,PRPLTB006,Lavage d'un tube,POL006,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+70,Nanterre Centre,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+71,Nanterre Centre,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+72,Nanterre Centre,ContReg,CRGVIO103,Vérification des installations électriques,CRO103,sum_10,1.0,0.5,1.0,864.8,432.4
+73,Nanterre Centre,ContReg,CRGVIO104,Vérification des installations électriques,CRO104,sum_10,1.0,0.5,1.0,648.6,324.3
+74,Nanterre Centre,ContReg,CRGVIO105,Vérification des installations électriques,CRO105,sum_10,1.0,0.5,1.0,648.6,324.3
+75,Nanterre Centre,ContReg,CRGVIO106,Vérification des installations électriques,CRO106,sum_10,1.0,0.5,1.0,864.8,432.4
+76,Nanterre Centre,ContReg,CRGVIO107,Vérification des installations électriques,CRO107,sum_10,1.0,0.5,1.0,432.4,216.2
+77,Nanterre Centre,ContReg,CRGVIO108,Vérification des installations électriques,CRO108,sum_10,1.0,0.5,1.0,864.8,432.4
+78,Nanterre Centre,ContReg,CRGVIO109,Vérification des installations électriques,CRO109,sum_10,1.0,0.5,1.0,864.8,432.4
+79,Nanterre Centre,ContReg,CRGVIO110,Vérification des installations électriques,CRO110,sum_10,1.0,0.5,1.0,432.4,216.2
+80,Nanterre Centre,ContReg,CRGVIO111,Vérification des installations électriques,CRO111,sum_10,1.0,0.5,1.0,432.4,216.2
+81,Nanterre Centre,ContReg,CRGVIO112,Vérification des installations électriques,CRO112,sum_10,1.0,0.5,1.0,648.6,324.3
+82,Nanterre Centre,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+83,Nanterre Centre,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,32.0,1.0,864.8,27673.6
+84,Nanterre Centre,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+85,Nanterre Centre,Eclairage,ECLNPO003,Nettoyage des plots de jalonnement pour un sens,ECPO03,sum_2,2.0,2.0,1.0,1387.01,5548.04
+86,Nanterre Centre,Eclairage,ECLNPO004,Nettoyage des plots de jalonnement pour un sens,ECPO04,sum_2,2.0,2.0,1.0,651.59,2606.36
+87,Nanterre Centre,Eclairage,ECLNEO014,Nettoyage de l'éclairage pour un sens,ECPO14,sum_2,2.0,2.0,1.0,6644.86,26579.44
+88,Nanterre Centre,Eclairage,ECLNEO016,Nettoyage de l'éclairage pour un sens,ECPO16,sum_2,2.0,2.0,1.0,9244.22,36976.88
+89,Nanterre Centre,Eclairage,ECLRSO050,Remplacement systématiques des sources,ECPO50,sum_6,0.4,0.3333333333333333,1.0,58716.81,7828.91
+90,Nanterre Centre,Eclairage,ECLRSO051,Remplacement systématiques des sources,ECPO51,sum_6,0.4,0.3333333333333333,1.0,59906.1,7987.48
+91,Nanterre Centre,Eclairage,ECLRSO052,Remplacement systématiques des sources,ECPO52,sum_6,0.4,0.3333333333333333,1.0,51784.98,6904.66
+92,Nanterre Centre,Eclairage,ECLRSO053,Remplacement systématiques des sources,ECPO53,sum_6,0.4,0.3333333333333333,1.0,52090.78,6945.44
+93,Nanterre Centre,Eclairage,ECLRSO054,Remplacement systématiques des sources,ECPO54,sum_6,0.4,0.3333333333333333,1.0,18484.94,2464.66
+94,Nanterre Centre,Eclairage,ECLRSO055,Remplacement systématiques des sources,ECPO55,sum_6,0.4,0.3333333333333333,1.0,16751.96,2233.59
+95,Nanterre Centre,AEV,AEVEFO012,Essais fonctionnels pour un sens,AEFO12,sum_2,2.0,2.0,1.0,711.0,2844.0
+96,Nanterre Centre,AEV,AEVEFO013,Essais fonctionnels pour un sens,AEFO13,sum_2,2.0,2.0,1.0,1157.68,4630.72
+97,Nanterre Centre,AEV,AEVMPO012,Maintenance préventive pour un sens,AEPO12,sum_2,2.0,2.0,1.0,2034.21,8136.84
+98,Nanterre Centre,AEV,AEVMPO013,Maintenance préventive pour un sens,AEPO13,sum_2,2.0,2.0,1.0,3638.64,14554.56
+99,Nanterre Centre,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+100,Nanterre Centre,Automate,AUTPAB005,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR05,direct_reference,1.0,1.0,1.0,385.79808999999995,385.8
+101,Nanterre Centre,Automate,AUTPAR006,Préventif armoires MESD (fiche n°4 du CCTP),AUPR06,direct_reference,1.0,1.0,1.0,829.3215799999999,829.32
+102,Nanterre Centre,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+103,Nanterre Centre,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+104,Nanterre Centre,PAU/TSE,RTSPPO003,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO03,direct_reference,4.0,1.0,1.0,1182.73,4730.92
+105,Nanterre Centre,PAU/TSE,RTSPTO003,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO03,direct_reference,4.0,1.0,1.0,539.81,2159.24
+106,Nanterre Centre,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+107,Nanterre Centre,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+108,Nanterre Centre,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+109,Nanterre Centre,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+110,Nanterre Centre,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+111,Nanterre Centre,Détection,DETPCA008,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP008,direct_reference,4.0,2.0,1.0,3109.05,24872.4
+112,Nanterre Centre,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+113,Nanterre Centre,Détection,DETPDI101,Préventif détection incendie,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+114,Nanterre Centre,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+115,Nanterre Centre,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+116,Nanterre Centre,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+117,Nanterre Centre,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,8.0,1.0,15.75,126.0
+118,Nanterre Centre,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+119,Nanterre Centre,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+120,Nanterre Centre,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+121,Nanterre Centre,Ventilation,VENPEO201,Préventif des équipements de ventilation,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+122,Nanterre Centre,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+123,Nanterre Centre,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,39.0,1.0,128.27,5002.53
+124,Nanterre Centre,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+125,Nanterre Centre,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+126,Nanterre Centre,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+127,Nanterre Centre,Vidéo,VIDDAI120,Maintenance préventive de la DAI du sens 1,VI MP 120,sum_2,1.0,1.0,1.0,3341.64,3341.64
+128,Nanterre Centre,Vidéo,VIDDAI121,Maintenance préventive de la DAI du sens 2,VI MP 121,sum_2,1.0,1.0,1.0,3341.64,3341.64
+129,Nanterre Centre,Vidéo,VIDCAM320,Nettoyage des caméras sens intérieur sens 1,VI MP 320,sum_2,2.0,1.0,1.0,3174.6,6349.2
+130,Nanterre Centre,Vidéo,VIDCAM321,Nettoyage des caméras sens intérieur sens 2,VI MP 321,sum_2,2.0,1.0,1.0,1696.19,3392.38
+131,Nanterre Centre,Vidéo,VIDPCI410,Maintenance préventive des caméras en issues de secours,VI MP 410,direct_reference,1.0,1.0,1.0,186.25,186.25
+132,Nanterre Centre,Pompage,POMIND212,Entretien des poteaux incendie,INP307,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+133,Nanterre Centre,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+134,Nanterre Centre,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+135,Nanterre Centre,Pompage,,,,direct_value,1.0,2.0,1.0,0.0,0.0
+136,Nanterre Centre,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,1.0,1.0,858.61,858.61
+137,Nanterre Centre,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+138,Nanterre Centre,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+139,Nanterre Centre,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+140,Nanterre Centre,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+141,Nanterre Centre,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+142,Moulin,Bâtiment,BATCJE005,Contrôle des IS de jour,VJE005,sum_2,6.0,0.5,1.0,1522.0,4566.0
+143,Moulin,Bâtiment,BATCJE006,Contrôle des IS de jour,VJE006,sum_2,6.0,0.5,1.0,1522.0,4566.0
+144,Moulin,Bâtiment,BATCNE005,Contrôle des IS + niches de nuit,VNE005,sum_2,6.0,0.5,1.0,2611.0,7833.0
+145,Moulin,Bâtiment,BATCNE006,Contrôle des IS + niches de nuit,VNE006,sum_2,6.0,0.5,1.0,2611.0,7833.0
+146,Moulin,Bâtiment,BATMPE005,Préventif IS + niches,MPE005,sum_2,1.0,0.5,1.0,2815.0,1407.5
+147,Moulin,Bâtiment,BATMPE006,Préventif IS + niches,MPE006,sum_2,1.0,0.5,1.0,2815.0,1407.5
+148,Moulin,Propreté,PRPLTB016,Lavage d'un tube,POL016,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+149,Moulin,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+150,Moulin,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+151,Moulin,ContReg,CRGVIE105,Vérification des installations électriques,CRE105,sum_2,1.0,0.5,1.0,864.8,432.4
+152,Moulin,ContReg,CRGVIE106,Vérification des installations électriques,CRE106,sum_2,1.0,0.5,1.0,864.8,432.4
+153,Moulin,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+154,Moulin,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+155,Moulin,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+156,Moulin,Eclairage,ECLNPE001,Nettoyage des plots de jalonnement pour un sens,ECPE01,direct_reference,2.0,1.0,1.0,855.21,1710.42
+157,Moulin,Eclairage,ECLNEE010,Nettoyage de l'éclairage pour un sens,ECPE10,direct_reference,2.0,1.0,1.0,15985.44,31970.88
+158,Moulin,Eclairage,ECLRSE050,Remplacement systématiques des sources,ECPE50,sum_3,0.4,1.0,1.0,28406.97,11362.79
+159,Moulin,Eclairage,ECLRSE054,Remplacement systématiques des sources,ECPE54,sum_3,0.4,1.0,1.0,17737.38,7094.95
+160,Moulin,Eclairage,ECLRSE056,Remplacement systématiques des sources,ECPE56,sum_3,0.4,1.0,1.0,27455.54,10982.22
+161,Moulin,AEV,AEVEFE010,Essais fonctionnels pour un sens,AEFE10,direct_reference,2.0,1.0,1.0,1005.24,2010.48
+162,Moulin,AEV,AEVMPE020,Maintenance préventive pour un sens,AEPE20,direct_reference,2.0,1.0,1.0,3016.89,6033.78
+163,Moulin,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,8.0,1.0,61.7,493.6
+164,Moulin,Automate,AUTPAB031,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR31,direct_reference,1.0,0.5,1.0,397.10535,198.55
+165,Moulin,Automate,AUTPAR032,Préventif armoires MESD (fiche n°4 du CCTP),AUPR32,direct_reference,1.0,0.5,1.0,1450.62633,725.31
+166,Moulin,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+167,Moulin,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+168,Moulin,PAU/TSE,RTSPPE004,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PE04,direct_reference,4.0,0.5,1.0,1552.88,3105.76
+169,Moulin,PAU/TSE,RTSPTE004,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PE04,direct_reference,4.0,0.5,1.0,944.66,1889.32
+170,Moulin,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+171,Moulin,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+172,Moulin,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+173,Moulin,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+174,Moulin,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+175,Moulin,Détection,DETPCA016,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP016,direct_reference,4.0,1.0,1.0,6209.7,24838.8
+176,Moulin,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+177,Moulin,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+178,Moulin,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,25.0,1.0,33.6,840.0
+179,Moulin,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+180,Moulin,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+181,Moulin,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+182,Moulin,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+183,Moulin,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+184,Moulin,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,4.0,1.0,15.75,63.0
+185,Moulin,Ventilation,VENPEE203,Préventif des équipements de ventilation,VPE203,direct_reference,1.0,1.0,1.0,10365.03,10365.03
+186,Moulin,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,8.0,1.0,78.85,630.8
+187,Moulin,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+188,Moulin,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+189,Moulin,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+190,Moulin,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+191,Moulin,Vidéo,VIDDAI102,Maintenance préventive de la DAI du sens 1,VI MP 102,sum_2,1.0,0.5,1.0,3341.64,1670.82
+192,Moulin,Vidéo,VIDDAI103,Maintenance préventive de la DAI du sens 2,VI MP 103,sum_2,1.0,0.5,1.0,4234.36,2117.18
+193,Moulin,Vidéo,VIDCAM302,Nettoyage des caméras sens intérieur sens 1,VI MP 302,sum_2,2.0,0.5,1.0,3174.6,3174.6
+194,Moulin,Vidéo,VIDCAM303,Nettoyage des caméras sens intérieur sens 2,VI MP 303,sum_2,2.0,0.5,1.0,3174.6,3174.6
+195,Moulin,Vidéo,VIDPCI400,Maintenance préventive des caméras en issues de secours,VI MP 400,direct_reference,1.0,0.5,1.0,201.81,100.91
+196,Moulin,Pompage,POMIND204,Entretien des poteaux incendie,INP204,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+197,Moulin,Pompage,,,,direct_value,3.0,0.5,1.0,0.0,0.0
+198,Moulin,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+199,Moulin,Pompage,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+200,Moulin,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+201,Moulin,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+202,Moulin,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+203,Moulin,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+204,Moulin,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+205,Moulin,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+206,Bicêtre,Bâtiment,BATCJS001,Contrôle des IS de jour,VJS001,div_2,6.0,2.0,0.5,507.0,3042.0
+207,Bicêtre,Bâtiment,BATCJS002,Contrôle des IS de jour,VJS002,div_2,6.0,2.0,0.5,507.0,3042.0
+208,Bicêtre,Bâtiment,BATCNS001,Contrôle des IS + niches de nuit,VNS001,div_2,6.0,2.0,0.5,1306.0,7836.0
+209,Bicêtre,Bâtiment,BATCNS002,Contrôle des IS + niches de nuit,VNS002,div_2,6.0,2.0,0.5,1306.0,7836.0
+210,Bicêtre,Bâtiment,BATMPS001,Préventif IS + niches,MPS001,div_2,1.0,2.0,0.5,1407.0,1407.0
+211,Bicêtre,Bâtiment,BATMPS002,Préventif IS + niches,MPS002,div_2,1.0,2.0,0.5,1407.0,1407.0
+212,Bicêtre,Propreté,PRPLTB018,Lavage d'un tube,POL018,direct_reference,2.0,2.0,1.0,8670.61,34682.44
+213,Bicêtre,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+214,Bicêtre,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+215,Bicêtre,ContReg,CRGVIS107,Vérification des installations électriques,CRS107,sum_2,1.0,1.0,1.0,864.8,864.8
+216,Bicêtre,ContReg,CRGVIS108,Vérification des installations électriques,CRS108,sum_2,1.0,1.0,1.0,864.8,864.8
+217,Bicêtre,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+218,Bicêtre,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+219,Bicêtre,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+220,Bicêtre,Eclairage,ECLNPS001,Nettoyage des plots de jalonnement pour un sens,ECPS01,direct_reference,2.0,2.0,1.0,407.24,1628.96
+221,Bicêtre,Eclairage,ECLNES010,Nettoyage de l'éclairage pour un sens,ECPS10,direct_reference,2.0,2.0,1.0,5449.18,21796.72
+222,Bicêtre,Eclairage,ECLRSS050,Remplacement systématiques des sources,ECPS50,sum_3,0.4,2.0,1.0,7696.4,6157.12
+223,Bicêtre,Eclairage,ECLRSS051,Remplacement systématiques des sources,ECPS51,sum_3,0.4,2.0,1.0,5470.71,4376.57
+224,Bicêtre,Eclairage,ECLRSS052,Remplacement systématiques des sources,ECPS52,sum_3,0.4,2.0,1.0,23921.68,19137.34
+225,Bicêtre,AEV,AEVEFS010,Essais fonctionnels pour un sens,AEFS10,direct_reference,2.0,2.0,1.0,714.56,2858.24
+226,Bicêtre,AEV,AEVMPS020,Maintenance préventive pour un sens,AEPS20,direct_reference,2.0,2.0,1.0,2096.07,8384.28
+227,Bicêtre,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+228,Bicêtre,Automate,AUTPAB023,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR23,div_2,1.0,1.0,0.5,346.22267999999997,173.11
+229,Bicêtre,Automate,AUTPAR024,Préventif armoires MESD (fiche n°4 du CCTP),AUPR24,div_2,1.0,1.0,0.5,1871.29748,935.65
+230,Bicêtre,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+231,Bicêtre,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+232,Bicêtre,PAU/TSE,RTSPPS002,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PS02,div_2,4.0,1.0,0.5,2208.71,4417.42
+233,Bicêtre,PAU/TSE,RTSPTS002,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PS02,div_2,4.0,1.0,0.5,584.79,1169.58
+234,Bicêtre,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+235,Bicêtre,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+236,Bicêtre,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+237,Bicêtre,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+238,Bicêtre,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+239,Bicêtre,Détection,DETPCA019,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP019,direct_reference,4.0,2.0,1.0,6303.15,50425.2
+240,Bicêtre,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+241,Bicêtre,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+242,Bicêtre,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,44.0,1.0,33.6,1478.4
+243,Bicêtre,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,45.0,1.0,21.0,945.0
+244,Bicêtre,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,3.0,1.0,36.75,110.25
+245,Bicêtre,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+246,Bicêtre,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+247,Bicêtre,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+248,Bicêtre,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+249,Bicêtre,Ventilation,VENPES202,Préventif des équipements de ventilation,VPS202,direct_reference,1.0,1.0,1.0,9212.68,9212.68
+250,Bicêtre,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+251,Bicêtre,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+252,Bicêtre,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+253,Bicêtre,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+254,Bicêtre,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+255,Bicêtre,Vidéo,VIDDAI140,Maintenance préventive de la DAI du sens 1,VI MP 140,div_2,1.0,1.0,0.5,3341.64,1670.82
+256,Bicêtre,Vidéo,VIDDAI141,Maintenance préventive de la DAI du sens 2,VI MP 141,div_2,1.0,1.0,0.5,3341.64,1670.82
+257,Bicêtre,Vidéo,VIDCAM340,Nettoyage des caméras sens intérieur sens 1,VI MP 340,div_2,2.0,1.0,0.5,1696.19,1696.19
+258,Bicêtre,Vidéo,VIDCAM341,Nettoyage des caméras sens intérieur sens 2,VI MP 341,div_2,2.0,1.0,0.5,1696.19,1696.19
+259,Bicêtre,Vidéo,VIDPCI420,Maintenance préventive des caméras en issues de secours,VI MP 420,div_2,1.0,1.0,0.5,201.81,100.91
+260,Bicêtre,Pompage,POMIND405,Entretien des poteaux incendie,INP405,direct_reference,1.0,1.0,1.0,2402.0,2402.0
+261,Bicêtre,Pompage,POMVSP403,Visite des stations de pompage,POP403,sum_2,3.0,1.0,1.0,858.61,2575.83
+262,Bicêtre,Pompage,POMVSP404,Visite des stations de pompage,POP404,sum_2,3.0,1.0,1.0,858.61,2575.83
+263,Bicêtre,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+264,Bicêtre,Pompage,POMVSP403,Visite des stations de pompage,POP403,sum_2,1.0,2.0,1.0,858.61,1717.22
+265,Bicêtre,Pompage,POMVSP404,Visite des stations de pompage,POP404,sum_2,1.0,2.0,1.0,858.61,1717.22
+266,Bicêtre,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+267,Bicêtre,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+268,Bicêtre,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,12.0,1.0,214.65,2575.8
+269,Bicêtre,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+270,Bicêtre,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+271,Bicêtre,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+272,Guy Môquet,Bâtiment,BATCJE005,Contrôle des IS de jour,VJE005,sum_2,6.0,0.5,1.0,1522.0,4566.0
+273,Guy Môquet,Bâtiment,BATCJE006,Contrôle des IS de jour,VJE006,sum_2,6.0,0.5,1.0,1522.0,4566.0
+274,Guy Môquet,Bâtiment,BATCNE005,Contrôle des IS + niches de nuit,VNE005,sum_2,6.0,0.5,1.0,2611.0,7833.0
+275,Guy Môquet,Bâtiment,BATCNE006,Contrôle des IS + niches de nuit,VNE006,sum_2,6.0,0.5,1.0,2611.0,7833.0
+276,Guy Môquet,Bâtiment,BATMPE005,Préventif IS + niches,MPE005,sum_2,1.0,0.5,1.0,2815.0,1407.5
+277,Guy Môquet,Bâtiment,BATMPE006,Préventif IS + niches,MPE006,sum_2,1.0,0.5,1.0,2815.0,1407.5
+278,Guy Môquet,Propreté,PRPLTB016,Lavage d'un tube,POL016,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+279,Guy Môquet,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+280,Guy Môquet,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+281,Guy Môquet,ContReg,CRGVIE105,Vérification des installations électriques,CRE105,sum_2,1.0,0.5,1.0,864.8,432.4
+282,Guy Môquet,ContReg,CRGVIE106,Vérification des installations électriques,CRE106,sum_2,1.0,0.5,1.0,864.8,432.4
+283,Guy Môquet,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+284,Guy Môquet,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+285,Guy Môquet,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+286,Guy Môquet,Eclairage,ECLNPE001,Nettoyage des plots de jalonnement pour un sens,ECPE01,direct_reference,2.0,1.0,1.0,855.21,1710.42
+287,Guy Môquet,Eclairage,ECLNEE010,Nettoyage de l'éclairage pour un sens,ECPE10,direct_reference,2.0,1.0,1.0,15985.44,31970.88
+288,Guy Môquet,Eclairage,ECLRSE050,Remplacement systématiques des sources,ECPE50,sum_3,0.4,1.0,1.0,28406.97,11362.79
+289,Guy Môquet,Eclairage,ECLRSE054,Remplacement systématiques des sources,ECPE54,sum_3,0.4,1.0,1.0,17737.38,7094.95
+290,Guy Môquet,Eclairage,ECLRSE056,Remplacement systématiques des sources,ECPE56,sum_3,0.4,1.0,1.0,27455.54,10982.22
+291,Guy Môquet,AEV,AEVEFE010,Essais fonctionnels pour un sens,AEFE10,direct_reference,2.0,1.0,1.0,1005.24,2010.48
+292,Guy Môquet,AEV,AEVMPE020,Maintenance préventive pour un sens,AEPE20,direct_reference,2.0,1.0,1.0,3016.89,6033.78
+293,Guy Môquet,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+294,Guy Môquet,Automate,AUTPAB031,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR31,direct_reference,1.0,0.5,1.0,397.10535,198.55
+295,Guy Môquet,Automate,AUTPAR032,Préventif armoires MESD (fiche n°4 du CCTP),AUPR32,direct_reference,1.0,0.5,1.0,1450.62633,725.31
+296,Guy Môquet,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+297,Guy Môquet,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+298,Guy Môquet,PAU/TSE,RTSPPE004,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PE04,direct_reference,4.0,0.5,1.0,1552.88,3105.76
+299,Guy Môquet,PAU/TSE,RTSPTE004,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PE04,direct_reference,4.0,0.5,1.0,944.66,1889.32
+300,Guy Môquet,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+301,Guy Môquet,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+302,Guy Môquet,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+303,Guy Môquet,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+304,Guy Môquet,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+305,Guy Môquet,Détection,DETPCA016,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP016,direct_reference,4.0,1.0,1.0,6209.7,24838.8
+306,Guy Môquet,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+307,Guy Môquet,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+308,Guy Môquet,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,18.0,1.0,33.6,604.8
+309,Guy Môquet,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+310,Guy Môquet,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+311,Guy Môquet,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+312,Guy Môquet,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+313,Guy Môquet,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+314,Guy Môquet,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+315,Guy Môquet,Ventilation,VENPEE202,Préventif des équipements de ventilation,VPE202,direct_reference,1.0,1.0,1.0,10365.03,10365.03
+316,Guy Môquet,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+317,Guy Môquet,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+318,Guy Môquet,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+319,Guy Môquet,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+320,Guy Môquet,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+321,Guy Môquet,Vidéo,VIDDAI102,Maintenance préventive de la DAI du sens 1,VI MP 102,sum_2,1.0,0.5,1.0,3341.64,1670.82
+322,Guy Môquet,Vidéo,VIDDAI103,Maintenance préventive de la DAI du sens 2,VI MP 103,sum_2,1.0,0.5,1.0,4234.36,2117.18
+323,Guy Môquet,Vidéo,VIDCAM302,Nettoyage des caméras sens intérieur sens 1,VI MP 302,sum_2,2.0,0.5,1.0,3174.6,3174.6
+324,Guy Môquet,Vidéo,VIDCAM303,Nettoyage des caméras sens intérieur sens 2,VI MP 303,sum_2,2.0,0.5,1.0,3174.6,3174.6
+325,Guy Môquet,Vidéo,VIDPCI400,Maintenance préventive des caméras en issues de secours,VI MP 400,direct_reference,1.0,0.5,1.0,201.81,100.91
+326,Guy Môquet,Pompage,POMIND201,Entretien des poteaux incendie,INP201,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+327,Guy Môquet,Pompage,,,,direct_value,3.0,0.5,1.0,0.0,0.0
+328,Guy Môquet,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+329,Guy Môquet,Pompage,,,,direct_value,1.0,0.0,1.0,0.0,0.0
+330,Guy Môquet,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+331,Guy Môquet,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+332,Guy Môquet,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+333,Guy Môquet,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+334,Guy Môquet,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+335,Guy Môquet,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+336,Nanterre échangeur,Bâtiment,BATCJN010,Contrôle des IS de jour,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+337,Nanterre échangeur,Bâtiment,BATCJN011,Contrôle des IS de jour,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+338,Nanterre échangeur,Bâtiment,BATCNO010,Contrôle des IS + niches de nuit,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+339,Nanterre échangeur,Bâtiment,BATCNO011,Contrôle des IS + niches de nuit,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+340,Nanterre échangeur,Bâtiment,BATMPO010,Préventif IS + niches,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+341,Nanterre échangeur,Bâtiment,BATMPO011,Préventif IS + niches,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+342,Nanterre échangeur,Propreté,PRPLTB006,Lavage d'un tube,POL006,direct_reference,2.0,1.0,1.0,10734.42,21468.84
+343,Nanterre échangeur,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+344,Nanterre échangeur,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+345,Nanterre échangeur,ContReg,CRGVIO103,Vérification des installations électriques,CRO103,sum_10,1.0,0.5,1.0,864.8,432.4
+346,Nanterre échangeur,ContReg,CRGVIO104,Vérification des installations électriques,CRO104,sum_10,1.0,0.5,1.0,648.6,324.3
+347,Nanterre échangeur,ContReg,CRGVIO105,Vérification des installations électriques,CRO105,sum_10,1.0,0.5,1.0,648.6,324.3
+348,Nanterre échangeur,ContReg,CRGVIO106,Vérification des installations électriques,CRO106,sum_10,1.0,0.5,1.0,864.8,432.4
+349,Nanterre échangeur,ContReg,CRGVIO107,Vérification des installations électriques,CRO107,sum_10,1.0,0.5,1.0,432.4,216.2
+350,Nanterre échangeur,ContReg,CRGVIO108,Vérification des installations électriques,CRO108,sum_10,1.0,0.5,1.0,864.8,432.4
+351,Nanterre échangeur,ContReg,CRGVIO109,Vérification des installations électriques,CRO109,sum_10,1.0,0.5,1.0,864.8,432.4
+352,Nanterre échangeur,ContReg,CRGVIO110,Vérification des installations électriques,CRO110,sum_10,1.0,0.5,1.0,432.4,216.2
+353,Nanterre échangeur,ContReg,CRGVIO111,Vérification des installations électriques,CRO111,sum_10,1.0,0.5,1.0,432.4,216.2
+354,Nanterre échangeur,ContReg,CRGVIO112,Vérification des installations électriques,CRO112,sum_10,1.0,0.5,1.0,648.6,324.3
+355,Nanterre échangeur,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+356,Nanterre échangeur,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,32.0,1.0,864.8,27673.6
+357,Nanterre échangeur,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+358,Nanterre échangeur,Eclairage,ECLNPO001,Nettoyage des plots de jalonnement pour un sens,ECPO01,sum_2,2.0,1.0,1.0,1791.86,3583.72
+359,Nanterre échangeur,Eclairage,ECLNPO002,Nettoyage des plots de jalonnement pour un sens,ECPO02,sum_2,2.0,1.0,1.0,1958.04,3916.08
+360,Nanterre échangeur,Eclairage,ECLNEO010,Nettoyage de l'éclairage pour un sens,ECPO10,sum_2,2.0,1.0,1.0,36296.29,72592.58
+361,Nanterre échangeur,Eclairage,ECLNEO012,Nettoyage de l'éclairage pour un sens,ECPO12,sum_2,2.0,1.0,1.0,29169.36,58338.72
+362,Nanterre échangeur,Eclairage,ECLRSO050,Remplacement systématiques des sources,ECPO50,sum_6,0.4,1.0,1.0,58716.81,23486.72
+363,Nanterre échangeur,Eclairage,ECLRSO051,Remplacement systématiques des sources,ECPO51,sum_6,0.4,1.0,1.0,59906.1,23962.44
+364,Nanterre échangeur,Eclairage,ECLRSO052,Remplacement systématiques des sources,ECPO52,sum_6,0.4,1.0,1.0,51784.98,20713.99
+365,Nanterre échangeur,Eclairage,ECLRSO053,Remplacement systématiques des sources,ECPO53,sum_6,0.4,1.0,1.0,52090.78,20836.31
+366,Nanterre échangeur,Eclairage,ECLRSO054,Remplacement systématiques des sources,ECPO54,sum_6,0.4,1.0,1.0,18484.94,7393.98
+367,Nanterre échangeur,Eclairage,ECLRSO055,Remplacement systématiques des sources,ECPO55,sum_6,0.4,1.0,1.0,16751.96,6700.78
+368,Nanterre échangeur,AEV,AEVEFO010,Essais fonctionnels pour un sens,AEFO10,sum_2,2.0,1.0,1.0,2097.84,4195.68
+369,Nanterre échangeur,AEV,AEVEFO011,Essais fonctionnels pour un sens,AEFO11,sum_2,2.0,1.0,1.0,2532.48,5064.96
+370,Nanterre échangeur,AEV,AEVMPO010,Maintenance préventive pour un sens,AEPO10,sum_2,2.0,1.0,1.0,7669.73,15339.46
+371,Nanterre échangeur,AEV,AEVMPO011,Maintenance préventive pour un sens,AEPO11,sum_2,2.0,1.0,1.0,9625.68,19251.36
+372,Nanterre échangeur,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,22.0,1.0,61.7,1357.4
+373,Nanterre échangeur,Automate,AUTPAB007,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR07,direct_reference,1.0,0.5,1.0,371.65861,185.83
+374,Nanterre échangeur,Automate,AUTPAR008,Préventif armoires MESD (fiche n°4 du CCTP),AUPR08,direct_reference,1.0,0.5,1.0,692.55346,346.28
+375,Nanterre échangeur,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+376,Nanterre échangeur,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+377,Nanterre échangeur,PAU/TSE,RTSPPO002,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO02,direct_reference,4.0,1.0,1.0,1520.65,6082.6
+378,Nanterre échangeur,PAU/TSE,RTSPTO002,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO02,direct_reference,4.0,1.0,1.0,764.73,3058.92
+379,Nanterre échangeur,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+380,Nanterre échangeur,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+381,Nanterre échangeur,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+382,Nanterre échangeur,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+383,Nanterre échangeur,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+384,Nanterre échangeur,Détection,DETPCA007,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP007,direct_reference,4.0,2.0,1.0,4077.15,32617.2
+385,Nanterre échangeur,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+386,Nanterre échangeur,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+387,Nanterre échangeur,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+388,Nanterre échangeur,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+389,Nanterre échangeur,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+390,Nanterre échangeur,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,8.0,1.0,15.75,126.0
+391,Nanterre échangeur,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+392,Nanterre échangeur,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+393,Nanterre échangeur,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+394,Nanterre échangeur,Ventilation,VENPEO201,Préventif des équipements de ventilation,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+395,Nanterre échangeur,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+396,Nanterre échangeur,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,39.0,1.0,128.27,5002.53
+397,Nanterre échangeur,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+398,Nanterre échangeur,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+399,Nanterre échangeur,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+400,Nanterre échangeur,Vidéo,VIDDAI118,Maintenance préventive de la DAI du sens 1,VI MP 118,sum_3,1.0,1.0,1.0,3007.56,3007.56
+401,Nanterre échangeur,Vidéo,VIDDAI119,Maintenance préventive de la DAI du sens 2,VI MP 119,sum_3,1.0,1.0,1.0,1785.45,1785.45
+402,Nanterre échangeur,Vidéo,,Maintenance préventive de la DAI du sens 1,VI MP 202,sum_3,1.0,1.0,1.0,804.51,804.51
+403,Nanterre échangeur,Vidéo,VIDCAM318,Nettoyage des caméras sens intérieur sens 1,VI MP 318,sum_3,2.0,1.0,1.0,3174.6,6349.2
+404,Nanterre échangeur,Vidéo,VIDCAM319,Nettoyage des caméras sens intérieur sens 2,VI MP 319,sum_3,2.0,1.0,1.0,1696.19,3392.38
+405,Nanterre échangeur,Vidéo,VIDCAM346,Nettoyage des caméras sens intérieur sens 1,VI MP 346,sum_3,2.0,1.0,1.0,1696.19,3392.38
+406,Nanterre échangeur,Vidéo,VIDPCI409,Maintenance préventive des caméras en issues de secours,VI MP 409,sum_2,1.0,1.0,1.0,170.8,170.8
+407,Nanterre échangeur,Vidéo,VIDPCI423,Maintenance préventive des caméras en issues de secours,VI MP 423,sum_2,1.0,1.0,1.0,31.01,31.01
+408,Nanterre échangeur,Pompage,POMIND210,Entretien des poteaux incendie,INP305,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+409,Nanterre échangeur,Pompage,POMVSP307,Visite des stations de pompage,POP307,sum_4,3.0,1.0,1.0,858.61,2575.83
+410,Nanterre échangeur,Pompage,POMVSP308,Visite des stations de pompage,POP308,sum_4,3.0,1.0,1.0,858.61,2575.83
+411,Nanterre échangeur,Pompage,POMVSP309,Visite des stations de pompage,POP309,sum_4,3.0,1.0,1.0,858.61,2575.83
+412,Nanterre échangeur,Pompage,POMVSP310,Visite des stations de pompage,POP310,sum_4,3.0,1.0,1.0,858.61,2575.83
+413,Nanterre échangeur,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+414,Nanterre échangeur,Pompage,POMESP307,Entretien des stations de pompage,POE307,sum_4,1.0,2.0,1.0,1501.52,3003.04
+415,Nanterre échangeur,Pompage,POMESP308,Entretien des stations de pompage,POE308,sum_4,1.0,2.0,1.0,1501.52,3003.04
+416,Nanterre échangeur,Pompage,POMESP309,Entretien des stations de pompage,POE309,sum_4,1.0,2.0,1.0,1358.77,2717.54
+417,Nanterre échangeur,Pompage,POMESP310,Entretien des stations de pompage,POE310,sum_4,1.0,2.0,1.0,1358.77,2717.54
+418,Nanterre échangeur,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,1.0,1.0,858.61,858.61
+419,Nanterre échangeur,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+420,Nanterre échangeur,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+421,Nanterre échangeur,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+422,Nanterre échangeur,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+423,Nanterre échangeur,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,2.0,1.0,714.81,1429.62
+424,Fontenay,Bâtiment,BATCJN004,Contrôle des IS de jour,VJO004,sum_2,6.0,2.0,1.0,507.0,6084.0
+425,Fontenay,Bâtiment,BATCJN005,Contrôle des IS de jour,VJO005,sum_2,6.0,2.0,1.0,507.0,6084.0
+426,Fontenay,Bâtiment,BATCNO004,Contrôle des IS + niches de nuit,VNO004,sum_2,6.0,2.0,1.0,1306.0,15672.0
+427,Fontenay,Bâtiment,BATCNO005,Contrôle des IS + niches de nuit,VNO005,sum_2,6.0,2.0,1.0,1306.0,15672.0
+428,Fontenay,Bâtiment,BATMPO004,Préventif IS + niches,MPO004,sum_2,1.0,2.0,1.0,1407.0,2814.0
+429,Fontenay,Bâtiment,BATMPO005,Préventif IS + niches,MPO005,sum_2,1.0,2.0,1.0,1407.0,2814.0
+430,Fontenay,Propreté,PRPLTB002,Lavage d'un tube,POL002,direct_reference,2.0,2.0,1.0,7700.59,30802.36
+431,Fontenay,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+432,Fontenay,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+433,Fontenay,ContReg,CRGVIO122,Vérification des installations électriques,CRO122,direct_reference,1.0,1.0,1.0,432.4,432.4
+434,Fontenay,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+435,Fontenay,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+436,Fontenay,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+437,Fontenay,Eclairage,ECLNPB003,Nettoyage des plots de jalonnement pour un sens,ECPB03,direct_reference,2.0,2.0,1.0,162.9,651.6
+438,Fontenay,Eclairage,ECLNEB014,Nettoyage de l'éclairage pour un sens,ECPB14,direct_reference,2.0,2.0,1.0,3265.72,13062.88
+439,Fontenay,Eclairage,ECLRSB057,Remplacement systématiques des sources,ECPB57,sum_3,0.4,2.0,1.0,3058.17,2446.54
+440,Fontenay,Eclairage,ECLRSB058,Remplacement systématiques des sources,ECPB58,sum_3,0.4,2.0,1.0,3024.2,2419.36
+441,Fontenay,Eclairage,ECLRSB059,Remplacement systématiques des sources,ECPB59,sum_3,0.4,2.0,1.0,5657.62,4526.1
+442,Fontenay,AEV,AEVEFB012,Essais fonctionnels pour un sens,AEFB12,direct_reference,2.0,2.0,1.0,397.62,1590.48
+443,Fontenay,AEV,AEVMPB012,Maintenance préventive pour un sens,AEPB12,direct_reference,2.0,2.0,1.0,794.03,3176.12
+444,Fontenay,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,16.0,1.0,61.7,987.2
+445,Fontenay,Automate,AUTPAB017,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR17,direct_reference,1.0,1.0,1.0,320.77594,320.78
+446,Fontenay,Automate,AUTPAR018,Préventif armoires MESD (fiche n°4 du CCTP),AUPR18,direct_reference,1.0,1.0,1.0,711.42772,711.43
+447,Fontenay,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+448,Fontenay,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+449,Fontenay,PAU/TSE,RTSPPO007,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO07,direct_reference,4.0,1.0,1.0,700.25,2801.0
+450,Fontenay,PAU/TSE,RTSPTO007,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO07,direct_reference,4.0,1.0,1.0,179.94,719.76
+451,Fontenay,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+452,Fontenay,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+453,Fontenay,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+454,Fontenay,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+455,Fontenay,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+456,Fontenay,Détection,DETPCA002,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP002,direct_reference,4.0,2.0,1.0,2929.5,23436.0
+457,Fontenay,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+458,Fontenay,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+459,Fontenay,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,24.0,1.0,33.6,806.4
+460,Fontenay,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+461,Fontenay,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+462,Fontenay,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+463,Fontenay,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+464,Fontenay,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+465,Fontenay,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+466,Fontenay,Ventilation,VENPEB201,Préventif des équipements de ventilation,VPB201,direct_reference,1.0,1.0,1.0,1925.53,1925.53
+467,Fontenay,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+468,Fontenay,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,10.0,1.0,128.27,1282.7
+469,Fontenay,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+470,Fontenay,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+471,Fontenay,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+472,Fontenay,Vidéo,VIDDAI130,Maintenance préventive de la DAI du sens 1,VI MP 130,sum_2,1.0,1.0,1.0,1785.45,1785.45
+473,Fontenay,Vidéo,VIDDAI131,Maintenance préventive de la DAI du sens 2,VI MP 131,sum_2,1.0,1.0,1.0,1785.45,1785.45
+474,Fontenay,Vidéo,VIDCAM330,Nettoyage des caméras sens intérieur sens 1,VI MP 330,sum_2,2.0,1.0,1.0,1696.19,3392.38
+475,Fontenay,Vidéo,VIDCAM331,Nettoyage des caméras sens intérieur sens 2,VI MP 331,sum_2,2.0,1.0,1.0,1696.19,3392.38
+476,Fontenay,Vidéo,VIDPCI415,Maintenance préventive des caméras en issues de secours,VI MP 415,direct_reference,1.0,1.0,1.0,31.01,31.01
+477,Fontenay,Pompage,POMIND211,Entretien des poteaux incendie,INP306,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+478,Fontenay,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+479,Fontenay,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+480,Fontenay,Pompage,,,,direct_value,1.0,0.0,1.0,0.0,0.0
+481,Fontenay,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+482,Fontenay,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+483,Fontenay,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+484,Fontenay,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+485,Fontenay,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+486,Fontenay,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+487,Orly,Bâtiment,BATCJS005,Contrôle des IS de jour,VJS005,direct_reference,6.0,1.0,1.0,507.0,3042.0
+488,Orly,Bâtiment,BATCNS005,Contrôle des IS + niches de nuit,VNS005,direct_reference,6.0,1.0,1.0,1306.0,7836.0
+489,Orly,Bâtiment,BATMPS005,Préventif IS + niches,MPS005,direct_reference,1.0,1.0,1.0,1407.0,1407.0
+490,Orly,Propreté,PRPLTB020,Lavage d'un tube,POL020,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+491,Orly,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+492,Orly,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+493,Orly,ContReg,CRGVIS110,Vérification des installations électriques,CRS110,direct_reference,1.0,1.0,1.0,216.2,216.2
+494,Orly,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+495,Orly,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+496,Orly,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+497,Orly,Eclairage,ECLNPS003,Nettoyage des plots de jalonnement pour un sens,ECPS03,direct_reference,2.0,2.0,1.0,240.68,962.72
+498,Orly,Eclairage,ECLNES014,Nettoyage de l'éclairage pour un sens,ECPS14,direct_reference,2.0,2.0,1.0,3686.35,14745.4
+499,Orly,Eclairage,ECLRSS056,Remplacement systématiques des sources,ECPS56,sum_3,0.4,2.0,1.0,3177.08,2541.66
+500,Orly,Eclairage,ECLRSS057,Remplacement systématiques des sources,ECPS57,sum_3,0.4,2.0,1.0,2106.74,1685.39
+501,Orly,Eclairage,ECLRSS058,Remplacement systématiques des sources,ECPS58,sum_3,0.4,2.0,1.0,16344.19,13075.35
+502,Orly,AEV,AEVEFS012,Essais fonctionnels pour un sens,AEFS12,direct_reference,2.0,2.0,1.0,385.57,1542.28
+503,Orly,AEV,AEVMPS022,Maintenance préventive pour un sens,AEPS22,direct_reference,2.0,2.0,1.0,802.22,3208.88
+504,Orly,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,12.0,1.0,61.7,740.4
+505,Orly,Automate,AUTPAB025,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR25,direct_reference,1.0,1.0,1.0,295.32919999999996,295.33
+506,Orly,Automate,AUTPAR002,Préventif armoires MESD (fiche n°4 du CCTP),AUPR02,direct_reference,1.0,1.0,1.0,360.05947999999995,360.06
+507,Orly,Automate,AUTPAB003,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR03,direct_reference,1.0,0.0,1.0,976.1429999999999,0.0
+508,Orly,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+509,Orly,PAU/TSE,RTSPPS003,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PS03,direct_reference,4.0,1.0,1.0,700.25,2801.0
+510,Orly,PAU/TSE,RTSPTS003,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PS03,direct_reference,4.0,1.0,1.0,89.96,359.84
+511,Orly,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+512,Orly,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+513,Orly,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+514,Orly,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+515,Orly,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+516,Orly,Détection,DETPLV021,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP021,direct_reference,4.0,1.0,1.0,2903.25,11613.0
+517,Orly,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+518,Orly,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+519,Orly,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,0.0,1.0,33.6,0.0
+520,Orly,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+521,Orly,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+522,Orly,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,20.0,1.0,15.75,315.0
+523,Orly,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+524,Orly,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+525,Orly,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,11.0,1.0,15.75,173.25
+526,Orly,Ventilation,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+527,Orly,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,12.0,1.0,78.85,946.2
+528,Orly,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,9.0,1.0,128.27,1154.43
+529,Orly,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+530,Orly,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+531,Orly,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+532,Orly,Vidéo,VIDDAI142,Maintenance préventive de la DAI du sens 1,VI MP 142,sum_2,1.0,1.0,1.0,3341.64,3341.64
+533,Orly,Vidéo,VIDDAI143,Maintenance préventive de la DAI du sens 2,VI MP 143,sum_2,1.0,1.0,1.0,1785.45,1785.45
+534,Orly,Vidéo,VIDCAM342,Nettoyage des caméras sens intérieur sens 1,VI MP 342,sum_2,2.0,1.0,1.0,1696.19,3392.38
+535,Orly,Vidéo,VIDCAM343,Nettoyage des caméras sens intérieur sens 2,VI MP 343,sum_2,2.0,1.0,1.0,1696.19,3392.38
+536,Orly,Vidéo,VIDPCI421,Maintenance préventive des caméras en issues de secours,VI MP 421,direct_reference,1.0,1.0,1.0,31.01,31.01
+537,Orly,Pompage,POMIND403,Entretien des poteaux incendie,INP403,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+538,Orly,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+539,Orly,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+540,Orly,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+541,Orly,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+542,Orly,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+543,Orly,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,9.0,1.0,214.65,1931.85
+544,Orly,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+545,Orly,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+546,Orly,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+547,Taverny,Bâtiment,BATCJN005,Contrôle des IS de jour,VJN005,direct_reference,6.0,2.0,1.0,507.0,6084.0
+548,Taverny,Bâtiment,BATCNN005,Contrôle des IS + niches de nuit,VNN005,direct_reference,6.0,2.0,1.0,1306.0,15672.0
+549,Taverny,Bâtiment,BATMPN005,Préventif IS + niches,MPN005,direct_reference,1.0,2.0,1.0,1407.0,2814.0
+550,Taverny,Propreté,PRPLTB010,Lavage d'un tube,POL010,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+551,Taverny,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+552,Taverny,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+553,Taverny,ContReg,CRGVIN114,Vérification des installations électriques,CRN114,direct_reference,1.0,1.0,1.0,432.4,432.4
+554,Taverny,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+555,Taverny,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+556,Taverny,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+557,Taverny,Eclairage,ECLNPN006,Nettoyage des plots de jalonnement pour un sens,ECPN06,direct_reference,2.0,2.0,1.0,162.9,651.6
+558,Taverny,Eclairage,ECLNEN020,Nettoyage de l'éclairage pour un sens,ECPN20,direct_reference,2.0,2.0,1.0,5444.45,21777.8
+559,Taverny,Eclairage,ECLRSN067,Remplacement systématiques des sources,ECPN67,sum_3,0.4,2.0,1.0,10805.52,8644.42
+560,Taverny,Eclairage,ECLRSN068,Remplacement systématiques des sources,ECPN68,sum_3,0.4,2.0,1.0,5402.78,4322.22
+561,Taverny,Eclairage,ECLRSN069,Remplacement systématiques des sources,ECPN69,sum_3,0.4,2.0,1.0,6863.89,5491.11
+562,Taverny,AEV,AEVEFN014,Essais fonctionnels pour un sens,AEFN14,direct_reference,2.0,2.0,1.0,428.81,1715.24
+563,Taverny,AEV,AEVMPN024,Maintenance préventive pour un sens,AEPN24,direct_reference,2.0,2.0,1.0,950.54,3802.16
+564,Taverny,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,8.0,1.0,61.7,493.6
+565,Taverny,Automate,AUTPAB041,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR43,direct_reference,1.0,1.0,1.0,295.32919999999996,295.33
+566,Taverny,Automate,AUTPAR044,Préventif armoires MESD (fiche n°4 du CCTP),AUPR44,direct_reference,1.0,1.0,1.0,452.30121,452.3
+567,Taverny,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,7.0,1.0,202.4713,1417.3
+568,Taverny,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+569,Taverny,PAU/TSE,RTSPPN002,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PN02,direct_reference,4.0,1.0,1.0,466.84,1867.36
+570,Taverny,PAU/TSE,RTSPTN002,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PN02,direct_reference,4.0,1.0,1.0,179.94,719.76
+571,Taverny,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+572,Taverny,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+573,Taverny,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+574,Taverny,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+575,Taverny,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+576,Taverny,Détection,DETPCA011,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP011,direct_reference,4.0,2.0,1.0,2859.15,22873.2
+577,Taverny,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+578,Taverny,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+579,Taverny,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,16.0,1.0,33.6,537.6
+580,Taverny,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+581,Taverny,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+582,Taverny,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+583,Taverny,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+584,Taverny,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,8.0,1.0,26.25,210.0
+585,Taverny,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+586,Taverny,Ventilation,VENPEN202,Préventif des équipements de ventilation,VPN202,direct_reference,1.0,1.0,1.0,5181.02,5181.02
+587,Taverny,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+588,Taverny,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+589,Taverny,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+590,Taverny,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+591,Taverny,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+592,Taverny,Vidéo,VIDDAI114,Maintenance préventive de la DAI du sens 1,VI MP 114,sum_2,1.0,1.0,1.0,1785.45,1785.45
+593,Taverny,Vidéo,VIDDAI115,Maintenance préventive de la DAI du sens 2,VI MP 115,sum_2,1.0,1.0,1.0,1785.45,1785.45
+594,Taverny,Vidéo,VIDCAM314,Nettoyage des caméras sens intérieur sens 1,VI MP 314,sum_2,2.0,1.0,1.0,848.15,1696.3
+595,Taverny,Vidéo,VIDCAM315,Nettoyage des caméras sens intérieur sens 2,VI MP 315,sum_2,2.0,1.0,1.0,848.15,1696.3
+596,Taverny,Vidéo,VIDPCI407,Maintenance préventive des caméras en issues de secours,VI MP 407,direct_reference,1.0,1.0,1.0,62.12,62.12
+597,Taverny,Pompage,POMIND104,Entretien des poteaux incendie,INP104,direct_reference,1.0,1.0,1.0,1164.0,1164.0
+598,Taverny,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+599,Taverny,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+600,Taverny,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+601,Taverny,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+602,Taverny,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+603,Taverny,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+604,Taverny,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+605,Taverny,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+606,Taverny,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+607,Ambroise Paré,Bâtiment,BATCJN001,Contrôle des IS de jour,VJO001,sum_2,6.0,1.0,1.0,2029.0,12174.0
+608,Ambroise Paré,Bâtiment,BATCJN002,Contrôle des IS de jour,VJO002,sum_2,6.0,1.0,1.0,1522.0,9132.0
+609,Ambroise Paré,Bâtiment,BATCNO001,Contrôle des IS + niches de nuit,VNO001,sum_2,6.0,1.0,1.0,3264.0,19584.0
+610,Ambroise Paré,Bâtiment,BATCNO002,Contrôle des IS + niches de nuit,VNO002,sum_2,6.0,1.0,1.0,2611.0,15666.0
+611,Ambroise Paré,Bâtiment,BATMPO001,Préventif IS + niches,MPO001,sum_2,1.0,1.0,1.0,3519.0,3519.0
+612,Ambroise Paré,Bâtiment,BATMPO002,Préventif IS + niches,MPO002,sum_2,1.0,1.0,1.0,2815.0,2815.0
+613,Ambroise Paré,Propreté,PRPLTB004,Lavage d'un tube,POL004,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+614,Ambroise Paré,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+615,Ambroise Paré,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+616,Ambroise Paré,ContReg,CRGVIO116,Vérification des installations électriques,CRO116,sum_3,1.0,1.0,1.0,432.4,432.4
+617,Ambroise Paré,ContReg,CRGVIO117,Vérification des installations électriques,CRO117,sum_3,1.0,1.0,1.0,432.4,432.4
+618,Ambroise Paré,ContReg,CRGVIO118,Vérification des installations électriques,CRO118,sum_3,1.0,1.0,1.0,324.3,324.3
+619,Ambroise Paré,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+620,Ambroise Paré,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,14.0,1.0,864.8,12107.2
+621,Ambroise Paré,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+622,Ambroise Paré,Eclairage,ECLNPB001,Nettoyage des plots de jalonnement pour un sens,ECPB01,direct_reference,2.0,2.0,1.0,570.14,2280.56
+623,Ambroise Paré,Eclairage,ECLNEB010,Nettoyage de l'éclairage pour un sens,ECPB10,direct_reference,2.0,2.0,1.0,3360.25,13441.0
+624,Ambroise Paré,Eclairage,ECLRSB051,Remplacement systématiques des sources,ECPB51,sum_3,0.4,2.0,1.0,6201.28,4961.02
+625,Ambroise Paré,Eclairage,ECLRSB052,Remplacement systématiques des sources,ECPB52,sum_3,0.4,2.0,1.0,5929.45,4743.56
+626,Ambroise Paré,Eclairage,ECLRSB053,Remplacement systématiques des sources,ECPB53,sum_3,0.4,2.0,1.0,6218.27,4974.62
+627,Ambroise Paré,AEV,AEVEFB010,Essais fonctionnels pour un sens,AEFB10,direct_reference,2.0,2.0,1.0,769.85,3079.4
+628,Ambroise Paré,AEV,AEVMPB010,Maintenance préventive pour un sens,AEPB10,direct_reference,2.0,2.0,1.0,2252.57,9010.28
+629,Ambroise Paré,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,32.0,1.0,61.7,1974.4
+630,Ambroise Paré,Automate,AUTPAB011,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR11,direct_reference,1.0,1.0,1.0,320.77594,320.78
+631,Ambroise Paré,Automate,AUTPAR012,Préventif armoires MESD (fiche n°4 du CCTP),AUPR12,direct_reference,1.0,1.0,1.0,941.90773,941.91
+632,Ambroise Paré,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+633,Ambroise Paré,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+634,Ambroise Paré,PAU/TSE,RTSPPO009,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO09,direct_reference,4.0,1.0,1.0,816.97,3267.88
+635,Ambroise Paré,PAU/TSE,RTSPTO009,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO09,direct_reference,4.0,1.0,1.0,314.89,1259.56
+636,Ambroise Paré,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+637,Ambroise Paré,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+638,Ambroise Paré,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+639,Ambroise Paré,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+640,Ambroise Paré,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+641,Ambroise Paré,Détection,DETPCA004,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP004,direct_reference,4.0,2.0,1.0,3167.85,25342.8
+642,Ambroise Paré,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+643,Ambroise Paré,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+644,Ambroise Paré,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,29.0,1.0,33.6,974.4
+645,Ambroise Paré,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,10.0,1.0,21.0,210.0
+646,Ambroise Paré,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+647,Ambroise Paré,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+648,Ambroise Paré,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+649,Ambroise Paré,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+650,Ambroise Paré,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,21.0,1.0,15.75,330.75
+651,Ambroise Paré,Ventilation,VENPEB203,Préventif des équipements de ventilation,VPB203,direct_reference,1.0,1.0,1.0,4168.29,4168.29
+652,Ambroise Paré,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,19.0,1.0,78.85,1498.15
+653,Ambroise Paré,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,21.0,1.0,128.27,2693.67
+654,Ambroise Paré,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+655,Ambroise Paré,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+656,Ambroise Paré,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+657,Ambroise Paré,Vidéo,VIDDAI128,Maintenance préventive de la DAI du sens 1,VI MP 128,sum_2,1.0,1.0,1.0,2506.23,2506.23
+658,Ambroise Paré,Vidéo,VIDDAI129,Maintenance préventive de la DAI du sens 2,VI MP 129,sum_2,1.0,1.0,1.0,2506.23,2506.23
+659,Ambroise Paré,Vidéo,VIDCAM328,Nettoyage des caméras sens intérieur sens 1,VI MP 328,sum_2,2.0,1.0,1.0,1696.19,3392.38
+660,Ambroise Paré,Vidéo,VIDCAM329,Nettoyage des caméras sens intérieur sens 2,VI MP 329,sum_2,2.0,1.0,1.0,1696.19,3392.38
+661,Ambroise Paré,Vidéo,VIDPCI414,Maintenance préventive des caméras en issues de secours,VI MP 414,direct_reference,1.0,1.0,1.0,124.24,124.24
+662,Ambroise Paré,Pompage,POMIND216,Entretien des poteaux incendie,INP311,direct_reference,1.0,1.0,1.0,3088.0,3088.0
+663,Ambroise Paré,Pompage,POMVSP322,Visite des stations de pompage,POP322,direct_reference,3.0,1.0,1.0,1001.36,3004.08
+664,Ambroise Paré,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+665,Ambroise Paré,Pompage,POMESP322,Entretien des stations de pompage,POE322,direct_reference,1.0,1.0,1.0,2360.13,2360.13
+666,Ambroise Paré,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+667,Ambroise Paré,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+668,Ambroise Paré,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+669,Ambroise Paré,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+670,Ambroise Paré,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+671,Ambroise Paré,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+672,Boissy,Bâtiment,BATCJE001,Contrôle des IS de jour,VJE001,sum_2,6.0,1.0,1.0,507.0,3042.0
+673,Boissy,Bâtiment,BATCJE002,Contrôle des IS de jour,VJE002,sum_2,6.0,1.0,1.0,507.0,3042.0
+674,Boissy,Bâtiment,BATCNE001,Contrôle des IS + niches de nuit,VNE001,sum_2,6.0,1.0,1.0,1306.0,7836.0
+675,Boissy,Bâtiment,BATCNE002,Contrôle des IS + niches de nuit,VNE002,sum_2,6.0,1.0,1.0,1306.0,7836.0
+676,Boissy,Bâtiment,BATMPE001,,MPE001,sum_2,1.0,1.0,1.0,1407.0,1407.0
+677,Boissy,Bâtiment,BATMPE002,Préventif IS + niches,MPE002,sum_2,1.0,1.0,1.0,1407.0,1407.0
+678,Boissy,Propreté,PRPLTB030,Lavage d'un tube,POL030,direct_reference,2.0,2.0,1.0,8706.5,34826.0
+679,Boissy,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+680,Boissy,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+681,Boissy,ContReg,CRGVIE110,Vérification des installations électriques,CRE110,direct_reference,1.0,1.0,1.0,2594.4,2594.4
+682,Boissy,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+683,Boissy,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+684,Boissy,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+685,Boissy,Eclairage,ECLNPE005,Nettoyage des plots de jalonnement pour un sens,ECPE05,direct_reference,2.0,2.0,1.0,325.8,1303.2
+686,Boissy,Eclairage,ECLNEE018,Nettoyage de l'éclairage pour un sens,ECPE18,direct_reference,2.0,2.0,1.0,3286.99,13147.96
+687,Boissy,Eclairage,ECLRSE066,Remplacement systématiques des sources,ECPE66,sum_3,0.4,2.0,1.0,1053.36,842.69
+688,Boissy,Eclairage,ECLRSE068,Remplacement systématiques des sources,ECPE68,sum_3,0.4,2.0,1.0,2701.38,2161.1
+689,Boissy,Eclairage,ECLRSE069,Remplacement systématiques des sources,ECPE69,sum_3,0.4,2.0,1.0,4247.45,3397.96
+690,Boissy,AEV,AEVEFE016,Essais fonctionnels pour un sens,AEFE16,direct_reference,2.0,2.0,1.0,577.71,2310.84
+691,Boissy,AEV,AEVMPE026,Maintenance préventive pour un sens,AEPE26,direct_reference,2.0,2.0,1.0,1090.66,4362.64
+692,Boissy,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,32.0,1.0,61.7,1974.4
+693,Boissy,Automate,AUTPAB027,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR27,direct_reference,1.0,1.0,1.0,320.77594,320.78
+694,Boissy,Automate,AUTPAR028,Préventif armoires MESD (fiche n°4 du CCTP),AUPR28,direct_reference,1.0,1.0,1.0,1152.14061,1152.14
+695,Boissy,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,3.0,1.0,202.4713,607.41
+696,Boissy,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,9.0,1.0,91.39855,822.59
+697,Boissy,PAU/TSE,RTSPPE001,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PE01,direct_reference,4.0,1.0,1.0,700.25,2801.0
+698,Boissy,PAU/TSE,RTSPTE001,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PE01,direct_reference,4.0,1.0,1.0,359.87,1439.48
+699,Boissy,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+700,Boissy,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+701,Boissy,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,1.0,1.0,371.88,371.88
+702,Boissy,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,1.0,1.0,185.94,185.94
+703,Boissy,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+704,Boissy,Détection,DETPCA017,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP017,direct_reference,4.0,2.0,1.0,3034.5,24276.0
+705,Boissy,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+706,Boissy,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+707,Boissy,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,0.0,1.0,33.6,0.0
+708,Boissy,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+709,Boissy,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+710,Boissy,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,26.0,1.0,15.75,409.5
+711,Boissy,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+712,Boissy,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+713,Boissy,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,0.0,1.0,15.75,0.0
+714,Boissy,Ventilation,VENPEE204,Préventif des équipements de ventilation,VPE204,direct_reference,1.0,1.0,1.0,8421.59,8421.59
+715,Boissy,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,8.0,1.0,78.85,630.8
+716,Boissy,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+717,Boissy,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+718,Boissy,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+719,Boissy,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+720,Boissy,Vidéo,,Maintenance préventive de la DAI du sens 1,VI MP 200,sum_2,1.0,1.0,1.0,893.87,893.87
+721,Boissy,Vidéo,,Maintenance préventive de la DAI du sens 2,VI MP 201,sum_2,1.0,1.0,1.0,1673.01,1673.01
+722,Boissy,Vidéo,VIDCAM344,Nettoyage des caméras sens intérieur sens 1,VI MP 344,sum_2,2.0,1.0,1.0,1696.19,3392.38
+723,Boissy,Vidéo,VIDCAM345,Nettoyage des caméras sens intérieur sens 2,VI MP 345,sum_2,2.0,1.0,1.0,3174.6,6349.2
+724,Boissy,Vidéo,VIDPCI422,Maintenance préventive des caméras en issues de secours,VI MP 422,direct_reference,1.0,1.0,1.0,124.24,124.24
+725,Boissy,Pompage,POMIND205,Entretien des poteaux incendie,INP205,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+726,Boissy,Pompage,POMVSP208,Visite des stations de pompage,POP208,direct_reference,3.0,1.0,1.0,961.77,2885.31
+727,Boissy,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+728,Boissy,Pompage,POMESP208,Entretien des stations de pompage,POE208,direct_reference,1.0,3.0,1.0,1565.08,4695.24
+729,Boissy,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+730,Boissy,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+731,Boissy,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+732,Boissy,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+733,Boissy,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+734,Boissy,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+735,Champigny,Bâtiment,BATCJE003,Contrôle des IS de jour,VJE003,sum_2,6.0,1.0,1.0,1014.0,6084.0
+736,Champigny,Bâtiment,BATCJE004,Contrôle des IS de jour,VJE004,sum_2,6.0,1.0,1.0,1014.0,6084.0
+737,Champigny,Bâtiment,BATCNE003,Contrôle des IS + niches de nuit,VNE003,sum_2,6.0,1.0,1.0,1958.0,11748.0
+738,Champigny,Bâtiment,BATCNE004,Contrôle des IS + niches de nuit,VNE004,sum_2,6.0,1.0,1.0,1958.0,11748.0
+739,Champigny,Bâtiment,BATMPE003,Préventif IS + niches,MPE003,sum_2,1.0,1.0,1.0,2111.0,2111.0
+740,Champigny,Bâtiment,BATMPE004,Préventif IS + niches,MPE004,sum_2,1.0,1.0,1.0,2111.0,2111.0
+741,Champigny,Propreté,PRPLTB015,Lavage d'un tube,POL015,direct_reference,2.0,2.0,1.0,12869.64,51478.56
+742,Champigny,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+743,Champigny,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+744,Champigny,ContReg,CRGVIE103,Vérification des installations électriques,CRE103,sum_2,1.0,1.0,1.0,1081.0,1081.0
+745,Champigny,ContReg,CRGVIE104,Vérification des installations électriques,CRE104,sum_2,1.0,1.0,1.0,1081.0,1081.0
+746,Champigny,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+747,Champigny,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+748,Champigny,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+749,Champigny,Eclairage,ECLNPE003,Nettoyage des plots de jalonnement pour un sens,ECPE03,direct_reference,2.0,2.0,1.0,529.42,2117.68
+750,Champigny,Eclairage,ECLNEE014,Nettoyage de l'éclairage pour un sens,ECPE14,direct_reference,2.0,2.0,1.0,10577.37,42309.48
+751,Champigny,Eclairage,ECLRSE058,Remplacement systématiques des sources,ECPE58,sum_3,0.4,2.0,1.0,20047.99,16038.39
+752,Champigny,Eclairage,ECLRSE060,Remplacement systématiques des sources,ECPE60,sum_3,0.4,2.0,1.0,14679.21,11743.37
+753,Champigny,Eclairage,ECLRSE061,Remplacement systématiques des sources,ECPE61,sum_3,0.4,2.0,1.0,13353.99,10683.19
+754,Champigny,AEV,AEVEFE012,Essais fonctionnels pour un sens,AEFE12,direct_reference,2.0,2.0,1.0,801.05,3204.2
+755,Champigny,AEV,AEVMPE022,Maintenance préventive pour un sens,AEPE22,direct_reference,2.0,2.0,1.0,2376.93,9507.72
+756,Champigny,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,18.0,1.0,61.7,1110.6
+757,Champigny,Automate,AUTPAB029,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR29,direct_reference,1.0,1.0,1.0,371.65861,371.66
+758,Champigny,Automate,AUTPAR030,Préventif armoires MESD (fiche n°4 du CCTP),AUPR30,direct_reference,1.0,1.0,1.0,1152.14061,1152.14
+759,Champigny,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,2.0,1.0,202.4713,404.94
+760,Champigny,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+761,Champigny,PAU/TSE,RTSPPE002,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PE02,direct_reference,4.0,1.0,1.0,1520.65,6082.6
+762,Champigny,PAU/TSE,RTSPTE002,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PE02,direct_reference,4.0,1.0,1.0,494.83,1979.32
+763,Champigny,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+764,Champigny,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+765,Champigny,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,2.0,1.0,371.88,743.76
+766,Champigny,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+767,Champigny,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+768,Champigny,Détection,DETPCA015,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP015,direct_reference,4.0,2.0,1.0,3202.5,25620.0
+769,Champigny,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+770,Champigny,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+771,Champigny,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,43.0,1.0,33.6,1444.8
+772,Champigny,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+773,Champigny,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+774,Champigny,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,10.0,1.0,15.75,157.5
+775,Champigny,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+776,Champigny,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,7.0,1.0,26.25,183.75
+777,Champigny,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,9.0,1.0,15.75,141.75
+778,Champigny,Ventilation,VENPEE201,Préventif des équipements de ventilation,VPE201,direct_reference,1.0,1.0,1.0,5585.14,5585.14
+779,Champigny,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,4.0,1.0,78.85,315.4
+780,Champigny,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+781,Champigny,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+782,Champigny,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+783,Champigny,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+784,Champigny,Vidéo,VIDDAI100,Maintenance préventive de la DAI du sens 1,VI MP 100,sum_2,1.0,1.0,1.0,3341.64,3341.64
+785,Champigny,Vidéo,VIDDAI101,Maintenance préventive de la DAI du sens 2,VI MP 101,sum_2,1.0,1.0,1.0,3341.64,3341.64
+786,Champigny,Vidéo,VIDCAM300,Nettoyage des caméras sens intérieur sens 1,VI MP 300,sum_2,2.0,1.0,1.0,1696.19,3392.38
+787,Champigny,Vidéo,VIDCAM301,Nettoyage des caméras sens intérieur sens 2,VI MP 301,sum_2,2.0,1.0,1.0,1696.19,3392.38
+788,Champigny,Vidéo,VIDPCI400,Maintenance préventive des caméras en issues de secours,VI MP 400,direct_reference,1.0,1.0,1.0,201.81,201.81
+789,Champigny,Pompage,POMIND203,Entretien des poteaux incendie,INP203,direct_reference,1.0,1.0,1.0,2590.0,2590.0
+790,Champigny,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+791,Champigny,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+792,Champigny,Pompage,,,,direct_value,1.0,0.0,1.0,0.0,0.0
+793,Champigny,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+794,Champigny,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+795,Champigny,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,4.0,1.0,214.65,858.6
+796,Champigny,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+797,Champigny,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+798,Champigny,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+799,Nogent,Bâtiment,BATCJE007,Contrôle des IS de jour,VJE007,sum_2,6.0,1.0,1.0,1014.0,6084.0
+800,Nogent,Bâtiment,BATCJE008,Contrôle des IS de jour,VJE008,sum_2,6.0,1.0,1.0,1014.0,6084.0
+801,Nogent,Bâtiment,BATCNE007,Contrôle des IS + niches de nuit,VNE007,sum_2,6.0,1.0,1.0,1958.0,11748.0
+802,Nogent,Bâtiment,BATCNE008,Contrôle des IS + niches de nuit,VNE008,sum_2,6.0,1.0,1.0,1958.0,11748.0
+803,Nogent,Bâtiment,BATMPE007,Préventif IS + niches,MPE007,sum_2,1.0,1.0,1.0,2111.0,2111.0
+804,Nogent,Bâtiment,BATMPE008,Préventif IS + niches,MPE008,sum_2,1.0,1.0,1.0,2111.0,2111.0
+805,Nogent,Propreté,PRPLTB014,Lavage d'un tube,POL014,direct_reference,2.0,2.0,1.0,25661.9,102647.6
+806,Nogent,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+807,Nogent,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+808,Nogent,ContReg,CRGVIE101,Vérification des installations électriques,CRE101,sum_2,1.0,1.0,1.0,1297.2,1297.2
+809,Nogent,ContReg,CRGVIE102,Vérification des installations électriques,CRE102,sum_2,1.0,1.0,1.0,1297.2,1297.2
+810,Nogent,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+811,Nogent,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,15.0,1.0,864.8,12972.0
+812,Nogent,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+813,Nogent,Eclairage,ECLNPE004,Nettoyage des plots de jalonnement pour un sens,ECPE04,direct_reference,2.0,2.0,1.0,733.03,2932.12
+814,Nogent,Eclairage,ECLNEE016,Nettoyage de l'éclairage pour un sens,ECPE16,direct_reference,2.0,2.0,1.0,22306.58,89226.32
+815,Nogent,Eclairage,ECLRSE062,Remplacement systématiques des sources,ECPE62,sum_3,0.4,2.0,1.0,53959.66,43167.73
+816,Nogent,Eclairage,ECLRSE064,Remplacement systématiques des sources,ECPE64,sum_3,0.4,2.0,1.0,19164.53,15331.62
+817,Nogent,Eclairage,ECLRSE065,Remplacement systématiques des sources,ECPE65,sum_3,0.4,2.0,1.0,14747.17,11797.74
+818,Nogent,AEV,AEVEFE014,Essais fonctionnels pour un sens,AEFE14,direct_reference,2.0,2.0,1.0,1008.79,4035.16
+819,Nogent,AEV,AEVMPE024,Maintenance préventive pour un sens,AEPE24,direct_reference,2.0,2.0,1.0,2969.56,11878.24
+820,Nogent,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,24.0,1.0,61.7,1480.8
+821,Nogent,Automate,AUTPAB033,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR33,direct_reference,1.0,1.0,1.0,1530.71762,1530.72
+822,Nogent,Automate,AUTPAR034,Préventif armoires MESD (fiche n°4 du CCTP),AUPR34,direct_reference,1.0,1.0,1.0,1332.93786,1332.94
+823,Nogent,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,16.0,1.0,202.4713,3239.54
+824,Nogent,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,16.0,1.0,91.39855,1462.38
+825,Nogent,PAU/TSE,RTSPPE003,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PE03,direct_reference,4.0,1.0,1.0,2027.54,8110.16
+826,Nogent,PAU/TSE,RTSPTE003,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PE03,direct_reference,4.0,1.0,1.0,854.7,3418.8
+827,Nogent,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+828,Nogent,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+829,Nogent,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,2.0,1.0,371.88,743.76
+830,Nogent,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+831,Nogent,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+832,Nogent,Détection,DETPCA014,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP014,direct_reference,4.0,2.0,1.0,5422.2,43377.6
+833,Nogent,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+834,Nogent,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+835,Nogent,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,57.0,1.0,33.6,1915.2
+836,Nogent,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+837,Nogent,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+838,Nogent,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,7.0,1.0,15.75,110.25
+839,Nogent,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,9.0,1.0,23.1,207.9
+840,Nogent,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+841,Nogent,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,36.0,1.0,15.75,567.0
+842,Nogent,Ventilation,VENPEE200,Préventif des équipements de ventilation,VPE200,direct_reference,1.0,1.0,1.0,10329.54,10329.54
+843,Nogent,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,12.0,1.0,78.85,946.2
+844,Nogent,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,31.0,1.0,128.27,3976.37
+845,Nogent,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+846,Nogent,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+847,Nogent,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+848,Nogent,Vidéo,VIDDAI104,Maintenance préventive de la DAI du sens 1,VI MP 104,sum_2,1.0,1.0,1.0,4234.36,4234.36
+849,Nogent,Vidéo,VIDDAI105,Maintenance préventive de la DAI du sens 2,VI MP 105,sum_2,1.0,1.0,1.0,4234.36,4234.36
+850,Nogent,Vidéo,VIDCAM304,Nettoyage des caméras sens intérieur sens 1,VI MP 304,sum_2,2.0,1.0,1.0,3174.6,6349.2
+851,Nogent,Vidéo,VIDCAM305,Nettoyage des caméras sens intérieur sens 2,VI MP 305,sum_2,2.0,1.0,1.0,3174.6,6349.2
+852,Nogent,Vidéo,VIDPCI402,Maintenance préventive des caméras en issues de secours,VI MP 402,direct_reference,1.0,1.0,1.0,341.49,341.49
+853,Nogent,Pompage,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+854,Nogent,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+855,Nogent,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+856,Nogent,Pompage,,,,direct_value,1.0,0.0,1.0,0.0,0.0
+857,Nogent,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+858,Nogent,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+859,Nogent,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+860,Nogent,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+861,Nogent,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+862,Nogent,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+863,Fresnes,Bâtiment,BATCJS003,Contrôle des IS de jour,VJS003,div_2,6.0,2.0,0.5,507.0,3042.0
+864,Fresnes,Bâtiment,BATCJS004,Contrôle des IS de jour,VJS004,div_2,6.0,2.0,0.5,507.0,3042.0
+865,Fresnes,Bâtiment,BATCNS003,Contrôle des IS + niches de nuit,VNS003,div_2,6.0,2.0,0.5,1306.0,7836.0
+866,Fresnes,Bâtiment,BATCNS004,Contrôle des IS + niches de nuit,VNS004,div_2,6.0,2.0,0.5,1306.0,7836.0
+867,Fresnes,Bâtiment,BATMPS003,Préventif IS + niches,MPS003,div_2,1.0,2.0,0.5,1407.0,1407.0
+868,Fresnes,Bâtiment,BATMPS004,Préventif IS + niches,MPS004,div_2,1.0,2.0,0.5,1407.0,1407.0
+869,Fresnes,Propreté,PRPLTB017,Lavage d'un tube,POL017,div_2,2.0,2.0,0.5,13633.74,27267.48
+870,Fresnes,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+871,Fresnes,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+872,Fresnes,ContReg,CRGVIS105,Vérification des installations électriques,CRS105,sum_1,1.0,1.0,1.0,432.4,432.4
+873,Fresnes,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+874,Fresnes,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+875,Fresnes,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+876,Fresnes,Eclairage,ECLNPS004,Nettoyage des plots de jalonnement pour un sens,ECPS04,direct_reference,2.0,2.0,1.0,240.68,962.72
+877,Fresnes,Eclairage,ECLNES016,Nettoyage de l'éclairage pour un sens,ECPS16,direct_reference,2.0,2.0,1.0,5279.03,21116.12
+878,Fresnes,Eclairage,ECLRSS059,Remplacement systématiques des sources,ECPS59,sum_3,0.4,2.0,1.0,16514.09,13211.27
+879,Fresnes,Eclairage,ECLRSS060,Remplacement systématiques des sources,ECPS60,sum_3,0.4,2.0,1.0,3126.13,2500.9
+880,Fresnes,Eclairage,ECLRSS061,Remplacement systématiques des sources,ECPS61,sum_3,0.4,2.0,1.0,11790.94,9432.75
+881,Fresnes,AEV,AEVEFS013,Essais fonctionnels pour un sens,AEFS13,direct_reference,2.0,2.0,1.0,385.57,1542.28
+882,Fresnes,AEV,AEVMPS023,Maintenance préventive pour un sens,AEPS23,direct_reference,2.0,2.0,1.0,732.16,2928.64
+883,Fresnes,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,9.0,1.0,61.7,555.3
+884,Fresnes,Automate,AUTPAB021,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR21,div_2,1.0,1.0,0.5,320.77594,160.39
+885,Fresnes,Automate,AUTPAR022,Préventif armoires MESD (fiche n°4 du CCTP),AUPR22,div_2,1.0,1.0,0.5,1651.6382800000001,825.82
+886,Fresnes,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,2.0,1.0,202.4713,404.94
+887,Fresnes,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,7.0,1.0,91.39855,639.79
+888,Fresnes,PAU/TSE,RTSPPS001,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PS01,div_2,4.0,1.0,0.5,1689.62,3379.24
+889,Fresnes,PAU/TSE,RTSPTS001,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PS01,div_2,4.0,1.0,0.5,449.84,899.68
+890,Fresnes,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+891,Fresnes,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+892,Fresnes,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+893,Fresnes,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+894,Fresnes,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+895,Fresnes,Détection,DETPCA018,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP018,div_2,4.0,2.0,0.5,5597.55,22390.2
+896,Fresnes,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,4.0,1.0,24.15,96.6
+897,Fresnes,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+898,Fresnes,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,26.0,1.0,33.6,873.6
+899,Fresnes,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+900,Fresnes,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+901,Fresnes,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+902,Fresnes,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+903,Fresnes,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,5.0,1.0,26.25,131.25
+904,Fresnes,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,6.0,1.0,15.75,94.5
+905,Fresnes,Ventilation,VENPES201,Préventif des équipements de ventilation,VPS201,direct_reference,1.0,1.0,1.0,7613.49,7613.49
+906,Fresnes,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,2.0,1.0,78.85,157.7
+907,Fresnes,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,29.0,1.0,128.27,3719.83
+908,Fresnes,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+909,Fresnes,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+910,Fresnes,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+911,Fresnes,Vidéo,VIDDAI138,Maintenance préventive de la DAI du sens 1,VI MP 138,sum_2,1.0,1.0,1.0,1606.92,1606.92
+912,Fresnes,Vidéo,VIDDAI139,Maintenance préventive de la DAI du sens 2,VI MP 139,sum_2,1.0,1.0,1.0,3007.56,3007.56
+913,Fresnes,Vidéo,VIDCAM338,Nettoyage des caméras sens intérieur sens 1,VI MP 338,sum_2,2.0,1.0,1.0,1272.11,2544.22
+914,Fresnes,Vidéo,VIDCAM339,Nettoyage des caméras sens intérieur sens 2,VI MP 339,sum_2,2.0,1.0,1.0,1696.19,3392.38
+915,Fresnes,Vidéo,VIDPCI419,Maintenance préventive des caméras en issues de secours,VI MP 419,direct_reference,1.0,1.0,1.0,31.01,31.01
+916,Fresnes,Pompage,POMIND402,Entretien des poteaux incendie,INP402,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+917,Fresnes,Pompage,POMVSP402,Visite des stations de pompage,POP402,direct_reference,3.0,1.0,1.0,858.61,2575.83
+918,Fresnes,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+919,Fresnes,Pompage,POMESP402,Entretien des stations de pompage,POE402,direct_reference,1.0,1.0,1.0,2360.13,2360.13
+920,Fresnes,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+921,Fresnes,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+922,Fresnes,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+923,Fresnes,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+924,Fresnes,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+925,Fresnes,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+926,Italie,Bâtiment,BATCJS001,Contrôle des IS de jour,VJS001,div_2,6.0,1.0,0.5,507.0,1521.0
+927,Italie,Bâtiment,BATCJS002,Contrôle des IS de jour,VJS002,div_2,6.0,1.0,0.5,507.0,1521.0
+928,Italie,Bâtiment,BATCNS001,Contrôle des IS + niches de nuit,VNS001,div_2,6.0,1.0,0.5,1306.0,3918.0
+929,Italie,Bâtiment,BATCNS002,Contrôle des IS + niches de nuit,VNS002,div_2,6.0,1.0,0.5,1306.0,3918.0
+930,Italie,Bâtiment,BATMPS001,Préventif IS + niches,MPS001,div_2,1.0,1.0,0.5,1407.0,703.5
+931,Italie,Bâtiment,BATMPS002,Préventif IS + niches,MPS002,div_2,1.0,1.0,0.5,1407.0,703.5
+932,Italie,Propreté,PRPLTB019,Lavage d'un tube,POL019,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+933,Italie,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+934,Italie,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+935,Italie,ContReg,CRGVIS109,Vérification des installations électriques,CRS109,direct_reference,1.0,1.0,1.0,864.8,864.8
+936,Italie,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+937,Italie,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+938,Italie,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+939,Italie,Eclairage,ECLNPS005,Nettoyage des plots de jalonnement pour un sens,ECPS05,direct_reference,2.0,2.0,1.0,244.34,977.36
+940,Italie,Eclairage,ECLNES018,Nettoyage de l'éclairage pour un sens,ECPS18,direct_reference,2.0,2.0,1.0,1228.78,4915.12
+941,Italie,Eclairage,ECLRSS062,Remplacement systématiques des sources,ECPS62,sum_3,0.4,2.0,1.0,1919.86,1535.89
+942,Italie,Eclairage,ECLRSS063,Remplacement systématiques des sources,ECPS63,sum_3,0.4,2.0,1.0,1648.01,1318.41
+943,Italie,Eclairage,ECLRSS064,Remplacement systématiques des sources,ECPS64,sum_3,0.4,2.0,1.0,2361.59,1889.27
+944,Italie,AEV,AEVEFS014,Essais fonctionnels pour un sens,AEFS14,direct_reference,2.0,2.0,1.0,383.8,1535.2
+945,Italie,AEV,AEVMPS024,Maintenance préventive pour un sens,AEPS24,direct_reference,2.0,2.0,1.0,771.3,3085.2
+946,Italie,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+947,Italie,Automate,AUTPAB023,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR23,div_2,1.0,1.0,0.5,346.22267999999997,173.11
+948,Italie,Automate,AUTPAR024,Préventif armoires MESD (fiche n°4 du CCTP),AUPR24,div_2,1.0,1.0,0.5,1871.29748,935.65
+949,Italie,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+950,Italie,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+951,Italie,PAU/TSE,RTSPPS002,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PS02,div_2,4.0,1.0,0.5,2208.71,4417.42
+952,Italie,PAU/TSE,RTSPTS002,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PS02,div_2,4.0,1.0,0.5,584.79,1169.58
+953,Italie,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+954,Italie,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+955,Italie,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+956,Italie,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+957,Italie,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+958,Italie,Détection,DETPCA020,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP020,direct_reference,4.0,1.0,1.0,2880.15,11520.6
+959,Italie,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+960,Italie,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+961,Italie,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,17.0,1.0,33.6,571.2
+962,Italie,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,2.0,1.0,21.0,42.0
+963,Italie,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+964,Italie,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+965,Italie,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+966,Italie,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+967,Italie,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,10.0,1.0,15.75,157.5
+968,Italie,Ventilation,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+969,Italie,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,1.0,1.0,78.85,78.85
+970,Italie,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+971,Italie,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+972,Italie,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+973,Italie,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+974,Italie,Vidéo,VIDDAI140,Maintenance préventive de la DAI du sens 1,VI MP 140,div_2,1.0,1.0,0.5,3341.64,1670.82
+975,Italie,Vidéo,VIDDAI141,Maintenance préventive de la DAI du sens 2,VI MP 141,div_2,1.0,1.0,0.5,3341.64,1670.82
+976,Italie,Vidéo,VIDCAM340,Nettoyage des caméras sens intérieur sens 1,VI MP 340,div_2,2.0,1.0,0.5,1696.19,1696.19
+977,Italie,Vidéo,VIDCAM341,Nettoyage des caméras sens intérieur sens 2,VI MP 341,div_2,2.0,1.0,0.5,1696.19,1696.19
+978,Italie,Vidéo,VIDPCI420,Maintenance préventive des caméras en issues de secours,VI MP 420,div_2,1.0,1.0,0.5,201.81,100.91
+979,Italie,Pompage,POMIND404,Entretien des poteaux incendie,INP404,direct_reference,1.0,1.0,1.0,961.0,961.0
+980,Italie,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+981,Italie,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+982,Italie,Pompage,,,,direct_value,1.0,0.0,1.0,0.0,0.0
+983,Italie,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+984,Italie,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+985,Italie,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,5.0,1.0,214.65,1073.25
+986,Italie,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+987,Italie,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+988,Italie,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+989,La Courneuve,Bâtiment,BATCJN001,Contrôle des IS de jour,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+990,La Courneuve,Bâtiment,BATCJN002,Contrôle des IS de jour,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+991,La Courneuve,Bâtiment,BATCNN001,Contrôle des IS + niches de nuit,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+992,La Courneuve,Bâtiment,BATCNN002,Contrôle des IS + niches de nuit,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+993,La Courneuve,Bâtiment,BATMPN001,Préventif IS + niches,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+994,La Courneuve,Bâtiment,BATMPN002,Préventif IS + niches,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+995,La Courneuve,Propreté,PRPLTB013,Lavage d'un tube,POL013,direct_reference,2.0,2.0,1.0,6922.2,27688.8
+996,La Courneuve,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+997,La Courneuve,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+998,La Courneuve,ContReg,CRGVIN106,Vérification des installations électriques,CRN106,direct_reference,1.0,1.0,1.0,324.3,324.3
+999,La Courneuve,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1000,La Courneuve,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1001,La Courneuve,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1002,La Courneuve,Eclairage,ECLNPN004,Nettoyage des plots de jalonnement pour un sens,ECPN04,direct_reference,2.0,2.0,1.0,162.9,651.6
+1003,La Courneuve,Eclairage,ECLNEN016,Nettoyage de l'éclairage pour un sens,ECPN16,direct_reference,2.0,2.0,1.0,3459.49,13837.96
+1004,La Courneuve,Eclairage,ECLRSN061,Remplacement systématiques des sources,ECPN61,sum_3,0.4,2.0,1.0,9242.47,7393.98
+1005,La Courneuve,Eclairage,ECLRSN062,Remplacement systématiques des sources,ECPN62,sum_3,0.4,2.0,1.0,2378.58,1902.86
+1006,La Courneuve,Eclairage,ECLRSN063,Remplacement systématiques des sources,ECPN63,sum_3,0.4,2.0,1.0,5436.75,4349.4
+1007,La Courneuve,AEV,AEVEFN012,Essais fonctionnels pour un sens,AEFN12,direct_reference,2.0,2.0,1.0,397.62,1590.48
+1008,La Courneuve,AEV,AEVMPN022,Maintenance préventive pour un sens,AEPN22,direct_reference,2.0,2.0,1.0,810.41,3241.64
+1009,La Courneuve,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,4.0,1.0,61.7,246.8
+1010,La Courneuve,Automate,AUTPAB041,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR41,direct_reference,1.0,1.0,1.0,320.77594,320.78
+1011,La Courneuve,Automate,AUTPAR042,Préventif armoires MESD (fiche n°4 du CCTP),AUPR42,direct_reference,1.0,1.0,1.0,346.69832,346.7
+1012,La Courneuve,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+1013,La Courneuve,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1014,La Courneuve,PAU/TSE,RTSPPN004,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PN04,direct_reference,4.0,1.0,1.0,337.92,1351.68
+1015,La Courneuve,PAU/TSE,RTSPTN004,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PN04,direct_reference,4.0,1.0,1.0,134.95,539.8
+1016,La Courneuve,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+1017,La Courneuve,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1018,La Courneuve,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1019,La Courneuve,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1020,La Courneuve,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+1021,La Courneuve,Détection,,,,direct_value,4.0,2.0,1.0,0.0,0.0
+1022,La Courneuve,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+1023,La Courneuve,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1024,La Courneuve,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,9.0,1.0,33.6,302.4
+1025,La Courneuve,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1026,La Courneuve,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1027,La Courneuve,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1028,La Courneuve,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1029,La Courneuve,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+1030,La Courneuve,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,2.0,1.0,15.75,31.5
+1031,La Courneuve,Ventilation,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+1032,La Courneuve,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+1033,La Courneuve,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1034,La Courneuve,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1035,La Courneuve,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1036,La Courneuve,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1037,La Courneuve,Vidéo,VIDDAI112,Maintenance préventive de la DAI du sens 1,VI MP 112,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1038,La Courneuve,Vidéo,VIDDAI113,Maintenance préventive de la DAI du sens 2,VI MP 113,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1039,La Courneuve,Vidéo,VIDCAM312,Nettoyage des caméras sens intérieur sens 1,VI MP 312,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1040,La Courneuve,Vidéo,VIDCAM313,Nettoyage des caméras sens intérieur sens 2,VI MP 313,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1041,La Courneuve,Vidéo,VIDPCI406,Maintenance préventive des caméras en issues de secours,VI MP 406,direct_reference,1.0,1.0,1.0,46.56,46.56
+1042,La Courneuve,Pompage,POMIND102,Entretien des poteaux incendie,INP102,direct_reference,1.0,1.0,1.0,613.0,613.0
+1043,La Courneuve,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1044,La Courneuve,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1045,La Courneuve,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+1046,La Courneuve,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1047,La Courneuve,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1048,La Courneuve,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1049,La Courneuve,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1050,La Courneuve,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1051,La Courneuve,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1052,Lumen-Norton,Bâtiment,BATCJN001,Contrôle des IS de jour,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1053,Lumen-Norton,Bâtiment,BATCJN002,Contrôle des IS de jour,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1054,Lumen-Norton,Bâtiment,BATCNN001,Contrôle des IS + niches de nuit,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1055,Lumen-Norton,Bâtiment,BATCNN002,Contrôle des IS + niches de nuit,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1056,Lumen-Norton,Bâtiment,BATMPN001,Préventif IS + niches,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1057,Lumen-Norton,Bâtiment,BATMPN002,Préventif IS + niches,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1058,Lumen-Norton,Propreté,PRPLTB012,Lavage d'un tube,POL012,direct_reference,2.0,1.0,1.0,25661.9,51323.8
+1059,Lumen-Norton,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1060,Lumen-Norton,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1061,Lumen-Norton,ContReg,CRGVIN107,Vérification des installations électriques,CRN107,sum_2,1.0,1.0,1.0,432.4,432.4
+1062,Lumen-Norton,ContReg,CRGVIN108,Vérification des installations électriques,CRN108,sum_2,1.0,1.0,1.0,324.3,324.3
+1063,Lumen-Norton,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1064,Lumen-Norton,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1065,Lumen-Norton,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1066,Lumen-Norton,Eclairage,ECLNPN002,Nettoyage des plots de jalonnement pour un sens,ECPN02,direct_reference,2.0,2.0,1.0,162.9,651.6
+1067,Lumen-Norton,Eclairage,ECLNEN012,Nettoyage de l'éclairage pour un sens,ECPN12,direct_reference,2.0,2.0,1.0,6271.51,25086.04
+1068,Lumen-Norton,Eclairage,ECLRSN053,Remplacement systématiques des sources,ECPN53,sum_4,0.4,2.0,1.0,6931.86,5545.49
+1069,Lumen-Norton,Eclairage,ECLRSN055,Remplacement systématiques des sources,ECPN55,sum_4,0.4,2.0,1.0,3465.93,2772.74
+1070,Lumen-Norton,Eclairage,ECLRSN057,Remplacement systématiques des sources,ECPN57,sum_4,0.4,2.0,1.0,3380.98,2704.78
+1071,Lumen-Norton,Eclairage,ECLRSN059,Remplacement systématiques des sources,ECPN59,sum_4,0.4,2.0,1.0,1189.29,951.43
+1072,Lumen-Norton,AEV,AEVEFN011,Essais fonctionnels pour un sens,AEFN11,direct_reference,2.0,2.0,1.0,397.62,1590.48
+1073,Lumen-Norton,AEV,AEVMPN021,Maintenance préventive pour un sens,AEPN21,direct_reference,2.0,2.0,1.0,810.41,3241.64
+1074,Lumen-Norton,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,14.0,1.0,61.7,863.8
+1075,Lumen-Norton,Automate,AUTPAB037,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR37,direct_reference,1.0,1.0,1.0,544.12135,544.12
+1076,Lumen-Norton,Automate,AUTPAR038,Préventif armoires MESD (fiche n°4 du CCTP),AUPR38,direct_reference,1.0,1.0,1.0,744.78738,744.79
+1077,Lumen-Norton,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+1078,Lumen-Norton,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1079,Lumen-Norton,PAU/TSE,RTSPPN003,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PN03,direct_reference,4.0,1.0,1.0,2625.97,10503.88
+1080,Lumen-Norton,PAU/TSE,RTSPTN003,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PN03,direct_reference,4.0,1.0,1.0,1259.54,5038.16
+1081,Lumen-Norton,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,2.0,1.0,304.01,608.02
+1082,Lumen-Norton,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1083,Lumen-Norton,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1084,Lumen-Norton,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1085,Lumen-Norton,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,2.0,1.0,414.3,414.3
+1086,Lumen-Norton,Détection,DETPCA013,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP013,div_2,4.0,2.0,0.5,6840.75,27363.0
+1087,Lumen-Norton,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+1088,Lumen-Norton,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1089,Lumen-Norton,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,25.0,1.0,33.6,840.0
+1090,Lumen-Norton,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+1091,Lumen-Norton,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1092,Lumen-Norton,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1093,Lumen-Norton,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1094,Lumen-Norton,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,2.0,1.0,26.25,52.5
+1095,Lumen-Norton,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,5.0,1.0,15.75,78.75
+1096,Lumen-Norton,Ventilation,VENPEN201,Préventif des équipements de ventilation,VPN201,div_2,1.0,1.0,0.5,39474.35,19737.17
+1097,Lumen-Norton,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,5.0,1.0,78.85,394.25
+1098,Lumen-Norton,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1099,Lumen-Norton,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1100,Lumen-Norton,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1101,Lumen-Norton,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1102,Lumen-Norton,Vidéo,VIDDAI110,Maintenance préventive de la DAI du sens 1,VI MP 110,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1103,Lumen-Norton,Vidéo,VIDDAI111,Maintenance préventive de la DAI du sens 2,VI MP 111,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1104,Lumen-Norton,Vidéo,VIDCAM310,Nettoyage des caméras sens intérieur sens 1,VI MP 310,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1105,Lumen-Norton,Vidéo,VIDCAM311,Nettoyage des caméras sens intérieur sens 2,VI MP 311,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1106,Lumen-Norton,Vidéo,VIDPCI405,Maintenance préventive des caméras en issues de secours,VI MP 405,direct_reference,1.0,1.0,1.0,62.12,62.12
+1107,Lumen-Norton,Pompage,POMIND103,Entretien des poteaux incendie,INP103,direct_reference,1.0,1.0,1.0,1516.0,1516.0
+1108,Lumen-Norton,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1109,Lumen-Norton,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1110,Lumen-Norton,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,0.0,1.0,0.0,0.0
+1111,Lumen-Norton,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1112,Lumen-Norton,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1113,Lumen-Norton,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1114,Lumen-Norton,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1115,Lumen-Norton,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1116,Lumen-Norton,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1117,Sévines,Bâtiment,BATCJN012,Contrôle des IS de jour,VJO012,direct_reference,6.0,1.0,1.0,1014.0,6084.0
+1118,Sévines,Bâtiment,BATMPO012,Préventif IS + niches,MPO012,direct_reference,6.0,1.0,1.0,2111.0,12666.0
+1119,Sévines,Bâtiment,BATMPO012,Préventif IS + niches,MPO012,direct_reference,1.0,1.0,1.0,2111.0,2111.0
+1120,Sévines,Propreté,PRPLTB009,Lavage d'un tube,POL009,direct_reference,2.0,2.0,1.0,4786.98,19147.92
+1121,Sévines,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1122,Sévines,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1123,Sévines,ContReg,CRGVIO101,Vérification des installations électriques,CRO101,direct_reference,1.0,1.0,1.0,648.6,648.6
+1124,Sévines,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1125,Sévines,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,3.0,1.0,864.8,2594.4
+1126,Sévines,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1127,Sévines,Eclairage,ECLNPO005,Nettoyage des plots de jalonnement pour un sens,ECPO05,direct_reference,2.0,2.0,1.0,350.41,1401.64
+1128,Sévines,Eclairage,ECLNEO018,Nettoyage de l'éclairage pour un sens,ECPO18,direct_reference,2.0,2.0,1.0,2722.22,10888.88
+1129,Sévines,Eclairage,ECLRSO056,Remplacement systématiques des sources,ECPO56,sum_3,0.4,2.0,1.0,6320.2,5056.16
+1130,Sévines,Eclairage,ECLRSO057,Remplacement systématiques des sources,ECPO57,sum_3,0.4,2.0,1.0,3160.1,2528.08
+1131,Sévines,Eclairage,ECLRSO058,Remplacement systématiques des sources,ECPO58,sum_3,0.4,2.0,1.0,4349.39,3479.51
+1132,Sévines,AEV,AEVEFO014,Essais fonctionnels pour un sens,AEFO14,direct_reference,2.0,2.0,1.0,413.22,1652.88
+1133,Sévines,AEV,AEVMPO014,Maintenance préventive pour un sens,AEPO14,direct_reference,2.0,2.0,1.0,1277.51,5110.04
+1134,Sévines,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+1135,Sévines,Automate,AUTPAB009,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR09,direct_reference,1.0,1.0,1.0,327.83486999999997,327.83
+1136,Sévines,Automate,AUTPAR010,Préventif armoires MESD (fiche n°4 du CCTP),AUPR10,direct_reference,1.0,1.0,1.0,257.00775,257.01
+1137,Sévines,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+1138,Sévines,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1139,Sévines,PAU/TSE,RTSPPO005,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO05,direct_reference,4.0,1.0,1.0,506.89,2027.56
+1140,Sévines,PAU/TSE,RTSPTO005,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO05,direct_reference,4.0,1.0,1.0,179.94,719.76
+1141,Sévines,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1142,Sévines,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+1143,Sévines,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1144,Sévines,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1145,Sévines,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1146,Sévines,Détection,DETPCA010,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP010,direct_reference,4.0,2.0,1.0,3001.95,24015.6
+1147,Sévines,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,0.0,1.0,24.15,0.0
+1148,Sévines,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1149,Sévines,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,19.0,1.0,33.6,638.4
+1150,Sévines,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1151,Sévines,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1152,Sévines,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,1.0,1.0,15.75,15.75
+1153,Sévines,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1154,Sévines,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1155,Sévines,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,15.0,1.0,15.75,236.25
+1156,Sévines,Ventilation,VENPEO203,Préventif des équipements de ventilation,VPO203,direct_reference,1.0,1.0,1.0,839.28,839.28
+1157,Sévines,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,5.0,1.0,78.85,394.25
+1158,Sévines,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+1159,Sévines,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1160,Sévines,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1161,Sévines,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1162,Sévines,Vidéo,VIDDAI132,Maintenance préventive de la DAI du sens 1,VI MP 132,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1163,Sévines,Vidéo,VIDDAI133,Maintenance préventive de la DAI du sens 2,VI MP 133,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1164,Sévines,Vidéo,VIDCAM332,Nettoyage des caméras sens intérieur sens 1,VI MP 332,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1165,Sévines,Vidéo,VIDCAM333,Nettoyage des caméras sens intérieur sens 2,VI MP 333,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1166,Sévines,Vidéo,VIDPCI416,Maintenance préventive des caméras en issues de secours,VI MP 416,direct_reference,1.0,1.0,1.0,62.12,62.12
+1167,Sévines,Pompage,POMIND214,Entretien des poteaux incendie,INP309,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+1168,Sévines,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1169,Sévines,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1170,Sévines,Pompage,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+1171,Sévines,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1172,Sévines,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1173,Sévines,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1174,Sévines,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1175,Sévines,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1176,Sévines,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1177,Belle-Rive,Bâtiment,BATCJN008,Contrôle des IS de jour,VJO008,sum_2,6.0,2.0,1.0,1014.0,12168.0
+1178,Belle-Rive,Bâtiment,BATCJN009,Contrôle des IS de jour,VJO009,sum_2,6.0,2.0,1.0,1014.0,12168.0
+1179,Belle-Rive,Bâtiment,BATCNO008,Contrôle des IS + niches de nuit,VNO008,sum_2,6.0,2.0,1.0,1958.0,23496.0
+1180,Belle-Rive,Bâtiment,BATCNO009,Contrôle des IS + niches de nuit,VNO009,sum_2,6.0,2.0,1.0,1958.0,23496.0
+1181,Belle-Rive,Bâtiment,BATMPO008,Préventif IS + niches,MPO008,sum_2,1.0,2.0,1.0,2111.0,4222.0
+1182,Belle-Rive,Bâtiment,BATMPO009,Préventif IS + niches,MPO009,sum_2,1.0,2.0,1.0,2111.0,4222.0
+1183,Belle-Rive,Propreté,PRPLTB005,Lavage d'un tube,POL005,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+1184,Belle-Rive,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1185,Belle-Rive,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1186,Belle-Rive,ContReg,CRGVIO113,Vérification des installations électriques,CRO113,sum_3,1.0,1.0,1.0,648.6,648.6
+1187,Belle-Rive,ContReg,CRGVIO114,Vérification des installations électriques,CRO114,sum_3,1.0,1.0,1.0,540.5,540.5
+1188,Belle-Rive,ContReg,CRGVIO115,Vérification des installations électriques,CRO115,sum_3,1.0,1.0,1.0,648.6,648.6
+1189,Belle-Rive,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1190,Belle-Rive,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+1191,Belle-Rive,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1192,Belle-Rive,Eclairage,ECLNPB005,Nettoyage des plots de jalonnement pour un sens,ECPB05,direct_reference,2.0,2.0,1.0,610.87,2443.48
+1193,Belle-Rive,Eclairage,ECLNEB020,Nettoyage de l'éclairage pour un sens,ECPB20,direct_reference,2.0,2.0,1.0,2873.45,11493.8
+1194,Belle-Rive,Eclairage,ECLRSB066,Remplacement systématiques des sources,ECPB66,sum_3,0.4,2.0,1.0,9786.14,7828.91
+1195,Belle-Rive,Eclairage,ECLRSB067,Remplacement systématiques des sources,ECPB67,sum_3,0.4,2.0,1.0,9072.57,7258.06
+1196,Belle-Rive,Eclairage,ECLRSB068,Remplacement systématiques des sources,ECPB68,sum_3,0.4,2.0,1.0,6626.03,5300.82
+1197,Belle-Rive,AEV,AEVEFB014,Essais fonctionnels pour un sens,AEFB14,direct_reference,2.0,2.0,1.0,785.44,3141.76
+1198,Belle-Rive,AEV,AEVMPB014,Maintenance préventive pour un sens,AEPB14,direct_reference,2.0,2.0,1.0,2338.42,9353.68
+1199,Belle-Rive,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,13.0,1.0,61.7,802.1
+1200,Belle-Rive,Automate,AUTPAB013,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR13,direct_reference,1.0,1.0,1.0,493.22786999999994,493.23
+1201,Belle-Rive,Automate,AUTPAR014,Préventif armoires MESD (fiche n°4 du CCTP),AUPR14,direct_reference,1.0,1.0,1.0,1030.3335299999999,1030.33
+1202,Belle-Rive,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+1203,Belle-Rive,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1204,Belle-Rive,PAU/TSE,RTSPPO008,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO08,direct_reference,4.0,1.0,1.0,1013.76,4055.04
+1205,Belle-Rive,PAU/TSE,RTSPTO008,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO08,direct_reference,4.0,1.0,1.0,674.76,2699.04
+1206,Belle-Rive,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,5.0,1.0,304.01,1520.05
+1207,Belle-Rive,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1208,Belle-Rive,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1209,Belle-Rive,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1210,Belle-Rive,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,5.0,1.0,414.3,1035.75
+1211,Belle-Rive,Détection,DETPCA005,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP005,direct_reference,4.0,2.0,1.0,5283.6,42268.8
+1212,Belle-Rive,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,3.0,1.0,24.15,72.45
+1213,Belle-Rive,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1214,Belle-Rive,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,36.0,1.0,33.6,1209.6
+1215,Belle-Rive,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,1.0,1.0,21.0,21.0
+1216,Belle-Rive,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1217,Belle-Rive,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,5.0,1.0,15.75,78.75
+1218,Belle-Rive,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1219,Belle-Rive,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,5.0,1.0,26.25,131.25
+1220,Belle-Rive,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,16.0,1.0,15.75,252.0
+1221,Belle-Rive,Ventilation,VENPEO200,Préventif des équipements de ventilation,VPO200,direct_reference,1.0,1.0,1.0,10362.03,10362.03
+1222,Belle-Rive,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,13.0,1.0,78.85,1025.05
+1223,Belle-Rive,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1224,Belle-Rive,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1225,Belle-Rive,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1226,Belle-Rive,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1227,Belle-Rive,Vidéo,VIDDAI125,Maintenance préventive de la DAI du sens 2,VI MP 125,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1228,Belle-Rive,Vidéo,VIDDAI125,Maintenance préventive de la DAI du sens 2,VI MP 125,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1229,Belle-Rive,Vidéo,VIDCAM324,Nettoyage des caméras sens intérieur sens 1,VI MP 324,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1230,Belle-Rive,Vidéo,VIDCAM325,Nettoyage des caméras sens intérieur sens 2,VI MP 325,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1231,Belle-Rive,Vidéo,VIDPCI412,Maintenance préventive des caméras en issues de secours,VI MP 412,direct_reference,1.0,1.0,1.0,232.81,232.81
+1232,Belle-Rive,Pompage,POMIND206,Entretien des poteaux incendie,INP301,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+1233,Belle-Rive,Pompage,POMVSP319,Visite des stations de pompage,POP319,sum_3,3.0,1.0,1.0,858.61,2575.83
+1234,Belle-Rive,Pompage,POMVSP320,Visite des stations de pompage,POP320,sum_3,3.0,1.0,1.0,858.61,2575.83
+1235,Belle-Rive,Pompage,POMVSP321,Visite des stations de pompage,POP321,sum_3,3.0,1.0,1.0,858.61,2575.83
+1236,Belle-Rive,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1237,Belle-Rive,Pompage,POMESP319,Entretien des stations de pompage,POE319,sum_3,1.0,3.0,1.0,1358.77,4076.31
+1238,Belle-Rive,Pompage,POMESP320,Entretien des stations de pompage,POE320,sum_3,1.0,3.0,1.0,1358.77,4076.31
+1239,Belle-Rive,Pompage,POMESP321,Entretien des stations de pompage,POE321,sum_3,1.0,3.0,1.0,1358.77,4076.31
+1240,Belle-Rive,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1241,Belle-Rive,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1242,Belle-Rive,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1243,Belle-Rive,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1244,Belle-Rive,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1245,Belle-Rive,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1246,Antony,Bâtiment,BATCJS003,Contrôle des IS de jour,VJS003,div_2,6.0,2.0,0.5,507.0,3042.0
+1247,Antony,Bâtiment,BATCJS004,Contrôle des IS de jour,VJS004,div_2,6.0,2.0,0.5,507.0,3042.0
+1248,Antony,Bâtiment,BATCNS003,Contrôle des IS + niches de nuit,VNS003,div_2,6.0,2.0,0.5,1306.0,7836.0
+1249,Antony,Bâtiment,BATCNS004,Contrôle des IS + niches de nuit,VNS004,div_2,6.0,2.0,0.5,1306.0,7836.0
+1250,Antony,Bâtiment,BATMPS003,Préventif IS + niches,MPS003,div_2,1.0,2.0,0.5,1407.0,1407.0
+1251,Antony,Bâtiment,BATMPS004,Préventif IS + niches,MPS004,div_2,1.0,2.0,0.5,1407.0,1407.0
+1252,Antony,Propreté,PRPLTB017,Lavage d'un tube,POL017,div_2,2.0,2.0,0.5,13633.74,27267.48
+1253,Antony,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1254,Antony,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1255,Antony,ContReg,CRGVIS101,Vérification des installations électriques,CRS101,sum_4,1.0,1.0,1.0,1297.2,1297.2
+1256,Antony,ContReg,CRGVIS102,Vérification des installations électriques,CRS102,sum_4,1.0,1.0,1.0,432.4,432.4
+1257,Antony,ContReg,CRGVIS103,Vérification des installations électriques,CRS103,sum_4,1.0,1.0,1.0,864.8,864.8
+1258,Antony,ContReg,CRGVIS104,Vérification des installations électriques,CRS104,sum_4,1.0,1.0,1.0,864.8,864.8
+1259,Antony,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1260,Antony,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,4.0,1.0,864.8,3459.2
+1261,Antony,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1262,Antony,Eclairage,ECLNPS002,Nettoyage des plots de jalonnement pour un sens,ECPS02,direct_reference,2.0,2.0,1.0,407.24,1628.96
+1263,Antony,Eclairage,ECLNES012,Nettoyage de l'éclairage pour un sens,ECPS12,direct_reference,2.0,2.0,1.0,1824.27,7297.08
+1264,Antony,Eclairage,ECLRSS053,Remplacement systématiques des sources,ECPS53,sum_3,0.4,2.0,1.0,5470.71,4376.57
+1265,Antony,Eclairage,ECLRSS054,Remplacement systématiques des sources,ECPS54,sum_3,0.4,2.0,1.0,3109.14,2487.31
+1266,Antony,Eclairage,ECLRSS055,Remplacement systématiques des sources,ECPS55,sum_3,0.4,2.0,1.0,4519.29,3615.43
+1267,Antony,AEV,AEVEFS011,Essais fonctionnels pour un sens,AEFS11,direct_reference,2.0,2.0,1.0,620.95,2483.8
+1268,Antony,AEV,AEVMPS021,Maintenance préventive pour un sens,AEPS21,direct_reference,2.0,2.0,1.0,1675.71,6702.84
+1269,Antony,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,10.0,1.0,61.7,617.0
+1270,Antony,Automate,AUTPAB021,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR21,div_2,1.0,1.0,0.5,320.77594,160.39
+1271,Antony,Automate,AUTPAR022,Préventif armoires MESD (fiche n°4 du CCTP),AUPR22,div_2,1.0,1.0,0.5,1651.6382800000001,825.82
+1272,Antony,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,5.0,1.0,202.4713,1012.36
+1273,Antony,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,2.0,1.0,91.39855,182.8
+1274,Antony,PAU/TSE,RTSPPS001,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PS01,div_2,4.0,1.0,0.5,1689.62,3379.24
+1275,Antony,PAU/TSE,RTSPTS001,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PS01,div_2,4.0,1.0,0.5,449.84,899.68
+1276,Antony,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+1277,Antony,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+1278,Antony,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1279,Antony,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,4.0,1.0,185.94,743.76
+1280,Antony,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+1281,Antony,Détection,DETPCA018,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP018,div_2,4.0,2.0,0.5,5597.55,22390.2
+1282,Antony,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1283,Antony,Détection,DETPDI101,Préventif détection incendie,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+1284,Antony,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,46.0,1.0,33.6,1545.6
+1285,Antony,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,2.0,1.0,21.0,42.0
+1286,Antony,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1287,Antony,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1288,Antony,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1289,Antony,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+1290,Antony,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,15.0,1.0,15.75,236.25
+1291,Antony,Ventilation,VENPES200,Préventif des équipements de ventilation,VPS200,direct_reference,1.0,1.0,1.0,5513.22,5513.22
+1292,Antony,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,3.0,1.0,78.85,236.55
+1293,Antony,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,11.0,1.0,128.27,1410.97
+1294,Antony,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1295,Antony,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1296,Antony,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1297,Antony,Vidéo,VIDDAI136,Maintenance préventive de la DAI du sens 1,VI MP 136,sum_2,1.0,1.0,1.0,1606.92,1606.92
+1298,Antony,Vidéo,VIDDAI137,Maintenance préventive de la DAI du sens 2,VI MP 137,sum_2,1.0,1.0,1.0,1606.92,1606.92
+1299,Antony,Vidéo,VIDCAM336,Nettoyage des caméras sens intérieur sens 1,VI MP 336,sum_2,2.0,1.0,1.0,1272.11,2544.22
+1300,Antony,Vidéo,VIDCAM337,Nettoyage des caméras sens intérieur sens 2,VI MP 337,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1301,Antony,Vidéo,VIDPCI418,Maintenance préventive des caméras en issues de secours,VI MP 418,direct_reference,1.0,1.0,1.0,139.69,139.69
+1302,Antony,Pompage,POMIND401,Entretien des poteaux incendie,INP401,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+1303,Antony,Pompage,POMVSP401,Visite des stations de pompage,POP401,direct_reference,3.0,1.0,1.0,858.61,2575.83
+1304,Antony,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1305,Antony,Pompage,POMESP401,Entretien des stations de pompage,POE401,direct_reference,1.0,1.0,1.0,7151.25,7151.25
+1306,Antony,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1307,Antony,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1308,Antony,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1309,Antony,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1310,Antony,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1311,Antony,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,1.0,1.0,714.81,714.81
+1312,Bobigny,Bâtiment,BATCJN001,Contrôle des IS de jour,VJN001,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1313,Bobigny,Bâtiment,BATCJN002,Contrôle des IS de jour,VJN002,sum_2,6.0,0.3333333333333333,1.0,2029.0,4058.0
+1314,Bobigny,Bâtiment,BATCNN001,Contrôle des IS + niches de nuit,VNN001,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1315,Bobigny,Bâtiment,BATCNN002,Contrôle des IS + niches de nuit,VNN002,sum_2,6.0,0.3333333333333333,1.0,3264.0,6528.0
+1316,Bobigny,Bâtiment,BATMPN001,Préventif IS + niches,MPN001,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1317,Bobigny,Bâtiment,BATMPN002,Préventif IS + niches,MPN002,sum_2,1.0,0.3333333333333333,1.0,3519.0,1173.0
+1318,Bobigny,Propreté,PRPLTB012,Lavage d'un tube,POL012,direct_reference,2.0,1.0,1.0,25661.9,51323.8
+1319,Bobigny,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1320,Bobigny,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1321,Bobigny,ContReg,CRGVIN109,Vérification des installations électriques,CRN109,sum_5,1.0,1.0,1.0,216.2,216.2
+1322,Bobigny,ContReg,CRGVIN110,Vérification des installations électriques,CRN110,sum_5,1.0,1.0,1.0,432.4,432.4
+1323,Bobigny,ContReg,CRGVIN111,Vérification des installations électriques,CRN111,sum_5,1.0,1.0,1.0,324.3,324.3
+1324,Bobigny,ContReg,CRGVIN112,Vérification des installations électriques,CRN112,sum_5,1.0,1.0,1.0,432.4,432.4
+1325,Bobigny,ContReg,CRGVIN113,Vérification des installations électriques,CRN113,sum_5,1.0,1.0,1.0,216.2,216.2
+1326,Bobigny,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1327,Bobigny,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,7.0,1.0,864.8,6053.6
+1328,Bobigny,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1329,Bobigny,Eclairage,ECLNPN001,Nettoyage des plots de jalonnement pour un sens,ECPN01,direct_reference,2.0,2.0,1.0,1018.11,4072.44
+1330,Bobigny,Eclairage,ECLNEN010,Nettoyage de l'éclairage pour un sens,ECPN10,direct_reference,2.0,2.0,1.0,8582.56,34330.24
+1331,Bobigny,Eclairage,ECLRSN050,Remplacement systématiques des sources,ECPN50,sum_3,0.4,2.0,1.0,18009.21,14407.37
+1332,Bobigny,Eclairage,ECLRSN051,Remplacement systématiques des sources,ECPN51,sum_3,0.4,2.0,1.0,9004.6,7203.68
+1333,Bobigny,Eclairage,ECLRSN052,Remplacement systématiques des sources,ECPN52,sum_3,0.4,2.0,1.0,3907.66,3126.13
+1334,Bobigny,AEV,AEVEFN010,Essais fonctionnels pour un sens,AEFN10,direct_reference,2.0,2.0,1.0,1263.33,5053.32
+1335,Bobigny,AEV,AEVMPN020,Maintenance préventive pour un sens,AEPN20,direct_reference,2.0,2.0,1.0,4317.72,17270.88
+1336,Bobigny,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,31.0,1.0,61.7,1912.7
+1337,Bobigny,Automate,AUTPAB035,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR35,direct_reference,1.0,1.0,1.0,1468.6249799999998,1468.62
+1338,Bobigny,Automate,AUTPAR036,Préventif armoires MESD (fiche n°4 du CCTP),AUPR36,direct_reference,1.0,1.0,1.0,1655.52988,1655.53
+1339,Bobigny,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,25.0,1.0,202.4713,5061.78
+1340,Bobigny,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1341,Bobigny,PAU/TSE,RTSPPN003,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PN03,direct_reference,4.0,1.0,1.0,2625.97,10503.88
+1342,Bobigny,PAU/TSE,RTSPTN003,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PN03,direct_reference,4.0,1.0,1.0,1259.54,5038.16
+1343,Bobigny,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,5.0,1.0,304.01,1520.05
+1344,Bobigny,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,0.0,1.0,337.95,0.0
+1345,Bobigny,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1346,Bobigny,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1347,Bobigny,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,5.0,1.0,414.3,1035.75
+1348,Bobigny,Détection,DETPCA013,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP013,div_2,4.0,2.0,0.5,6840.75,27363.0
+1349,Bobigny,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1350,Bobigny,Détection,DETPDI101,Préventif détection incendie,DEP101,direct_reference,1.0,1.0,1.0,698.25,698.25
+1351,Bobigny,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,64.0,1.0,33.6,2150.4
+1352,Bobigny,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1353,Bobigny,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1354,Bobigny,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1355,Bobigny,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1356,Bobigny,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,10.0,1.0,26.25,262.5
+1357,Bobigny,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,26.0,1.0,15.75,409.5
+1358,Bobigny,Ventilation,VENPEN201,Préventif des équipements de ventilation,VPN201,div_2,1.0,1.0,0.5,39474.35,19737.17
+1359,Bobigny,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,30.0,1.0,78.85,2365.5
+1360,Bobigny,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1361,Bobigny,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1362,Bobigny,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1363,Bobigny,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1364,Bobigny,Vidéo,VIDDAI108,Maintenance préventive de la DAI du sens 1,VI MP 108,sum_2,1.0,1.0,1.0,4234.36,4234.36
+1365,Bobigny,Vidéo,VIDDAI109,Maintenance préventive de la DAI du sens 2,VI MP 109,sum_2,1.0,1.0,1.0,4234.36,4234.36
+1366,Bobigny,Vidéo,VIDCAM308,Nettoyage des caméras sens intérieur sens 1,VI MP 308,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1367,Bobigny,Vidéo,VIDCAM309,Nettoyage des caméras sens intérieur sens 2,VI MP 309,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1368,Bobigny,Vidéo,VIDPCI404,Maintenance préventive des caméras en issues de secours,VI MP 404,direct_reference,1.0,1.0,1.0,263.92,263.92
+1369,Bobigny,Pompage,POMIND105,Entretien des poteaux incendie,INP105,direct_reference,1.0,1.0,1.0,2910.0,2910.0
+1370,Bobigny,Pompage,,,,direct_value,3.0,0.0,1.0,0.0,0.0
+1371,Bobigny,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1372,Bobigny,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,4.0,1.0,0.0,0.0
+1373,Bobigny,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1374,Bobigny,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1375,Bobigny,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1376,Bobigny,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1377,Bobigny,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1378,Bobigny,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1379,La Défense,Bâtiment,BATCJN010,Contrôle des IS de jour,VJO010,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1380,La Défense,Bâtiment,BATCJN011,Contrôle des IS de jour,VJO011,sum_2,6.0,0.3333333333333333,1.0,3043.0,6086.0
+1381,La Défense,Bâtiment,BATCNO010,Contrôle des IS + niches de nuit,VNO010,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1382,La Défense,Bâtiment,BATCNO011,Contrôle des IS + niches de nuit,VNO011,sum_2,6.0,0.3333333333333333,1.0,4570.0,9140.0
+1383,La Défense,Bâtiment,BATMPO010,Préventif IS + niches,MPO010,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1384,La Défense,Bâtiment,BATMPO011,Préventif IS + niches,MPO011,sum_2,1.0,0.3333333333333333,1.0,4926.0,1642.0
+1385,La Défense,Propreté,PRPLTB007,Lavage d'un tube,POL007,direct_reference,2.0,2.0,1.0,45421.61,181686.44
+1386,La Défense,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1387,La Défense,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1388,La Défense,ContReg,CRGVIS106,Vérification des installations électriques,CRS106,direct_reference,1.0,1.0,1.0,432.4,432.4
+1389,La Défense,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1390,La Défense,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,119.0,1.0,864.8,102911.2
+1391,La Défense,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1392,La Défense,Eclairage,ECLNPO001,Nettoyage des plots de jalonnement pour un sens,ECPO01,sum_2,2.0,2.0,1.0,1791.86,7167.44
+1393,La Défense,Eclairage,ECLNPO002,Nettoyage des plots de jalonnement pour un sens,ECPO02,sum_2,2.0,2.0,1.0,1958.04,7832.16
+1394,La Défense,Eclairage,ECLNEO010,Nettoyage de l'éclairage pour un sens,ECPO10,sum_2,2.0,2.0,1.0,36296.29,145185.16
+1395,La Défense,Eclairage,ECLNEO012,Nettoyage de l'éclairage pour un sens,ECPO12,sum_2,2.0,2.0,1.0,29169.36,116677.44
+1396,La Défense,Eclairage,ECLRSO050,Remplacement systématiques des sources,ECPO50,sum_6,0.4,2.0,1.0,58716.81,46973.45
+1397,La Défense,Eclairage,ECLRSO051,Remplacement systématiques des sources,ECPO51,sum_6,0.4,2.0,1.0,59906.1,47924.88
+1398,La Défense,Eclairage,ECLRSO052,Remplacement systématiques des sources,ECPO52,sum_6,0.4,2.0,1.0,51784.98,41427.98
+1399,La Défense,Eclairage,ECLRSO053,Remplacement systématiques des sources,ECPO53,sum_6,0.4,2.0,1.0,52090.78,41672.62
+1400,La Défense,Eclairage,ECLRSO054,Remplacement systématiques des sources,ECPO54,sum_6,0.4,2.0,1.0,18484.94,14787.95
+1401,La Défense,Eclairage,ECLRSO055,Remplacement systématiques des sources,ECPO55,sum_6,0.4,2.0,1.0,16751.96,13401.57
+1402,La Défense,AEV,AEVEFO010,Essais fonctionnels pour un sens,AEFO10,sum_2,2.0,2.0,1.0,2097.84,8391.36
+1403,La Défense,AEV,AEVEFO011,Essais fonctionnels pour un sens,AEFO11,sum_2,2.0,2.0,1.0,2532.48,10129.92
+1404,La Défense,AEV,AEVMPO010,Maintenance préventive pour un sens,AEPO10,sum_2,2.0,2.0,1.0,7669.73,30678.92
+1405,La Défense,AEV,AEVMPO011,Maintenance préventive pour un sens,AEPO11,sum_2,2.0,2.0,1.0,9625.68,38502.72
+1406,La Défense,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,67.0,1.0,61.7,4133.9
+1407,La Défense,Automate,AUTPAB003,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR03,direct_reference,1.0,1.0,1.0,976.1429999999999,976.14
+1408,La Défense,Automate,AUTPAR004,Préventif armoires MESD (fiche n°4 du CCTP),AUPR04,direct_reference,1.0,1.0,1.0,3824.0266899999997,3824.03
+1409,La Défense,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,8.0,1.0,202.4713,1619.77
+1410,La Défense,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1411,La Défense,PAU/TSE,RTSPPO001,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO01,direct_reference,4.0,1.0,1.0,6082.62,24330.48
+1412,La Défense,PAU/TSE,RTSPTO001,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO01,direct_reference,4.0,1.0,1.0,2069.25,8277.0
+1413,La Défense,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,4.0,1.0,304.01,1216.04
+1414,La Défense,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,4.0,1.0,337.95,1351.8
+1415,La Défense,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,7.0,1.0,371.88,2603.16
+1416,La Défense,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1417,La Défense,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,11.0,1.0,414.3,2278.65
+1418,La Défense,Détection,DETPCA006,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP006,direct_reference,4.0,2.0,1.0,9264.15,74113.2
+1419,La Défense,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,1.0,1.0,24.15,24.15
+1420,La Défense,Détection,DETPDI103,Préventif détection incendie,DEP103,direct_reference,1.0,1.0,1.0,1554.0,1554.0
+1421,La Défense,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,143.0,1.0,33.6,4804.8
+1422,La Défense,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,21.0,1.0,21.0,441.0
+1423,La Défense,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1424,La Défense,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,38.0,1.0,15.75,598.5
+1425,La Défense,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,1.0,1.0,23.1,23.1
+1426,La Défense,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,3.0,1.0,26.25,78.75
+1427,La Défense,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,107.0,1.0,15.75,1685.25
+1428,La Défense,Ventilation,VENPEO201,Préventif des équipements de ventilation,VPO201,direct_reference,1.0,0.3333333333333333,1.0,40523.99,13508.0
+1429,La Défense,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,52.0,1.0,78.85,4100.2
+1430,La Défense,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,117.0,1.0,128.27,15007.59
+1431,La Défense,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1432,La Défense,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1433,La Défense,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1434,La Défense,Vidéo,VIDDAI122,Maintenance préventive de la DAI du sens 1,VI MP 122,sum_2,1.0,1.0,1.0,10025.1,10025.1
+1435,La Défense,Vidéo,VIDDAI123,Maintenance préventive de la DAI du sens 2,VI MP 123,sum_2,1.0,1.0,1.0,10025.1,10025.1
+1436,La Défense,Vidéo,VIDCAM322,Nettoyage des caméras sens intérieur sens 1,VI MP 322,sum_2,2.0,1.0,1.0,4761.89,9523.78
+1437,La Défense,Vidéo,VIDCAM323,Nettoyage des caméras sens intérieur sens 2,VI MP 323,sum_2,2.0,1.0,1.0,4761.89,9523.78
+1438,La Défense,Vidéo,VIDPCI411,Maintenance préventive des caméras en issues de secours,VI MP 411,direct_reference,1.0,1.0,1.0,714.1,714.1
+1439,La Défense,Pompage,POMIND207,Entretien des poteaux incendie,INP302,direct_reference,1.0,1.0,1.0,8921.0,8921.0
+1440,La Défense,Pompage,POMVSP312,Visite des stations de pompage,POP312,sum_2,3.0,1.0,1.0,429.3,1287.9
+1441,La Défense,Pompage,POMVSP313,Visite des stations de pompage,POP313,sum_2,3.0,1.0,1.0,858.61,2575.83
+1442,La Défense,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1443,La Défense,Pompage,POMESP312,Entretien des stations de pompage,POE312,sum_2,1.0,3.0,1.0,572.06,1716.18
+1444,La Défense,Pompage,POMESP313,Entretien des stations de pompage,POE313,sum_2,1.0,3.0,1.0,2360.13,7080.39
+1445,La Défense,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,4.0,1.0,858.61,3434.44
+1446,La Défense,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1447,La Défense,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1448,La Défense,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1449,La Défense,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1450,La Défense,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,11.0,1.0,714.81,7862.91
+1451,Chennevières,Bâtiment,BATCJN003,Contrôle des IS de jour,VJO003,direct_reference,6.0,1.0,1.0,507.0,3042.0
+1452,Chennevières,Bâtiment,BATCNO003,Contrôle des IS + niches de nuit,VNO003,direct_reference,6.0,1.0,1.0,1306.0,7836.0
+1453,Chennevières,Bâtiment,BATMPO003,Préventif IS + niches,MPO003,direct_reference,1.0,1.0,1.0,1407.0,1407.0
+1454,Chennevières,Propreté,PRPLTB001,Lavage d'un tube,POL001,direct_reference,2.0,2.0,1.0,7456.6,29826.4
+1455,Chennevières,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1456,Chennevières,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1457,Chennevières,ContReg,CRGVIO123,Vérification des installations électriques,CRO123,direct_reference,1.0,1.0,1.0,540.5,540.5
+1458,Chennevières,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1459,Chennevières,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,0.0,1.0,864.8,0.0
+1460,Chennevières,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1461,Chennevières,Eclairage,ECLNPB002,Nettoyage des plots de jalonnement pour un sens,ECPB02,direct_reference,2.0,2.0,1.0,81.44,325.76
+1462,Chennevières,Eclairage,ECLNEB012,Nettoyage de l'éclairage pour un sens,ECPB12,direct_reference,2.0,2.0,1.0,4593.75,18375.0
+1463,Chennevières,Eclairage,ECLRSB054,Remplacement systématiques des sources,ECPB54,sum_3,0.4,2.0,1.0,6592.06,5273.65
+1464,Chennevières,Eclairage,ECLRSB055,Remplacement systématiques des sources,ECPB55,sum_3,0.4,2.0,1.0,3839.69,3071.75
+1465,Chennevières,Eclairage,ECLRSB056,Remplacement systématiques des sources,ECPB56,sum_3,0.4,2.0,1.0,6082.37,4865.9
+1466,Chennevières,AEV,AEVEFB011,Essais fonctionnels pour un sens,AEFB11,direct_reference,2.0,2.0,1.0,354.36,1417.44
+1467,Chennevières,AEV,AEVMPB011,Maintenance préventive pour un sens,AEPB11,direct_reference,2.0,2.0,1.0,942.35,3769.4
+1468,Chennevières,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,6.0,1.0,61.7,370.2
+1469,Chennevières,Automate,AUTPAB015,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR15,direct_reference,1.0,1.0,1.0,371.65861,371.66
+1470,Chennevières,Automate,AUTPAR016,Préventif armoires MESD (fiche n°4 du CCTP),AUPR16,direct_reference,1.0,1.0,1.0,228.94499,228.94
+1471,Chennevières,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,0.0,1.0,202.4713,0.0
+1472,Chennevières,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1473,Chennevières,PAU/TSE,RTSPPO006,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO06,direct_reference,4.0,1.0,1.0,506.89,2027.56
+1474,Chennevières,PAU/TSE,RTSPTO006,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO06,direct_reference,4.0,1.0,1.0,89.96,359.84
+1475,Chennevières,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1476,Chennevières,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,1.0,1.0,337.95,337.95
+1477,Chennevières,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1478,Chennevières,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1479,Chennevières,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1480,Chennevières,Détection,DETPCA001,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP001,direct_reference,4.0,2.0,1.0,2923.2,23385.6
+1481,Chennevières,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1482,Chennevières,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1483,Chennevières,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,13.0,1.0,33.6,436.8
+1484,Chennevières,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,0.0,1.0,21.0,0.0
+1485,Chennevières,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1486,Chennevières,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1487,Chennevières,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1488,Chennevières,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,0.0,1.0,26.25,0.0
+1489,Chennevières,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,10.0,1.0,15.75,157.5
+1490,Chennevières,Ventilation,VENPEB200,Préventif des équipements de ventilation,VPB200,direct_reference,1.0,1.0,1.0,1943.45,1943.45
+1491,Chennevières,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,0.0,1.0,78.85,0.0
+1492,Chennevières,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,0.0,1.0,128.27,0.0
+1493,Chennevières,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1494,Chennevières,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1495,Chennevières,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1496,Chennevières,Vidéo,VIDDAI134,Maintenance préventive de la DAI du sens 1,VI MP 134,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1497,Chennevières,Vidéo,VIDDAI135,Maintenance préventive de la DAI du sens 2,VI MP 135,sum_2,1.0,1.0,1.0,1785.45,1785.45
+1498,Chennevières,Vidéo,VIDCAM334,Nettoyage des caméras sens intérieur sens 1,VI MP 334,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1499,Chennevières,Vidéo,VIDCAM335,Nettoyage des caméras sens intérieur sens 2,VI MP 335,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1500,Chennevières,Vidéo,VIDPCI417,Maintenance préventive des caméras en issues de secours,VI MP 417,direct_reference,1.0,1.0,1.0,46.56,46.56
+1501,Chennevières,Pompage,POMIND209,Entretien des poteaux incendie,INP304,direct_reference,1.0,1.0,1.0,1441.0,1441.0
+1502,Chennevières,Pompage,,,,direct_value,3.0,1.0,1.0,0.0,0.0
+1503,Chennevières,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1504,Chennevières,Pompage,,,,direct_value,1.0,1.0,1.0,0.0,0.0
+1505,Chennevières,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1506,Chennevières,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1507,Chennevières,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1508,Chennevières,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1509,Chennevières,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1510,Chennevières,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1511,Landy,Bâtiment,BATCJN003,Contrôle des IS de jour,VJN003,sum_2,6.0,1.0,1.0,1014.0,6084.0
+1512,Landy,Bâtiment,BATCJN004,Contrôle des IS de jour,VJN004,sum_2,6.0,1.0,1.0,1014.0,6084.0
+1513,Landy,Bâtiment,BATCNN003,Contrôle des IS + niches de nuit,VNN003,sum_2,6.0,1.0,1.0,1958.0,11748.0
+1514,Landy,Bâtiment,BATCNN004,Contrôle des IS + niches de nuit,VNN004,sum_2,6.0,1.0,1.0,1958.0,11748.0
+1515,Landy,Bâtiment,BATMPN003,Préventif IS + niches,MPN003,sum_2,1.0,1.0,1.0,2111.0,2111.0
+1516,Landy,Bâtiment,BATMPN004,Préventif IS + niches,MPN004,sum_2,1.0,1.0,1.0,2111.0,2111.0
+1517,Landy,Propreté,PRPLTB011,Lavage d'un tube,POL011,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+1518,Landy,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1519,Landy,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1520,Landy,ContReg,CRGVIN101,Vérification des installations électriques,CRN101,sum_5,1.0,1.0,1.0,324.3,324.3
+1521,Landy,ContReg,CRGVIN102,Vérification des installations électriques,CRN102,sum_5,1.0,1.0,1.0,324.3,324.3
+1522,Landy,ContReg,CRGVIN103,Vérification des installations électriques,CRN103,sum_5,1.0,1.0,1.0,324.3,324.3
+1523,Landy,ContReg,CRGVIN104,Vérification des installations électriques,CRN104,sum_5,1.0,1.0,1.0,216.2,216.2
+1524,Landy,ContReg,CRGVIN105,Vérification des installations électriques,CRN105,sum_5,1.0,1.0,1.0,216.2,216.2
+1525,Landy,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1526,Landy,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,1.0,1.0,864.8,864.8
+1527,Landy,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1528,Landy,Eclairage,ECLNPN005,Nettoyage des plots de jalonnement pour un sens,ECPN05,direct_reference,2.0,2.0,1.0,814.49,3257.96
+1529,Landy,Eclairage,ECLNEN018,Nettoyage de l'éclairage pour un sens,ECPN18,direct_reference,2.0,2.0,1.0,8993.74,35974.96
+1530,Landy,Eclairage,ECLRSN064,Remplacement systématiques des sources,ECPN64,sum_3,0.4,2.0,1.0,30785.54,24628.43
+1531,Landy,Eclairage,ECLRSN065,Remplacement systématiques des sources,ECPN65,sum_3,0.4,2.0,1.0,15341.82,12273.46
+1532,Landy,Eclairage,ECLRSN066,Remplacement systématiques des sources,ECPN66,sum_3,0.4,2.0,1.0,5062.97,4050.38
+1533,Landy,AEV,AEVEFN013,Essais fonctionnels pour un sens,AEFN13,direct_reference,2.0,2.0,1.0,1024.39,4097.56
+1534,Landy,AEV,AEVMPN023,Maintenance préventive pour un sens,AEPN23,direct_reference,2.0,2.0,1.0,3491.55,13966.2
+1535,Landy,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,24.0,1.0,61.7,1480.8
+1536,Landy,Automate,AUTPAB039,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR39,direct_reference,1.0,1.0,1.0,371.65861,371.66
+1537,Landy,Automate,AUTPAR040,Préventif armoires MESD (fiche n°4 du CCTP),AUPR40,direct_reference,1.0,1.0,1.0,2196.3758,2196.38
+1538,Landy,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,9.0,1.0,202.4713,1822.24
+1539,Landy,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1540,Landy,PAU/TSE,RTSPPN001,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PN01,direct_reference,4.0,1.0,1.0,1400.52,5602.08
+1541,Landy,PAU/TSE,RTSPTN001,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PN01,direct_reference,4.0,1.0,1.0,899.67,3598.68
+1542,Landy,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,1.0,1.0,304.01,304.01
+1543,Landy,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,2.0,1.0,337.95,675.9
+1544,Landy,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1545,Landy,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1546,Landy,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,1.0,1.0,414.3,207.15
+1547,Landy,Détection,DETPCA012,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP012,direct_reference,4.0,2.0,1.0,5363.4,42907.2
+1548,Landy,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1549,Landy,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1550,Landy,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,52.0,1.0,33.6,1747.2
+1551,Landy,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,5.0,1.0,21.0,105.0
+1552,Landy,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1553,Landy,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,2.0,1.0,15.75,31.5
+1554,Landy,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1555,Landy,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,4.0,1.0,26.25,105.0
+1556,Landy,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,23.0,1.0,15.75,362.25
+1557,Landy,Ventilation,VENPEN200,Préventif des équipements de ventilation,VPN200,direct_reference,1.0,1.0,1.0,31888.73,31888.73
+1558,Landy,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,24.0,1.0,78.85,1892.4
+1559,Landy,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,6.0,1.0,128.27,769.62
+1560,Landy,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1561,Landy,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1562,Landy,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1563,Landy,Vidéo,VIDDAI106,Maintenance préventive de la DAI du sens 1,VI MP 106,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1564,Landy,Vidéo,VIDDAI107,Maintenance préventive de la DAI du sens 2,VI MP 107,sum_2,1.0,1.0,1.0,3341.64,3341.64
+1565,Landy,Vidéo,VIDCAM306,Nettoyage des caméras sens intérieur sens 1,VI MP 306,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1566,Landy,Vidéo,VIDCAM307,Nettoyage des caméras sens intérieur sens 2,VI MP 307,sum_2,2.0,1.0,1.0,3174.6,6349.2
+1567,Landy,Vidéo,VIDPCI403,Maintenance préventive des caméras en issues de secours,VI MP 403,direct_reference,1.0,1.0,1.0,310.49,310.49
+1568,Landy,Pompage,POMIND101,Entretien des poteaux incendie,INP101,direct_reference,1.0,1.0,1.0,3062.0,3062.0
+1569,Landy,Pompage,POMVSP101,Visite des stations de pompage,POP101,direct_reference,3.0,1.0,1.0,573.1,1719.3
+1570,Landy,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1571,Landy,Pompage,POMESP701,Entretien des stations de pompage,POE701,direct_reference,1.0,7.0,1.0,0.0,0.0
+1572,Landy,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1573,Landy,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1574,Landy,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1575,Landy,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1576,Landy,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1577,Landy,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0
+1578,Saint-Cloud,Bâtiment,BATCJN001,Contrôle des IS de jour,VJO001,sum_2,6.0,1.0,1.0,2029.0,12174.0
+1579,Saint-Cloud,Bâtiment,BATCJN002,Contrôle des IS de jour,VJO002,sum_2,6.0,1.0,1.0,1522.0,9132.0
+1580,Saint-Cloud,Bâtiment,BATCNO001,Contrôle des IS + niches de nuit,VNO001,sum_2,6.0,1.0,1.0,3264.0,19584.0
+1581,Saint-Cloud,Bâtiment,BATCNO002,Contrôle des IS + niches de nuit,VNO002,sum_2,6.0,1.0,1.0,2611.0,15666.0
+1582,Saint-Cloud,Bâtiment,BATMPO001,Préventif IS + niches,MPO001,sum_2,1.0,1.0,1.0,3519.0,3519.0
+1583,Saint-Cloud,Bâtiment,BATMPO002,Préventif IS + niches,MPO002,sum_2,1.0,1.0,1.0,2815.0,2815.0
+1584,Saint-Cloud,Propreté,PRPLTB003,Lavage d'un tube,POL003,direct_reference,2.0,2.0,1.0,10734.42,42937.68
+1585,Saint-Cloud,ContReg,CRGVPA106,Vérification des installations électriques,CRC106,direct_reference,1.0,1.0,1.0,486.45,486.45
+1586,Saint-Cloud,ContReg,CRGVPA107,Vérification des installations électriques,CRC107,direct_reference,1.0,1.0,1.0,864.8,864.8
+1587,Saint-Cloud,ContReg,CRGVIO119,Vérification des installations électriques,CRO119,sum_3,1.0,1.0,1.0,324.3,324.3
+1588,Saint-Cloud,ContReg,CRGVIO120,Vérification des installations électriques,CRO120,sum_3,1.0,1.0,1.0,324.3,324.3
+1589,Saint-Cloud,ContReg,CRGVIO121,Vérification des installations électriques,CRO121,sum_3,1.0,1.0,1.0,540.5,540.5
+1590,Saint-Cloud,ContReg,CRGDLA101,Vérification des dispositifs de levage,CRC101,direct_reference,1.0,0.0,1.0,648.6,0.0
+1591,Saint-Cloud,ContReg,CRGDLB102,Vérification des dispositifs de levage,CRC102,direct_reference,1.0,2.0,1.0,864.8,1729.6
+1592,Saint-Cloud,ContReg,CRGDLC103,Vérification des dispositifs de levage,CRC103,direct_reference,1.0,0.0,1.0,1081.0,0.0
+1593,Saint-Cloud,Eclairage,ECLNPB004,Nettoyage des plots de jalonnement pour un sens,ECPB04,direct_reference,2.0,2.0,1.0,529.42,2117.68
+1594,Saint-Cloud,Eclairage,ECLNEB016,Nettoyage de l'éclairage pour un sens,ECPB16,direct_reference,2.0,2.0,1.0,2882.91,11531.64
+1595,Saint-Cloud,Eclairage,ECLRSB060,Remplacement systématiques des sources,ECPB60,sum_6,0.4,2.0,1.0,3397.96,2718.37
+1596,Saint-Cloud,Eclairage,ECLRSB061,Remplacement systématiques des sources,ECPB61,sum_6,0.4,2.0,1.0,7135.73,5708.58
+1597,Saint-Cloud,Eclairage,ECLRSB062,Remplacement systématiques des sources,ECPB62,sum_6,0.4,2.0,1.0,3399.0,2719.2
+1598,Saint-Cloud,Eclairage,ECLRSB063,Remplacement systématiques des sources,ECPB63,sum_6,0.4,2.0,1.0,7135.73,5708.58
+1599,Saint-Cloud,Eclairage,ECLRSB064,Remplacement systématiques des sources,ECPB64,sum_6,0.4,2.0,1.0,4757.15,3805.72
+1600,Saint-Cloud,Eclairage,ECLRSB065,Remplacement systématiques des sources,ECPB65,sum_6,0.4,2.0,1.0,5436.75,4349.4
+1601,Saint-Cloud,AEV,AEVEFB013,Essais fonctionnels pour un sens,AEFB13,direct_reference,2.0,2.0,1.0,801.05,3204.2
+1602,Saint-Cloud,AEV,AEVMPB013,Maintenance préventive pour un sens,AEPB13,direct_reference,2.0,2.0,1.0,2657.19,10628.76
+1603,Saint-Cloud,AEV,AEVPLV008,Maintenance préventive prises/coffret pompier,AEV08,direct_reference,1.0,23.0,1.0,61.7,1419.1
+1604,Saint-Cloud,Automate,AUTPAB019,Préventif automates principaux et baies MESD (fiche n°3 du CCTP),AUPR19,direct_reference,1.0,1.0,1.0,364.59968,364.6
+1605,Saint-Cloud,Automate,AUTPAR020,Préventif armoires MESD (fiche n°4 du CCTP),AUPR20,direct_reference,1.0,1.0,1.0,917.81224,917.81
+1606,Saint-Cloud,Automate,AUTPAM047,Préventif automates métier (fiche n°5 du CCTP),AUPR47,direct_reference,1.0,1.0,1.0,202.4713,202.47
+1607,Saint-Cloud,Automate,AUTPAR048,Préventif armoires MESD (fiche n°4 du CCTP),AUPR48,direct_reference,1.0,0.0,1.0,91.39855,0.0
+1608,Saint-Cloud,PAU/TSE,RTSPPO010,Maintenance préventive de l'ensemble des PAU du tunnel,RAU-PO10,direct_reference,4.0,1.0,1.0,992.03,3968.12
+1609,Saint-Cloud,PAU/TSE,RTSPTO010,Maintenance préventive de l'ensemble des TSE du tunnel,TSE-PO10,direct_reference,4.0,1.0,1.0,584.79,2339.16
+1610,Saint-Cloud,Onduleur,ONDPOA001,Maintenance préventive d'un onduleur,ONP001,direct_reference,1.0,0.0,1.0,304.01,0.0
+1611,Saint-Cloud,Onduleur,ONDPOB002,Maintenance préventive d'un onduleur,ONP002,direct_reference,1.0,3.0,1.0,337.95,1013.85
+1612,Saint-Cloud,Onduleur,ONDPOC003,Maintenance préventive d'un onduleur,ONP003,direct_reference,1.0,0.0,1.0,371.88,0.0
+1613,Saint-Cloud,Onduleur,ONDMPA004,Maintenance préventive d'un atelier d'énergie,ONP004,direct_reference,1.0,0.0,1.0,185.94,0.0
+1614,Saint-Cloud,Onduleur,ONDPLV005,Plus-value pour dépollution,ONP005,direct_reference,0.5,0.0,1.0,414.3,0.0
+1615,Saint-Cloud,Détection,DETPCA003,"Préventif d'un tube des capteurs atmosphériques (opacimètres, CO, NO, NO², smokecheck, anémomètres)",DEP003,direct_reference,4.0,2.0,1.0,3334.8,26678.4
+1616,Saint-Cloud,Détection,DETPLV027,Préventif luminancemètre,DEP027,direct_reference,1.0,2.0,1.0,24.15,48.3
+1617,Saint-Cloud,Détection,DETPDI100,Préventif détection incendie,DEP100,direct_reference,1.0,1.0,1.0,347.55,347.55
+1618,Saint-Cloud,Détection,DETPXA200,Préventif extincteur,DEP200,direct_reference,1.0,40.0,1.0,33.6,1344.0
+1619,Saint-Cloud,Détection,DETPXB201,Préventif extincteur,DEP201,direct_reference,1.0,8.0,1.0,21.0,168.0
+1620,Saint-Cloud,Détection,DETPXC202,Préventif extincteur,DEP202,direct_reference,1.0,0.0,1.0,36.75,0.0
+1621,Saint-Cloud,Détection,DETPXD203,Préventif extincteur,DEP203,direct_reference,1.0,0.0,1.0,15.75,0.0
+1622,Saint-Cloud,Détection,DETPXE204,Préventif extincteur,DEP204,direct_reference,1.0,0.0,1.0,23.1,0.0
+1623,Saint-Cloud,Détection,DETPXF204,Préventif extincteur,DEP205,direct_reference,1.0,1.0,1.0,26.25,26.25
+1624,Saint-Cloud,Détection,DETPXG206,Préventif extincteur,DEP206,direct_reference,1.0,20.0,1.0,15.75,315.0
+1625,Saint-Cloud,Ventilation,VENPEB202,Préventif des équipements de ventilation,VPB202,direct_reference,1.0,1.0,1.0,9393.31,9393.31
+1626,Saint-Cloud,Ventilation,VENPQA300,Maintenance préventive des équipements spécifiques,VPT300,direct_reference,1.0,23.0,1.0,78.85,1813.55
+1627,Saint-Cloud,Ventilation,VENPQB301,Maintenance préventive des équipements spécifiques,VPT301,direct_reference,1.0,14.0,1.0,128.27,1795.78
+1628,Saint-Cloud,Ventilation,VENPQC302,Maintenance préventive des équipements spécifiques,VPT302,direct_reference,1.0,0.0,1.0,449.49,0.0
+1629,Saint-Cloud,Ventilation,VENPQE304,Maintenance préventive des équipements spécifiques,VPT304,direct_reference,1.0,0.0,1.0,12.58,0.0
+1630,Saint-Cloud,Ventilation,VENPQF305,Maintenance préventive des équipements spécifiques,VPT305,direct_reference,1.0,0.0,1.0,12.58,0.0
+1631,Saint-Cloud,Vidéo,VIDDAI126,Maintenance préventive de la DAI du sens 1,VI MP 126,sum_2,1.0,1.0,1.0,2506.23,2506.23
+1632,Saint-Cloud,Vidéo,VIDDAI127,Maintenance préventive de la DAI du sens 2,VI MP 127,sum_2,1.0,1.0,1.0,2506.23,2506.23
+1633,Saint-Cloud,Vidéo,VIDCAM326,Nettoyage des caméras sens intérieur sens 1,VI MP 326,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1634,Saint-Cloud,Vidéo,VIDCAM327,Nettoyage des caméras sens intérieur sens 2,VI MP 327,sum_2,2.0,1.0,1.0,1696.19,3392.38
+1635,Saint-Cloud,Vidéo,VIDPCI413,Maintenance préventive des caméras en issues de secours,VI MP 413,direct_reference,1.0,1.0,1.0,201.81,201.81
+1636,Saint-Cloud,Pompage,POMIND215,Entretien des poteaux incendie,INP310,direct_reference,1.0,1.0,1.0,1922.0,1922.0
+1637,Saint-Cloud,Pompage,POMVSP324,Visite des stations de pompage,POP324,direct_reference,3.0,1.0,1.0,429.61,1288.83
+1638,Saint-Cloud,Pompage,POMEPO600,Entretien d'une pompe,POE600,direct_reference,1.0,0.0,1.0,572.06,0.0
+1639,Saint-Cloud,Pompage,POMESP324,Entretien des stations de pompage,POE324,direct_reference,1.0,1.0,1.0,858.61,858.61
+1640,Saint-Cloud,Pompage,POMERC500,Entretien autres systèmes du réseau incendie,INP500,direct_reference,1.0,0.0,1.0,858.61,0.0
+1641,Saint-Cloud,Pompage,POMERD600,Entretien autres systèmes du réseau incendie,INP600,direct_reference,1.0,0.0,1.0,858.61,0.0
+1642,Saint-Cloud,Pompage,POMERE700,Entretien autres systèmes du réseau incendie,INP700,direct_reference,1.0,0.0,1.0,214.65,0.0
+1643,Saint-Cloud,Pompage,POMERF800,Entretien autres systèmes du réseau incendie,INP800,direct_reference,1.0,0.0,1.0,214.65,0.0
+1644,Saint-Cloud,Pompage,POMERG900,Entretien autres systèmes du réseau incendie,INP900,direct_reference,1.0,0.0,1.0,208.4,0.0
+1645,Saint-Cloud,Pompage,POMERG901,Entretien autres systèmes du réseau incendie,INP901,direct_reference,1.0,0.0,1.0,714.81,0.0

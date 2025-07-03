@@ -71,7 +71,7 @@
 69,Bâtiment,Boissy,BATCJE002,Contrôle des IS de jour,VJE002,6.0,0.0,6.0,1.0,507.0,3042.0
 70,Bâtiment,Boissy,BATCNE001,Contrôle des IS + niches de nuit,VNE001,6.0,0.0,6.0,1.0,1306.0,7836.0
 71,Bâtiment,Boissy,BATCNE002,Contrôle des IS + niches de nuit,VNE002,6.0,0.0,6.0,1.0,1306.0,7836.0
-72,Bâtiment,Boissy,BATMPE001,,MPE001,1.0,0.0,1.0,1.0,1407.0,1407.0
+72,Bâtiment,Boissy,BATMPE001,Préventif IS + niches,MPE001,1.0,0.0,1.0,1.0,1407.0,1407.0
 73,Bâtiment,Boissy,BATMPE002,Préventif IS + niches,MPE002,1.0,0.0,1.0,1.0,1407.0,1407.0
 74,Propreté,Boissy,PRPLTB030,Lavage d'un tube,POL030,2.0,0.0,2.0,2.0,8706.5,34826.0
 75,ContReg,Boissy,CRGVPA106,Vérification des installations électriques,CRC106,1.0,0.0,1.0,1.0,486.45,486.45

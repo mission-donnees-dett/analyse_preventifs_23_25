@@ -1,8 +1,8 @@
 # Analyse travaux préventifs 
 
-### Éxplication des fichiers
+### Analyse préliminaire des préventifs au niveau des marchés (et documents pertinents)
 
-##### Analyse préliminaire des préventifs au niveau des marchés (et documents pertinents)
+##### Éxplication des fichiers
 
 Données préventives 2025: "Tunnels_Cout préventif_13.06.2025 (5).xlsx"
 Données préventives 2023/24: "prodQuantAnLieuUniTyp2324.csv"
@@ -13,7 +13,7 @@ Tableau des préventives aggregés 2023-2025: "preventifs_23_24_25.csv"
 
 Fichier .pdf des analyses final (rapport): "analyse_preventifs_2023_25.pdf"
 
-##### Analyse des travaux préventifs au niveau des prix 
+### Analyse des travaux préventifs au niveau des prix 
 
 'prdp_prod_code_montants_designation_2324.csv' : tableau des produits préventifs groupés par marché, prod_code, prdp_code (code prix permanent), montants HT des années 2023/24 et la designation produit (le détail de l'operation) --> ce tableau a été produit à la main
 
@@ -44,7 +44,7 @@ Exemple:
 'prod_erreurs_montants.csv' est un fichier CSV avec tous les prix qui sont probablement une erreur ou qui ne sont pas clairement décrits et donc pas possible à catégoriser. Il faudra les catégoriser à la main pour chaque prix individuel.
 
 
-##### Tableau préliminaire remplaçant la version de Fanny
+### Tableau préliminaire remplaçant la version de Fanny
 
 ###### Fichiers:
 

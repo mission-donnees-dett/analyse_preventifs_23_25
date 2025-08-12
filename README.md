@@ -59,6 +59,12 @@ Exemple:
 
 - 'equipements_tunnel.csv': tableau contenant toutes les équipements dans Coswin et leur quantité par tunnel
 - 'produits_tunnel.csv': tableau contenant tous les travaux préventifs en 2023-2025 par marché, tunnel, code produit permanent (prdp_code), groupe de produits (prod_groupe), fréquence annuelle, fréquence supplémentaire, fréquence totale, nombre d'équipements, coût HT, coût total HT et les équipements utilisées pour le travail
+
+|mar_diminutif|tunnel     |prdp_code|prod_groupe                           |ref_prix  |freq_annuelle|ajust_freq_suppl|frq_totale|nb_equipe|cout_ht|cout_total|equipements                                      |
+|-------------|-----------|---------|--------------------------------------|----------|-------------|----------------|----------|---------|-------|----------|-------------------------------------------------|
+|ContReg      |Saint-Cloud|CRGDLA101|Vérification des dispositifs de levage|CRC 101,00|1.0          |0.0             |1.0       |0.0      |648.6  |0.0       |Dispositif de levage inférieur ou égal à 3 tonnes|
+
+
 - 'createExcel.ipynb': code source qui importe 'equipements_tunnel' et 'produits_tunnel' et crée un fichier Excel avec plusieurs feuilles dans lesquelles le budget dépensé en préventifs peut être vu par tunnel, avec les calculs et coefficients correspondants
 - 'rapport_tunnels.xlsx': le fichier Excel crée par le code source
 

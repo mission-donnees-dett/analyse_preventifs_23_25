@@ -1,0 +1,64 @@
+Métier;Equipement Coswin;Boissy;Champigny;Guy Môquet;Moulin;Nogent;Hors tunnel;Créteil;Ambroise Paré;Belle-Rive;Chennevières;Mozart;Nanterre échangeur;Fontenay;La Défense;Jonchere;Nanterre Centre;Neuilly;Saint-Cloud;Sévines;Trinity;Hors tunnel;Bobigny;CouvBagnolet;La Courneuve;Landy;Lumen-Norton;Taverny;Hors Tunnel;Antony;Bicêtre;Fresnes;Italie;Orléans;Orly;Hors Tunnel
+Auto-évacuation;COFFRET (prises pompier);;;;;;;;;;;;4;12;;;;;;;;;;;;;;;;;;;;;;
+Automate;AUTOMATE METIER;3;2;1;0;16;45;?;;5;;;3;1;8;;6;;1;1;;26;25;;;9;5;7;23;5;3;2;1;;;27
+Automate;MESD;17;32;19;26;37;0;?;25;40;8;;35;17;106;;28;11;29;9;1;;97;;7;41;27;9;;23;;7;4;;14;
+Automate;MESD METIER;9;0;0;0;16;0;?;;;;;;;;;;;;;;;;;;;;;;2;;7;;;;
+Clim;CLIM-CHAUFFAGE;0;0;0;0;;0;0;0;0;0;;0;0;0;0;0;0;0;0;;10;;;;;;;;;;;;;;
+Clim;CLIM-CONDENSEUR;6;4;1;3;0;36;?;0;1;1;;4;1;5;1;5;0;0;1;;25;6;;;;2;1;35;3;4;1;1;;2;25
+Clim;CLIM-CONFORT;;;;;;;;0;0;0;;0;0;0;0;0;0;0;0;;17;;;;;;;;;;;;;;
+Clim;CLIM-EVAPORATEUR;6;1;2;4;7;45;?;0;1;1;;1;1;4;1;5;0;0;2;;36;;;;;;1;70;6;4;1;1;;10;30
+Clim;CLIM-LOCAL;0;3;0;4;8;45;?;2;3;2;;19;1;28;1;7;5;3;0;;16;11;;;7;2;4;10;2;;2;2;;;17
+Détection;LUMANDAR+LUMINANCEMETRE;2;3;2;2;2;;;2;3;2;;4;2;1;;2;;2;;2;;2;;3;2;3;2;;2;4;4;3;;3;
+Incendie;BORNE INCENDIE;4;6;8;13;24;0;0;18;13;6;;18;6;62;3;12;6;17;6;4;;31;;4;24;14;8;;10;;10;;;6;
+Incendie;CENTRALE INCENDIE;1;2;1;2;2;0;0;2;2;2;;3;1;17;1;5;2;4;2;;;7;;;3;2;2;;6;2;1;1;;1;1
+Incendie;COLONNE SECHE;0;4;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;;;12;;5;;9;
+Incendie;DOUCHE PORTATIVE;0;0;0;0;0;0;2;;;;;;;;;;;;;;;;;;;;;;1;;2;;;;1
+Incendie;POSTE FIXE;0;0;0;3;3;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Incendie;ENSEMBLE RESEAU INCENDIE;0;0;0;0;2;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Incendie;EXTINCTEUR;36;69;19;29;115;52;68;61;44;23;2;73;42;301;17;76;30;69;34;8;22;100;1;14;87;33;24;37;72;50;32;30;11;31;63
+Incendie;Maintenance Préventive Extincteur Poudre 6 kg;;43;18;25;57;;;29;36;13;;26;24;143;;25;20;40;19;;;64;;9;52;25;16;;46;44;26;17;;;
+Incendie;Maintenance Préventive Extincteur Poudre 9 kg;;;;;;;;10;1;;;;;21;;13;1;8;;;;;;;5;1;;;2;45;;2;;;
+Incendie;Maintenance Préventive Extincteur Poudre 50 kg;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;3;;;;;
+Incendie;Maintenance Préventive Extincteur Eau 6 L;26;10;;;7;;;;5;;;8;;38;;2;1;;1;;;;;;2;;;;;;;;;20;
+Incendie;Maintenance Préventive Extincteur Eau 9 L;;;;;9;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+Incendie;Maintenance Préventive Extincteur CO2 2 kg;10;7;;1;3;54;;1;5;;;;;3;;2;;1;;;4;10;;3;4;2;8;4;10;;5;;;;
+Incendie;Maintenance Préventive Extincteur CO2 5 kg;;9;2;4;36;4;;21;16;10;;;;107;;31;8;20;15;;15;26;;2;23;5;;31;15;2;6;10;;11;29
+Incendie;SURPRESSEUR-INCENDIE;;;;;;;;;;;;1;;4;;1;;;;;;;;;;;;;;;;;;;
+Pompage;LOCAL-SP;3;;;1;;8;;2;3;1;;2;;3;;4;2;1;1;;8;4;;;7;;;9;4;2;2;;;;12
+Pompage;VANNE;;;;;;;;;;;;2;;11;;4;2;;;;5;;;;;;;;1;;;;;;
+Ventilation;ACCELERATEUR;26;14;32;32;10;0;0;8;32;6;;8;;12;;24;;29;;;;48;;;24;31;16;;;;;;;;
+Ventilation;AIR FRAIS AIR VICIE;6;4;0;0;24;0;0;6;;;;22;10;115;;4;4;;2;;;89;;;74;;;;21;25;29;;;3;
+Ventilation;RAMPE-ACCELERATEUR;0;4;4;4;2;0;0;4;8;2;;2;;4;1;4;;11;;;;12;;;4;7;4;;;;;;;;
+Ventilation;REGISTRE BYPASS;0;6;0;0;30;0;0;6;;;;22;;117;;4;4;1;6;;;;;;6;;;;;;;;;3;
+Ventilation;REGISTRE-ISOLEMENT;0;0;0;0;1;0;0;15;;;;17;10;;;;;13;;;;;;;;;;;11;;29;;;6;
+Ventilation;REGISTRE;0;6;0;0;31;0;0;21;0;0;0;39;10;117;0;4;4;14;6;0;0;0;0;0;6;0;0;0;11;0;29;0;0;9;0
+Ventilation;SURPRESSEUR;8;4;3;6;12;0;0;15;13;;;13;;50;;11;2;13;4;;;17;;;19;;4;;3;2;2;1;;2;
+Ventilation;TRAPPE-DESENFUMAGE;;;;;;;;56;;2;;;;;;;;;;;;;;12;;;;;;;;;;;
+Ventilation;VENTILATEUR LOCAL;0;0;1;2;0;3 (Usine Gare);0;4;;;;;;2;;;;10;1;;2;13;;;5;5;;;;;;;;10;
+Ventilation;SURPRESSEUR ET VENTILATEUR LOCAL;8;4;4;8;12;3;0;19;13;0;0;13;0;52;0;11;2;23;5;0;2;30;0;0;24;5;4;0;3;2;2;1;0;12;0
+Ventilation;EXTRACTEUR LOCAL;10;11;2;4;24;3;0;;;;;6;5;11;;4;6;;;;;5;;;;2;;1;7;4;2;1;;;2
+Vidéo;CAMERA-DAI;39;65;45;54;101;0;0;60;84;30;;71;40;224;;67;40;55;36;8;;133;;36;88;47;21;;32;54;40;19;;37;
+Vidéo;CAMERA-INTRUSION;0;0;7;14;0;2;0;6;;;;7;;30;;10;2;11;4;;8;38;;2;35;4;2;5;11;2;3;5;;2;
+Vidéo;CAMERA-IS;8;11;8;14;19;0;0;7;15;2;;15;4;46;;12;4;13;4;;;25;;4;20;3;4;;9;10;2;3;;2;
+Vidéo;CAMERA-VIDEO;3;11;2;2;11;127;0;;5;2;;2;2;9;19;3;2;2;2;;235;4;;6;2;14;2;143;2;2;5;2;3;25;143
+Vidéo;ENREGISTREUR;0;0;0;0;0;9;0;;;;;;;;;;;;;;20;;;;;;;22;;;;;;;9
+Vidéo;MONITEUR;0;0;0;0;0;12;0;;;;;;;1;;;;;;;7;;;;;;;21;;;;;;;4
+Vidéo;MUR-IMAGE;0;0;0;0;0;1;0;;;;;;;;;;;;;;1;;;;;;;1;;;;;;;1
+Vidéo;RACK-DAI;0;2;8;10;19;0;0;11;16;5;;13;6;53;;11;8;13;6;;;25;;6;19;8;6;15;6;10;7;4;;10;
+Vidéo;VIDEUR-CODEUR;0;35;12;17;31;22;0;11;17;5;;14;6;53;2;14;8;14;6;;10;25;;6;19;10;6;8;6;20;7;7;;10;27
+Vidéo;VIDEUR-DECODEUR;;;;;;;;;;;;;;;;;;;;;7;;;;;;;;;;;;;;12
+Vidéo;CAMERA-SANCTION;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;;;;;;;2
+SAV;SAV-BARRIERE;5;5;3;3;6;;;4;4;;;6;4;7;3;6;;4;;1;;7;;;3;4;2;;2;2;2;1;;2;126
+Levage;Dispositif de levage inférieur ou égal à 3 tonnes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Levage;Dispositif de levage inférieur compris entre 3 et 6 tonnes;;;;1;15;;;14;2;;;32;;119;;9;2;2;3;;186;7;;;1;;;;4;;1;;;;1
+Levage;Dispositif de levage inférieur supérieur à 6 tonnes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MEC;ARMOIRE-ENERGIE/PST-E;10;16;6;8;19;;;16;12;4;;15;8;54;2;13;6;11;2;1;;30;;4;18;7;6;;5;10;4;4;;8;
+MEC;PST;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Onduleur;ONDULEUR;2;6;2;4;10;2;1;4;6;1;1;5;2;15;2;7;2;5;1;;6;8;;1;5;2;2;3;4;2;1;1;1;1;1
+Onduleur;Maintenance préventive Onduleur ≤ 60 kVA;;;;;;1;1;;5;;;1;1;4;;2;;;;;1;5;;1;1;2;1;1;1;;;;;;1
+Onduleur;Maintenance préventive Onduleur 61 kVA --> 160 kVA;;;;1;;;;2;;1;;1;;4;;1;2;3;1;;;;;;2;;;;1;2;1;1;;1;
+Onduleur;Maintenance préventive Onduleur > 160 kVA;1;2;1;1;2;;;;;;;1;;7;;3;;;;;;;;;;;;;;;;;;;
+Onduleur;Ateliers d'énergie;1;;;;;2;1;;;;;;;;;;;;;;10;;;;;;;7;4;;;;;;10
+LOCAL;Niche sécurité;32;18;6;8;24;;;32;13;6;;22;16;67;6;13;6;23;6;4;;31;;4;24;14;8;;10;22;9;6;;12;
+LOCAL;Issue de secours;8;13;10;16;19;;;15;15;2;;17;8;46;;12;4;13;6;;;25;2;4;20;4;6;;10;10;2;3;;2;
+UN;UN;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
